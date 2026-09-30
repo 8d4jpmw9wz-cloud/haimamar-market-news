@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>התיק של חיים — בריף שוק</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="shell">
+    <header class="top">
+      <a class="brand" href="./">התיק של חיים</a>
+      <nav>
+        <a id="langLink" href="?lang=en">English</a>
+        <a id="archiveLink" href="?archive=1">ארכיון</a>
+      </nav>
+    </header>
+    <section id="status" class="status">טוען את הבריף האחרון…</section>
+    <article id="brief" hidden></article>
+  </main>
+<script>
+const qs=new URLSearchParams(location.search);
+const lang=qs.get('lang')==='en'?'en':'he';
+const archive=qs.get('archive')==='1';
+const requestedDate=qs.get('date');
+document.documentElement.lang=lang;
+document.documentElement.dir=lang==='he'?'rtl':'ltr';
+const feed=lang==='he'?'market-news.json':'market-news-en.json';
+const archiveFeed=lang==='he'?'market-news-archive.json':'market-news-archive-en.json';
+const t=lang==='he'?{
+ latest:'בריף השוק',archive:'ארכיון בריפים',loading:'טוען…',empty:'עדיין לא פורסם בריף.',english:'English',hebrew:'עברית',archiveLink:'ארכיון',latestLink:'אחרון',changed:'מה השתנה',missed:'מה השוק אולי מפספס',watch:'מה לבדוק היום',calendar:'Catalyst Calendar',contrarian:'איפכא מסתברא',bottom:'השורה התחתונה'
+}:{
+ latest:'Market Brief',archive:'Brief Archive',loading:'Loading…',empty:'No brief has been published yet.',english:'English',hebrew:'עברית',archiveLink:'Archive',latestLink:'Latest',changed:'What changed',missed:'What the market may be missing',watch:'What to watch today',calendar:'Catalyst Calendar',contrarian:'Contrarian check',bottom:'Bottom line'
+};
+document.title=(lang==='he'?'התיק של חיים — ':'Haim Amar — ')+(archive?t.archive:t.latest);
+document.getElementById('langLink').textContent=lang==='he'?t.english:t.hebrew;
+document.getElementById('langLink').href='?lang='+(lang==='he'?'en':'he')+(archive?'&archive=1':'')+(requestedDate?'&date='+encodeURIComponent(requestedDate):'');
+document.getElementById('archiveLink').textContent=archive?t.latestLink:t.archiveLink;
+document.getElementById('archiveLink').href=archive?('?lang='+lang):('?lang='+lang+'&archive=1');
+const esc=s=>String(s??'').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]));
+const arr=x=>Array.isArray(x)?x:[];
+function renderBrief(p){
+ const intro=p.summary||{};
+ let html='<div class="date">'+esc(p.date||p.id||'')+'</div><h1>'+esc(p.title||'')+'</h1>';
+ if(intro.changed||intro.missed||intro.watch){
+  html+='<div class="intro">';
+  if(intro.changed) html+='<p><strong>'+t.changed+':</strong> '+esc(intro.changed)+'</p>';
+  if(intro.missed) html+='<p><strong>'+t.missed+':</strong> '+esc(intro.missed)+'</p>';
+  if(intro.watch) html+='<p><strong>'+t.watch+':</strong> '+esc(intro.watch)+'</p>';
+  html+='</div>';
+ }
+ for(const s of arr(p.sections)){
+  html+='<section><h2>'+esc(s.heading||'')+'</h2>';
+  for(const x of arr(s.paragraphs)) html+='<p>'+esc(x)+'</p>';
+  if(arr(s.bullets).length){html+='<ul>';for(const x of s.bullets)html+='<li>'+esc(x)+'</li>';html+='</ul>';}
+ }
+ if(p.market_map&&arr(p.market_map).length){html+='<section><h2>'+esc(lang==='he'?'מפת השוק':'Market map')+'</h2>';for(const x of p.market_map)html+='<p>'+esc(x)+'</p></section>';}
+ if(p.catalysts){html+='<section><h2>'+t.calendar+'</h2>';for(const [k,v] of Object.entries(p.catalysts)){if(arr(v).length){html+='<h3>'+esc(k)+'</h3><ul>';for(const x of v)html+='<li>'+esc(x)+'</li>';html+='</ul>';}}html+='</section>';}
+ if(p.contrarian){html+='<section><h2>'+t.contrarian+'</h2>';for(const key of ['consensus','why_right','why_wrong'])if(p.contrarian[key])html+='<p>'+esc(p.contrarian[key])+'</p>';if(arr(p.contrarian.falsifiers).length){html+='<ul>';for(const x of p.contrarian.falsifiers)html+='<li>'+esc(x)+'</li>';html+='</ul>';}html+='</section>';}
+ if(arr(p.bottom_line).length){html+='<section><h2>'+t.bottom+'</h2>';for(const x of p.bottom_line)html+='<p>'+esc(x)+'</p></section>';}
+ if(p.disclaimer) html+='<p class="disclaimer">'+esc(p.disclaimer)+'</p>';
+ return html;
+}
+async function loadJson(url){const r=await fetch(url+'?v='+Date.now(),{cache:'no-store'});if(!r.ok)throw new Error(r.status);return r.json();}
+(async()=>{
+ const status=document.getElementById('status'),brief=document.getElementById('brief');
+ try{
+  const current=arr(await loadJson(feed)), archived=arr(await loadJson(archiveFeed));
+  const all=[...current,...archived].sort((a,b)=>String(b.date||b.id).localeCompare(String(a.date||a.id)));
+  if(archive){
+   status.hidden=true;brief.hidden=false;
+   brief.innerHTML='<h1>'+t.archive+'</h1><div class="archive">'+(all.length?all.map(p=>'<a href="?lang='+lang+'&date='+encodeURIComponent(p.date||p.id)+'"><span>'+esc(p.date||p.id)+'</span><strong>'+esc(p.title||'')+'</strong></a>').join(''):'<p>'+t.empty+'</p>')+'</div>';
+   return;
+  }
+  const post=requestedDate?all.find(p=>(p.date||p.id)===requestedDate):all[0];
+  if(!post){status.textContent=t.empty;return;}
+  status.hidden=true;brief.hidden=false;brief.innerHTML=renderBrief(post);
+ }catch(e){status.textContent=(lang==='he'?'שגיאה בטעינת הבריף: ':'Unable to load brief: ')+e.message;}
+})();
+</script>
+</body>
+</html>
