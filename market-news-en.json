@@ -58,17 +58,6 @@
           "TLT, an ETF holding U.S. Treasuries with maturities of 20 years or more: there is no new price since Friday. The test remains whether the 10-year yield falls below 5.15% and TLT reclaims $79–$80.",
           "XLE, an ETF holding the largest energy companies in the S&P 500: the weekly open will test whether the Iraqi cargo transit and release of fuel inventories outweigh geopolitical risk."
         ]
-      },
-      {
-        "heading": "7. Key sources",
-        "bullets": [
-          "Reuters, US to lend $4.2 billion to Vistra to boost nuclear power output, source says, October 3, 2026.",
-          "Reuters, Iraq says it transported 2 million barrels of crude through Strait of Hormuz, October 3, 2026.",
-          "Reuters, Iranian rial at new low, as cenbank sells dollars to support currency, October 3, 2026.",
-          "Reuters, Wall St Week Ahead: spiking bond yields, midterms and earnings, October 2, 2026.",
-          "U.S. Nuclear Regulatory Commission — explanation of reactor uprates.",
-          "Federal Reserve — 2026 FOMC meeting and release calendar."
-        ]
       }
     ],
     "market_map": [
@@ -106,6 +95,32 @@
       "There is no new market price since yesterday's brief. The change is in policy and financing: the U.S. government is signaling a willingness to use its balance sheet to extract more electricity from existing reactors.",
       "The headline warrants monitoring, not a leap to a conclusion. The key number Monday will be how many additional megawatts are produced, at what cost and when — only then can the impact on Vistra, uranium, electrical equipment and storage be measured."
     ],
-    "disclaimer": "This is a market-news and monitoring brief, not personalized investment advice."
+    "disclaimer": "This is a market-news and monitoring brief, not personalized investment advice.",
+    "sources": [
+      {
+        "title": "Reuters — Vistra nuclear-output financing, October 3, 2026",
+        "url": "https://www.reuters.com/legal/litigation/us-lend-42-billion-vistra-boost-nuclear-power-output-source-says-2026-10-03/"
+      },
+      {
+        "title": "Reuters — Iraqi crude through Hormuz, October 3, 2026",
+        "url": "https://www.reuters.com/business/energy/iraq-says-it-transported-2-million-barrels-crude-through-strait-hormuz-2026-10-03/"
+      },
+      {
+        "title": "Reuters — Iranian rial depreciation, October 3, 2026",
+        "url": "https://www.reuters.com/world/middle-east/iranian-rial-new-low-cenbank-sells-dollars-support-currency-2026-10-03/"
+      },
+      {
+        "title": "Reuters — Bond yields and the trading week ahead, October 2, 2026",
+        "url": "https://www.reuters.com/business/wall-st-week-ahead-spiking-bond-yields-midterms-earnings-test-us-stocks-typical-2026-10-02/"
+      },
+      {
+        "title": "NRC — Background on power uprates",
+        "url": "https://www.nrc.gov/licensing-applications/operating-reactor-licensing/power-uprates/background-power-uprates"
+      },
+      {
+        "title": "Federal Reserve — FOMC calendars and minutes",
+        "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+      }
+    ]
   }
 ]
