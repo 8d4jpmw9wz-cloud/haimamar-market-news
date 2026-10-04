@@ -58,17 +58,6 @@
           "TLT, קרן סל לאג״ח ממשלת ארה״ב ל־20 שנה ומעלה: אין מחיר חדש מאז יום שישי. המבחן נשאר אם תשואת ה־10 שנים יורדת מתחת ל־5.15% ואם TLT חוזרת מעל 79–80 דולר.",
           "XLE, קרן סל לחברות האנרגיה הגדולות במדד S&P 500: פתיחת השבוע תבחן האם מעבר החבית העיראקית ושחרור מלאי הדלק גוברים על הסיכון הגיאופוליטי."
         ]
-      },
-      {
-        "heading": "7. מקורות מרכזיים",
-        "bullets": [
-          "Reuters, US to lend $4.2 billion to Vistra to boost nuclear power output, source says, 3.10.2026.",
-          "Reuters, Iraq says it transported 2 million barrels of crude through Strait of Hormuz, 3.10.2026.",
-          "Reuters, Iranian rial at new low, as cenbank sells dollars to support currency, 3.10.2026.",
-          "Reuters, Wall St Week Ahead: spiking bond yields, midterms and earnings, 2.10.2026.",
-          "U.S. Nuclear Regulatory Commission — הסבר על הגדלת תפוקת כורים.",
-          "Federal Reserve — לוח ישיבות ופרסומי FOMC לשנת 2026."
-        ]
       }
     ],
     "market_map": [
@@ -106,6 +95,32 @@
       "אין מחיר שוק חדש מאז הבריף של אתמול. השינוי הוא במדיניות ובמימון: הממשלה האמריקאית מאותתת שהיא מוכנה להשתמש במאזן שלה כדי להוציא יותר חשמל מכורים קיימים.",
       "הכותרת מצדיקה מעקב, לא קפיצה למסקנה. הנתון החשוב ביום שני יהיה כמה מגה־ואט נוספים מתקבלים, באיזה מחיר ומתי — ורק אחר כך אפשר למדוד את ההשפעה על Vistra, אורניום, ציוד חשמל ואגירה."
     ],
-    "disclaimer": "זו סקירת חדשות ומעקב, לא המלצה אישית לפעולה."
+    "disclaimer": "זו סקירת חדשות ומעקב, לא המלצה אישית לפעולה.",
+    "sources": [
+      {
+        "title": "Reuters — מימון להגדלת תפוקת הגרעין של Vistra, 3.10.2026",
+        "url": "https://www.reuters.com/legal/litigation/us-lend-42-billion-vistra-boost-nuclear-power-output-source-says-2026-10-03/"
+      },
+      {
+        "title": "Reuters — נפט עיראקי במצר הורמוז, 3.10.2026",
+        "url": "https://www.reuters.com/business/energy/iraq-says-it-transported-2-million-barrels-crude-through-strait-hormuz-2026-10-03/"
+      },
+      {
+        "title": "Reuters — היחלשות הריאל האיראני, 3.10.2026",
+        "url": "https://www.reuters.com/world/middle-east/iranian-rial-new-low-cenbank-sells-dollars-support-currency-2026-10-03/"
+      },
+      {
+        "title": "Reuters — תשואות אג״ח והיערכות לשבוע המסחר, 2.10.2026",
+        "url": "https://www.reuters.com/business/wall-st-week-ahead-spiking-bond-yields-midterms-earnings-test-us-stocks-typical-2026-10-02/"
+      },
+      {
+        "title": "NRC — הסבר על הגדלת תפוקת כורים",
+        "url": "https://www.nrc.gov/licensing-applications/operating-reactor-licensing/power-uprates/background-power-uprates"
+      },
+      {
+        "title": "Federal Reserve — לוח ישיבות ופרוטוקולי FOMC",
+        "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+      }
+    ]
   }
 ]
