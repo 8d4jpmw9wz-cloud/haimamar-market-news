@@ -1,1 +1,810 @@
-[]
+[
+  {
+    "id": "2026-10-03",
+    "date": "2026-10-03",
+    "title": "The weak jobs report lowered the odds of a hike — but long bonds were not convinced",
+    "summary": {
+      "changed": "The United States added only 29,000 jobs in September, versus the Reuters consensus of 90,000. August was revised to 133,000, unemployment rose to 4.2%, and average hourly earnings increased just 0.1% month over month and 3.0% year over year.",
+      "missed": "The weak report cut the probability of an October rate hike to about 22.7%, but Treasury yields still ended the day higher. That strengthens the possibility that pressure at the long end also reflects term premium, energy and debt supply — not only the next Fed meeting.",
+      "watch": "There is no regular U.S. trading today. At the start of the week, watch whether TLT can rise when the 10-year yield falls, whether oil stays above $100, and whether the sharp decline in Western Digital continues or stabilizes."
+    },
+    "sections": [
+      {
+        "heading": "1. The jobs report was weaker than expected — and prior months weakened too",
+        "paragraphs": [
+          "Fact: nonfarm payrolls increased by only 29,000 in September, versus a forecast of 90,000. August was revised from 162,000 to 133,000, and July was revised from a gain of 21,000 to a decline of 10,000. Combined, July and August were revised down by 60,000 jobs.",
+          "Unemployment rose from 4.1% to 4.2%. Labor-force participation increased to 61.8%. Average hourly earnings rose 0.1% month over month and 3.0% year over year.",
+          "Interpretation: weak hiring, negative revisions and softer wage growth reduce the urgency of another rate hike in October. They still do not prove a recession. According to the BLS, employment changed little across most major industries, and unemployment has remained within a 4.1%–4.3% range since March."
+        ]
+      },
+      {
+        "heading": "2. The bond market rejected the morning reaction",
+        "paragraphs": [
+          "TLT is an iShares ETF holding U.S. Treasuries with maturities of 20 years or more, making it especially sensitive to long-term yields. Yields fell immediately after the report, but the move later reversed.",
+          "By the close, the U.S. 10-year Treasury yield had risen about 4.7 basis points to 5.281%, and the 2-year yield had risen about 4 basis points to 4.827%. TLT fell 0.3% to $77.48.",
+          "Interpretation: a weak jobs report was enough to reduce the odds of an immediate hike, but not enough to lower long-term financing costs. That is evidence that inflation concerns, energy, debt supply and term premium still matter. It does not prove which factor dominated on a single day."
+        ]
+      },
+      {
+        "heading": "3. Stocks treated bad news as good news — but breadth was not clean",
+        "paragraphs": [
+          "The S&P 500 rose 0.73%, the Nasdaq gained 1.19%, the Dow Jones added 0.49%, and the small-cap Russell 2000 advanced 0.9%. A reasonable explanation is that investors focused on the lower risk of an October hike.",
+          "Gains were relatively broad by share count: advancers outnumbered decliners by 1.67 to 1 on the New York Stock Exchange and 1.34 to 1 on the Nasdaq.",
+          "However, the Nasdaq recorded 224 new 52-week lows versus 57 new highs. It is therefore fair to say trading improved, but too early to conclude that market breadth has undergone a full trend change."
+        ]
+      },
+      {
+        "heading": "4. Energy remains a constraint on bonds — and the stress has shifted to refined products",
+        "paragraphs": [
+          "Brent is the global crude-oil benchmark. It closed nearly unchanged at $102.25 a barrel. WTI, the U.S. benchmark, fell 1.9% to $91.11.",
+          "Europe agreed to release diesel inventories after discussions of a French proposal to release 50 million barrels of diesel and a parallel 50 million-barrel crude release by members of the International Energy Agency.",
+          "The key fact is that the acute shortage now lies more in refined products than in crude oil. If oil remains above $100 and diesel markets stay tight, a weak jobs report alone does not guarantee lower yields."
+        ]
+      },
+      {
+        "heading": "5. Western Digital fell on supply fears — not on a proven change in demand",
+        "paragraphs": [
+          "Western Digital (WDC) makes hard-disk drives used in data centers, among other applications. Its shares fell 10.2% on Friday to $415.29.",
+          "Reuters reported that the decline followed a Nikkei report that Toshiba plans to double production capacity for hard drives used in AI data centers by fiscal 2027. Seagate also fell about 10%.",
+          "Interpretation: the market priced in supply and competitive risk. An announcement about future production capacity does not prove that WDC's pricing or demand has already deteriorated. The invalidation condition is actual weakness in orders, pricing or margins — not the headline alone."
+        ]
+      },
+      {
+        "heading": "6. Cross-asset picture and second-order ideas",
+        "bullets": [
+          "XLE, an ETF holding the largest energy companies in the S&P 500, rose 0.2% even as WTI fell 1.9%. One day is not enough, but repeated relative strength could indicate that investors are looking beyond the daily oil move.",
+          "Micron Technology (MU), a maker of memory chips including HBM used with AI accelerators, fell 2.1% on Friday after rising the prior day on a better-than-expected revenue forecast and $32 billion of customer commitments. The next question is the quality of conversion into revenue and margins, not only the size of the commitments.",
+          "COPX, an ETF of copper miners, rose 3.0%. URNM, an ETF of uranium miners, gained 0.4%. IBIT, an ETF holding bitcoin, fell 0.5%. No verified fundamental change was found that alone explains these moves, so they remain monitoring signals rather than new catalysts.",
+          "Construction employment increased by 11,000, and nonresidential specialty trade contractors added 12,000. That is consistent with infrastructure activity, but the data do not isolate data centers and therefore are not direct proof of demand for electrical equipment or energy storage."
+        ]
+      },
+      {
+        "heading": "7. Key sources",
+        "bullets": [
+          "U.S. Bureau of Labor Statistics, Employment Situation — September 2026, published October 2, 2026.",
+          "Reuters, Equities close higher as softer jobs data quiets rate-hike expectations, October 2, 2026.",
+          "Reuters, Stocks rise after weak US jobs data but bonds resume selling, October 2, 2026.",
+          "Reuters, Oil settles lower after Europe agrees to tap diesel reserves, October 2, 2026.",
+          "Reuters, Gold heads for weekly drop as strong dollar, elevated Treasury yields weigh, October 2, 2026.",
+          "U.S. Bureau of Economic Analysis, Personal Income and Outlays — August 2026, published September 30, 2026.",
+          "Federal Reserve, 2026 FOMC meeting calendar."
+        ]
+      }
+    ],
+    "market_map": [
+      "Weaker-than-expected employment + softer wages → lower odds of an October rate hike.",
+      "Long yields rise despite a weak report → the next Fed meeting is not the only explanation for the cost of capital.",
+      "Oil above $100 + refined-product stress → inflation risk remains and limits the upside for long-duration bonds.",
+      "Stocks rise but bonds do not confirm → financial conditions remain tight, especially for capital-intensive projects."
+    ],
+    "catalysts": {
+      "24 hours": [
+        "There is no major macro release or regular U.S. trading on Saturday. Middle East headlines and implementation of the energy-stock release are the main risks for the weekly open."
+      ],
+      "7 days": [
+        "October 7: release of the minutes from the Fed's September 15–16 meeting.",
+        "October 8: weekly U.S. jobless claims — a check on whether the weak payroll report is connecting to higher layoffs."
+      ],
+      "30 days": [
+        "October 14: U.S. consumer price index for September.",
+        "October 27–28: the Federal Reserve's next rate decision.",
+        "October 29: September PCE price index."
+      ]
+    },
+    "contrarian": {
+      "consensus": "The post-payroll consensus is that the Fed will pause in October and rate-sensitive assets will get relief.",
+      "why_right": "It may be right if subsequent labor data confirm a slowdown, the 10-year yield falls below 5.15%, and TLT reclaims $79–$80.",
+      "why_wrong": "It may be wrong if energy prices and inflation keep long-term yields elevated even while the Fed waits. Friday's bond reaction is a warning in that direction.",
+      "falsifiers": [
+        "The bullish bond thesis strengthens if the 10-year yield falls below 5.15% and stays there for several trading days.",
+        "The bullish thesis weakens if the yield moves back above 5.34% despite weak labor data, or if CPI surprises to the upside."
+      ]
+    },
+    "bottom_line": [
+      "The material change since the previous brief is that the risk of an October rate hike fell, but the long-term price of money did not fall with it.",
+      "The test next week is therefore not only whether stocks rise. It is whether TLT and long-duration Treasuries can finally respond to weaker data. Without confirmation from bonds, the relief in Fed pricing remains partial."
+    ],
+    "disclaimer": "This is a market-news and monitoring brief, not personalized investment advice."
+  },
+  {
+    "id": "2026-09-30",
+    "date": "2026-09-30",
+    "title": "Bonds remain the pressure point — and today's inflation data could change the direction",
+    "summary": {
+      "changed": "The U.S. 10-year Treasury yield remains around 5.23%, near a 19-year high, even after expectations for an October rate hike fell following softer labor data and Fed commentary.",
+      "missed": "The gap between elevated long-term yields and lower odds of an immediate Fed hike suggests the bond selloff is not only about the next meeting; term premium, debt supply and longer-run inflation risk are likely playing a larger role.",
+      "watch": "At 8:30 a.m. ET, the PCE price index and the third estimate of second-quarter GDP are due. Micron reports after the close — both events can quickly reset the pricing of rates, bonds and AI-linked equities."
+    },
+    "sections": [
+      {
+        "heading": "1. Long yields stay elevated even as the market trims the odds of an October hike",
+        "paragraphs": [
+          "TLT is an iShares ETF that holds U.S. Treasuries with maturities of 20 years or more, making it especially sensitive to changes in long-term yields. The key story this morning is not simply that yields are high — it is that they remain high even after the market reduced the probability of another hike as soon as October.",
+          "Reuters reported the U.S. 10-year Treasury yield around 5.23%, after it reached roughly 5.293% on Tuesday, the highest since 2007. The 30-year yield touched about 5.6206%, the highest since 2002.",
+          "After comments from New York Fed President John Williams and softer labor data, markets shifted to pricing roughly a 47% chance of an October hike, versus about 70% a day earlier. Long yields staying near their highs despite that repricing is consistent with a larger role for term premium and longer-term financing concerns."
+        ]
+      },
+      {
+        "heading": "2. The labor market softened a little — but it still does not look like a recession",
+        "paragraphs": [
+          "U.S. job openings fell to 7.079 million in August, below the Reuters forecast of 7.225 million and down from an upwardly revised 7.335 million in July. That is a clear sign of softer labor demand.",
+          "At the same time, layoffs remained low: layoffs and discharges fell to 1.641 million, while the hiring rate edged up to 3.3%. The data therefore point to cooling, not a breakdown in the labor market.",
+          "Consumer confidence also fell sharply to 81.9 in September from 88.6 in August. Fewer openings and weaker confidence are exactly the type of combination that can eventually slow demand — but Friday's payroll report is still needed for confirmation."
+        ]
+      },
+      {
+        "heading": "3. Oil remains expensive, but actual supply flows still argue against a full shortage scenario",
+        "paragraphs": [
+          "Brent is the global benchmark for crude oil. It traded around $103.43 a barrel this morning, while WTI — the U.S. crude benchmark — was around $89.63.",
+          "Prices were supported after U.S. President Donald Trump denied that he was prepared to ease sanctions on Iran. At the same time, Middle Eastern crude exports rose to about 16.328 million barrels per day in September, the highest since the regional war began.",
+          "That means oil is still carrying a geopolitical risk premium, but actual barrel flows are moderating the extreme shortage scenario. For bonds, whether oil stays above $100 for an extended period matters more than a single day's move."
+        ]
+      },
+      {
+        "heading": "4. The under-covered development: AI infrastructure financing is becoming part of the story",
+        "paragraphs": [
+          "Reuters has highlighted rising credit-market concern around the financing of AI infrastructure. Large projects are using more debt and off-balance-sheet structures at a time when government bond yields themselves are elevated.",
+          "This is not evidence of a credit crisis or impending defaults. It does change the question investors need to ask: not only how strong AI demand is, but at what cost data centers are financed and who ultimately bears the risk if returns on capital fall short of expectations.",
+          "For suppliers of electrical equipment, transformers and cooling systems, physical demand can remain strong while project financing becomes the bottleneck. That is why demand for equipment and the pace at which projects convert into revenue must be analyzed separately."
+        ]
+      },
+      {
+        "heading": "5. China's manufacturing returned to slight growth — positive for copper, but not yet a trend change",
+        "paragraphs": [
+          "China's official manufacturing purchasing managers' index rose to 50.1 in September from 49.8 in August, exactly matching the Reuters consensus. A reading above 50 indicates expansion.",
+          "That is a small but real improvement after two months of contraction. For copper and industrial equipment, China's move back above 50 is supportive.",
+          "It is not enough on its own to offset a strong dollar and high global yields. A sequence of readings above 50 would be more meaningful than a single month."
+        ]
+      },
+      {
+        "heading": "6. Watchlist — what would change the theses",
+        "bullets": [
+          "TLT, the ETF holding U.S. Treasuries with maturities of 20 years or more: the setup improves if the 10-year yield falls and holds below 5.15% and TLT reclaims the $79–$80 area. It weakens if yields retest Tuesday's highs.",
+          "XLE, the ETF holding the largest energy companies in the S&P 500: relative strength while oil falls would be more meaningful than gains driven only by a geopolitical headline.",
+          "Forgent Power Solutions (FPS), a maker of electrical equipment and transformers for data centers and the power grid: its investor-relations page shows no new company release since September 15 results. The thesis now depends on backlog conversion and on data-center projects securing power connections and financing.",
+          "Micron Technology (MU), a memory-chip maker including HBM used with AI accelerators: tonight's earnings are the key catalyst. Guidance, HBM demand, margins and capex matter more than simply beating last quarter's EPS estimate.",
+          "Brighthouse Financial (BHF), an insurer in an acquisition agreement with Aquarian Capital: no new deal update was found from company sources this morning, so the spread to the deal price still mainly reflects closing risk and time.",
+          "Uranium and energy storage: no sufficiently strong new fundamental development was found this morning to justify a broad thesis change; the high cost of capital remains the more important macro variable for now."
+        ]
+      },
+      {
+        "heading": "7. Key sources",
+        "bullets": [
+          "Reuters, Global Markets, September 30, 2026 — Treasury yields, equities, dollar and commodities.",
+          "Reuters, US job openings fall in August, September 29, 2026 — JOLTS, forecast versus actual and layoffs.",
+          "Reuters, Fed's Williams sees no urgency for next rate hike, September 29, 2026 — rate path.",
+          "Reuters, Oil gains after Trump denies willingness to ease Iran sanctions, September 30, 2026 — Brent/WTI and crude flows.",
+          "Reuters, China's factory activity returns to growth, September 30, 2026 — China PMI.",
+          "U.S. Bureau of Economic Analysis — September 30 PCE and GDP release schedule.",
+          "Micron Investor Relations — fiscal fourth-quarter results scheduled for September 30, 2026."
+        ]
+      }
+    ],
+    "market_map": [
+      "Softer labor data + more patient Fed commentary → lower odds of an October hike.",
+      "But long-term yields remain near multi-year highs → investors are demanding more compensation beyond the immediate Fed path.",
+      "Oil above $100 + heavy debt supply + more expensive AI financing → the cost of capital remains the core story even while headline equity indexes remain relatively resilient."
+    ],
+    "catalysts": {
+      "24 hours": [
+        "8:30 a.m. ET: August PCE price index and the third estimate of second-quarter GDP.",
+        "About 5:30 p.m. ET: Micron's fiscal fourth-quarter earnings call."
+      ],
+      "7 days": [
+        "October 1: weekly jobless claims and U.S. ISM/PMI data.",
+        "October 2: September U.S. employment report."
+      ],
+      "30 days": [
+        "October 27–28: next Federal Reserve policy decision."
+      ]
+    },
+    "contrarian": {
+      "consensus": "The consensus view is that yields around 5% or higher will keep pressuring long-duration bonds and growth-stock valuations.",
+      "why_right": "That may be right if PCE stays hot, oil remains above $100 and the 10-year yield holds above roughly 5.20%–5.25%.",
+      "why_wrong": "It may be wrong if the softening in JOLTS and consumer confidence marks the start of a broader slowdown and a more patient Fed brings buyers back to Treasuries.",
+      "falsifiers": [
+        "The bearish bond thesis weakens if the 10-year yield falls below 5.15% and stays there after the PCE release.",
+        "The bearish thesis strengthens if PCE surprises to the upside and yields break back above Tuesday's highs."
+      ]
+    },
+    "bottom_line": [
+      "The message this morning is not simply 'yields are high.' What matters is that they remain high even after expectations for an immediate rate hike have declined.",
+      "If PCE is soft today and yields still fail to fall, that would strengthen the case that the problem has shifted from the near-term Fed path toward term premium, debt supply and long-term financing. If yields fall sharply, the market may simply have been waiting for an inflation print that gives investors a reason to buy bonds again."
+    ],
+    "disclaimer": "This is a market-news and monitoring brief, not personalized investment advice."
+  },
+  {
+    "id": "2026-09-29",
+    "date": "2026-09-29",
+    "publishedAt": "2026-09-29T04:56:00Z",
+    "title": "The 10-Year Treasury Yield Hits a 19-Year High — and the Pressure Is Spreading to Credit",
+    "summary": "What changed: the 10-year U.S. Treasury yield traded above 5.27% this morning, its highest level since 2007. The long-term Treasury fund fell 0.88% to $78.62, while the major U.S. equity indexes declined between 0.7% and 0.9%.\nWhat the market may be missing: the pressure is no longer confined to government bonds. High-yield credit spreads widened to nearly 3 percentage points over Treasuries, their widest level since April, and investment-grade credit has also begun to weaken. This is an early sign that high financing costs are moving from asset valuations into companies’ ability to raise debt.\nWhat to watch today: U.S. job openings and consumer-confidence data at 10:00 a.m. ET. Strong readings could keep the 10-year yield above 5.25%; downside surprises could give bonds their first relief before tomorrow’s inflation data.",
+    "sections": [
+      {
+        "heading": "1. The bearish long-term bond scenario was confirmed",
+        "body": "TLT is an iShares exchange-traded fund that holds U.S. Treasury bonds with maturities of 20 years or more, making its price especially sensitive to changes in long-term yields. It fell 0.88% Monday to $78.62 after trading as low as $78.27. That is below the $79 threshold we identified yesterday as bearish confirmation.\n\nThe two-year U.S. Treasury yield rose to 4.937%, the 10-year to 5.251% and the 30-year to 5.570%. The 10-year yield traded above 5.27% this morning, a 19-year high. At the same time, the market-implied probability of another rate increase in October climbed to about 70%, versus less than 20% a month ago.\n\nThe fact is that long-term bonds broke below the level we identified. The interpretation is that the market is pricing a combination of expensive oil, a strong economy and heavy debt supply — not one isolated factor. The thesis improves only if the 10-year yield falls below 5.15% and TLT rises above $79.30; a drop below $78.25 alongside a yield above 5.25% would increase the risk."
+      },
+      {
+        "heading": "2. The equity decline was broad, but the fear gauge still does not signal a crisis",
+        "body": "The S&P 500, an index representing 500 of the largest U.S. companies, fell 0.77%. The Nasdaq Composite, which has a heavy technology weighting, declined 0.92%, while the Dow Jones Industrial Average, a 30-company blue-chip index, lost 0.67%. Declining stocks outnumbered advancers by 3.55 to 1 on the New York Stock Exchange and by 2.56 to 1 on Nasdaq.\n\nOther assets also fell: GLD, an exchange-traded fund that tracks gold, dropped 3.93%; CPER, an exchange-traded fund that tracks copper futures, lost 2.29%; and Bitcoin, the largest digital asset, traded near $83,100 this morning. The U.S. Dollar Index remained near a two-month high around 101.2.\n\nIn contrast, the VIX measures expected volatility embedded in S&P 500 options and is often called Wall Street’s fear gauge. It rose only to about 16.1. In other words, the selloff was broad, but markets are still pricing an interest-rate and valuation shock — not financial panic. That divergence matters: a VIX move above 20 alongside further credit deterioration would be a more serious signal."
+      },
+      {
+        "heading": "3. The new story is credit: AI financing is becoming more expensive",
+        "body": "A credit spread is the extra yield a company pays over a government bond to compensate investors for risk. Reuters reported that spreads on U.S. high-yield bonds widened toward 300 basis points — nearly 3 percentage points — their widest level since April. Investment-grade spreads, which ended last week around 81 basis points, have also begun to widen.\n\nThe pressure matters especially for artificial-intelligence infrastructure. Reuters reported that large cloud companies have issued roughly $220 billion of bonds this year, and the amount could roughly double next year. Nvidia, the world’s largest artificial-intelligence chipmaker, is exploring the use of insurers to share the risk in loans to smaller cloud customers whose chips serve as collateral, according to the Financial Times. These structures are still being explored; they are not a finished product.\n\nThe fact is that credit spreads have risen and AI participants are searching for new ways to distribute risk. The interpretation is that the bottleneck is expanding from chips to capital: the question is not only whether a data center can be built, but at what financing cost and who retains the equipment’s residual-value risk. This is not a credit crisis, but credit is providing an earlier warning than equity indexes."
+      },
+      {
+        "heading": "4. Oil remains above $105 even as Gulf exports recover",
+        "body": "Brent is the global benchmark for crude oil prices. It settled Monday at $105.28 a barrel, up 0.9%, and traded near $106.60 this morning. West Texas Intermediate, the main U.S. crude benchmark, settled at $92.60. Prices jumped by more than $4 intraday after President Trump rejected Iran’s proposal, but surrendered most of the gain when Qatar announced further mediation efforts.\n\nAt the same time, crude exports from major Middle Eastern producers recovered to about 12.8 million barrels a day in September, the highest level since the war began. The fact is that barrels are still leaving the region, while a Hormuz risk premium remains embedded in prices.\n\nXLE is an exchange-traded fund holding the largest energy companies in the S&P 500. It rose just 0.11% to $62.10, far less than oil’s early surge. That divergence does not prove fundamental weakness in energy companies, but it shows investors are not automatically chasing every increase in crude prices."
+      },
+      {
+        "heading": "5. Australia raised rates — another sign that monetary tightening is becoming global",
+        "body": "The Reserve Bank of Australia raised its cash rate by 0.25 percentage point this morning to 4.60%, the highest level since 2011 and its fourth increase this year. The move was widely expected, but it came with Australia’s unemployment rate at 4.6%, a five-year high, and underlying inflation still near 3.6%.\n\nAustralia does not determine the direction of U.S. Treasury yields. It does reinforce the broader picture: higher energy prices and resilient demand are forcing central banks to prioritize inflation even as labor markets begin to soften. For long-term bond investors, that is a global headwind rather than only a U.S. story."
+      },
+      {
+        "heading": "6. Watchlist: what changed and what must happen next",
+        "body": "• Forgent Power Solutions (FPS) makes transformers and power-distribution equipment for data centers and the grid. Its shares fell 6.15% to $36.59 and broke the $37 area we identified as support. No new company release or evidence directly linking the decline to Texas policy was found; the thesis stabilizes if FPS recovers above $38 and stops underperforming comparable electrical-equipment companies.\n• Fluence Energy (FLNC) supplies utility-scale energy-storage systems. It fell 4.33% to $7.50; the execution warning remains in place until production and backlog conversion demonstrably improve.\n• URNM is an exchange-traded fund holding uranium miners and nuclear-fuel companies. It fell 2.56% to $47.92; no new fundamental catalyst was found, so the move currently appears to be part of broad macro pressure.\n• Brighthouse Financial (BHF) is an insurance company subject to a proposed acquisition at $70 per share. It fell 2.22% to $52.04, widening the gap to the deal price to about 34.5%; no new transaction update was found.\n• UP Fintech (TIGR) is a digital broker focused on Chinese investors. It rose 0.43% to $4.65; no new fundamental change was found following the Trump-Xi summit.\n• JEPQ is a JPMorgan exchange-traded fund that owns Nasdaq stocks and sells options to generate monthly income. It fell 0.24% to $61.11; high yields remain the main risk to the growth stocks it holds.\n• Micron Technology (MU) makes memory chips, including high-bandwidth memory used in artificial-intelligence accelerators. It fell 2.61% to $1,053.98 and reports earnings tomorrow; next-quarter guidance and margins matter more than merely meeting expectations for the completed quarter.\n• No new fundamental change in energy storage, copper or uranium was found this morning that warrants a thesis change beyond the higher cost of capital."
+      }
+    ],
+    "marketMap": "Market map: oil above $105 and a strong economy → markets price more rate increases → the 10-year yield trades above 5.27% and the 30-year rises to 5.57% → TLT falls below $79 and equity indexes weaken. At the same time, wider credit spreads show that the pressure is moving from sovereign funding costs into corporate financing costs. The key divergence is that the fear gauge remains near 16, signaling material pressure but not panic.",
+    "calendar": "Catalyst Calendar — Next 24 hours: U.S. August job openings are due today at 10:00 a.m. ET; consensus is about 7.23 million, versus 7.271 million in July. September consumer confidence is due at the same time, with a forecast near 90.0 versus 89.4. Next seven days: on Wednesday, September 30, the August PCE price index — the Federal Reserve’s preferred inflation measure — is due alongside the third estimate of second-quarter GDP and the BEA’s annual data update. Micron reports after the close. On Friday, October 2, the September employment report is due; Reuters consensus calls for 84,000 new jobs and a 4.1% unemployment rate. Later: the Federal Reserve’s next meeting is October 27–28.\n\nContrarian check — the consensus is that oil above $105, a strong economy and expanding debt supply will keep pushing yields higher. That may be right if today’s data are strong, the 10-year yield holds above 5.25% and TLT falls below $78.25. It may be wrong because the yield move is already extreme, Qatar-mediated talks continue, and wider credit spreads could ultimately slow activity and restore demand for government bonds. The bearish thesis weakens if employment and confidence data miss expectations, the yield falls below 5.15% and TLT rises above $79.30.",
+    "takeaway": "Bottom line: the bearish long-term bond scenario was confirmed, but the more important development is that pressure is beginning to appear in credit. As long as spreads widen only moderately and the fear gauge stays near 16, this is a repricing of the cost of capital rather than a crisis. A genuine change in the picture requires either a 10-year yield below 5.15% or simultaneous deterioration in credit and volatility. This is a news and monitoring brief, not personalized investment advice.",
+    "sources": [
+      {
+        "title": "Reuters — Wall Street falls as oil prices and yields rise, Sept. 28, 2026",
+        "url": "https://www.reuters.com/business/wall-st-futures-drop-oil-spikes-after-trump-rejects-iran-peace-proposal-2026-09-28/"
+      },
+      {
+        "title": "Reuters — Global markets and the 10-year yield at a 19-year high, Sept. 29, 2026",
+        "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-09-29/"
+      },
+      {
+        "title": "Reuters Open Interest — Credit spreads and AI financing pressure, Sept. 28, 2026",
+        "url": "https://www.reuters.com/commentary/reuters-open-interest/global-markets-trading-day-graphic-2026-09-28/"
+      },
+      {
+        "title": "Financial Times — Nvidia explores insurance for AI financing, Sept. 29, 2026",
+        "url": "https://www.ft.com/content/d6a9f5df-08d0-4f80-ad2d-5d8a17e2cc82"
+      },
+      {
+        "title": "Reuters — Oil settles modestly higher after a volatile session, Sept. 28, 2026",
+        "url": "https://www.reuters.com/business/energy/oil-rebounds-after-trump-rejects-iran-peace-deal-2026-09-27/"
+      },
+      {
+        "title": "The Guardian — Reserve Bank of Australia raises rates to 4.60%, Sept. 29, 2026",
+        "url": "https://www.theguardian.com/business/2026/sep/29/rba-interest-rate-announcement-decision-cash-rate"
+      },
+      {
+        "title": "BEA — August PCE release scheduled for Sept. 30, 2026",
+        "url": "https://www.bea.gov/data/personal-consumption-expenditures-price-index"
+      },
+      {
+        "title": "Micron Investor Relations — Fiscal fourth-quarter results on Sept. 30, 2026",
+        "url": "https://investors.micron.com/news/press-release/2026/Micron-Technology-to-Report-Fiscal-Fourth-Quarter-Results-on-September-30-2026/default.aspx"
+      }
+    ]
+  },
+  {
+    "id": "2026-09-28",
+    "date": "2026-09-28",
+    "publishedAt": "2026-09-28T04:50:24Z",
+    "title": "Oil Is Back Near $107 — and Long-Term Yields Are Rising Again",
+    "summary": "What changed: Brent crude rose 2.4% this morning to about $106.87 a barrel after President Trump rejected Iran’s proposal to reopen the Strait of Hormuz. The 10-year U.S. Treasury yield climbed to about 5.20%, while the 30-year yield reached about 5.51%.\nWhat the market may be missing: stocks are not collapsing alongside bonds. Equity-index futures fell only modestly because the strong data supporting higher yields also support expectations for corporate profits. This is a difficult combination for long-term bonds, but it is not yet a broad shift into recession fear.\nWhat to watch today: whether Brent breaks above $108 and whether the 30-year yield remains above 5.50% after Wall Street opens. If both conditions hold and the long-term Treasury fund falls below $79, the bearish weekend scenario will receive further confirmation.",
+    "sections": [
+      {
+        "heading": "1. Rejection of Iran’s proposal restored an oil risk premium",
+        "body": "Brent is the global benchmark for crude oil prices. It rose 2.4% this morning to about $106.87 a barrel, versus Friday’s $104.32 close. West Texas Intermediate, the main U.S. crude benchmark, gained about 1.7% to $93.98.\n\nThe evidence-supported explanation is that Trump rejected Iran’s proposal to reopen the Strait of Hormuz within seven days. At the same time, he said he expects talks to continue this week and that more than 20 million barrels passed through the strait over the weekend. Iran, for its part, has not signaled a willingness to soften its terms.\n\nThe fact is that oil rose and the current proposal was rejected. The interpretation is that the market restored part of the risk premium, but is not pricing a complete supply stoppage: Brent remains below the $108 threshold we identified yesterday. The claim about Hormuz traffic comes from Trump and is not a substitute for verified shipping data."
+      },
+      {
+        "heading": "2. The bond market confirmed part of the weekend’s bearish scenario",
+        "body": "TLT is an iShares exchange-traded fund that holds U.S. Treasury bonds with maturities of 20 years or more, making its price especially sensitive to increases in long-term yields. It closed Friday at $79.32 and fell about 0.28% in overnight trading.\n\nThis morning, the two-year U.S. Treasury yield was around 4.91%, the 10-year around 5.20% and the 30-year around 5.51%. The market is pricing about a 66% probability of another rate increase in October. The 10-year real yield, which roughly strips out expected inflation, also rose to about 2.87%.\n\nYesterday, we defined a combination of Brent above $108 and the 30-year yield above 5.50% as a bearish confirmation. Only the second condition is currently in place. The thesis has therefore weakened, but has not broken completely: a TLT recovery above $80 alongside a 30-year yield below 5.40% would change the picture; a drop below $79 would strengthen it."
+      },
+      {
+        "heading": "3. Stocks are holding up better than bonds — because of the same strong economy",
+        "body": "Futures on the S&P 500, an index representing 500 of the largest U.S. companies, fell roughly 0.2%–0.3% this morning. Futures on the Nasdaq 100, an index of large companies with a heavy technology weighting, ranged from flat to down about 0.6%, depending on the observation time. On Friday, the S&P 500 rose 0.51%, the Nasdaq gained 0.48% and the Dow Jones Industrial Average added 0.93%.\n\nThe divergence matters: government bonds respond to interest rates and inflation, while stocks also receive support from expectations for profit growth. Strong economic data can therefore push bond prices down without immediately causing a sharp equity decline.\n\nIt is a fact that the futures reaction is modest relative to the rise in yields. The hypothesis is that investors still believe growth and earnings can absorb higher financing costs. That hypothesis weakens if the decline broadens beyond technology and equity indexes lose Friday’s gains."
+      },
+      {
+        "heading": "4. Gold and copper are falling while oil rises — this is not a broad commodity rally",
+        "body": "Gold fell this morning to about $4,262 an ounce, while copper declined to roughly $6.60 a pound after weak data from China. The U.S. Dollar Index rose to about 101.39, a two-month high.\n\nThat behavior separates two stories. Oil is rising because of a specific Middle East supply risk. Gold is under pressure from higher yields and a stronger dollar, while copper is also responding to concerns about Chinese demand.\n\nThe investor implication is that there is no confirmation yet of broad inflation across commodities. The immediate pressure is concentrated in energy and interest rates. A change in the picture would require copper and gold to rise alongside oil, rather than oil moving alone."
+      },
+      {
+        "heading": "5. This week will test whether high yields are justified — and Micron will test AI demand",
+        "body": "On Wednesday, the U.S. Commerce Department will publish August personal income and spending data, including the PCE price index — the Federal Reserve’s preferred inflation measure. The third estimate of second-quarter GDP and the annual update to the macroeconomic accounts are due the same day.\n\nMicron Technology (MU) is a memory-chip maker whose products include high-bandwidth memory, or HBM, used in artificial-intelligence accelerators. It will report earnings after Wednesday’s close. The important questions are its outlook, the pace of HBM demand, margins and capital spending — not merely whether earnings per share beat expectations.\n\nThe September employment report is due Friday. Until then, the bond market is pricing continued economic strength. Weaker-than-expected inflation or employment data could attract bond buyers; upside surprises would reinforce the case for another rate increase."
+      },
+      {
+        "heading": "6. Watchlist: what must happen to change the theses",
+        "body": "• XLE is an exchange-traded fund holding the largest energy companies in the S&P 500. It closed Friday at $62.04; holding above $62 even if Brent retreats would be more meaningful than a gain driven only by a geopolitical headline.\n• Forgent Power Solutions (FPS) makes transformers and power-distribution equipment for data centers and the grid. It closed at $38.97; the thesis strengthens if it holds the $38–$39 area and converts backlog into revenue, and weakens below $37 or if projects are delayed.\n• Fluence Energy (FLNC) supplies utility-scale energy-storage systems. It gained 5.29% Friday to $7.85, but no new fundamental update was found; the execution warning changes only with demonstrated improvement in production and backlog conversion.\n• URNM is an exchange-traded fund of uranium miners and nuclear-fuel companies. It closed at $49.13; no new fundamental catalyst was found this morning.\n• Brighthouse Financial (BHF) is an insurer involved in an acquisition with a stated price of $70 per share. It closed at $53.24, about 31.5% below the deal price; no new update was found, and the gap still reflects completion and timing risk.\n• UP Fintech (TIGR) is a digital broker focused on Chinese investors. It closed at $4.64; declines in Chinese equities after the Trump–Xi summit are a sentiment headwind, but not a direct revenue catalyst.\n• JEPQ is a JPMorgan exchange-traded fund that invests in Nasdaq stocks and sells options to generate monthly income. It closed at $61.24; high long-term yields remain the main risk to its underlying growth stocks.\n• Bitcoin, the largest digital asset, trades near $83,500. No new event was found that justifies building a broad thesis around the daily move.\n• No new fundamental change in energy storage, copper or uranium this morning justifies a thesis change beyond the macro pressure."
+      }
+    ],
+    "marketMap": "Market map: rejection of Iran’s proposal → Brent rises to about $107 → inflation expectations and the probability of another rate increase remain elevated → 10- and 30-year yields rise → pressure on TLT and other rate-sensitive assets. At the same time, strong economic data support corporate profits → equity futures fall only modestly. The central divergence is that stocks still price growth while the bond market prices high rates for longer.",
+    "calendar": "Catalyst Calendar — Over the next 24 hours: the Wall Street open and the joint response of Brent, the 30-year yield and TLT; no major U.S. data release today is more important than those three prices. Over the next seven days: on Wednesday, September 30, the August PCE price index, the third estimate of GDP and the BEA annual data update are due; Micron reports after the close. On Friday, October 2, the September employment report is released. Further ahead: the next Fed decision is scheduled for October 27–28.\n\nContrarian check — The consensus this morning is that rejection of Iran’s proposal, oil near $107 and yields above 5% will keep weighing on bonds and growth stocks. It may be right if Brent breaks above $108, the 30-year yield holds above 5.50% and TLT falls below $79. It may be wrong because talks are continuing and Trump says more than 20 million barrels passed through Hormuz over the weekend. The bearish thesis weakens if Brent falls below $105, the 30-year yield drops below 5.40% and TLT reclaims $80.",
+    "takeaway": "Bottom line: the week’s open confirmed the return of an oil risk premium and pressure on bonds, but not a full supply-shock scenario. Oil remains below $108 and the equity response is modest. The important signal today is therefore not the political headline alone, but whether Brent, the 30-year yield and TLT move together through the defined thresholds. This is market news and monitoring, not personalized advice.",
+    "sources": [
+      {
+        "title": "Reuters — Asian stocks cautious as oil and yields rise, September 28, 2026",
+        "url": "https://in.marketscreener.com/news/stocks-cautious-in-asia-as-oil-gains-yields-rise-ce785adcd880f127"
+      },
+      {
+        "title": "Trading Economics — Brent crude price, September 28, 2026",
+        "url": "https://tradingeconomics.com/commodity/brent-crude-oil"
+      },
+      {
+        "title": "Trading Economics — U.S. Treasury yields, September 28, 2026",
+        "url": "https://tradingeconomics.com/united-states/government-bond-yield"
+      },
+      {
+        "title": "Stocktwits — Equity futures, oil and yields at the week’s open, September 28, 2026",
+        "url": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-fall-as-brent-tops-106-after-trump-rejects-iran-proposal-mu-slv-qnt-meta-in-focus/cZMSLOqRBfL"
+      },
+      {
+        "title": "BEA — Economic release schedule",
+        "url": "https://www.bea.gov/news/schedule"
+      },
+      {
+        "title": "Micron Investor Relations — Fiscal fourth-quarter results on September 30, 2026",
+        "url": "https://investors.micron.com/news/press-release/2026/Micron-Technology-to-Report-Fiscal-Fourth-Quarter-Results-on-September-30-2026/default.aspx"
+      },
+      {
+        "title": "BLS — September employment report scheduled for October 2, 2026",
+        "url": "https://www.bls.gov/schedule/2026/10_sched_list.htm"
+      }
+    ]
+  },
+  {
+    "id": "2026-09-27",
+    "date": "2026-09-27",
+    "publishedAt": "2026-09-27T05:01:00Z",
+    "title": "Trump Rejected Iran’s Proposal — Weakening the Case for Oil Relief",
+    "summary": "What changed: U.S. President Donald Trump said on Saturday that he rejected an Iranian proposal to reopen the Strait of Hormuz and end regional fighting within seven days. What the market may be missing: oil fell on Friday on hopes for an agreement, but rejection of this proposal does not end diplomacy — the existence of a detailed offer shows that an active channel remains. The headline therefore raises oil risk, but does not prove in advance that prices will surge. What to watch today: U.S. markets are closed. When futures reopen overnight, the first test is whether Brent crude rises back above $108; on Monday, the second is whether the 30-year U.S. Treasury yield remains above 5.50%. Together, those conditions would intensify pressure on long-term bonds.",
+    "sections": [
+      {
+        "heading": "1. The Hormuz proposal was rejected — but the negotiating channel remains open",
+        "body": "Iran proposed, through Qatari mediators, reopening the Strait of Hormuz and ending regional fighting within seven days. Trump said on Saturday that he rejected the proposal because he did not believe Iran would meet his demands. A U.S. official had earlier described the contacts as positive and constructive.\n\nThe fact is that the current proposal was rejected. The interpretation is that the odds of an immediate agreement fell, but the existence of a proposal with a timetable shows that diplomacy has not disappeared. There is no new market reaction yet: U.S. oil and equity futures are closed as this brief is written. The accurate conclusion is that supply risk has risen again — not that the market has already priced it."
+      },
+      {
+        "heading": "2. The week’s open will test whether Friday’s oil decline came too soon",
+        "body": "Brent is the global benchmark for crude oil prices. It fell 2.1% on Friday to $104.32 a barrel, partly on hopes for an agreement with Iran. One foundation for that optimism has now weakened.\n\nTLT is an iShares exchange-traded fund that holds U.S. Treasury bonds with maturities of 20 years or more, making its price especially sensitive to changes in long-term yields. It closed Friday at $79.32 after the 30-year U.S. Treasury yield reached about 5.53%.\n\nOil is not the only test. If Brent rises but stays below $108 and the 30-year yield begins to fall, the market will be signaling that the headline does not materially alter the inflation path. If Brent climbs back above $108 and the yield remains above 5.50%, pressure on TLT and rate-sensitive equities will intensify."
+      },
+      {
+        "heading": "3. The U.S.–China agreement became more concrete — but remains limited",
+        "body": "The United States and China said on Saturday that they had agreed to reduce tariffs on $30 billion of non-sensitive goods in each direction. They also agreed to resume a dialogue in November on the risks and benefits of artificial intelligence and to establish a communication channel for AI-related incidents. The trade truce was also extended by two months.\n\nThis is a concrete improvement from the previous brief, when details were still pending. However, the agreement does not resolve disputes over advanced chips, critical minerals or Taiwan. For Chinese equities and semiconductors, the implication is lower risk of immediate escalation — not a structural change in the relationship."
+      },
+      {
+        "heading": "4. AI’s bottleneck is now contractual: power delays are changing who bears the risk",
+        "body": "Oracle, a major cloud and software company, invoked a force majeure clause on a New Mexico data-center project because of possible delays in securing power. The company says the project remains on schedule; Blue Owl, the investment manager financing the developer, says the financial commitments are unchanged.\n\nThe fact is that a force majeure notice was delivered and power supply is Oracle’s contractual responsibility. The interpretation is that construction risk is no longer confined to presentations: a delayed power connection can change the timing of lease payments and returns to lenders even without cancellation of the project.\n\nForgent Power Solutions (FPS) makes transformers and electrical-distribution equipment for data centers and the grid. There is no evidence that this project is in its backlog. The possible effect on FPS runs both ways: project delays can postpone orders, while the shortage of power infrastructure strengthens demand for the equipment it sells. The positive confirmation would be continued conversion of backlog into revenue, not merely the existence of a bottleneck."
+      },
+      {
+        "heading": "5. The coming week will show whether yields above 5% are a peak or a way station",
+        "body": "On Wednesday, the personal consumption expenditures price index — the Federal Reserve’s preferred inflation gauge — will be released. In the previous report, the core index rose 3.3% in the 12 months through July, still above the Fed’s 2% target. The third estimate of second-quarter GDP and the annual update to U.S. macroeconomic data are also due that day.\n\nThe September employment report will be released on Friday. The Reuters consensus calls for 100,000 jobs added and a 4.2% unemployment rate. After the September rate increase, a result far above expectations would strengthen the case for another hike in October; a weaker result, especially alongside softer inflation, could draw buyers to long-term Treasuries.\n\nMicron Technology (MU) makes memory chips, including high-bandwidth memory for artificial-intelligence accelerators. The company is expected to report after Wednesday’s close. Investors should examine guidance, HBM demand, margins and capital spending — not only whether revenue and earnings per share beat forecasts."
+      },
+      {
+        "heading": "6. Watchlist: the conditions that matter for the week’s open",
+        "body": "• XLE is an exchange-traded fund that groups the largest energy companies in the S&P 500, an index of 500 major U.S. companies. It closed Friday at $62.04; relative strength if Brent stays below $108 would be constructive, while a surge driven only by a geopolitical headline would not be fundamental confirmation.\n• FPS, the electrical-equipment maker explained above, closed at $38.97. The thesis strengthens if it holds the $38–$39 area and reports continued backlog conversion; it weakens below $37 or with project delays.\n• Fluence Energy (FLNC) provides grid-scale energy-storage systems. It closed at $7.85; the execution warning has not changed, so the thesis still requires demonstrated improvement in manufacturing and backlog conversion.\n• URNM is an exchange-traded fund of uranium miners and nuclear-fuel companies. It closed at $49.13; no new fundamental catalyst was found over the weekend.\n• Brighthouse Financial (BHF) is an insurer subject to an announced acquisition at $70 a share. It closed at $53.24, leaving about 31.5% upside to the stated deal price; no new update was found, so the gap continues to reflect completion and timing risk.\n• UP Fintech (TIGR) is a digital broker focused on Chinese investors. It closed at $4.64; the tariff reduction is positive for sentiment but is not a direct revenue catalyst.\n• JEPQ is a JPMorgan exchange-traded fund that owns stocks in the technology-heavy Nasdaq index and sells options to generate monthly income. It closed at $61.24; high long-term yields remain the main risk to its underlying growth stocks.\n• Bitcoin, the largest digital asset, trades this morning near $84,300, only a modest move. No new event was found that justifies building a broader narrative around the price change."
+      }
+    ],
+    "marketMap": "Market map: rejection of the Iranian proposal → lower odds of a rapid reopening of Hormuz → the oil risk premium may return. If oil rises, inflation expectations and yields may rise with it → more pressure on long-term bonds and growth-stock multiples. In the other direction, the limited U.S.–China tariff agreement reduces immediate trade risk. The key tension for the week’s open is easing U.S.–China relations versus renewed energy risk.",
+    "calendar": "Catalyst Calendar — Next 24 hours: U.S. markets are closed; the focus is how Brent futures react to rejection of the Iranian proposal and whether an alternative offer emerges. Next seven days: on Wednesday, September 30, August personal income and outlays — including the PCE price index — will be released, along with the third estimate of second-quarter GDP and the BEA annual data update; Micron reports after the close. On Friday, October 2, the September employment report is due. Further ahead: the next Fed decision is scheduled for October 27–28.\n\nContrarian check — The reasonable consensus is that rejection of Iran’s offer will restore an oil risk premium and weigh on bonds. It may be right if Brent rises above $108 and the 30-year yield stays above 5.50%. It may be wrong because a detailed proposal is already on the table and could become the basis for a revised agreement. The bearish bond thesis weakens if Brent stays below $105, the 30-year yield falls below 5.40% and TLT reclaims $80; it strengthens if all three prices move in the opposite direction.",
+    "takeaway": "Bottom line: the weekend changed the conditions for the open, not the market price. The Iranian proposal that supported some of Friday’s optimism was rejected, but the diplomatic channel remains active. There is therefore no basis to declare in advance that oil will surge; the higher-quality signal will be the combined reaction of Brent, the 30-year Treasury yield and TLT. This is market news and monitoring, not personalized advice.",
+    "sources": [
+      {
+        "title": "Reuters — Trump rejected Iran’s proposal to reopen Hormuz, September 26, 2026",
+        "url": "https://www.reuters.com/world/middle-east/iran-awaits-us-move-after-wsj-report-says-trump-rejects-peace-plan-2026-09-26/"
+      },
+      {
+        "title": "Reuters — U.S. and China agreed to tariff cuts and an AI dialogue, September 26, 2026",
+        "url": "https://www.reuters.com/world/china/china-us-agree-30-billion-tariff-cut-ai-dialogue-during-xi-visit-2026-09-26/"
+      },
+      {
+        "title": "Reuters — Jobs and inflation data will dominate the coming week, September 25, 2026",
+        "url": "https://www.reuters.com/business/wall-st-week-ahead-jobs-report-inflation-data-test-us-rate-path-economic-2026-09-25/"
+      },
+      {
+        "title": "Reuters — Oracle invoked force majeure over power delays, September 24, 2026",
+        "url": "https://www.reuters.com/business/oracle-cites-force-majeure-shield-itself-controversial-data-center-bloomberg-2026-09-24/"
+      },
+      {
+        "title": "BEA — Economic release schedule",
+        "url": "https://www.bea.gov/news/schedule"
+      },
+      {
+        "title": "Micron Investor Relations — Post-earnings analyst call, September 30, 2026",
+        "url": "https://investors.micron.com/events-and-presentations/event-details/2026/Microns-Post-Earnings-Analyst-Call-q4-26/default.aspx"
+      }
+    ]
+  },
+  {
+    "id": "2026-09-26",
+    "date": "2026-09-26",
+    "publishedAt": "2026-09-26T04:49:08Z",
+    "title": "Oil Fell — Yet Treasury Yields Still Broke to New Highs",
+    "summary": "What changed: oil fell more than 2% on Friday, but the 10-year U.S. Treasury yield reached about 5.23% and the 30-year yield about 5.53% — levels not seen since 2007 and 2004, respectively. What the market may be missing: the oil-yield relationship has broken down. If yields rise even as oil falls, pressure on bonds is now also coming from strong growth, expectations for further rate hikes and the need to attract buyers for heavy government debt supply. What to watch today: U.S. markets are closed. Over the weekend, watch U.S.-Iran talks and the Strait of Hormuz; on Monday, the test is whether the 30-year yield stays above 5.50% and whether the long-term Treasury fund can hold above $79.",
+    "sections": [
+      {
+        "heading": "1. Lower oil is no longer enough to bring yields down",
+        "body": "Brent, the global benchmark for crude oil, fell 2.1% on Friday to $104.32 a barrel. WTI, the benchmark for U.S. crude, fell 2.3% to $92.41. Even so, the 10-year U.S. Treasury yield reached about 5.23%, its highest level since 2007, while the 30-year yield rose to about 5.53%, its highest since 2004.\n\nThe fact is that oil fell while long-term yields rose. The interpretation is that the bond market's problem is no longer only energy inflation. Strong investment data, expectations of further tightening by the Federal Reserve — the U.S. central bank — and the need to finance a large amount of government debt are leading investors to demand higher yields. No single data point allows the move to be divided precisely among those three drivers."
+      },
+      {
+        "heading": "2. The long-term Treasury fund traded below $79",
+        "body": "TLT is an iShares exchange-traded fund that holds U.S. Treasury bonds with maturities of 20 years or more, making its price especially sensitive to changes in long-term yields. On Friday, the fund fell as low as $78.83 and closed at $79.32, down 0.13%.\n\nThe close was better than the intraday low, but it remained below the $80 level tested a day earlier. The thesis improves if the 10-year yield returns below 5.10%, the 30-year yield falls below 5.40% and TLT recovers above $80. It weakens if the 30-year yield remains above 5.50% and the fund again loses $79."
+      },
+      {
+        "heading": "3. Stocks rose while bonds fell — and that gap matters",
+        "body": "The S&P 500, an index of 500 large U.S. companies, rose 0.51% on Friday. The Nasdaq, which has a heavy weighting in technology companies, gained 0.48%, while the Dow Jones index of 30 major U.S. companies rose 0.93%. Microsoft, the large software and cloud-computing company, gained 3.7% after unveiling new features for its Copilot product.\n\nAt the same time, gold rose 0.43%, copper was nearly unchanged and Bitcoin traded around $83,900. This is not a broad flight from risk, even though the bond market continued to weaken. One possible explanation is that investors are still willing to pay for AI growth and corporate earnings while demanding greater compensation to hold long-term debt. If yields remain near their highs, that divergence becomes harder to sustain."
+      },
+      {
+        "heading": "4. The data still say the economy is not weakening enough",
+        "body": "U.S. durable-goods orders were virtually unchanged in August at $338.6 billion, versus expectations for a roughly 0.4% decline and a 0.9% increase in July. Orders for nondefense capital goods excluding aircraft — a widely used measure of business investment plans — rose 0.6%, above the 0.5% forecast, while the July figure was also revised higher.\n\nInitial jobless claims were 197,000, versus a forecast of 201,000 and a revised 198,000 the prior week. The fact is that business investment and the labor market remain strong. The possible implication is that the Fed faces no immediate pressure to stop tightening, so lower oil alone was not enough to reduce yields."
+      },
+      {
+        "heading": "5. Oil fell on hopes for an agreement — not on a clear sign of weaker demand",
+        "body": "Oil declined after reports that the United States and Iran were exploring a phased framework: Iran would reopen broader passage through the Strait of Hormuz and the United States would gradually lift its blockade. This would be a change in supply and transportation conditions, not new evidence that the global economy is weakening.\n\nLower oil is therefore helpful for inflation, but it depends on diplomatic progress that is not yet complete. A return by Brent above $108 would signal that the risk premium is coming back; sustained trading below $102 would strengthen the relief."
+      },
+      {
+        "heading": "6. The Trump-Xi summit bought time but did not resolve the disputes",
+        "body": "The meeting between U.S. President Donald Trump and Chinese President Xi Jinping ended with a two-month extension of the trade truce, but no major public breakthrough on semiconductors, AI, Taiwan, critical minerals or Iran. The U.S. administration is expected to release more details on Monday.\n\nFor investors, the risk of an immediate tariff escalation has declined, but structural uncertainty remains. Until measurable commitments are published, this is better viewed as a postponement of the conflict than a resolution."
+      },
+      {
+        "heading": "7. Watchlist: the conditions that will decide the theses",
+        "body": "• XLE is an exchange-traded fund that groups the largest energy companies in the S&P 500. It fell 0.88% to $62.04 with oil; holding above $62 if Brent continues to decline would signal relative strength.\n• Forgent Power Solutions (FPS) makes transformers and electrical-distribution equipment for data centers and the power grid. It closed nearly unchanged at $38.97; holding the $38–$39 area is constructive, while losing $37 would revive doubts after the sharp rally. No new fundamental report was found to explain the move.\n• Fluence Energy (FLNC) supplies utility-scale energy-storage systems. The stock rose 5.29% to $7.85, but no new fundamental catalyst was found and last week's execution warning has not changed.\n• Micron Technology (MU) makes memory chips, including high-speed memory for AI accelerators. The shares closed nearly unchanged at $1,082.28; the company is scheduled to report on September 30, making guidance and memory demand more important than the daily price move.\n• URNM is an exchange-traded fund holding uranium miners and nuclear-fuel companies. It closed nearly unchanged at $49.13; no new fundamental trigger was found that would justify changing the thesis.\n• Brighthouse Financial (BHF) is an insurance company subject to an announced acquisition at $70 a share. It closed at $53.24, implying about 31.5% upside to the deal price; no new transaction update was found, so the gap continues to reflect completion and timing risk.\n• UP Fintech (TIGR) is a digital broker focused on Chinese investors. It fell 1.28% to $4.64; details of the trade agreement due Monday are the nearest important variable.\n• JEPQ is a JPMorgan exchange-traded fund that invests in Nasdaq stocks and sells options to generate monthly income. It rose 0.21% to $61.24; high yields remain the central risk to the growth stocks beneath it."
+      }
+    ],
+    "marketMap": "Market map: hopes for a U.S.-Iran agreement → oil falls more than 2% → energy-inflation pressure eases. But business investment and the labor market remain strong, while investors demand more compensation for long-term debt → the 10- and 30-year yields rise to new highs → TLT remains below $80. At the same time, AI stocks keep equity indexes higher. The central contradiction is between an equity market still pricing growth and a bond market raising the cost of capital.",
+    "calendar": "Catalyst Calendar — Over the next 24 hours: U.S. markets are closed; the main risk is any announcement on a U.S.-Iran framework and reopening the Strait of Hormuz. Over the next 7 days: further U.S. details on the China talks are expected Monday; on Wednesday, September 30, August personal income and spending data, including the PCE price index, and the third estimate of second-quarter GDP are scheduled. Micron is also due to report that day. Further ahead: the next Fed decision is scheduled for October 27–28.\n\nContrarian check — The consensus is that long-term yields at new highs will continue to weigh on bonds and growth stocks. It may be right as long as the 30-year yield remains above 5.50% and the data stay strong. It may be wrong if oil keeps falling and historically high yields attract long-term buyers. The bearish TLT thesis weakens if the 30-year yield falls below 5.40% and the fund recovers above $80; it strengthens if TLT loses $79 while the yield remains above 5.50%.",
+    "takeaway": "Bottom line: the important change is not only that Treasury yields rose, but that they rose despite a sharp decline in oil. That means the market is now demanding higher yields for reasons beyond energy — growth, the Fed path and debt supply. Until the 30-year yield falls below 5.40% and TLT recovers above $80, there is still no confirmation of a bottom in long-term bonds. This is market news and monitoring, not personalized advice.",
+    "sources": [
+      {
+        "title": "Reuters — Treasury yields hit new highs despite lower oil, September 25, 2026",
+        "url": "https://www.lse.co.uk/news/global-markets-bond-yields-hit-multi-decade-highs-despite-oil-pullback-cta0fbfgw6m64cf.html"
+      },
+      {
+        "title": "Reuters — Wall Street rises as Microsoft and AI stocks lead, September 25, 2026",
+        "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/us-stocks-wall-street-ends-higher-investors-buy-ai-stocks-microsoft-rallies"
+      },
+      {
+        "title": "Reuters — Oil falls on a possible U.S.-Iran framework, September 25, 2026",
+        "url": "https://www.marketscreener.com/news/oil-prices-slide-about-2-as-us-iran-explore-path-out-of-war-ce785adfd180f425"
+      },
+      {
+        "title": "U.S. Census Bureau — August 2026 durable-goods orders",
+        "url": "https://www.census.gov/manufacturing/m3/adv/current/index.html"
+      },
+      {
+        "title": "Reuters — Initial jobless claims fall to 197,000, September 24, 2026",
+        "url": "https://ca.marketscreener.com/news/us-weekly-jobless-claims-decrease-as-labor-market-regains-footing-ce785adede8df72c"
+      },
+      {
+        "title": "Micron Investor Relations — fiscal fourth-quarter reporting date",
+        "url": "https://investors.micron.com/overview/default.aspx"
+      },
+      {
+        "title": "Reuters — Trump-Xi summit ends without a major breakthrough, September 25, 2026",
+        "url": "https://www.marketscreener.com/news/trump-xi-end-summit-with-tea-tour-of-us-archives-and-little-sign-of-progress-ce785adfd18bf627"
+      },
+      {
+        "title": "BEA — economic release schedule",
+        "url": "https://www.bea.gov/news/schedule"
+      }
+    ]
+  },
+  {
+    "id": "2026-09-25",
+    "date": "2026-09-25",
+    "publishedAt": "2026-09-25T05:50:57Z",
+    "title": "The Bond Market Is Again Signaling That Inflation, Not Recession, Is the Main Problem",
+    "summary": "What changed: the 30-year U.S. Treasury yield climbed yesterday to about 5.45% — its highest level since 2004 — while the 10-year yield moved above 5.1%. What the market may be missing: despite the exceptional rise in financing costs, the S&P 500 ended yesterday almost unchanged. What to watch today: oil and bonds. A decline in oil following progress with Iran could ease some inflation pressure; a continued rise in oil alongside a 10-year yield above 5% would be a much tougher combination for growth stocks.",
+    "sections": [
+      {
+        "heading": "1. The main story: long-term bonds keep breaking down",
+        "body": "The 10-year U.S. Treasury yield rose yesterday to about 5.16%, while the 30-year yield climbed to about 5.45% — its highest level since 2004. Bond prices and yields move in opposite directions, so the rise in yields reflects another decline in long-term bond prices. The trigger was a combination of stronger-than-expected business activity and a sharp rise in input prices, reviving concern that inflation will remain high. Investors increased their bets on another rate hike. On September 16, the Fed raised rates by 0.25 percentage point to a range of 3.75%–4.00% and said economic activity continued to expand at a solid pace while inflation remained elevated."
+      },
+      {
+        "heading": "2. And what does this mean for TLT?",
+        "body": "TLT is an iShares exchange-traded fund that holds U.S. Treasury bonds with maturities longer than 20 years, making it especially sensitive to changes in long-term yields. When the 30-year yield rises quickly, the fund's price tends to fall. The current area may look cheaper to a long-term investor, but cheap does not mean the bottom is already in. The positive thesis strengthens if the 10-year yield returns below 5% and the 30-year yield falls from the 5.4%–5.45% area; it weakens if yields remain at these levels or continue to rise."
+      },
+      {
+        "heading": "3. Oil has again become a macro variable",
+        "body": "Oil is not only a story about energy companies. When it remains at elevated levels, it affects transportation and production costs and inflation expectations — and therefore interest rates and bond yields. Diplomatic progress with Iran could reduce the risk premium and ease inflation somewhat; by contrast, failed talks or another supply disruption could bring the pressure back. That is why, in my view, oil and the 10- and 30-year yields are currently the same macro story viewed from different angles."
+      },
+      {
+        "heading": "4. Energy stocks are still holding up",
+        "body": "XLE is an exchange-traded fund that groups the largest energy companies in the S&P 500, led by ExxonMobil and Chevron. Yesterday it closed at $62.60, up 0.37%, while the broader stock market barely advanced. But an important point is that the fund has already benefited greatly from the rise in energy. I therefore would not automatically interpret every further increase in oil as a new opportunity; investors need to examine how much of the scenario is already reflected in company prices."
+      },
+      {
+        "heading": "5. U.S.–China: a ceasefire, not a peace agreement",
+        "body": "The Trump–Xi meeting ended without a major breakthrough. The clearest economic development was an extension of the trade truce by only two months.\nThe major issues — tariffs, Chinese purchases, rare earths and technology restrictions — remained open. This is short-term relief, but not a structural change in U.S.–China relations.\nFor semiconductors and AI, the main implication is that no new tightening of restrictions was created for now, but access for U.S. companies to the Chinese market was not meaningfully reopened either."
+      },
+      {
+        "heading": "6. What the market may be missing: stocks are not breaking with bonds",
+        "body": "This is, in my view, the most interesting picture this morning.\nOn one side:\n10Y above 5% → 30Y around 5.4%–5.45% → Brent oil around $100+ → the Fed has already raised rates.\nOn the other side, the S&P 500 ended yesterday almost unchanged after recovering from its intraday low. This is a divergence — a mismatch between markets.\nOne possibility: the stock market is right, and the economy and earnings are strong enough to cope with interest rates.\nA second possibility: the bond market is repricing the cost of capital faster than the stock market.\nThis is exactly the gap I want to track."
+      },
+      {
+        "heading": "7. Bitcoin: a positive data point beneath the surface",
+        "body": "IBIT is BlackRock's exchange-traded fund that tracks the price of Bitcoin. On September 24, U.S. Bitcoin funds recorded net inflows of about $191 million, led by roughly $163 million into IBIT. The figure is positive for institutional demand even if Bitcoin's price does not immediately break higher. Still, one day of flows is not enough to prove a trend change, so the key is whether the streak continues alongside price stability."
+      },
+      {
+        "heading": "8. AI and electricity: the bottleneck remains physical",
+        "body": "The data-center power-infrastructure story continues to receive further confirmation. Accelevation, a company that designs and manufactures power distribution, cooling and modular infrastructure for data centers, is targeting a valuation of up to $5.37 billion in its IPO. This reinforces the argument that the market is beginning to distinguish between “AI” as software and the physical equipment that makes the computing possible. Forgent Power Solutions (FPS) makes electrical distribution equipment for data centers and the power grid, so it is relevant to the same bottleneck. No new reliable fundamental report on FPS itself was found this morning, so there is no reason to attribute a catalyst to the stock that does not exist."
+      },
+      {
+        "heading": "9. Copper and metals",
+        "body": "There is an interesting long-term monitoring point here: Reuters argues that higher energy prices could accelerate the shift to electric vehicles in parts of the world, while also increasing future pressure on copper, lithium and nickel supply chains if mining investment fails to keep pace with demand. This is not a catalyst for today's trading, but it reinforces why copper remains on our list of strategic themes."
+      }
+    ],
+    "marketMap": "Market map: strong activity and higher input prices → expectations for more Fed tightening → the 10-year yield above 5% and the 30-year around 5.45% → pressure on TLT and growth-stock multiples. At the same time, high oil strengthens inflation risk. Contrarian check: the consensus is that long-term bonds remain risky and there is no reason to rush into duration. It may be wrong if progress with Iran lowers oil, inflation data weaken and yields above 5% attract new demand. This thesis breaks if the 30-year yield remains above 5.4% while oil and inflation stay sticky.",
+    "calendar": "Catalyst Calendar — Over the next 24 hours: oil and possible progress with Iran; the reaction of the 10- and 30-year yields after the sharp rise. September 30: August PCE data, the third estimate of second-quarter GDP and the BEA annual data update; Micron is also expected to report that day, with market expectations of about $50.8 billion in revenue and adjusted earnings of $31.43 per share. Further ahead: the next Fed decision is scheduled for October 27–28.\nWatchlist — TLT: whether long-term yields begin to fall. XLE: whether relative strength holds without another oil surge. FPS: no new report; watch performance versus other electrical-infrastructure companies. MU: earnings on September 30. IBIT/Bitcoin: whether fund inflows continue.",
+    "takeaway": "Bottom line: the 30-year U.S. Treasury yield is at its highest level since 2004, but the stock market is still refusing to break with it. That gap can close through lower yields — or through a delayed adjustment in equities. For now, oil, long-term yields and the reaction of growth stocks are the three variables to monitor. This is market news and monitoring, not personalized advice.",
+    "sources": [
+      {
+        "title": "S&P Global — U.S. business activity indexes",
+        "url": "https://www.pmi.spglobal.com/"
+      },
+      {
+        "title": "Trading Economics — U.S. government bond yields",
+        "url": "https://tradingeconomics.com/united-states/government-bond-yield"
+      },
+      {
+        "title": "Federal Reserve — FOMC decisions and meeting calendar",
+        "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+      },
+      {
+        "title": "Reuters — Accelevation targets a valuation of up to $5.4 billion",
+        "url": "https://www.reuters.com/technology/accelevation-backers-aim-raise-720-million-us-ipo-2026-09-22/"
+      },
+      {
+        "title": "Reuters — Trump–Xi summit and the trade truce",
+        "url": "https://www.reuters.com/world/china/xi-rolls-into-trump-summit-with-chinas-trade-engine-roaring-2026-09-21/"
+      },
+      {
+        "title": "Pluang — Bitcoin fund inflows on September 24, 2026",
+        "url": "https://pluang.com/en/news-feed/etf-bitcoin-spot-asal-as-perpanjang-aliran-dana-enam-hari"
+      },
+      {
+        "title": "Reuters — Oil shock and future metals-supply risk",
+        "url": "https://www.reuters.com/commentary/reuters-open-interest/oil-shock-raises-risk-metals-shock-ev-sales-accelerate-2026-09-21/"
+      },
+      {
+        "title": "BEA — Economic release schedule",
+        "url": "https://www.bea.gov/news/schedule/full"
+      }
+    ]
+  },
+  {
+    "id": "2026-09-24",
+    "date": "2026-09-24",
+    "publishedAt": "2026-09-24T04:48:23Z",
+    "title": "Morning Brief · The Economy Is Too Strong for TLT — and Yields Are Back Above 5%",
+    "summary": "What changed: U.S. activity data were much stronger than expected. The services PMI rose to 58.7 versus a 56.0 consensus, the 10-year Treasury yield jumped about 16 basis points to roughly 5.12%, and TLT fell 1.54% to $80.46.\nWhat the market may be missing: this was not merely a response to higher oil. The 10-year real yield also rose sharply, while demand at the five-year Treasury auction was weak. Investors are demanding higher yields because of both inflation risk and debt supply.\nWhat to watch today: the seven-year Treasury auction and TLT's ability to hold above $80. A lower-than-expected jobless-claims reading or another weak auction could keep the 10-year yield above 5%; a well-received auction could provide relief.",
+    "sections": [
+      {
+        "heading": "1. Activity data reversed the TLT story in a single day",
+        "body": "S&P Global's U.S. Composite PMI rose to 58.4 in September from 56.0, the fastest pace in more than five years. The services index reached 58.7 versus a 56.0 consensus and 56.5 in August, while manufacturing jumped to 57.0 versus a 53.6 consensus and 53.9 previously. Price pressures also intensified. The fact: growth and prices were stronger than expected. The market reaction: the 10-year yield rose about 16 basis points to roughly 5.12%, the 30-year yield reached about 5.41%, and TLT fell 1.54% to $80.46. The investor implication: lower oil alone is not enough when domestic activity reinforces the case for higher interest rates."
+      },
+      {
+        "heading": "2. TLT's decline went beyond inflation fears",
+        "body": "Yesterday we were looking for TLT to break above $82.18; instead, the fund fell as low as $80.23 and closed at $80.46. The two-year yield is near 4.90%, the 10-year around 5.12% and the 30-year around 5.41%. The 10-year TIPS yield, a rough measure of the return after stripping out expected inflation, also rose to about 2.79%. The Treasury selloff therefore did not reflect inflation expectations alone: the real return investors demand also increased. The TLT thesis will begin to improve only if the 10-year yield falls back below 5% and the fund reclaims $81.50; a break below $80 would reopen the risk of new lows."
+      },
+      {
+        "heading": "3. The undercovered issue: demand for government debt also weakened",
+        "body": "Alongside the strong macro data, the Treasury's $70 billion five-year auction cleared at a higher yield than the market level immediately before the sale. In plain terms, the Treasury had to offer a higher return to attract buyers. This matters for TLT because even if inflation eases, heavy bond supply and demand that fails to keep pace can leave long-term yields elevated. A seven-year Treasury auction is scheduled for today. Strong demand would be reassuring; another weak result would support the view that the pressure is coming from government financing needs as well as the Fed."
+      },
+      {
+        "heading": "4. Stocks, gold and Bitcoin fell together — this looks like a rate shock",
+        "body": "SPY fell 0.74%, QQQ lost 0.84% and DIA declined 0.72%. Assets that sometimes serve as inflation hedges also weakened: GLD fell 1.82%, CPER dropped 1.96% and Bitcoin traded near $83,900, down about 3.8%. Micron lost 2.20% after Tuesday's sharp gain. When equities, long-duration bonds, gold, copper and crypto all fall together, the most consistent explanation is a rise in the price of money — higher yields — rather than a separate negative event in every asset. The dollar strengthened to around a two-month high, adding pressure on commodities."
+      },
+      {
+        "heading": "5. Oil is back above $102, making the bond problem harder",
+        "body": "After falling below $100, Brent traded this morning near $102.30 and WTI around $91.50. Saudi Arabia's East-West pipeline has restarted, but only at a partial rate, while uncertainty surrounding U.S.-Iran talks continues to leave supply risk in the market. The pipeline is operating; oil nevertheless failed to remain below $100. For TLT, the combination of strong economic activity and rebounding oil is more difficult than either factor alone. XLE rose 0.97% to $62.37 but remains below its levels from the start of the week."
+      },
+      {
+        "heading": "6. FPS continues to outperform its peer group",
+        "body": "FPS gained 3.50% to $39.88 and closed near its session high, even as Vertiv fell 1.83% and Eaton lost 0.85%; Powell Industries gained 0.26%. This is the second session in which FPS has not behaved as though the Texas decision created an immediate, company-specific hit. However, no new fundamental announcement was found to explain the gain, so it is too early to attribute the move to an improvement in the business. The positive signal strengthens if FPS holds above $39–$40 as volume normalizes; it weakens if the stock falls below $37 or begins to lag its peers consistently."
+      },
+      {
+        "heading": "7. Watchlist: what changed and what did not",
+        "body": "TLT: fell to $80.46; the immediate test is $80 below and $81.50 above. FPS: rose to $39.88 and continues to show relative resilience, with no newly verified catalyst. Fluence gained 4.33% to $7.58, but its production and execution warning has not changed. URNM fell 4.11% to $50.62; no new fundamental event was found that independently explains the decline. BHF finished nearly unchanged at $51.99 with no verified transaction update. TIGR fell 3.69% to $4.71, while JEPQ slipped 0.14% to $61.10. No new fundamental catalyst in energy storage or copper justified changing the thesis beyond the broad yield shock."
+      }
+    ],
+    "marketMap": "Market map: strong activity data and rising price pressures → the market raises the probability of another Fed hike → the 10-year yield returns to about 5.12% and the 30-year to roughly 5.41% → TLT falls and equity multiples come under pressure. At the same time, a weak Treasury auction shows that the pressure is not coming only from the Fed, but also from the need to find buyers for heavy debt supply. The simultaneous declines in equities, gold, copper and Bitcoin reinforce the conclusion that this was primarily a broad yield shock.",
+    "calendar": "Over the next 24 hours: U.S. weekly jobless claims; the U.S. Treasury's seven-year note auction; the Trump-Xi summit, with markets focused on trade, semiconductors, AI, Taiwan and Iran; and pricing of SoftBank's more than $11 billion bond sale to fund its OpenAI investment.\nOver the next seven days: Xi's U.S. visit concludes Friday; on September 30, markets expect August PCE data, the third estimate of second-quarter GDP and the BEA annual data update.\nFurther ahead: the next Fed decision is scheduled for October 28.",
+    "takeaway": "Contrarian check: the consensus after the activity data is that the economy is too strong and the Fed will need to raise rates again, so yields and TLT will continue in yesterday's direction. That may be right if jobless claims remain low, the seven-year auction is weak and the 10-year yield holds above 5.10%. It may be wrong because a 16-basis-point one-day jump already prices in much of the surprise, while yields above 5% could attract new buyers. The bearish TLT thesis weakens if the seven-year auction is strong, the 10-year yield falls below 5% and TLT reclaims $81.50. It strengthens if TLT breaks below $80 and the 30-year yield holds above 5.40%. This is market news and monitoring, not personalized advice.",
+    "sources": [
+      {
+        "title": "S&P Global — U.S. Flash PMI, September 23, 2026",
+        "url": "https://www.pmi.spglobal.com/"
+      },
+      {
+        "title": "Trading Economics — U.S. Treasury yields and market reaction, September 24, 2026",
+        "url": "https://tradingeconomics.com/united-states/government-bond-yield"
+      },
+      {
+        "title": "U.S. Treasury — Tentative auction schedule",
+        "url": "https://home.treasury.gov/system/files/221/Tentative-Auction-Schedule.pdf"
+      },
+      {
+        "title": "Reuters — Saudi Arabia restarts the East-West pipeline, September 22–23, 2026",
+        "url": "https://www.reuters.com/business/energy/saudi-arabia-restarts-east-west-oil-pipeline-resume-exports-yanbu-sources-say-2026-09-22/"
+      },
+      {
+        "title": "Reuters — Key issues for the Trump-Xi summit, September 24, 2026",
+        "url": "https://www.aol.com/articles/factbox-trump-xi-discuss-washington-210309000.html"
+      },
+      {
+        "title": "Reuters — SoftBank bond sale to fund OpenAI, September 21, 2026",
+        "url": "https://www.reuters.com/business/media-telecom/softbank-group-launches-over-10-billion-bonds-openai-investment-term-sheet-shows-2026-09-21/"
+      },
+      {
+        "title": "FRED — Initial jobless claims and release calendar, September 24, 2026",
+        "url": "https://fred.stlouisfed.org/series/ICSA"
+      }
+    ]
+  },
+  {
+    "id": "2026-09-14",
+    "date": "2026-09-14",
+    "publishedAt": "2026-09-14T04:59:56Z",
+    "title": "Morning Brief · Oil Surges, Technology Weakens and the Fed Faces a Test",
+    "summary": "September 14, 2026: Brent returned to roughly $108 after the Oman meeting on the Strait of Hormuz was postponed and the Saudi pipeline remained closed. Calls to slow AI development also drove sharp declines in Asian chip stocks and Nasdaq futures. The week opens with two distinct pressure points: energy and rates, and a new AI-valuation risk.",
+    "sections": [
+      {
+        "heading": "1. Oil: the weekend scenario begins to materialize",
+        "body": "Brent rose about 3.1% this morning to $107.82 per barrel and WTI gained roughly 3.2% to $103.22. The Oman meeting planned for today between Iran and Gulf states was postponed, while Saudi Arabia’s East–West pipeline remained closed following the drone attack. Sources cited by Reuters said inventories at Yanbu could cover roughly five to seven days of exports; if the pipeline does not resume operation, as much as 4% of global supply could be at risk. The market mechanism is clear: fewer available export routes, higher shipping and insurance costs and a larger risk premium in crude prices."
+      },
+      {
+        "heading": "2. Futures point to a split opening",
+        "body": "In early trading, S&P 500 futures were down about 0.35% and Nasdaq 100 futures around 1.1%, while Dow futures were near flat. The gap suggests this is not merely an oil reaction: technology is also dealing with a separate AI event. Energy and defensive sectors may hold up better, while semiconductors, software, airlines, transport and energy-intensive industries are more sensitive. These are early futures and may change before the 4:30 p.m. Israel-time open."
+      },
+      {
+        "heading": "3. AI and chip stocks: a new risk factor beyond rates",
+        "body": "AI-related shares fell sharply in Asia after leaders from Anthropic, OpenAI and xAI supported slowing model development for safety reasons. SoftBank fell as much as 13.2%, Kioxia 9.8%, SK Hynix 5.3%, Samsung Electronics 3.7% and TSMC 1.2%. For U.S. investors, possible pressure on Nvidia, Broadcom, Micron and the data-center supply chain now reflects not only higher yields but also concern that AI investment and regulation could change. It is too early to infer a fundamental shift in demand, but the technology story itself is now competing with oil as a market driver."
+      },
+      {
+        "heading": "4. TLT: little cushion before the 5% test",
+        "body": "The U.S. 10-year yield traded near 4.97% this morning and the 30-year around 5.37%. TLT ended Friday at $80.87; according to iShares, its 30-day SEC yield was 5.29% and effective duration 14.97 years. As a rough approximation, a 10-basis-point increase in yields could reduce the fund’s price by about 1.5% before convexity and curve effects. A move in the 30-year yield from 5.37% to 5.50% could therefore add roughly 2% pressure to TLT, though this is not a precise price forecast. Today’s key test is whether the 10-year breaks 5% and the 30-year settles above 5.40%."
+      },
+      {
+        "heading": "5. The Fed: the decision looks expected, the message less so",
+        "body": "Rate futures implied an approximately 86% probability of a 25-basis-point hike on Wednesday—the first increase since mid-2023. Markets also priced roughly 90 basis points of tightening through the second half of 2027. A surprise decision to hold could push long yields higher if seen as insufficient resolve against inflation. Conversely, a hike presented as a one-off move could ease yields and offer TLT relief. The dollar index rose to 99.22, while the yen remained near a seven-month high ahead of the Bank of Japan decision."
+      },
+      {
+        "heading": "6. Watch themes: energy, uranium, storage and copper",
+        "body": "XLE finished Friday at $65.14 and may benefit from higher oil, but the better signal will be whether it approaches its 52-week high rather than lagging crude. URNM fell 4.06%; no new fundamental report has invalidated the nuclear-demand thesis, so the question is whether weakness persists while energy prices rise. There is no material new copper development versus the previous brief. In energy storage, no new contract or project justifies action; expensive oil does not automatically translate into BESS profits, while higher rates increase financing costs for capital-intensive projects."
+      }
+    ],
+    "marketMap": "Morning market map: pipeline closure and postponed talks → Brent near $108 → inflation pressure and stronger tightening expectations → the 10-year near 5% and the 30-year around 5.37% → pressure on TLT and growth multiples. A second chain is also active: calls to slow AI → declines in Asian chip shares → Nasdaq futures underperform. A partial pipeline restart, a new date for talks, or a market response in which oil stays high while yields and the Nasdaq stop falling could reverse the picture.",
+    "calendar": "Today, September 14: no major U.S. macro release; the focus is energy news and remarks by ECB officials. Wall Street opens at 4:30 p.m. Israel time.\nSeptember 15–16: FOMC meeting including economic projections and the dot plot.\nWednesday, September 16: rate decision at 9:00 p.m. Israel time and press conference at 9:30 p.m.\nThursday, September 17: Bank of England decision.\nFriday, September 18: Bank of Japan decision.",
+    "takeaway": "No single trade explains everything today. Oil raises inflation risk while AI faces an independent risk event. For TLT, the test is whether the 10-year crosses 5% and the 30-year settles above 5.40%. Contrarian check: if yields fail to break higher and the Nasdaq pares losses despite Brent near $108 and weakness in Asia, markets may already have absorbed much of the negative news. This is market commentary and monitoring, not personalized advice.",
+    "sources": [
+      {
+        "title": "Reuters — Oil rises more than 3% after supply-route disruptions, September 14, 2026",
+        "url": "https://www.reuters.com/business/energy/oil-prices-jump-more-than-3-after-new-strikes-saudi-strait-hormuz-2026-09-13/"
+      },
+      {
+        "title": "Reuters — Oman talks postponed and Saudi supply risk, September 14, 2026",
+        "url": "https://www.reuters.com/business/energy/diplomacy-stumbles-with-postponement-meeting-strait-hormuz-proposal-2026-09-13/"
+      },
+      {
+        "title": "Reuters — AI and chip shares fall in Asia, September 14, 2026",
+        "url": "https://www.reuters.com/world/china/ai-linked-asian-stocks-slump-after-top-lab-ceos-call-slowing-down-technologys-2026-09-14/"
+      },
+      {
+        "title": "Reuters — Dollar, bonds and rate expectations, September 14, 2026",
+        "url": "https://www.reuters.com/world/asia-pacific/dollar-steady-yen-near-7-month-high-ahead-fed-boj-meetings-2026-09-14/"
+      },
+      {
+        "title": "Federal Reserve — 2026 FOMC meeting calendar",
+        "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+      },
+      {
+        "title": "iShares — TLT yield and duration data",
+        "url": "https://www.ishares.com/us/products/239454/ishares-20-year-treasury-bond-etf"
+      }
+    ]
+  },
+  {
+    "id": "2026-09-13",
+    "date": "2026-09-13",
+    "publishedAt": "2026-09-13T05:06:25Z",
+    "title": "Morning Brief · Weekend Developments Put Oil and the Fed Back at the Center",
+    "summary": "September 13, 2026: Wall Street ended Friday higher and oil retreated from its peaks, but weekend developments in the Strait of Hormuz and at the Saudi oil pipeline renewed supply risk. Ahead of the new week, the decisive chain is oil, inflation and yields, culminating in Wednesday’s Fed decision.",
+    "sections": [
+      {
+        "heading": "1. Weekend news: supply risk rises again",
+        "body": "Reuters reported this morning that UKMTO had received a report of a projectile striking a vessel in the Strait of Hormuz. At the same time, Saudi Arabia temporarily closed the East–West pipeline after a drone attack. In recent months the pipeline had carried roughly four to five million barrels per day—about 4%–5% of global supply—and served as a major bypass while passage through Hormuz was restricted. These events occurred after Friday’s Wall Street close and were therefore not fully reflected in closing prices. A possible implication for the week’s open is a renewed oil risk premium, relative support for energy and renewed pressure on bonds and rate-sensitive equities."
+      },
+      {
+        "heading": "2. Friday was positive, but the week remained negative",
+        "body": "On Friday, the S&P 500 gained 0.86%, the Nasdaq 0.96% and the Dow Jones 0.98% after four consecutive declining sessions. For the week, however, the S&P 500 lost 0.8%, the Nasdaq fell 0.7% and the Dow declined 1.6%. The daily rebound was supported by oil retreating from its highs and a slight easing at the long end of the Treasury market. Brent settled at $104.61 and WTI at $100.05, although both still gained more than 8% for the week. Friday’s close therefore looked more like temporary relief than a confirmed change in trend."
+      },
+      {
+        "heading": "3. Headline inflation matched expectations, but energy keeps filtering through",
+        "body": "The U.S. Consumer Price Index rose 0.4% in August and 3.4% year over year. Core CPI increased 0.3% for the month and 2.4% over the year. Within the report, gasoline rose 3.9% for the month and energy overall gained 2.1%; over 12 months, energy was up 16.3%. The headline figure matched the forecast, but monthly core inflation exceeded the 0.2% consensus reported in market surveys. By Friday’s close, rate futures implied an approximately 87%–90% probability of a 25-basis-point hike on Wednesday. The more important question is no longer only whether the Fed will raise rates, but whether it presents the move as a one-off adjustment or the start of another tightening cycle."
+      },
+      {
+        "heading": "4. TLT and long Treasuries: an extreme zone, not a guaranteed bottom",
+        "body": "TLT closed Friday at $80.87, up just 0.11%, after an intraday low of $80.61. The U.S. 10-year yield ended near 4.96% and the 30-year around 5.35%–5.36%; during the week, the 30-year touched roughly 5.38%, its highest level since 2007. This is an area where TLT’s long-term risk-reward becomes more interesting, but weekend news could reactivate the oil–inflation–yields chain and produce further price weakness. A practical conclusion is to watch the 30-year yield around 5.35%–5.50% rather than treating a historically low fund price as proof that the bottom is in."
+      },
+      {
+        "heading": "5. Energy, uranium and metals",
+        "body": "XLE rose 0.35% on Friday to $65.14 even as oil fell nearly 3%, a relative-strength signal worth watching if crude opens higher again. URNM, by contrast, fell 4.06% to $52.38, while its official NAV declined 3.68%. No new verified fundamental event was found that could independently explain the drop, so it is more accurate for now to view it as sharp profit-taking in the miners basket rather than inventing a cause. Copper closed near $6.47 per pound, still close to recent highs, and gold recovered Friday to $4,363 per ounce despite higher rate expectations. The cross-asset message is mixed: markets are paying for scarcity and fiscal risk while punishing yield-sensitive assets as long-term rates rise."
+      },
+      {
+        "heading": "6. Securities on the watchlist",
+        "body": "BHF fell 1.40% on Friday to $50.11, with no newly verified transaction update. Against the stated $70 deal price, an unusually wide gap of roughly 39.7% remained, indicating that the market was still pricing completion and timing risk. TIGR declined 1.43% to $4.83, while JEPQ gained 0.79% to $59.78. In energy storage, there was no sufficiently material new public catalyst to turn the theme into a trade idea that morning. It remained on the radar because of the structural relationship between AI loads, grid-connection constraints and backup-power demand."
+      }
+    ],
+    "marketMap": "Market map for the week’s open: escalation in Hormuz and on the Saudi route → higher oil and risk premium → stronger inflation and rate-hike expectations → higher long-term yields → pressure on TLT and growth multiples. What could reverse the chain: a rapid pipeline restart, a breakthrough at Monday’s Oman meeting between Gulf states and Iran, or an oil price that fails to rise despite the news. Contrarian check: if oil opens higher but Treasury yields do not rise and TLT holds above its low, the market may already be saturated with fear and part of the negative scenario may already be priced in.",
+    "calendar": "Monday, September 14: meeting in Oman between Iran and Gulf states regarding the Strait of Hormuz; Reuters reported that expectations for a signed agreement were low. Regular U.S. trading opens at 4:30 p.m. Israel time.\nTuesday–Wednesday, September 15–16: FOMC meeting including economic projections.\nWednesday, September 16: the rate decision is expected at 9:00 p.m. Israel time, followed by the press conference at 9:30 p.m., based on the Fed’s regular release schedule.",
+    "takeaway": "U.S. markets are closed this morning, so no market price yet reflects Sunday’s news. The key question for the open is not whether TLT is already cheap, but whether the 30-year yield responds to the escalation by moving above the 5.35%–5.50% area. Until that signal arrives, Friday’s positive close alone is not enough to support a conclusion. This is market news and monitoring, not personalized advice.",
+    "sources": [
+      {
+        "title": "Reuters — Vessel strike and Saudi pipeline closure, September 13, 2026",
+        "url": "https://www.reuters.com/business/energy/new-report-attack-strait-hormuz-shipping-fans-fears-threats-oil-supplies-2026-09-13/"
+      },
+      {
+        "title": "BLS — Consumer Price Index for August 2026",
+        "url": "https://www.bls.gov/news.release/cpi.nr0.htm"
+      },
+      {
+        "title": "Reuters — Wall Street recap and Fed expectations, September 11, 2026",
+        "url": "https://www.reuters.com/business/wall-st-futures-recover-oil-slides-ahead-inflation-test-2026-09-11/"
+      },
+      {
+        "title": "Reuters — Oil and global supply, September 11, 2026",
+        "url": "https://www.reuters.com/business/energy/oil-prices-set-end-week-over-100-first-time-nearly-4-months-2026-09-11/"
+      },
+      {
+        "title": "Federal Reserve — 2026 FOMC meeting calendar",
+        "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+      },
+      {
+        "title": "Sprott — URNM data for September 11, 2026",
+        "url": "https://sprottetfs.com/urnm-sprott-uranium-miners-etf/"
+      }
+    ]
+  },
+  {
+    "id": "2026-09-10",
+    "date": "2026-09-10",
+    "publishedAt": "2026-09-10T19:50:42Z",
+    "title": "Evening Update · Inflation and Energy Take Center Stage",
+    "summary": "September 10, 2026: U.S. producer prices rose in August, higher Treasury yields weighed on equities, and attention turned to the Consumer Price Index and the Federal Reserve meeting. This is an intraday snapshot published before the Wall Street close.",
+    "sections": [
+      {
+        "heading": "1. Producer prices: energy stands out",
+        "body": "According to the BLS, the Producer Price Index for final demand rose 0.4% in August and 5.4% over the year. Excluding food, energy and trade services, the index increased 0.3% for the month and 4.7% year over year.\nThe energy component jumped 4.2%, while diesel fuel prices rose 24.1%. These are monthly changes in producer prices, not the daily move in crude oil.\nThe implication: producer-price pressure may eventually reach consumers, but pass-through is not automatic; corporate margins and demand also affect it."
+      },
+      {
+        "heading": "2. Wall Street: yields rise and equities weaken",
+        "body": "Reuters reported intraday declines in U.S. equities alongside higher Treasury yields and oil prices and renewed concern about inflation. These were interim figures, not closing data.\nInterpretation: higher yields intensify competition for investor capital and can weigh on growth-stock valuations. More expensive energy may support oil producers while raising costs for transport and industrial companies."
+      },
+      {
+        "heading": "3. American Eagle: the outlook outweighs the revenue beat",
+        "body": "According to Reuters, American Eagle shares fell roughly 11% intraday after the company guided to no improvement in gross margin in the following quarter and reported weakness in its core brand, despite revenue exceeding expectations.\nThe lesson: a stock’s response to earnings depends on guidance and prospective profitability as well as reported revenue. One company’s results are not enough to draw conclusions about the consumer as a whole."
+      }
+    ],
+    "marketMap": "The central chain this evening is energy → inflation → Treasury yields → equity valuations. This is an analytical framework, not a forecast: lower energy prices or a softer inflation reading could change the picture. It is important to distinguish broad-market moves from company-specific news.",
+    "calendar": "Tomorrow, September 11: U.S. Consumer Price Index for August at 3:30 p.m. Israel time, according to the BLS calendar.\nSeptember 15–16: Federal Reserve meeting, including economic projections, according to the Federal Reserve calendar.\nThese dates and times refer to scheduled releases, not results that have already been published.",
+    "takeaway": "The producer-price report points to price pressure, particularly in energy. Tomorrow’s CPI will be the next key checkpoint ahead of the Fed. This is market news and monitoring; each reader makes their own decisions.",
+    "sources": [
+      {
+        "title": "BLS — Producer Price Index for August, published September 10, 2026",
+        "url": "https://www.bls.gov/news.release/ppi.nr0.htm"
+      },
+      {
+        "title": "Reuters — Wall Street, yields and inflation, September 10, 2026",
+        "url": "https://www.reuters.com/business/sp-500-dow-futures-attempt-recovery-ahead-inflation-report-2026-09-10/"
+      },
+      {
+        "title": "Reuters — American Eagle results and outlook, September 10, 2026",
+        "url": "https://www.reuters.com/business/retail-consumer/american-eagle-shares-slide-flat-margin-outlook-weak-core-brand-weigh-2026-09-10/"
+      },
+      {
+        "title": "BLS — September 2026 release calendar",
+        "url": "https://www.bls.gov/schedule/2026/09_sched.htm"
+      },
+      {
+        "title": "Federal Reserve — FOMC meeting calendar",
+        "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+      }
+    ]
+  }
+]
