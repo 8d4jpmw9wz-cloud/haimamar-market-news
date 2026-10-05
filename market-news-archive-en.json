@@ -1,5 +1,143 @@
 [
   {
+    "id": "2026-10-04",
+    "date": "2026-10-04",
+    "title": "Jobs weakened — but the bond market is still refusing to give equities the full relief",
+    "summary": {
+      "changed": "The U.S. September jobs report was materially weaker than expected: nonfarm payrolls rose by 29,000 versus a 90,000 consensus, and the probability of the Fed leaving rates unchanged in October rose to about 80%. Even so, the U.S. 10-year Treasury yield resumed rising and ended Friday around 5.281%.",
+      "missed": "That is the key late-morning divergence: the market reduced the risk of an imminent Fed hike, but long-duration bonds are not signaling that structural pressure has disappeared. One plausible interpretation is that investors still demand a high premium for inflation, energy, fiscal deficits and debt supply — not only for the Fed policy rate.",
+      "watch": "U.S. cash markets are closed today. Before the new week opens, watch the OPEC+ decision, follow-up on the reported attack on an Aramco facility in Riyadh and the projectile strike on a tanker near Oman, and Monday's U.S. ISM services report — especially its prices component."
+    },
+    "sections": [
+      {
+        "heading": "1. The jobs report gave the Fed relief — not long-duration bonds",
+        "paragraphs": [
+          "U.S. nonfarm payrolls increased by only 29,000 in September versus a 90,000 forecast. Prior months were revised lower and the unemployment rate rose to 4.2%.",
+          "The initial market reaction was logical: investors reduced the probability of another October rate increase. Reuters reported that pricing moved to roughly an 80% probability that the Fed would keep rates unchanged, up from about 74% before the report.",
+          "But then came the more important signal: the U.S. 10-year Treasury yield, a key long-term cost of money that influences mortgages, corporate financing and equity valuations, resumed rising and ended around 5.281%. The two-year yield was around 4.827%. In other words, easier near-term Fed expectations were not enough to stop the bond selloff."
+        ]
+      },
+      {
+        "heading": "2. Stocks rose — but the stock-bond divergence deserves caution",
+        "paragraphs": [
+          "The S&P 500 rose 0.73% on Friday, the Nasdaq Composite gained 1.19% and the Dow Jones Industrial Average added 0.49%. Rate-sensitive equities benefited from the reduced probability of an October hike.",
+          "However, equities rose while Treasury yields moved higher again. That is a divergence — two markets responding differently to information that often affects both. If yields keep rising at the start of the week, equities will have to choose between continuing to ignore them or repricing the cost of capital.",
+          "TLT is an ETF holding U.S. Treasuries with maturities of 20 years or more, making it especially sensitive to changes in long-term yields. For the thesis, lower odds of a short-term rate hike are not enough; the key question is whether long yields begin a sustained decline."
+        ]
+      },
+      {
+        "heading": "3. Oil closed weak on Friday — but the weekend restored the risk premium",
+        "paragraphs": [
+          "Brent settled Friday at $102.25 a barrel and WTI at $91.11. Downward pressure followed a G7 agreement to coordinate the release of 100 million barrels of diesel and oil reserves through the International Energy Agency, beginning immediately and running over four months.",
+          "Two risk events followed the close: the Houthis said they attacked a Saudi Aramco facility in Riyadh with missiles and drones, and UKMTO reported that a crude tanker was struck by an unidentified projectile near Oman. Saudi authorities and Aramco had not immediately confirmed the Riyadh attack, so the Houthi claim must be separated from verified damage.",
+          "XLE is an ETF holding the largest energy companies in the S&P 500. If crude opens the week higher despite the reserve release, that would indicate the market is assigning more weight to physical supply risk than to government inventories."
+        ]
+      },
+      {
+        "heading": "4. OPEC+ today: the quota headline matters less than actual production",
+        "paragraphs": [
+          "OPEC+, the group of oil exporters and allies including Russia, is due to meet today. Sources speaking to Reuters before the meeting said the seven core producers were expected to keep November output targets unchanged; no final decision had been made when this brief was written.",
+          "The more important fact is that Gulf producers are still pumping materially below targets because of war-related disruptions. OPEC data cited by Reuters showed the seven producers at about 25 million barrels per day in August — roughly 5 million bpd below February's pre-war level.",
+          "Therefore, 'no change in the quota' is not necessarily bearish for oil. If actual capacity to restore barrels remains constrained, the official target alone does not increase physical supply."
+        ]
+      },
+      {
+        "heading": "5. Nuclear and power: the Vistra report remains important, but it is a separate story",
+        "paragraphs": [
+          "Vistra is a U.S. power producer that also operates six nuclear reactors at four stations. Reuters reported that the U.S. government is expected to lend it about $4.2 billion to increase output at at least three stations, with an official announcement expected Monday.",
+          "The move strengthens the thesis that existing power infrastructure is being upgraded to meet data-center demand, but there is still no official number for additional megawatts, timeline or fuel plan. That means the impact on uranium cannot yet be quantified.",
+          "URNM is an ETF of uranium miners and nuclear-fuel-chain companies. The positive signal would strengthen if the official announcement includes meaningful added output and a fuel plan that raises uranium consumption; it would weaken if most spending is equipment and maintenance with little change in fuel demand."
+        ]
+      },
+      {
+        "heading": "6. Watchlist — what has to happen for the picture to change",
+        "bullets": [
+          "Long Treasuries and TLT: positive if the 10-year yield begins falling despite services data and energy headlines; negative if it returns to the recent high around 5.34% or breaks above it.",
+          "U.S. equities: Friday's rally gains confirmation if stocks keep strengthening while yields stabilize or decline. If yields rise and stocks weaken, Friday's divergence closes in the negative direction.",
+          "Oil and XLE: positive if crude rises after the OPEC+ decision and the Saudi/Oman headlines; weaker if the G7 reserve release keeps Brent and WTI under pressure.",
+          "Vistra and URNM: wait for Monday's official announcement and the megawatt, timing and fuel details before drawing a quantitative conclusion.",
+          "Monday, October 5: the U.S. ISM Services PMI is released at 10:00 a.m. New York time. Beyond the headline index, the prices component will be especially important given pressure in the bond market."
+        ]
+      }
+    ],
+    "market_map": [
+      "Weaker-than-expected jobs growth → less pressure for an October Fed hike → equities rise.",
+      "But the 10-year yield rises to 5.281% → long-term pressure remains → TLT and equity multiples stay sensitive.",
+      "A 100-million-barrel G7 reserve release → pressure to reduce fuel and crude prices.",
+      "Reported Aramco attack + tanker strike near Oman + expected unchanged OPEC+ target → the energy risk premium can return."
+    ],
+    "catalysts": {
+      "24 hours": [
+        "Today: OPEC+ meeting and November output-target decision.",
+        "Watch for official confirmation or damage assessment following the reported Riyadh Aramco incident and the tanker strike near Oman.",
+        "Monday: expected U.S. government and Vistra announcement on roughly $4.2 billion of financing for nuclear-output uprates."
+      ],
+      "7 days": [
+        "October 5: September ISM Services PMI; the key test is the combination of activity and prices.",
+        "October 7: minutes of the Federal Reserve's September meeting.",
+        "October 8: PepsiCo reports third-quarter results.",
+        "October 9: University of Michigan consumer sentiment and Delta Air Lines earnings."
+      ],
+      "30 days": [
+        "October 14: U.S. September Consumer Price Index.",
+        "October 27–28: Federal Reserve meeting.",
+        "November 3: U.S. midterm elections, which may increase volatility around fiscal and energy policy."
+      ]
+    },
+    "contrarian": {
+      "consensus": "A weak jobs report should ease the bond market and support equities because the Fed can pause rate hikes.",
+      "why_right": "If labor-market softness continues without another inflation acceleration, the Fed can wait and both short- and long-term yields may fall.",
+      "why_wrong": "Long-term bonds also price inflation, energy, fiscal deficits, debt supply and term premium. Friday already showed that long bonds can sell off even as the probability of a near-term rate hike falls.",
+      "falsifiers": [
+        "The structural-pressure thesis weakens if the 10-year yield falls clearly and persistently after the ISM data and energy developments.",
+        "It strengthens if the yield returns to recent highs despite softer data and less hawkish Fed expectations."
+      ]
+    },
+    "bottom_line": [
+      "There is no new U.S. market price this late morning, but Friday's close sent a clear message: the Fed is only part of the story. The labor market cooled, stocks rose, and long-duration bonds still sold off.",
+      "That makes the 10-year yield, the OPEC+ decision and the ISM services prices component the three most important variables for the week's open. If long yields do not calm down, easier near-term Fed expectations may be less bullish for equities than the headline suggests."
+    ],
+    "disclaimer": "This is a market-news and monitoring brief, not personalized investment advice.",
+    "sources": [
+      {
+        "title": "Reuters — Stocks rise after weak U.S. jobs data but bonds resume selling, Oct. 2, 2026",
+        "url": "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-10-02/"
+      },
+      {
+        "title": "Reuters — G7 to release 100 million barrels of diesel and other reserves, Oct. 2, 2026",
+        "url": "https://www.reuters.com/business/energy/g7-release-100-million-barrels-diesel-other-reserves-through-iea-2026-10-02/"
+      },
+      {
+        "title": "Reuters — Houthis say they attacked an Aramco facility in Riyadh, Oct. 3, 2026",
+        "url": "https://www.reuters.com/business/energy/fire-smoke-seen-near-aramco-facility-riyadh-witness-says-2026-10-03/"
+      },
+      {
+        "title": "Reuters — Crude tanker struck by projectile near Oman, Oct. 3, 2026",
+        "url": "https://www.reuters.com/business/energy/crude-oil-tanker-struck-by-unknown-projectile-off-oman-ukmto-says-2026-10-02/"
+      },
+      {
+        "title": "Reuters — OPEC+ expected to keep output targets steady, Sept. 30, 2026",
+        "url": "https://www.reuters.com/business/energy/opec-oil-producers-set-keep-output-targets-steady-sunday-meeting-sources-say-2026-09-30/"
+      },
+      {
+        "title": "Reuters — U.S. to lend about $4.2 billion to Vistra, Oct. 3, 2026",
+        "url": "https://www.reuters.com/legal/litigation/us-lend-42-billion-vistra-boost-nuclear-power-output-source-says-2026-10-03/"
+      },
+      {
+        "title": "ISM — PMI release-date calendar",
+        "url": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"
+      },
+      {
+        "title": "Federal Reserve — FOMC calendars and minutes",
+        "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+      },
+      {
+        "title": "PepsiCo — Q3 2026 earnings release timing",
+        "url": "https://www.pepsico.com/en/newsroom/press-releases/2026/pepsico-announces-timing-and-availability-of-third-quarter-2026-financial-results"
+      }
+    ]
+  },
+  {
     "id": "2026-10-03",
     "date": "2026-10-03",
     "title": "The weak jobs report lowered the odds of a hike — but long bonds were not convinced",
