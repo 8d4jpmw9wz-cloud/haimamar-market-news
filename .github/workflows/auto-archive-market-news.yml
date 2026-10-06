@@ -1,0 +1,129 @@
+name: Auto-archive previous market brief
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - market-news.json
+      - market-news-en.json
+
+permissions:
+  contents: write
+
+concurrency:
+  group: market-news-auto-archive
+  cancel-in-progress: false
+
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out triggering commit with history
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Archive previous feed entries when the date changes
+        shell: bash
+        run: |
+          python - <<'PY'
+          import json
+          import subprocess
+          from pathlib import Path
+
+          PAIRS = [
+              ("market-news.json", "market-news-archive.json"),
+              ("market-news-en.json", "market-news-archive-en.json"),
+          ]
+
+          def load_json_text(text, label):
+              try:
+                  data = json.loads(text)
+              except Exception as e:
+                  raise SystemExit(f"{label} is not valid JSON: {e}")
+              if not isinstance(data, list):
+                  raise SystemExit(f"{label} must be a JSON array")
+              return data
+
+          changed = []
+
+          for feed_path, archive_path in PAIRS:
+              current_path = Path(feed_path)
+              archive_file = Path(archive_path)
+
+              if not current_path.exists() or not archive_file.exists():
+                  raise SystemExit(f"Missing required file: {feed_path} or {archive_path}")
+
+              current = load_json_text(current_path.read_text(encoding="utf-8"), feed_path)
+              archive = load_json_text(archive_file.read_text(encoding="utf-8"), archive_path)
+
+              if len(current) != 1:
+                  raise SystemExit(f"{feed_path} must contain exactly one current brief")
+
+              try:
+                  previous_text = subprocess.check_output(
+                      ["git", "show", f"HEAD^:{feed_path}"],
+                      text=True,
+                      encoding="utf-8",
+                  )
+              except subprocess.CalledProcessError:
+                  # No prior version available: nothing to archive.
+                  continue
+
+              previous = load_json_text(previous_text, f"HEAD^:{feed_path}")
+              if not previous:
+                  continue
+
+              previous_item = previous[0]
+              current_item = current[0]
+
+              prev_id = previous_item.get("id")
+              curr_id = current_item.get("id")
+              if not prev_id or not curr_id:
+                  raise SystemExit(f"Missing id in {feed_path}")
+
+              # Same-day replacement: do not archive the replaced version.
+              if prev_id == curr_id:
+                  continue
+
+              # Full-object upsert at the front; never keep duplicate IDs.
+              new_archive = [previous_item] + [x for x in archive if x.get("id") != prev_id]
+
+              # Safety checks: prior history must not shrink or lose IDs.
+              old_ids = {x.get("id") for x in archive if x.get("id")}
+              new_ids = {x.get("id") for x in new_archive if x.get("id")}
+              if not old_ids.issubset(new_ids):
+                  missing = sorted(old_ids - new_ids)
+                  raise SystemExit(f"Refusing to write {archive_path}; would lose IDs: {missing}")
+
+              archive_file.write_text(
+                  json.dumps(new_archive, ensure_ascii=False, indent=2) + "\n",
+                  encoding="utf-8",
+              )
+              changed.append(archive_path)
+
+          if changed:
+              print("Updated archives:", ", ".join(changed))
+          else:
+              print("No archive update needed.")
+          PY
+
+      - name: Commit archive update
+        shell: bash
+        run: |
+          if git diff --quiet -- market-news-archive.json market-news-archive-en.json; then
+            echo "No archive changes to commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add market-news-archive.json market-news-archive-en.json
+          git commit -m "Auto-archive previous market brief"
+
+          # A second language/feed commit may have landed after this workflow started.
+          # Rebase onto the newest main branch before pushing.
+          git pull --rebase origin main
+          git push origin HEAD:main
