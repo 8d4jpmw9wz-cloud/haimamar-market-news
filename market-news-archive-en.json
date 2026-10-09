@@ -1,5 +1,99 @@
 [
   {
+    "id": "2026-10-08",
+    "date": "2026-10-08",
+    "title": "U.S. Treasuries versus the AI boom: demand holds, but capital costs rise",
+    "summary": {
+      "changed": "The $39 billion U.S. 10-year Treasury auction cleared at 5.300%, with a bid-to-cover ratio of 2.77. Fed minutes discussed preparedness for Treasury-market stress.",
+      "missed": "Investors may be missing that enormous AI capital spending is not only a growth driver — it also competes for capital with government borrowing.",
+      "watch": "Watch the $22 billion U.S. 30-year Treasury auction on October 8, bond yields, oil, and semiconductor shares."
+    },
+    "sections": [
+      {
+        "heading": "1. Treasury auction: strong demand at high yields",
+        "paragraphs": [
+          "The U.S. Treasury sold $39 billion of 10-year notes at 5.300%, with a 2.77 bid-to-cover ratio versus a 2.54 six-auction average. Primary dealers took roughly 2.5%, suggesting strong end-investor demand.",
+          "Interpretation: this is evidence of demand in one auction, not proof that U.S. fiscal risk has disappeared. Higher bond yields mean lower prices for existing bonds."
+        ]
+      },
+      {
+        "heading": "2. Fed minutes: prepare for dysfunction, not necessarily a rescue",
+        "paragraphs": [
+          "Minutes of the U.S. Federal Reserve’s September 15–16 meeting said some participants favored better preparedness for Treasury-market dysfunction while limiting the central bank’s footprint.",
+          "The minutes do not announce bond purchases or imminent intervention. This distinction matters for TLT, an ETF holding U.S. Treasuries with 20 years or more remaining to maturity, which is highly sensitive to long-term yields."
+        ]
+      },
+      {
+        "heading": "3. AI infrastructure competes for financing",
+        "paragraphs": [
+          "Reuters reported that SpaceX is exploring roughly $40 billion of financing to buy AI chips from Nvidia, a designer of accelerated-computing processors. This is a reported financing plan, not a completed transaction.",
+          "The possible implication is greater competition for capital as governments and large companies borrow simultaneously. There is no proof that this particular deal caused the yield moves."
+        ]
+      },
+      {
+        "heading": "4. Oil is shaping market sentiment again",
+        "paragraphs": [
+          "In October 8 morning trading, Brent crude rose above $104 per barrel amid concerns about Middle East and Gulf of Mexico supply disruptions, while U.S. equity-index futures weakened.",
+          "This is a difficult combination: expensive energy can pressure inflation and bond yields even as it benefits some energy producers. XLE is an ETF tracking major U.S. energy stocks."
+        ]
+      },
+      {
+        "heading": "5. Chips: strong numbers do not guarantee positive stock reactions",
+        "paragraphs": [
+          "South Korea’s Samsung Electronics, a semiconductor and electronics manufacturer, posted strong preliminary results but reportedly fell short of market expectations, and its shares declined.",
+          "Watch Micron (MU), a memory-chip producer; Western Digital (WDC), a data-storage company; and Nvidia (NVDA). Separate demand, pricing, margins, and market reactions."
+        ]
+      }
+    ],
+    "market_map": [
+      "Bonds: strong auction but expensive funding.",
+      "AI: demand growth versus high financing costs.",
+      "Energy: higher oil may complicate disinflation."
+    ],
+    "catalysts": {
+      "24 hours": [
+        "October 8: $22 billion U.S. 30-year Treasury auction.",
+        "Monitor oil prices and U.S. index futures."
+      ],
+      "7 days": [
+        "October 9: University of Michigan consumer sentiment.",
+        "October 14: U.S. consumer price index."
+      ],
+      "30 days": [
+        "October 27–28: Federal Reserve meeting."
+      ]
+    },
+    "contrarian": {
+      "consensus": "Rising yields mean weak demand for U.S. debt and imminent market stress.",
+      "why_right": "Large deficits and issuance plus energy inflation can lift risk premiums.",
+      "why_wrong": "The 10-year auction showed strong demand at elevated yields. Higher yields can attract buyers.",
+      "falsifiers": [
+        "The bearish case strengthens if the 30-year auction is weak and credit spreads widen.",
+        "The bullish case strengthens if Treasury demand holds and energy prices stabilize."
+      ]
+    },
+    "bottom_line": "The test is not just whether AI keeps growing, but whether that growth justifies high capital costs. The 10-year auction calmed some fears; the 30-year auction is next.",
+    "disclaimer": "News analysis only; not personalized investment advice.",
+    "sources": [
+      {
+        "title": "Reuters — Fed minutes and Treasury market stress, October 7",
+        "url": "https://www.reuters.com/business/fed-minutes-show-some-officials-want-prepare-market-stress-2026-10-07/"
+      },
+      {
+        "title": "Reuters — U.S. Treasury auction and yields, October 7",
+        "url": "https://www.reuters.com/business/us-30-year-bond-yield-hits-fresh-24-year-high-2026-10-07/"
+      },
+      {
+        "title": "Reuters — Trading Day: Stocks, bonds in delicate dance, October 7",
+        "url": "https://ca.marketscreener.com/news/trading-day-stocks-bonds-in-delicate-dance-ce785ddedc89f22c"
+      },
+      {
+        "title": "WSJ — Global Stocks Fall on Higher Oil Prices, October 8",
+        "url": "https://www.wsj.com/finance/commodities-futures/global-stocks-fall-on-higher-oil-prices-ai-pullback-05f7b87e"
+      }
+    ]
+  },
+  {
     "id": "2026-10-07",
     "date": "2026-10-07",
     "title": "AI is starting to buy its own power — and that changes the infrastructure trade",
