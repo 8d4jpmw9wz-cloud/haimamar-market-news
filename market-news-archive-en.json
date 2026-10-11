@@ -1,5 +1,124 @@
 [
   {
+    "id": "2026-10-10",
+    "date": "2026-10-10",
+    "title": "Stocks near records, consumers near despair: the hidden cost-of-capital divide",
+    "summary": {
+      "changed": "Friday: S&P 500 +0.59%, Nasdaq +0.64%, Dow +0.83%, while Michigan sentiment fell to 46.3 against a 47.8 consensus.",
+      "missed": "Stock-market strength and consumer weakness can coexist when high-income households drive spending. The risk lies in earnings breadth and expensive financing.",
+      "watch": "October 14 CPI, big-bank earnings, oil near $105, 10-year yields around 5.24%, credit spreads."
+    },
+    "sections": [
+      {
+        "heading": "1. Wall Street near records, consumers near despair: who funds the gap?",
+        "paragraphs": [
+          "Friday close: the S&P 500 rose 0.59% to 7,811.54; Nasdaq gained 0.64% to 27,366.17; Dow advanced 0.83% to 51,654.95; Russell 2000 added roughly 0.5% to 2,806.98. Year-to-date gains were 14.1%, 17.7%, 7.5% and 13.1%, respectively. For the week, the S&P gained 1.2% while Russell fell 0.9%: participation is uneven. Source: AP.",
+          "University of Michigan's preliminary October consumer sentiment fell to 46.3 from 48.1 in September, below Reuters' 47.8 consensus. Current conditions plunged to 44.7 from 50.9. One-year inflation expectations rose to 4.7% from 4.6%, and five-year expectations to 3.5% from 3.4%. According to the survey, 54% expect to cut purchases of sharply more expensive items and about 16% to stop buying. Interpretation: affluent consumers and strong stock portfolios can conceal financial stress among weaker households. Sentiment alone does not establish a collapse in actual spending.",
+          "Testable thesis: stock prices anticipate strong future earnings while financially stretched consumers and costly capital complicate delivery. Lower guidance, consumer credit deterioration and shrinking margins would support it; broad earnings and free-cash-flow growth would challenge it."
+        ]
+      },
+      {
+        "heading": "2. U.S. Treasuries: yields stay high despite a well-received auction",
+        "paragraphs": [
+          "The U.S. 10-year Treasury yield closed Friday around 5.24%, the 30-year near 5.60%, and the two-year near 4.79%. These are financing benchmarks, not the interest rate every company pays. Higher yields generally reduce the present value of distant profits, especially for growth firms.",
+          "Thursday's 30-year Treasury auction cleared at 5.618% with a 2.54 bid-to-cover ratio. Strong demand does not make the borrowing cheap: the Treasury had to offer a historically elevated yield. TLT is an ETF of long-dated U.S. Treasuries; its price generally rises as long yields fall, and vice versa.",
+          "Contrarian case: sufficiently high yields may attract enough investors to stabilize the bond market without a Fed rate cut. Monitor further auctions, credit spreads, term premium and inflation expectations; 6% is not a certain forecast."
+        ]
+      },
+      {
+        "heading": "3. Oil and the dollar: pressure travels from crude to households",
+        "paragraphs": [
+          "Brent crude ended Friday around $104.72 per barrel and WTI near $91.85 after intraday volatility and supply concerns. These are October 9 closing prices, not live Saturday quotes. Higher energy costs can hurt airlines, freight and industry while benefiting some oil producers.",
+          "Crude and refined fuels must be distinguished: refinery margins, inventories, transport and taxes can make diesel and gasoline behave differently. XLE is an ETF of major U.S. energy companies, not a Brent futures contract.",
+          "If oil falls and stabilizes, inflation pressure may ease; sustained high prices complicate the Fed's decisions. This is scenario analysis, not proven causality in every instance."
+        ]
+      },
+      {
+        "heading": "4. The Fed and inflation: household expectations versus equity prices",
+        "paragraphs": [
+          "Reuters reported that the Fed raised its policy rate 25 basis points in September to a 3.75%–4.00% range. Higher Michigan survey inflation expectations are not actual CPI. The September U.S. consumer price index is scheduled for Wednesday, October 14.",
+          "Reuters cited forecasts around 3.7% year-over-year for headline CPI and 2.5% for core; these are estimates, not released figures. Composition matters: services, energy and month-over-month trends. An upside surprise may lift yields and pressure multiples; a downside surprise could support risk assets.",
+          "Watch inflation expectations, 10-year yields, Fed policy pricing and credit spreads. Consumer pessimism alone does not imply a Fed cut."
+        ]
+      },
+      {
+        "heading": "5. Companies tell a more complex story than indexes",
+        "paragraphs": [
+          "Delta Air Lines (DAL), a U.S. airline, lowered its earnings outlook amid expensive fuel. The issue is not just ticket demand: profitability depends on fuel costs, pricing and pass-through. Revenue growth need not translate into earnings-per-share growth.",
+          "SpaceX, a privately held aerospace and satellite-communications company, acquired spectrum rights in a reported $8 billion transaction to expand Starlink Mobile. Traditional wireless carriers sold off while cell-tower operators rallied, distinguishing competitive threats from infrastructure opportunities. AP reported T-Mobile down 13.3%, AT&T down 9.8%, Verizon down 8.7%, Crown Castle up 15.6% and American Tower up 9.3%. This does not prove satellites will replace terrestrial networks.",
+          "Humana (HUM), a U.S. health insurer, gained 11.6% according to AP after favorable developments in Medicare Advantage plan ratings. Regulatory and operating measures can move valuations more than broad-index fluctuations. Watch the eventual impact on bonus payments, not only the day's share-price move."
+        ]
+      },
+      {
+        "heading": "6. AI infrastructure: real chip demand, uncertain returns on capital",
+        "paragraphs": [
+          "TSMC, the leading contract chip manufacturer and a supplier to Nvidia and Apple, reported sharp third-quarter revenue growth. Its upcoming full report will test margins, capital expenditure and capacity. Nvidia (NVDA) designs AI accelerators, Micron (MU) makes memory chips and Oracle (ORCL) supplies cloud services; their business models and risks differ.",
+          "This week Reuters highlighted inconsistent annualized-revenue accounting conventions among private AI firms. An annualized revenue run rate is not a full year's collected revenue. Reporting differences do not prove demand has vanished, but complicate valuation comparisons.",
+          "Thesis: the next risk is not necessarily a shortage of computing demand, but financing costs and converting orders into free cash flow. Track gross margins, net debt, capex, purchase commitments and backlog-to-revenue conversion."
+        ]
+      },
+      {
+        "heading": "7. Next week's map: what changes the thesis",
+        "paragraphs": [
+          "The U.S. big-bank earnings season begins in the trading week of October 12. Reuters expects results from JPMorgan Chase, Citigroup, Goldman Sachs and Wells Fargo during the week. Focus on credit-loss provisions, deposit costs, net interest income and capital-markets activity. Verify precise release dates with investor-relations calendars.",
+          "U.S. CPI is scheduled for Wednesday October 14, and TSMC's earnings call for October 15. Watch Treasury yields, oil, market breadth, margins and guidance. Regular U.S. equity trading is closed on Saturday; all index prices above are from Friday's close.",
+          "Bull case: cooling inflation, stable yields and reports confirming earnings and cash generation. Bear case: costly energy, wider credit spreads and guidance cuts. Contrarian test: equities may anticipate a real-economy recovery, so weak consumer sentiment alone is not a sell signal."
+        ]
+      }
+    ],
+    "market_map": [
+      "S&P 500 7,811.54 (+0.59%); Nasdaq 27,366.17 (+0.64%); Dow 51,654.95 (+0.83%).",
+      "Michigan sentiment 46.3 vs 47.8 forecast; current conditions 44.7.",
+      "10-year U.S. Treasury yield about 5.24%; 30-year about 5.60%.",
+      "Brent around $104.72/bbl; WTI around $91.85/bbl at Friday close.",
+      "Sectors: telecom disruption, cell-tower gains, energy-cost pressure on airlines."
+    ],
+    "catalysts": {
+      "7 days": [
+        "October 12–16: U.S. major-bank earnings; verify individual release dates.",
+        "October 14: U.S. CPI report.",
+        "October 15: TSMC earnings call."
+      ],
+      "30 days": [
+        "Federal Reserve policy decision later in October; monitor yields and inflation expectations."
+      ]
+    },
+    "contrarian": {
+      "thesis": "High equity prices mask a consumer and financing squeeze.",
+      "counter": "Wealthier consumers can support spending and high yields can attract bond demand; sentiment is not spending.",
+      "confirm": "Weak earnings guidance, wider credit spreads, higher financing costs.",
+      "disprove": "Broad earnings and cash-flow strength, cooling inflation and stabilizing yields."
+    },
+    "bottom_line": "The key divide is between market-index performance and the financial resilience of consumers and companies. CPI and earnings will test whether high valuations are justified by real cash flows.",
+    "disclaimer": "Independent market commentary, not personal investment advice. Prices are Friday closing observations, not live Saturday quotes. Interpretations are labeled as hypotheses.",
+    "sources": [
+      {
+        "title": "AP: How major US stock indexes fared Friday, October 9",
+        "url": "https://apnews.com/article/dafbd0c4037ee10e2a9e305f3cfa8e70"
+      },
+      {
+        "title": "Reuters: Consumer sentiment deteriorates further in October",
+        "url": "https://www.reuters.com/business/us-consumer-sentiment-deteriorates-further-october-2026-10-09/"
+      },
+      {
+        "title": "Reuters: Bank earnings and CPI headline week ahead",
+        "url": "https://www.reuters.com/business/wall-st-week-ahead-bank-earnings-cpi-headline-busy-markets-week-sp-500-hovers-2026-10-09/"
+      },
+      {
+        "title": "AP: Wall Street finishes record-setting week with gains",
+        "url": "https://apnews.com/article/5d0f953dbf96febb0690c1aef23fa8a9"
+      },
+      {
+        "title": "Reuters: US stocks weekly gains and inflation outlook",
+        "url": "https://www.fidelity.com/news/article/us-markets/202610091600RTRSNEWSCOMBINED_L6N45V10L_1"
+      },
+      {
+        "title": "Reuters: Trading Day AI financing and 30-year Treasury auction",
+        "url": "https://www.reuters.com/commentary/reuters-open-interest/global-markets-trading-day-graphic-2026-10-08/"
+      }
+    ]
+  },
+  {
     "id": "2026-10-09",
     "date": "2026-10-09",
     "title": "The bond auction found buyers. AI stocks now need to prove they can earn their cost of capital",
