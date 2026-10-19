@@ -1,5 +1,222 @@
 [
   {
+    "id": "2026-10-14",
+    "date": "2026-10-14",
+    "title": "Factories inflate, consumers stall: the AI boom faces two different profit tests",
+    "summary": {
+      "changed": "China's September PPI jumped 5.0% versus a 4.5% forecast while CPI rose only 0.9%; JPMorgan missed EPS expectations, Goldman beat, and U.S. chips weakened despite flat benchmarks.",
+      "missed": "The market faces two separate squeezes: costs rising faster than consumers' willingness to pay, and AI capital spending financed at long Treasury yields above 5%. Bank equities desks can prosper from volatility even as dealmaking slows.",
+      "watch": "Today: ASML results and U.S. CPI at 08:30 ET; monitor core inflation, 10-year yields, MU/WDC memory supply, Brent near $106 and credit provisions."
+    },
+    "sections": [
+      {
+        "heading": "01 | Not all inflation is alike: Chinese factory prices surge while households remain weak",
+        "paragraphs": [
+          "New China data released October 14: September producer prices (PPI) jumped 5.0% year over year, up from 3.8% in August and above the 4.5% Reuters consensus. That is a 0.5 percentage-point upside surprise and the fastest increase since June 2022. Consumer prices, by contrast, rose only 0.9%, versus 0.8% in August and a 1.0% forecast; core consumer inflation was 1.0% year over year. Reuters cited China's official statistics agency.",
+          "The 4.1 percentage-point gap between PPI and CPI is not a guaranteed producer profit margin. It suggests that input, fuel and chemical prices are rising much faster than consumer-basket prices. If companies cannot pass costs on, margins can compress; businesses with pricing power or indexed contracts may be more resilient. This matters to valuations in industrials, autos, chemicals and freight, not just to macro headlines.",
+          "Chinese gasoline prices increased 16.6% year over year, adding roughly 0.47 percentage points to consumer inflation. Beijing also authorized an additional 550 billion yuan of local-government bond quota for projects. Domestic demand remains weak; cost-push inflation should not be mistaken for evidence of healthy demand."
+        ]
+      },
+      {
+        "heading": "02 | Wall Street: a quiet index masks a sharp sector rotation",
+        "paragraphs": [
+          "At the October 13 U.S. close, the S&P 500 slipped 0.02% to 7,805.45, the Nasdaq lost 0.15% to 27,204.38, the Dow fell 0.35% to 51,670.10, and the Russell 2000 declined about 0.40% to 2,783.37. AP's year-to-date returns were approximately +14.0%, +17.0%, +7.5% and +12.1%, respectively. The broad benchmark barely moved, but small caps and memory-related names were under pressure.",
+          "Reuters reported that the Philadelphia semiconductor index was down about 1.5% during Tuesday's session, its fifth consecutive down day, even though it remained up more than 70% year to date. At the report's timestamp MU was down roughly 4.5%, WDC 5.8%, Seagate 5.9%, and Sandisk 4.3%. These were intraday observations, not necessarily final closing changes. The distinction is important when monitoring memory and storage holdings.",
+          "Early October 14 Asian trading brought a partial rebound: MSCI Asia-Pacific ex-Japan was up around 0.5%, the Kospi 1.8%, and Nikkei 0.2% when Reuters reported; Samsung and SK Hynix gained more than 2%. One rebound does not establish a bottom. DRAM and NAND contract pricing, supply, inventory and gross margins are more decisive than a one-day stock chart."
+        ]
+      },
+      {
+        "heading": "03 | Bank earnings revealed two economies: equity trading thrives while debt and underwriting struggle",
+        "paragraphs": [
+          "JPMorgan reported $15.3 billion in net income and $5.57 in EPS, below the $5.85 LSEG consensus by roughly 4.8%. Excluding a $498 million after-tax unusual securities loss, EPS was $5.75, still below $5.85. Managed revenue was $50.9 billion versus reported revenue of $50.2 billion; the two accounting bases should not be mixed. Credit costs were $2.7 billion, including $2.2 billion of net charge-offs and a $539 million reserve build.",
+          "The non-obvious split: JPMorgan's equities trading revenue rose 49% year over year, while fixed-income trading fell 4%; investment-banking fees rose 14% from a year earlier but declined 8% sequentially. Average loans grew 10% year over year, average deposits 8%, and card purchase volumes 10%. That does not prove consumers are collapsing. It shows financing and dealmaking reacting differently from household spending.",
+          "Goldman Sachs posted EPS of $17.01 versus a Reuters-reported consensus near $13.02, on $18.68 billion of revenue; equities trading revenue surged 72% to $6.44 billion. Citi reported $23.8 billion in revenue, $5.2 billion in net income and $2.85 in EPS. This is not a simple league table of bank quality: businesses, reporting bases and one-offs differ. Volatility can enrich an equities desk while simultaneously hurting underwriting, bond markets and equity multiples."
+        ]
+      },
+      {
+        "heading": "04 | The 5.21% 10-year yield: the price entering every valuation model",
+        "paragraphs": [
+          "The U.S. Treasury's official October 13 curve showed 2-year yields at 4.79%, 10-year at 5.21% and 30-year at 5.56%. Versus October 9, the 10-year eased from 5.24% to 5.21%, and the 30-year from 5.60% to 5.56%. This is a modest correction within a high-yield regime, not evidence of a lasting turn. Reuters' October 14 live snapshot put the 10-year near 5.221% and 30-year near 5.569%. Treasury figures are official daily observations; Reuters provides a later trading snapshot.",
+          "Valuation arithmetic: for an unchanged cash flow payable in ten years, raising the discount rate from 8% to 9% cuts its present value by roughly 8.8%, even if earnings expectations do not change. This is a mathematical illustration, not a valuation of a specific company. Long-duration Treasury ETFs such as TLT are particularly rate-sensitive: when yields rise, bond prices generally fall; exact changes depend on duration and convexity.",
+          "The IMF warns that sovereign and private debt issuance is rising while central banks shrink balance sheets, potentially lifting term premiums and the yield needed to attract buyers. Yet Tuesday's decline in yields also demonstrates safe-haven demand in a stressed market. The response to inflation data will matter more than any single record-yield headline."
+        ]
+      },
+      {
+        "heading": "05 | Oil: 28 million option contracts tell more than a $106 headline",
+        "paragraphs": [
+          "Brent settled October 13 at $105.69 a barrel, down about 0.9%, while WTI settled at $94.14, up about 0.4%. By 03:45 GMT on October 14, Brent traded near $106.32 and WTI near $94.80 after reports of two vessels being struck in the Strait of Hormuz and heightened Saudi-related tensions. These are intraday quotes, not settlement prices. The full damage, attribution and supply implications remain incompletely verified.",
+          "ICE reported a record 28 million Brent option contracts traded in Q3. Average daily options volume climbed 63% year over year to more than 437,200 contracts. Brent ranged from $70 in July to $110 in September, a $40 range versus roughly $9 in Q3 2025. January–September options volume reached 75.1 million contracts, already above all of 2025's 62.2 million.",
+          "Interpretation: airlines, refiners, freight operators and producers are paying attention to budget protection and hedging; rising option volumes do not by themselves prove a one-way bet on higher oil. The spread between crude, diesel and insurance or hedging costs can determine profitability. Possible increases in Russian diesel supply offer a counterweight; an announced political arrangement should not be treated as fully delivered barrels."
+        ]
+      },
+      {
+        "heading": "06 | China is reallocating AI chip market share — and memory equities are reacting",
+        "paragraphs": [
+          "An IDC report cited by Reuters found Nvidia shipped 678,000 AI accelerators to China in H1 2026, down 44% year over year, and accounted for 34% of unit shipments. Huawei shipped 572,000, reaching 28%. The market totaled about 2.008 million units. These are unit shares, not revenue shares, profit shares or proof of equivalent technical performance.",
+          "Non-GPU accelerators reached roughly 1.016 million units, up nearly 80%, exceeding GPU shipments of about 991,000, down 26%. Competition increasingly operates at the system level: memory, networking, software, power consumption and support can matter as much as one chip's benchmarks. U.S. export controls distort direct market-share comparisons; the numbers do not prove Nvidia lost its global advantage.",
+          "Separately, reports of a new memory-cell architecture at China's CXMT sparked fears of additional DRAM competition. Commercial output, yields and per-bit production costs of the reported technology were not verified. MU and WDC declines therefore do not themselves establish collapsing DRAM or drive prices. DRAM/HBM, NAND and hard-disk drives must be analyzed as distinct supply cycles."
+        ]
+      },
+      {
+        "heading": "07 | The IMF upgrades growth and warns about AI in the same breath",
+        "paragraphs": [
+          "The IMF's October World Economic Outlook raised its 2026 world growth forecast from 3.0% to 3.1% and retained 3.4% for 2027. Its baseline assumes gradual improvement in shipping and a reopening of the Strait of Hormuz by March 2027. Under a prolonged-war scenario with oil above $130 into early 2027, the IMF estimates about a 0.5 percentage-point hit to 2027 growth.",
+          "In a separate sharp-AI-investment-decline scenario, the IMF estimates world GDP in 2028 could be 1.1% below baseline and U.S. output 1.8% below baseline. These are stress scenarios, not crash forecasts. Its Global Financial Stability Report notes that hyperscalers now account for around 10% of global investment-grade debt issuance versus less than 1% in 2024. Genuine demand for computing does not eliminate financing risk.",
+          "The IMF also said banks representing about 22% of global banking assets had weak capital cushions under its stress test, up from 18% in the 2025 exercise. This is not the share of banks that have failed or will fail. It illustrates how a bond-market or AI-investment shock could spread through credit, funds and consumers."
+        ]
+      },
+      {
+        "heading": "08 | Capital flows and FX: the data show selective risk-taking, not a universal flight from stocks",
+        "paragraphs": [
+          "The latest available LSEG Lipper fund-flow week ended October 7: global money-market funds drew $153.81 billion, global bond funds $26.03 billion, U.S. equity funds lost $5.11 billion, global technology funds gained $5.37 billion, and financial-sector funds lost $3.47 billion. Within U.S. equity funds, technology attracted $4.53 billion. These figures are a week old, not flows from October 13.",
+          "Precious-metals funds attracted $1.41 billion while gold itself traded around $4,150–$4,160 an ounce in October 13 market reporting. A fund flow and a commodity price are different metrics. The dollar index eased toward 102.17 in October 14 trading and the euro traded near $1.1202; a daily FX move alone does not establish net capital flight from a particular country.",
+          "India offers a case study: the rupee closed October 13 near 95.28 per U.S. dollar after gaining roughly 0.5% on the day, following central-bank steps to curb dollar demand and derivatives. Reducing speculative positions can stabilize a currency temporarily, but it does not eliminate the oil-import bill or hedging costs. Energy shocks can thus migrate into FX and credit conditions even without an equity-market crash."
+        ]
+      },
+      {
+        "heading": "09 | Today's tests: ASML, CPI and the difference between price and value",
+        "paragraphs": [
+          "On October 14 ASML is scheduled to release quarterly results at 07:00 CET according to its investor site (around 09:00 Israel time); publication was not verified at the time this brief was prepared. ASML sits at the bottleneck of chip-fab capital spending: net bookings, EUV/DUV mix, gross margins, capacity and guidance changes matter more than revenue alone. Bank of America and Morgan Stanley are also due to report; no unpublished results have been inserted.",
+          "At 08:30 New York time (15:30 Israel) on October 14, the BLS is scheduled to release September U.S. CPI. Across different surveys, headline annual inflation expectations cluster around 3.6%–3.7%, versus 3.4% in August, with core inflation near 0.2% month over month. Differences across forecasters are not actual readings. Separate energy, core services ex-shelter, rent and monthly changes to distinguish a temporary energy shock from broader inflation transmission.",
+          "On October 15 at 08:30 ET, U.S. September PPI is due; import/export prices follow October 16. Falsifiable questions: are fuel costs entering core prices? Does the 10-year yield retest 5.36%? Do chip firms report actual selling-price declines? Are banks raising credit provisions? Without answers, declaring either the death of the AI boom or the start of a new broad rally would be premature."
+        ]
+      }
+    ],
+    "market_map": [
+      "U.S. Oct 13 close: S&P 500 7,805.45 (-0.02%; +14% YTD); Nasdaq 27,204.38 (-0.15%; +17% YTD); Dow 51,670.10 (-0.35%; +7.5% YTD); Russell 2000 2,783.37 (-0.40%; +12.1% YTD).",
+      "U.S. Treasury Oct 13 official: 2Y 4.79%, 10Y 5.21%, 30Y 5.56%; vs Oct 9: 10Y -3bp, 30Y -4bp.",
+      "Oil Oct 13 settlement: Brent $105.69 (-0.9%), WTI $94.14 (+0.4%). Oct 14 03:45 GMT: Brent $106.32, WTI $94.80 (intraday).",
+      "China September inflation: PPI +5.0% YoY vs +4.5% consensus and +3.8% prior; CPI +0.9% vs +1.0% consensus; core CPI +1.0%.",
+      "U.S. banks Q3: JPM EPS $5.57 vs $5.85 consensus; Goldman EPS $17.01 vs ~$13.02; Citi EPS $2.85.",
+      "Oct 13 Reuters chip intraday: MU -4.5%, WDC -5.8%, STX -5.9%; Philadelphia SOX -1.5% at report time; not final closes.",
+      "Global weekly flows through Oct 7: money markets +$153.81bn; bond funds +$26.03bn; U.S. equity -$5.11bn; global tech +$5.37bn; financials -$3.47bn.",
+      "Oct 14 Asian intraday: Kospi +1.8%, MSCI Asia ex-Japan +0.5%; dollar index ~102.17, EUR/USD ~1.1202.",
+      "Brent options Q3: record 28m contracts, daily average +63% YoY; Q3 oil trading range $70–$110."
+    ],
+    "catalysts": {
+      "24 hours": [
+        "Oct 14: ASML Q3 report at 07:00 CET per company schedule; results not yet verified at brief cutoff.",
+        "Oct 14 08:30 ET (15:30 Israel): U.S. September CPI (BLS); headline forecasts ~3.6–3.7% YoY, core ~0.2% MoM.",
+        "Oct 14: Bank of America and Morgan Stanley earnings; monitor provisions, NII, deal fees."
+      ],
+      "7 days": [
+        "Oct 15 08:30 ET: U.S. September PPI (BLS).",
+        "Oct 15: TSMC earnings and capex commentary.",
+        "Oct 16 08:30 ET: U.S. import and export prices (BLS)."
+      ],
+      "30 days": [
+        "Oct 27–28: Federal Reserve policy meeting; verify rate expectations after CPI.",
+        "Track AI-linked debt issuance, chip pricing, Saudi/Hormuz disruptions and Brent hedging costs."
+      ]
+    },
+    "contrarian": {
+      "consensus": "China's cost shock and AI-chip declines mean earnings margins must collapse while higher yields inevitably cause a market selloff.",
+      "why_right": "China PPI exceeds CPI by 4.1pp, energy is expensive, semiconductor competitors are emerging, and AI hyperscalers now account for around 10% of global investment-grade debt issuance.",
+      "why_wrong": "A PPI-CPI gap is not a direct margin measure; firms with pricing power can adapt. JPMorgan card volumes and loans remain strong, Goldman equity trading thrived, and lower yields or resilient AI bookings could support valuations.",
+      "falsifiers": [
+        "Bear: core U.S. CPI surprises higher, Treasury 10Y retests 5.36%, memory contract prices weaken and credit provisions accelerate.",
+        "Bull: CPI core stays near 0.2% MoM, 10Y yield stabilizes, ASML/TSMC bookings support future cash flow, and oil supply risk premium eases.",
+        "Do not equate unit share in China with Nvidia's global revenue share or treat WDC hard drives as identical to MU DRAM."
+      ]
+    },
+    "bottom_line": "Today's key test is not whether stocks react to a single CPI number. It is whether companies can preserve pricing power while input costs rise and the discount rate remains high. China shows cost inflation without strong consumer demand; banks show profitable equity volatility alongside weaker bond and deal activity; chips show real AI demand alongside mounting competitive and funding risks. Distinguish data from scenarios and look for cash conversion.",
+    "disclaimer": "Independent educational market research, not investment advice. U.S. prices are October 13 closes unless explicitly labeled intraday; Asian and oil snapshots are intraday October 14. Survey forecasts and IMF stress scenarios are not actual results. Fund flows are for the week ended October 7. ASML and CPI results were not published at cutoff.",
+    "sources": [
+      {
+        "title": "AP | U.S. index closing levels and YTD performance, Oct 13",
+        "url": "https://apnews.com/article/a0a577dfd12f63ee6780a56ab02b55c4"
+      },
+      {
+        "title": "U.S. Treasury | Official daily par yield curve, Oct 13",
+        "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2026"
+      },
+      {
+        "title": "BLS | Official October 2026 CPI and PPI calendar",
+        "url": "https://www.bls.gov/schedule/2026/10_sched_list.htm"
+      },
+      {
+        "title": "Reuters | Asian equities, rates, oil and FX, Oct 14",
+        "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-10-14/"
+      },
+      {
+        "title": "Reuters | China producer and consumer inflation, Oct 14",
+        "url": "https://www.reuters.com/world/asia-pacific/chinas-factory-gate-inflation-accelerates-september-2026-10-14/"
+      },
+      {
+        "title": "Reuters | Oil, shipping attacks and Russian diesel, Oct 14",
+        "url": "https://www.reuters.com/business/energy/oil-prices-climb-traders-weigh-saudi-supply-risk-russian-diesel-flow-2026-10-14/"
+      },
+      {
+        "title": "Reuters | Oil closes mixed, Oct 13",
+        "url": "https://www.reuters.com/business/energy/oil-ticks-lower-russia-diesel-supply-prospects-counter-gulf-supply-risks-2026-10-13/"
+      },
+      {
+        "title": "ICE data via Reuters | Record Brent option trading, Oct 13",
+        "url": "https://www.reuters.com/business/energy/investors-traded-record-volume-ice-brent-options-third-quarter-2026-10-13/"
+      },
+      {
+        "title": "JPMorgan | Q3 2026 earnings SEC exhibit",
+        "url": "https://www.sec.gov/Archives/edgar/data/19617/000162828026065582/a3q26erfexhibit991narrative.htm"
+      },
+      {
+        "title": "Reuters | JPMorgan profit miss and consensus, Oct 13",
+        "url": "https://www.reuters.com/business/finance/jpmorgans-profit-rises-investment-banking-trading-strength-2026-10-13/"
+      },
+      {
+        "title": "Goldman Sachs | Official Q3 2026 earnings",
+        "url": "https://www.goldmansachs.com/pressroom/press-releases/2026/2026-10-13-q3-results"
+      },
+      {
+        "title": "Reuters | Goldman Sachs trading revenue and analyst consensus",
+        "url": "https://www.reuters.com/business/finance/goldman-sachs-quarterly-profit-rises-equities-strength-2026-10-13/"
+      },
+      {
+        "title": "Citigroup | Q3 2026 official results",
+        "url": "https://www.citigroup.com/global/news/press-release/2026/third-quarter-2026-results-key-metrics"
+      },
+      {
+        "title": "Reuters | U.S. chip selloff, MU, WDC and CXMT, Oct 13",
+        "url": "https://www.reuters.com/world/china/us-chip-stocks-extend-slide-china-memory-report-ai-spending-jitters-hit-sector-2026-10-13/"
+      },
+      {
+        "title": "Reuters | Nvidia China share and IDC report, Oct 13",
+        "url": "https://www.reuters.com/business/retail-consumer/nvidias-china-ai-chip-share-falls-huawei-closes-gap-report-finds-2026-10-13/"
+      },
+      {
+        "title": "IMF | Global Financial Stability Report briefing, Oct 13",
+        "url": "https://mediacenter.imf.org/news/imf---global-financial-stability-report-annual-meetings--2026/s/f55368c1-983b-45b7-ba7c-1978f67c168c"
+      },
+      {
+        "title": "Reuters | IMF financial stability: AI leverage, bonds and banks, Oct 13",
+        "url": "https://www.reuters.com/business/finance/imf-cites-ai-slowdown-spiking-yields-looming-global-market-risks-2026-10-13/"
+      },
+      {
+        "title": "Reuters | IMF global growth and downside scenarios, Oct 13",
+        "url": "https://www.reuters.com/business/finance/imf-flags-risks-global-economy-ai-market-correction-war-debt-2026-10-13/"
+      },
+      {
+        "title": "Reuters | Weekly money market, equity and bond fund flows through Oct 7",
+        "url": "https://www.reuters.com/world/china/global-markets-flows-graphic-2026-10-09/"
+      },
+      {
+        "title": "Reuters | U.S. sector and bond fund flows through Oct 7",
+        "url": "https://www.reuters.com/business/us-equity-funds-witness-first-weekly-outflow-three-weeks-2026-10-09/"
+      },
+      {
+        "title": "Reuters | RBI interventions and Indian rupee, Oct 13",
+        "url": "https://www.reuters.com/world/india/rupee-extend-recovery-rbi-takes-more-steps-ease-pressure-2026-10-13/"
+      },
+      {
+        "title": "ASML | Official Q3 2026 results schedule",
+        "url": "https://www.investor.asml.com/quarterly-results"
+      },
+      {
+        "title": "Reuters | Market wrap Oct 13",
+        "url": "https://www.reuters.com/world/asia-pacific/global-markets-wrapup-1-2026-10-13/"
+      }
+    ]
+  },
+  {
     "id": "2026-10-13",
     "date": "2026-10-13",
     "title": "Oil up, chips down, and bonds sold for hedges: the AI boom meets the price of capital",
@@ -2080,223 +2297,6 @@
       {
         "title": "Federal Reserve — FOMC meeting calendar",
         "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
-      }
-    ]
-  },
-  {
-    "id": "2026-10-14",
-    "date": "2026-10-14",
-    "title": "Factories inflate, consumers stall: the AI boom faces two different profit tests",
-    "summary": {
-      "changed": "China's September PPI jumped 5.0% versus a 4.5% forecast while CPI rose only 0.9%; JPMorgan missed EPS expectations, Goldman beat, and U.S. chips weakened despite flat benchmarks.",
-      "missed": "The market faces two separate squeezes: costs rising faster than consumers' willingness to pay, and AI capital spending financed at long Treasury yields above 5%. Bank equities desks can prosper from volatility even as dealmaking slows.",
-      "watch": "Today: ASML results and U.S. CPI at 08:30 ET; monitor core inflation, 10-year yields, MU/WDC memory supply, Brent near $106 and credit provisions."
-    },
-    "sections": [
-      {
-        "heading": "01 | Not all inflation is alike: Chinese factory prices surge while households remain weak",
-        "paragraphs": [
-          "New China data released October 14: September producer prices (PPI) jumped 5.0% year over year, up from 3.8% in August and above the 4.5% Reuters consensus. That is a 0.5 percentage-point upside surprise and the fastest increase since June 2022. Consumer prices, by contrast, rose only 0.9%, versus 0.8% in August and a 1.0% forecast; core consumer inflation was 1.0% year over year. Reuters cited China's official statistics agency.",
-          "The 4.1 percentage-point gap between PPI and CPI is not a guaranteed producer profit margin. It suggests that input, fuel and chemical prices are rising much faster than consumer-basket prices. If companies cannot pass costs on, margins can compress; businesses with pricing power or indexed contracts may be more resilient. This matters to valuations in industrials, autos, chemicals and freight, not just to macro headlines.",
-          "Chinese gasoline prices increased 16.6% year over year, adding roughly 0.47 percentage points to consumer inflation. Beijing also authorized an additional 550 billion yuan of local-government bond quota for projects. Domestic demand remains weak; cost-push inflation should not be mistaken for evidence of healthy demand."
-        ]
-      },
-      {
-        "heading": "02 | Wall Street: a quiet index masks a sharp sector rotation",
-        "paragraphs": [
-          "At the October 13 U.S. close, the S&P 500 slipped 0.02% to 7,805.45, the Nasdaq lost 0.15% to 27,204.38, the Dow fell 0.35% to 51,670.10, and the Russell 2000 declined about 0.40% to 2,783.37. AP's year-to-date returns were approximately +14.0%, +17.0%, +7.5% and +12.1%, respectively. The broad benchmark barely moved, but small caps and memory-related names were under pressure.",
-          "Reuters reported that the Philadelphia semiconductor index was down about 1.5% during Tuesday's session, its fifth consecutive down day, even though it remained up more than 70% year to date. At the report's timestamp MU was down roughly 4.5%, WDC 5.8%, Seagate 5.9%, and Sandisk 4.3%. These were intraday observations, not necessarily final closing changes. The distinction is important when monitoring memory and storage holdings.",
-          "Early October 14 Asian trading brought a partial rebound: MSCI Asia-Pacific ex-Japan was up around 0.5%, the Kospi 1.8%, and Nikkei 0.2% when Reuters reported; Samsung and SK Hynix gained more than 2%. One rebound does not establish a bottom. DRAM and NAND contract pricing, supply, inventory and gross margins are more decisive than a one-day stock chart."
-        ]
-      },
-      {
-        "heading": "03 | Bank earnings revealed two economies: equity trading thrives while debt and underwriting struggle",
-        "paragraphs": [
-          "JPMorgan reported $15.3 billion in net income and $5.57 in EPS, below the $5.85 LSEG consensus by roughly 4.8%. Excluding a $498 million after-tax unusual securities loss, EPS was $5.75, still below $5.85. Managed revenue was $50.9 billion versus reported revenue of $50.2 billion; the two accounting bases should not be mixed. Credit costs were $2.7 billion, including $2.2 billion of net charge-offs and a $539 million reserve build.",
-          "The non-obvious split: JPMorgan's equities trading revenue rose 49% year over year, while fixed-income trading fell 4%; investment-banking fees rose 14% from a year earlier but declined 8% sequentially. Average loans grew 10% year over year, average deposits 8%, and card purchase volumes 10%. That does not prove consumers are collapsing. It shows financing and dealmaking reacting differently from household spending.",
-          "Goldman Sachs posted EPS of $17.01 versus a Reuters-reported consensus near $13.02, on $18.68 billion of revenue; equities trading revenue surged 72% to $6.44 billion. Citi reported $23.8 billion in revenue, $5.2 billion in net income and $2.85 in EPS. This is not a simple league table of bank quality: businesses, reporting bases and one-offs differ. Volatility can enrich an equities desk while simultaneously hurting underwriting, bond markets and equity multiples."
-        ]
-      },
-      {
-        "heading": "04 | The 5.21% 10-year yield: the price entering every valuation model",
-        "paragraphs": [
-          "The U.S. Treasury's official October 13 curve showed 2-year yields at 4.79%, 10-year at 5.21% and 30-year at 5.56%. Versus October 9, the 10-year eased from 5.24% to 5.21%, and the 30-year from 5.60% to 5.56%. This is a modest correction within a high-yield regime, not evidence of a lasting turn. Reuters' October 14 live snapshot put the 10-year near 5.221% and 30-year near 5.569%. Treasury figures are official daily observations; Reuters provides a later trading snapshot.",
-          "Valuation arithmetic: for an unchanged cash flow payable in ten years, raising the discount rate from 8% to 9% cuts its present value by roughly 8.8%, even if earnings expectations do not change. This is a mathematical illustration, not a valuation of a specific company. Long-duration Treasury ETFs such as TLT are particularly rate-sensitive: when yields rise, bond prices generally fall; exact changes depend on duration and convexity.",
-          "The IMF warns that sovereign and private debt issuance is rising while central banks shrink balance sheets, potentially lifting term premiums and the yield needed to attract buyers. Yet Tuesday's decline in yields also demonstrates safe-haven demand in a stressed market. The response to inflation data will matter more than any single record-yield headline."
-        ]
-      },
-      {
-        "heading": "05 | Oil: 28 million option contracts tell more than a $106 headline",
-        "paragraphs": [
-          "Brent settled October 13 at $105.69 a barrel, down about 0.9%, while WTI settled at $94.14, up about 0.4%. By 03:45 GMT on October 14, Brent traded near $106.32 and WTI near $94.80 after reports of two vessels being struck in the Strait of Hormuz and heightened Saudi-related tensions. These are intraday quotes, not settlement prices. The full damage, attribution and supply implications remain incompletely verified.",
-          "ICE reported a record 28 million Brent option contracts traded in Q3. Average daily options volume climbed 63% year over year to more than 437,200 contracts. Brent ranged from $70 in July to $110 in September, a $40 range versus roughly $9 in Q3 2025. January–September options volume reached 75.1 million contracts, already above all of 2025's 62.2 million.",
-          "Interpretation: airlines, refiners, freight operators and producers are paying attention to budget protection and hedging; rising option volumes do not by themselves prove a one-way bet on higher oil. The spread between crude, diesel and insurance or hedging costs can determine profitability. Possible increases in Russian diesel supply offer a counterweight; an announced political arrangement should not be treated as fully delivered barrels."
-        ]
-      },
-      {
-        "heading": "06 | China is reallocating AI chip market share — and memory equities are reacting",
-        "paragraphs": [
-          "An IDC report cited by Reuters found Nvidia shipped 678,000 AI accelerators to China in H1 2026, down 44% year over year, and accounted for 34% of unit shipments. Huawei shipped 572,000, reaching 28%. The market totaled about 2.008 million units. These are unit shares, not revenue shares, profit shares or proof of equivalent technical performance.",
-          "Non-GPU accelerators reached roughly 1.016 million units, up nearly 80%, exceeding GPU shipments of about 991,000, down 26%. Competition increasingly operates at the system level: memory, networking, software, power consumption and support can matter as much as one chip's benchmarks. U.S. export controls distort direct market-share comparisons; the numbers do not prove Nvidia lost its global advantage.",
-          "Separately, reports of a new memory-cell architecture at China's CXMT sparked fears of additional DRAM competition. Commercial output, yields and per-bit production costs of the reported technology were not verified. MU and WDC declines therefore do not themselves establish collapsing DRAM or drive prices. DRAM/HBM, NAND and hard-disk drives must be analyzed as distinct supply cycles."
-        ]
-      },
-      {
-        "heading": "07 | The IMF upgrades growth and warns about AI in the same breath",
-        "paragraphs": [
-          "The IMF's October World Economic Outlook raised its 2026 world growth forecast from 3.0% to 3.1% and retained 3.4% for 2027. Its baseline assumes gradual improvement in shipping and a reopening of the Strait of Hormuz by March 2027. Under a prolonged-war scenario with oil above $130 into early 2027, the IMF estimates about a 0.5 percentage-point hit to 2027 growth.",
-          "In a separate sharp-AI-investment-decline scenario, the IMF estimates world GDP in 2028 could be 1.1% below baseline and U.S. output 1.8% below baseline. These are stress scenarios, not crash forecasts. Its Global Financial Stability Report notes that hyperscalers now account for around 10% of global investment-grade debt issuance versus less than 1% in 2024. Genuine demand for computing does not eliminate financing risk.",
-          "The IMF also said banks representing about 22% of global banking assets had weak capital cushions under its stress test, up from 18% in the 2025 exercise. This is not the share of banks that have failed or will fail. It illustrates how a bond-market or AI-investment shock could spread through credit, funds and consumers."
-        ]
-      },
-      {
-        "heading": "08 | Capital flows and FX: the data show selective risk-taking, not a universal flight from stocks",
-        "paragraphs": [
-          "The latest available LSEG Lipper fund-flow week ended October 7: global money-market funds drew $153.81 billion, global bond funds $26.03 billion, U.S. equity funds lost $5.11 billion, global technology funds gained $5.37 billion, and financial-sector funds lost $3.47 billion. Within U.S. equity funds, technology attracted $4.53 billion. These figures are a week old, not flows from October 13.",
-          "Precious-metals funds attracted $1.41 billion while gold itself traded around $4,150–$4,160 an ounce in October 13 market reporting. A fund flow and a commodity price are different metrics. The dollar index eased toward 102.17 in October 14 trading and the euro traded near $1.1202; a daily FX move alone does not establish net capital flight from a particular country.",
-          "India offers a case study: the rupee closed October 13 near 95.28 per U.S. dollar after gaining roughly 0.5% on the day, following central-bank steps to curb dollar demand and derivatives. Reducing speculative positions can stabilize a currency temporarily, but it does not eliminate the oil-import bill or hedging costs. Energy shocks can thus migrate into FX and credit conditions even without an equity-market crash."
-        ]
-      },
-      {
-        "heading": "09 | Today's tests: ASML, CPI and the difference between price and value",
-        "paragraphs": [
-          "On October 14 ASML is scheduled to release quarterly results at 07:00 CET according to its investor site (around 09:00 Israel time); publication was not verified at the time this brief was prepared. ASML sits at the bottleneck of chip-fab capital spending: net bookings, EUV/DUV mix, gross margins, capacity and guidance changes matter more than revenue alone. Bank of America and Morgan Stanley are also due to report; no unpublished results have been inserted.",
-          "At 08:30 New York time (15:30 Israel) on October 14, the BLS is scheduled to release September U.S. CPI. Across different surveys, headline annual inflation expectations cluster around 3.6%–3.7%, versus 3.4% in August, with core inflation near 0.2% month over month. Differences across forecasters are not actual readings. Separate energy, core services ex-shelter, rent and monthly changes to distinguish a temporary energy shock from broader inflation transmission.",
-          "On October 15 at 08:30 ET, U.S. September PPI is due; import/export prices follow October 16. Falsifiable questions: are fuel costs entering core prices? Does the 10-year yield retest 5.36%? Do chip firms report actual selling-price declines? Are banks raising credit provisions? Without answers, declaring either the death of the AI boom or the start of a new broad rally would be premature."
-        ]
-      }
-    ],
-    "market_map": [
-      "U.S. Oct 13 close: S&P 500 7,805.45 (-0.02%; +14% YTD); Nasdaq 27,204.38 (-0.15%; +17% YTD); Dow 51,670.10 (-0.35%; +7.5% YTD); Russell 2000 2,783.37 (-0.40%; +12.1% YTD).",
-      "U.S. Treasury Oct 13 official: 2Y 4.79%, 10Y 5.21%, 30Y 5.56%; vs Oct 9: 10Y -3bp, 30Y -4bp.",
-      "Oil Oct 13 settlement: Brent $105.69 (-0.9%), WTI $94.14 (+0.4%). Oct 14 03:45 GMT: Brent $106.32, WTI $94.80 (intraday).",
-      "China September inflation: PPI +5.0% YoY vs +4.5% consensus and +3.8% prior; CPI +0.9% vs +1.0% consensus; core CPI +1.0%.",
-      "U.S. banks Q3: JPM EPS $5.57 vs $5.85 consensus; Goldman EPS $17.01 vs ~$13.02; Citi EPS $2.85.",
-      "Oct 13 Reuters chip intraday: MU -4.5%, WDC -5.8%, STX -5.9%; Philadelphia SOX -1.5% at report time; not final closes.",
-      "Global weekly flows through Oct 7: money markets +$153.81bn; bond funds +$26.03bn; U.S. equity -$5.11bn; global tech +$5.37bn; financials -$3.47bn.",
-      "Oct 14 Asian intraday: Kospi +1.8%, MSCI Asia ex-Japan +0.5%; dollar index ~102.17, EUR/USD ~1.1202.",
-      "Brent options Q3: record 28m contracts, daily average +63% YoY; Q3 oil trading range $70–$110."
-    ],
-    "catalysts": {
-      "24 hours": [
-        "Oct 14: ASML Q3 report at 07:00 CET per company schedule; results not yet verified at brief cutoff.",
-        "Oct 14 08:30 ET (15:30 Israel): U.S. September CPI (BLS); headline forecasts ~3.6–3.7% YoY, core ~0.2% MoM.",
-        "Oct 14: Bank of America and Morgan Stanley earnings; monitor provisions, NII, deal fees."
-      ],
-      "7 days": [
-        "Oct 15 08:30 ET: U.S. September PPI (BLS).",
-        "Oct 15: TSMC earnings and capex commentary.",
-        "Oct 16 08:30 ET: U.S. import and export prices (BLS)."
-      ],
-      "30 days": [
-        "Oct 27–28: Federal Reserve policy meeting; verify rate expectations after CPI.",
-        "Track AI-linked debt issuance, chip pricing, Saudi/Hormuz disruptions and Brent hedging costs."
-      ]
-    },
-    "contrarian": {
-      "consensus": "China's cost shock and AI-chip declines mean earnings margins must collapse while higher yields inevitably cause a market selloff.",
-      "why_right": "China PPI exceeds CPI by 4.1pp, energy is expensive, semiconductor competitors are emerging, and AI hyperscalers now account for around 10% of global investment-grade debt issuance.",
-      "why_wrong": "A PPI-CPI gap is not a direct margin measure; firms with pricing power can adapt. JPMorgan card volumes and loans remain strong, Goldman equity trading thrived, and lower yields or resilient AI bookings could support valuations.",
-      "falsifiers": [
-        "Bear: core U.S. CPI surprises higher, Treasury 10Y retests 5.36%, memory contract prices weaken and credit provisions accelerate.",
-        "Bull: CPI core stays near 0.2% MoM, 10Y yield stabilizes, ASML/TSMC bookings support future cash flow, and oil supply risk premium eases.",
-        "Do not equate unit share in China with Nvidia's global revenue share or treat WDC hard drives as identical to MU DRAM."
-      ]
-    },
-    "bottom_line": "Today's key test is not whether stocks react to a single CPI number. It is whether companies can preserve pricing power while input costs rise and the discount rate remains high. China shows cost inflation without strong consumer demand; banks show profitable equity volatility alongside weaker bond and deal activity; chips show real AI demand alongside mounting competitive and funding risks. Distinguish data from scenarios and look for cash conversion.",
-    "disclaimer": "Independent educational market research, not investment advice. U.S. prices are October 13 closes unless explicitly labeled intraday; Asian and oil snapshots are intraday October 14. Survey forecasts and IMF stress scenarios are not actual results. Fund flows are for the week ended October 7. ASML and CPI results were not published at cutoff.",
-    "sources": [
-      {
-        "title": "AP | U.S. index closing levels and YTD performance, Oct 13",
-        "url": "https://apnews.com/article/a0a577dfd12f63ee6780a56ab02b55c4"
-      },
-      {
-        "title": "U.S. Treasury | Official daily par yield curve, Oct 13",
-        "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2026"
-      },
-      {
-        "title": "BLS | Official October 2026 CPI and PPI calendar",
-        "url": "https://www.bls.gov/schedule/2026/10_sched_list.htm"
-      },
-      {
-        "title": "Reuters | Asian equities, rates, oil and FX, Oct 14",
-        "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-10-14/"
-      },
-      {
-        "title": "Reuters | China producer and consumer inflation, Oct 14",
-        "url": "https://www.reuters.com/world/asia-pacific/chinas-factory-gate-inflation-accelerates-september-2026-10-14/"
-      },
-      {
-        "title": "Reuters | Oil, shipping attacks and Russian diesel, Oct 14",
-        "url": "https://www.reuters.com/business/energy/oil-prices-climb-traders-weigh-saudi-supply-risk-russian-diesel-flow-2026-10-14/"
-      },
-      {
-        "title": "Reuters | Oil closes mixed, Oct 13",
-        "url": "https://www.reuters.com/business/energy/oil-ticks-lower-russia-diesel-supply-prospects-counter-gulf-supply-risks-2026-10-13/"
-      },
-      {
-        "title": "ICE data via Reuters | Record Brent option trading, Oct 13",
-        "url": "https://www.reuters.com/business/energy/investors-traded-record-volume-ice-brent-options-third-quarter-2026-10-13/"
-      },
-      {
-        "title": "JPMorgan | Q3 2026 earnings SEC exhibit",
-        "url": "https://www.sec.gov/Archives/edgar/data/19617/000162828026065582/a3q26erfexhibit991narrative.htm"
-      },
-      {
-        "title": "Reuters | JPMorgan profit miss and consensus, Oct 13",
-        "url": "https://www.reuters.com/business/finance/jpmorgans-profit-rises-investment-banking-trading-strength-2026-10-13/"
-      },
-      {
-        "title": "Goldman Sachs | Official Q3 2026 earnings",
-        "url": "https://www.goldmansachs.com/pressroom/press-releases/2026/2026-10-13-q3-results"
-      },
-      {
-        "title": "Reuters | Goldman Sachs trading revenue and analyst consensus",
-        "url": "https://www.reuters.com/business/finance/goldman-sachs-quarterly-profit-rises-equities-strength-2026-10-13/"
-      },
-      {
-        "title": "Citigroup | Q3 2026 official results",
-        "url": "https://www.citigroup.com/global/news/press-release/2026/third-quarter-2026-results-key-metrics"
-      },
-      {
-        "title": "Reuters | U.S. chip selloff, MU, WDC and CXMT, Oct 13",
-        "url": "https://www.reuters.com/world/china/us-chip-stocks-extend-slide-china-memory-report-ai-spending-jitters-hit-sector-2026-10-13/"
-      },
-      {
-        "title": "Reuters | Nvidia China share and IDC report, Oct 13",
-        "url": "https://www.reuters.com/business/retail-consumer/nvidias-china-ai-chip-share-falls-huawei-closes-gap-report-finds-2026-10-13/"
-      },
-      {
-        "title": "IMF | Global Financial Stability Report briefing, Oct 13",
-        "url": "https://mediacenter.imf.org/news/imf---global-financial-stability-report-annual-meetings--2026/s/f55368c1-983b-45b7-ba7c-1978f67c168c"
-      },
-      {
-        "title": "Reuters | IMF financial stability: AI leverage, bonds and banks, Oct 13",
-        "url": "https://www.reuters.com/business/finance/imf-cites-ai-slowdown-spiking-yields-looming-global-market-risks-2026-10-13/"
-      },
-      {
-        "title": "Reuters | IMF global growth and downside scenarios, Oct 13",
-        "url": "https://www.reuters.com/business/finance/imf-flags-risks-global-economy-ai-market-correction-war-debt-2026-10-13/"
-      },
-      {
-        "title": "Reuters | Weekly money market, equity and bond fund flows through Oct 7",
-        "url": "https://www.reuters.com/world/china/global-markets-flows-graphic-2026-10-09/"
-      },
-      {
-        "title": "Reuters | U.S. sector and bond fund flows through Oct 7",
-        "url": "https://www.reuters.com/business/us-equity-funds-witness-first-weekly-outflow-three-weeks-2026-10-09/"
-      },
-      {
-        "title": "Reuters | RBI interventions and Indian rupee, Oct 13",
-        "url": "https://www.reuters.com/world/india/rupee-extend-recovery-rbi-takes-more-steps-ease-pressure-2026-10-13/"
-      },
-      {
-        "title": "ASML | Official Q3 2026 results schedule",
-        "url": "https://www.investor.asml.com/quarterly-results"
-      },
-      {
-        "title": "Reuters | Market wrap Oct 13",
-        "url": "https://www.reuters.com/world/asia-pacific/global-markets-wrapup-1-2026-10-13/"
       }
     ]
   }
