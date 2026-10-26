@@ -1,205 +1,192 @@
 [
   {
-    "id": "2026-10-25",
-    "date": "2026-10-25",
-    "title": "Oil and cloud share a bottleneck: Yanbu, subsea cables and the new price of AI infrastructure",
+    "id": "2026-10-26",
+    "date": "2026-10-26",
+    "title": "Oil eases, but risk shifts to lenders: Japan's report reveals AI's financing bottleneck",
     "summary": {
-      "changed": "Sunday Oct 25 has no regular US equity session. Since the Oct 24 brief Saudi Arabia confirmed intercepting two missiles toward Yanbu and Taif; Houthis claimed oil targets without verified damage; Iran's conditional cable threats surfaced; Moody's affirmed France Aa3.",
-      "missed": "The US Treasury proposed broader outbound investment restrictions including biotechnology and high-performance computing; US bond funds ended 26 weeks of inflows and long-term government funds lost $3.3B despite global bond inflows.",
-      "watch": "Oct 28 Fed decision; Oct 28–29 Microsoft/Alphabet/Amazon results; verified physical damage and actual Yanbu oil flows; cable risk, investment rules and credit spreads."
+      "changed": "Oct 26 morning: Brent slips 1.9% to about $114.48; Houthis claim Saudi pipeline attacks without verified damage; BOJ flags AI/non-bank credit transmission risks; Lula wins Brazil; Israel votes tomorrow.",
+      "missed": "The Oct 23 BOJ report stress-tests an AI disappointment, expensive oil and higher rates together but says Japanese banks remain resilient. A Japan-listed Brazil ETF lost nearly 15% before Brazil's cash market opened; this is not a Bovespa closing return.",
+      "watch": "Oct 28 Fed decision; Microsoft, Alphabet, Amazon, SK Hynix and Samsung earnings; physical oil exports, credit spreads, Israel's Oct 27 election and Brazil's market reaction."
     },
     "sections": [
       {
-        "heading": "01 | Thesis: the conflict threatens AI's two arteries — energy and connectivity",
+        "heading": "01 | Thesis: the risk has moved from oil pipelines to lenders' balance sheets",
         "paragraphs": [
-          "Since the October 24 brief, regular US equity trading has not resumed: today is Sunday. Yet Saturday–Sunday developments alter the risk map before futures reopen. On October 24 the Houthis claimed attacks on Saudi oil facilities, pumping stations, the East–West Pipeline and airports. The Saudi-led coalition confirmed intercepting two missiles headed toward Yanbu and Taif; damage to oil infrastructure has not been verified. Separately, Iranian officials described to Reuters contingency plans to strike subsea communications cables if renewed attacks occur. These are reported plans and threats, not attacks that have occurred.",
-          "The thesis: beyond demand for chips, cloud capacity depends on a physical chain of electricity, cooling, ports, connectivity and insurance. Risks to Hormuz or the alternative Yanbu export route can raise energy costs; cable threats can raise the price of redundancy and regional connectivity. But the scale matters: Reuters reports that less than 1% of international bandwidth traverses the Strait of Hormuz itself. The immediate subsea-cable exposure is therefore primarily regional, not a shutdown of the global internet."
+          "On the morning of October 26 Brent fell 1.9% to about $114.48 a barrel following reports of Qatari mediation efforts in Tehran. This is an Asian-session quote, not a settlement. Brent had closed Friday at $116.72 after rising roughly 6.2% over the week. Meanwhile, the Bank of Japan's Financial System Report identifies AI investment, its financing and non-bank credit funds as possible channels of market contagion. These developments are not contradictory: temporary oil relief does not eliminate persistent funding risk.",
+          "The unifying thesis is that the next competition is not only for processors but also for available capital, electricity, insurance and credit. An equipment supplier paid today, a cloud operator committing to years of spending and a fund financing that operator bear different risks. Evaluate returns on invested capital and cash flow after capex rather than assigning every link in the chain an 'AI multiple.' Facts: oil quotes and the BOJ report; interpretation: how risks might propagate."
         ]
       },
       {
-        "heading": "02 | Saudi weekend escalation: distinguish claimed targets from confirmed damage",
+        "heading": "02 | Market map: oil cools slightly, Asia remains wary",
         "paragraphs": [
-          "On October 24 the Houthis claimed to have targeted an Aramco facility at Yanbu, the Rabigh refinery and the East–West Pipeline. Reuters noted that Saudi authorities had not confirmed hits on those facilities, although intercepted-missile debris was reported in several areas. Damage to coast-guard buildings in Aden was separately reported; it is not evidence of damage to Saudi oil facilities. On October 25 the Houthis renewed a warning against airlines using Riyadh airport after an announcement of partial operations resuming. An aviation threat must not be translated automatically into lost oil barrels.",
-          "Brent last settled on October 23 at $116.72 a barrel, up 3.14% on the day and roughly 6.2% on the week; WTI settled at $103.27, up 3.8% daily. These are the latest verified settlements, not Sunday trading quotes. Higher prices can help producers' revenue, while refining, aviation and transport also depend on input margins. Monday's test is oil pricing against verified physical export volumes, not a claimed strike alone."
+          "Reuters' morning snapshot: Brent $114.48 (-1.9% versus the quoted reference), WTI $101.01 (-2.2%); S&P 500 futures up about 0.2% and Nasdaq futures up 0.1%. Japan's Nikkei slipped 0.2%, South Korea's benchmark 0.5%, and Chinese blue chips 0.5%. These are changing morning quotes, not closing levels. Reuters says Korea has lost almost 20% in October, while the cited Chinese benchmark has declined for 11 straight weeks.",
+          "The latest verified US close remains October 23: S&P 500 at 7,623.68 (-0.52% on the day; about +11.4% YTD), Nasdaq at 25,955.34 (-0.21%; about +11.7% YTD), Dow at 52,215.16 (-1.23%) and Russell 2000 at 2,775.90 (-0.29%). There is no October 26 US equity close yet. Korean weakness matters for the HBM memory supply chain, but a weak index alone does not establish declining chip orders."
         ]
       },
       {
-        "heading": "03 | Indexes and sectors: no new equity close",
+        "heading": "03 | Saudi Arabia: another attack claim, still no verified damage",
         "paragraphs": [
-          "At Friday's October 23 close: the S&P 500 was 7,623.68 (down 0.52% daily, up about 11.4% year to date), Nasdaq 25,955.34 (down 0.21% daily, up about 11.7% YTD), Dow 52,215.16 (down 1.23%) and Russell 2000 2,775.90 (down 0.29%). For the week the Russell actually gained about 2%, versus an approximately 0.5% S&P decline. Energy gained about 2.5% Friday to a record while technology edged higher. There is no new daily equity move today.",
-          "A cautious interpretation: outperformance by energy and small caps alongside weakness in mega-cap-weighted indexes may indicate rotation, but does not establish that institutions sold any particular stock. Sunday's question is how futures react when they reopen to the weekend news. I have not verified opening futures prices at this hour and therefore do not claim the market has already priced in the escalation."
+          "On Monday the Houthis claimed attacks on Saudi Arabia's East-West crude pumping stations and Riyadh airport. Reuters reported no immediate Saudi confirmation. The Saudi-led coalition said it destroyed two missile launchers in Sanaa and intercepted a missile toward Riyadh. A claimed attack, interception, physical damage and lost exports are four different things; no verified loss of barrels has been established from this new claim.",
+          "Brent nevertheless fell this morning on reports of Qatari mediation, after last week's rally on supply fears. Oil can price probabilities rather than barrels already lost. Producers, refiners, airlines and the XLE ETF have different sensitivities to crude prices, refining margins and production volumes. Practical tests: actual export flows, tanker insurance and the oil futures curve."
         ]
       },
       {
-        "heading": "04 | Bonds and rates: the Fed has not decided, and France surprised",
+        "heading": "04 | The BOJ report: AI risk travels through non-bank finance",
         "paragraphs": [
-          "According to the US Treasury's October 23 yield curve, two-year yields were 4.69%, ten-year 5.00% and thirty-year 5.33%, each up four basis points from October 22. The ten-year yield was still about nine basis points below its October 16 close. A Reuters poll on October 20 found 94 of 100 economists expected the Fed to hold at its October 27–28 meeting; most expected a December increase. Those are expectations, not decisions. TLT's own price was not independently verified.",
-          "Europe supplied a surprise omitted from the prior brief: Moody's affirmed France at Aa3 with a negative outlook on October 23, when many analysts had expected a downgrade. That is short-term relief, not a resolution of the roughly 5.4%-of-GDP 2026 deficit or the budget crisis. The France–Germany yield spread had reached multi-year extremes. For valuation, the risk-free rate, credit spread and sovereign risk are three separate components to measure."
+          "In its official October 23 Financial System Report, the Bank of Japan says the growth in AI investment has increased the role of non-bank financial intermediaries (NBFIs), including private funds, in financing infrastructure. Its stress tests model geopolitical shocks, expensive oil, disappointment over AI profitability, rising rates and portfolio adjustments by foreign non-bank funds. This is a stress scenario, not a prediction of collapse.",
+          "The official conclusion is partly reassuring: Japan's financial system remains broadly stable, and major banks have enough capital and funding to withstand the modeled stresses. According to the report, banks' direct exposures to foreign funds and data centers are limited, although transmission through asset valuations, credit spreads and fund losses warrants monitoring. The non-obvious angle: AI risk could appear in collateral and credit prices before chip suppliers' revenue falls."
         ]
       },
       {
-        "heading": "05 | The US proposes a wider capital perimeter around chips and AI",
+        "heading": "05 | Rates and bonds: government yields are not credit spreads",
         "paragraphs": [
-          "On October 22 the US Treasury issued proposed updates to its Outbound Investment Security Program. The proposal adds biotechnology and expands technical coverage for supercomputing, high-performance computing and hypersonic systems, alongside semiconductors, quantum technologies and AI. China formally objected on October 24. Crucially, this is a proposed rule with comments due December 7, 2026, not a newly effective blanket ban.",
-          "The less obvious implication concerns capital routes, not just chip exports: venture funds, minority investments, holding structures and R&D partnerships may face additional scoping and reporting work. Not every investment in China is banned, and not every technology company is harmed. Western firms with defensible intellectual property and alternative manufacturing could benefit from domestic demand, while businesses reliant on cross-border capital may face legal and financing friction."
+          "The US Treasury's official October 23 curve shows 2-year yields at 4.69%, 10-year at 5.00% and 30-year at 5.33%, all up four basis points from October 22. A live 10-year yield near 4.97% was reported on October 26; it should not be confused with Friday's official series. The 10-year minus 2-year spread at Friday's close was approximately 31 basis points.",
+          "Reuters says markets expect the Fed to hold on October 28 but price about an 80% probability of a December hike; this is market-implied probability, not a Fed decision. Long yields matter for TLT, but a current ETF price was not verified. A leveraged data-center operator also faces the spread above Treasuries: even if government yields decline, widening credit spreads can make refinancing more expensive."
         ]
       },
       {
-        "heading": "06 | Fund flows: equities attract cash while long Treasuries lose it",
+        "heading": "06 | Cloud earnings: testing demand reserved years ahead",
         "paragraphs": [
-          "In the week ending October 21, global equity funds took in $28.16 billion: $11.53 billion into Asia, $9.14 billion into Europe and $5.07 billion into the US. Technology funds drew $5.05 billion after $4.77 billion of outflows the previous week. Yet US bond data contain a reversal: US bond funds lost a net $969 million, ending a 26-week inflow streak, and longer-term government-bond funds shed $3.3 billion.",
-          "US money-market funds meanwhile gained $14.82 billion, while small-cap equity funds lost $4.24 billion. Global bond funds nevertheless attracted $9.44 billion — not a contradiction, because the geographies and fund universes differ. One possible interpretation is a preference for liquidity, selective equity exposure and less long duration. But the data end Wednesday and do not identify buyers of WDC, MU, NVDA or FPS shares."
+          "Reuters cites analyst expectations of roughly $90.6 billion revenue and $4.73 adjusted EPS for Microsoft; $202 billion revenue and around $1.97 EPS for Amazon; and $128 billion revenue and $3.00 EPS for Alphabet. These are forecasts ahead of this week's reports, not reported results. Intel, Sandisk, SK Hynix and Samsung will also be watched across the semiconductor chain.",
+          "Amazon's CEO said on October 23 that most large AWS capacity for 2027 is sold and a substantial portion of 2028 reserved. This indicates forward bookings, not verified collections, utilization, gross margins or returns on capital. Valuation models should test cloud revenue, capex, depreciation, customer commitments, power costs and free cash flow — then compare any earnings surprise with the stock's existing multiple."
         ]
       },
       {
-        "heading": "07 | WDC, AWS and next week's capex test",
+        "heading": "07 | Hardware suppliers: WDC generates cash but cannot escape cycles",
         "paragraphs": [
-          "Western Digital reported on October 22 revenue of $4.38 billion (up 55% year on year), adjusted EPS of $4.64, adjusted gross margin of 58.1% and free cash flow of $1.38 billion. It guided to roughly $5.1 billion of next-quarter revenue, yet Barron's reported its shares fell about 2.5% Friday. That gap separates current performance from cycle sustainability. Selling price per TB, shipment volumes and equipment life matter more than simply annualizing a peak quarter's EPS.",
-          "On the demand side, Amazon's CEO said on October 23 that most large AWS capacity for 2027 was already sold and part of 2028 reserved. That improves demand visibility but is not recognized revenue. Microsoft and Alphabet are due to report October 28, Amazon October 29; the focus should be cloud growth, capex, depreciation, customer commitments and post-investment cash flow. The winner in the AI value chain is not necessarily the company selling the most chips, but the one retaining a high return on invested capital."
+          "Western Digital's official October 22 release reported $4.38 billion in revenue (+55% year over year), $4.64 adjusted EPS, a 58.1% adjusted gross margin and $1.38 billion of free cash flow. Next-quarter revenue guidance is around $5.1 billion. These prior results provide a baseline for this week's cloud earnings, not fresh October 26 company news.",
+          "Storage is cyclical. Peak margins may fall if prices per exabyte, capacity or competition change; conversely, long-duration cloud capacity agreements could improve visibility. The distinction between a supplier generating cash now and an operator making huge capex commitments is central to DCF valuation. No new verified institution-level trades were obtained for WDC, MU, NVDA or FPS; fund flows cannot identify their individual buyers."
         ]
       },
       {
-        "heading": "08 | Gold, dollar and copper: safe havens do not move in lockstep",
+        "heading": "08 | Brazil: an election result contrary to the market's bet",
         "paragraphs": [
-          "On Friday October 23 gold traded below $4,000 an ounce intraday; Reuters reported a roughly 4% weekly fall alongside expectations of a December rate increase. The dollar index was around 101.763 late Friday according to previously reported market data. Non-yielding gold can suffer from rising real yields and forced liquidation even as geopolitical risk increases. These are Friday observations, not new Sunday prices.",
-          "No new verified Saturday or Sunday copper settlement is available; the most recent verified reference in the earlier research was $14,373 a tonne for three-month LME copper on October 19. It must not be labeled an October 25 price. For grid and data-center suppliers, copper matters alongside power costs, grid-equipment availability and delivery lead times. Near-term energy inflation can hurt production while longer-term AI infrastructure buildout can support metal demand."
+          "Brazil's electoral authority declared President Lula the October 25 runoff winner against Flavio Bolsonaro. Reuters reports about 51.75% for Lula versus 48.25% for his opponent; Bolsonaro did not concede and said he would seek annulment. The election result is verified, but annulment is not an established outcome. Brazil faces a conservative Congress, public debt above 82% of GDP and a government forecast of 2.3% growth next year.",
+          "A Japan-listed ETF tracking Brazil's Bovespa fell nearly 15% in Asian trading according to Reuters. This is an early local market reaction, not a Sao Paulo cash-market close. Some investors had bet on a change of government and a different fiscal path. Watch the real, domestic bond curve, budget signals, banks and payments companies including PAGS. Countercase: a conservative Congress could constrain spending policy even after Lula's win."
         ]
       },
       {
-        "heading": "09 | France and private credit: ratings are not funding costs",
+        "heading": "09 | Israel before its election: risk premia matter more than slogans",
         "paragraphs": [
-          "Moody's maintained France at Aa3 on Friday with a negative outlook, despite expectations of a downgrade. Large protests followed on October 24; the interior ministry estimated around 410,000 participants nationwide, versus a higher union estimate. The government seeks to reduce its deficit from 5.4% of GDP in 2026 to 5% in 2027, but passage of the budget is politically uncertain. French ten-year debt has recently traded around a 5% yield — market pricing can diverge from an official rating.",
-          "The same principle applies to AI infrastructure borrowers: bond yields or credit spreads may widen before a ratings action or an earnings decline. Valuing a leveraged company requires debt maturities, floating-rate exposure, free cash flow and customer contracts. France is not proof of a global credit crisis, but a reminder that financing is a dynamic input, not a footnote in a DCF model."
+          "Reuters reported on October 26 that Tel Aviv equities have risen about 130% and the shekel about 25% since October 2023, while public debt has approached 70% of GDP and the deficit is expected around 4.5% of GDP. Tomorrow's October 27 election may bring volatility in the shekel and government bonds. JPMorgan estimates a possible shekel swing of as much as 3% depending on the result; that is a scenario estimate, not a certain directional forecast.",
+          "There are competing readings: a coalition change could reduce perceived political risk for some investors, while Israeli stocks and bonds have remained resilient amid war and political disputes; a hung parliament could extend uncertainty. Reuters also cites exchange research showing that post-election volatility has sometimes risen before fading in subsequent months. No party outcome guarantees market returns; monitor bond yields, CDS, the shekel and foreign flows."
         ]
       },
       {
-        "heading": "10 | Contrarian view: existing infrastructure may gain a stronger moat",
+        "heading": "10 | Fund flows, gold, FX and copper: timestamps matter",
         "paragraphs": [
-          "The bearish case: verified damage to export routes or cables, persistently high Brent, high rates and new investment restrictions increase costs and reduce returns on AI capital spending. Measurable warning signs are declining cloud utilization, widening credit spreads, contract cancellations or falling free cash flow despite revenue growth. There is not yet verified evidence that all these conditions are occurring together.",
-          "The countercase: if oil infrastructure is intact, security risks ease and AWS reservations are binding, companies with already-built power, connectivity and physical infrastructure may command a greater scarcity premium. This week brings the Fed decision on October 28, cloud earnings October 28–29, and updates on actual oil export flows. The test is not whether AI grows, but whether growth produces free cash flow after power, debt, depreciation and physical protection."
+          "The latest verified LSEG Lipper figures, for the week ended October 21, show $28.16 billion entering global equity funds and $5.05 billion entering technology funds, while US bond funds lost $969 million and ended a 26-week inflow streak. US long government-bond funds lost $3.3 billion. These precede the late-week equity declines and do not prove dip-buying. Investors may be distinguishing equity risk from duration and credit risk.",
+          "Reuters' morning quotes put gold near $4,012 an ounce (+0.4%), USD/JPY near 156.90 and EUR/USD near 1.1220. These are morning quotes, not settlements. A fresh, independently verified LME copper quote was unavailable at publication time, so none is invented. Valuation links: oil influences inflation expectations; dollar and yen affect global flows; copper affects electrification costs; credit spreads affect data-center construction costs."
+        ]
+      },
+      {
+        "heading": "11 | Contrarian test: repricing risk, not necessarily collapsing demand",
+        "paragraphs": [
+          "The bearish case is that persistently high oil, rising rates, widening credit spreads and vulnerable non-bank finance squeeze data-center operators even while chip sales remain strong. Measurable warnings: cloud utilization below commitments, contract cancellations, weaker free cash flow after capex, credit-fund losses or verified damage to energy infrastructure. The BOJ models some of these as stresses, not events already realized.",
+          "The bullish countercase: mediation reduces oil's risk premium, multi-year cloud bookings turn into actual usage and cloud operators deliver cash and margin growth. The BOJ says Japanese banks remain stable and well capitalized, cautioning against simplistic 2008 analogies. Near-term catalysts: the October 28 Fed decision, cloud and chip earnings, energy prices and updated fund flows. The question is who retains returns on capital after all financing costs."
         ]
       }
     ],
     "market_map": [
-      "Last equity close Oct 23: S&P 500 7,623.68 (-0.52%; +11.4% YTD), Nasdaq 25,955.34 (-0.21%; +11.7% YTD), Dow 52,215.16 (-1.23%), Russell 2,775.90 (-0.29%). No new Sunday equity session.",
-      "Oil settled Oct 23: Brent $116.72 (+3.14% daily; about +6.2% weekly), WTI $103.27 (+3.8%). Not October 25 quotes.",
-      "US Treasury Oct 23: 2Y 4.69%, 10Y 5.00%, 30Y 5.33%, each +4 bp daily; 10Y about 9 bp below Oct 16.",
-      "Oct 24: Saudi coalition confirmed intercepting two missiles toward Yanbu and Taif; Houthis claimed oil facility and pipeline targets, without verified facility damage.",
-      "Oct 25: Houthi airline warning about Riyadh airport; does not establish an oil export shutdown.",
-      "Reuters Oct 23: Iranian officials described conditional subsea-cable attack plans; less than 1% of international bandwidth passes through Hormuz.",
-      "US Treasury Oct 22: proposed expansion of outbound investment restrictions including biotechnology; comments until Dec 7, not final.",
-      "Moody's affirmed France at Aa3/negative on Oct 23, contrary to widespread downgrade expectations.",
-      "Week to Oct 21: global equities +$28.16B, technology +$5.05B, US bond funds -$0.969B, long-term US government funds -$3.3B, US money markets +$14.82B.",
-      "WDC Oct 22: $4.38B revenue (+55% YoY), adjusted EPS $4.64, $1.38B FCF; AWS reported forward capacity reservations.",
-      "Gold traded below $4,000 intraday Oct 23; no verified new copper, TLT/XLE return or Sunday futures price."
+      "Oct 26 Reuters morning: Brent $114.48 (-1.9%), WTI $101.01 (-2.2%); intraday, not settlements.",
+      "Oct 26 morning: S&P futures about +0.2%, Nasdaq +0.1%; Nikkei -0.2%, Korea -0.5%, CSI300 -0.5%.",
+      "Latest Oct 23 US close: S&P 7,623.68 (-0.52% daily, ~+11.4% YTD), Nasdaq 25,955.34 (-0.21%, ~+11.7% YTD), Dow 52,215.16 (-1.23%), Russell 2,775.90 (-0.29%).",
+      "Oct 23 oil: Brent $116.72 (+3.14% daily, ~+6.2% weekly), WTI $103.27; not Oct 26 prices.",
+      "Oct 23 official Treasuries: 2Y 4.69%, 10Y 5.00%, 30Y 5.33%; Oct 26 live 10Y near 4.97%.",
+      "Oct 26: Houthis claim attacks on pumping stations and Riyadh; no Saudi confirmation of damage.",
+      "Oct 23 BOJ: AI+oil+rates+NBFI compound stress; Japanese banks remain resilient in its assessment.",
+      "Oct 25 Brazil: Lula ~51.75%, Bolsonaro ~48.25%; Japan-listed Brazil ETF nearly -15% in Asian trade.",
+      "Oct 26 Reuters: Israel votes Oct 27; Tel Aviv stocks ~+130% and shekel ~+25% since Oct 2023, not daily changes.",
+      "Week to Oct 21: global equities +$28.16bn, technology +$5.05bn, US bond funds -$0.969bn, long US government bonds -$3.3bn.",
+      "Oct 26 gold about $4,012 (+0.4%), USD/JPY 156.90, EUR/USD 1.1220; no verified copper/TLT/XLE quote."
     ],
     "catalysts": {
       "24 hours": [
-        "Oct 25: no new equity close; check futures after reopening and do not label Friday prices as Sunday quotes.",
-        "Seek confirmation of physical damage to Yanbu/Rabigh/East–West Pipeline and Riyadh airport operating status."
+        "Oct 26: verify actual Saudi oil exports against Houthi claims and mediation reports.",
+        "Oct 27: Israeli election and shekel/bond reaction; Brazil's first domestic market session after the vote."
       ],
       "7 days": [
-        "Oct 28: FOMC statement and December-rate signals; distinguish decision from Reuters poll.",
-        "Oct 28–29: Microsoft, Alphabet, Amazon earnings — cloud revenue, capex, free cash flow and utilization.",
-        "Monitor oil, AI credit spreads, long government-bond fund flows and Saudi/cable headlines."
+        "Oct 28: actual Fed decision versus December-hike pricing.",
+        "Microsoft, Alphabet, Amazon, Intel, Sandisk, SK Hynix and Samsung earnings — cash flow after capex and memory pricing.",
+        "Updated AI credit spreads, fund flows and copper inventories."
       ],
       "30 days": [
-        "Dec 7, 2026: comment deadline for proposed outbound investment rules; not a final effective rule.",
-        "Compare hardware suppliers' cash flow and leverage with cloud operators; watch for credit-spread widening."
+        "Compare returns on invested capital and non-bank financing across cloud operators and equipment suppliers.",
+        "Track oil's effect on inflation and rates, with implications for TLT and XLE."
       ]
     },
     "contrarian": {
-      "consensus": "Saudi strikes and cable threats must trigger an infrastructure crisis that hurts every AI stock.",
-      "why_right": "Risks to oil export routes, power and insurance costs, regional connectivity and expensive financing can erode returns.",
-      "why_wrong": "No verified oil-facility damage; under 1% of international bandwidth traverses Hormuz; AWS forward contracts can support demand and WDC generates positive FCF.",
+      "consensus": "High oil prices and AI credit risks must inevitably cause infrastructure demand to collapse.",
+      "why_right": "Expensive debt, energy, depreciation and reliance on fund financing can destroy returns on capital.",
+      "why_wrong": "No new verified Saudi pipeline damage; Brent actually eased this morning; BOJ finds banking resilience and AWS has multi-year bookings.",
       "falsifiers": [
-        "Bearish: confirmed physical damage, lower actual exports, sustained cable outages, cloud cancellations or wider credit spreads.",
-        "Bullish: functioning export routes, recovering flows, high cloud utilization and improving post-capex cash flow.",
-        "Claimed attacks and contingency plans are not verified damage; US equities do not trade regularly on Sunday."
+        "Bearish: oil exports fall, cloud contracts are cancelled, spreads widen and free cash flow erodes.",
+        "Bullish: mediation reduces risk, cloud contracts turn into usage and post-capex cash flow improves.",
+        "Morning market quotes are not closes; BOJ stress tests are not collapse forecasts."
       ]
     },
-    "bottom_line": "Thesis: AI is not only about chips but about physical infrastructure and capital. The weekend raised risks to energy and communications routes without establishing actual facility damage. The test is how much capacity demand turns into cash flow after energy, depreciation, financing and security.",
-    "disclaimer": "Independent research for information, not investment advice. Today is Sunday October 25, 2026; equity, oil, bond, gold and FX prices are from Friday October 23 or earlier as stated. Claims, plans and threats are not presented as verified damage. Fund flows end October 21; new copper, TLT/XLE returns and Sunday futures prices were not verified.",
+    "bottom_line": "The key investment is not necessarily the chipmaker or cloud operator: look for businesses that preserve high returns on capital after power, depreciation and debt.",
+    "disclaimer": "Independent research for information only, not investment advice. As of the morning of October 26, 2026 Israel time: morning quotes are not settlements; the latest official US equity and Treasury closes are October 23. Earnings and rate forecasts are not results; claimed attacks are not verified damage. Fund flows end October 21. No live copper, TLT or XLE quotes were verified.",
     "sources": [
       {
-        "title": "Reuters | Saudi missile interceptions and claimed oil targets, Oct 24",
-        "url": "https://www.reuters.com/world/middle-east/saudi-civil-defense-says-danger-passed-after-brief-alerts-mecca-jeddah-taif-2026-10-24/"
+        "title": "Reuters | Global markets, oil, Asia, rates, earnings, Oct 26",
+        "url": "https://www.reuters.com/world/asia-pacific/global-markets-pix-2026-10-26/"
       },
       {
-        "title": "Reuters | Riyadh airport warning, Oct 25",
-        "url": "https://www.reuters.com/world/middle-east/yemens-houthis-renew-warning-against-using-riyadh-airport-2026-10-24/"
+        "title": "Reuters | Houthi attack claims without Saudi confirmation, Oct 26",
+        "url": "https://www.reuters.com/world/middle-east/houthis-say-they-attacked-east-west-oil-pumping-stations-no-saudi-confirmation-2026-10-26/"
       },
       {
-        "title": "Reuters | Iran and subsea cable contingency plans, Oct 23",
-        "url": "https://www.reuters.com/world/middle-east/iran-has-detailed-plans-hit-gulf-undersea-cables-if-war-resumes-officials-say-2026-10-23/"
-      },
-      {
-        "title": "Reuters | UAE offshore oil spill, Oct 24",
-        "url": "https://www.reuters.com/world/middle-east/uaes-ras-al-khaimah-shuts-all-beaches-as-neighbours-grapple-with-oil-spill-2026-10-24/"
-      },
-      {
-        "title": "Reuters | US-China outbound investment tensions, Oct 24",
-        "url": "https://www.reuters.com/world/china/china-urges-us-halt-proposed-expansion-outbound-investment-curbs-2026-10-24/"
-      },
-      {
-        "title": "US Treasury | Proposed outbound investment rule, Oct 22",
-        "url": "https://home.treasury.gov/news/press-releases/sb0667"
-      },
-      {
-        "title": "US Treasury | Outbound investment program and Dec 7 comment deadline",
-        "url": "https://home.treasury.gov/policy-issues/international/outbound-investment-program"
-      },
-      {
-        "title": "Reuters | Global market close Oct 23",
-        "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-10-23/"
-      },
-      {
-        "title": "Reuters | Oil settlement Oct 23",
-        "url": "https://www.reuters.com/business/energy/oil-little-changed-supply-concern-lingers-amid-houthi-attacks-saudi-arabia-2026-10-23/"
+        "title": "Bank of Japan | Financial System Report, Oct 23",
+        "url": "https://www.boj.or.jp/en/research/brp/fsr/fsr261023.htm"
       },
       {
         "title": "US Treasury | Official October 2026 yield curve",
         "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value_month=202610&type=daily_treasury_yield_curve"
       },
       {
-        "title": "Federal Reserve | October 2026 meeting calendar",
-        "url": "https://www.federalreserve.gov/newsevents/2026-october.htm"
+        "title": "Reuters | Israel election market risk, Oct 26",
+        "url": "https://www.reuters.com/world/middle-east/israel-markets-see-upside-netanyahu-defeat-after-three-year-rally-2026-10-26/"
       },
       {
-        "title": "Reuters | Fed October and December rate poll, Oct 20",
-        "url": "https://www.reuters.com/business/fed-skip-october-raise-rates-again-december-nearly-all-economists-say-2026-10-20/"
-      },
-      {
-        "title": "Reuters | France Moody's affirmation Oct 23",
-        "url": "https://www.reuters.com/world/europe/unrest-hit-france-poised-moodys-ratings-verdict-2026-10-23/"
-      },
-      {
-        "title": "Reuters | France protests Oct 24",
-        "url": "https://www.reuters.com/world/europe/france-mounts-huge-security-operation-protesters-prepare-march-2026-10-24/"
-      },
-      {
-        "title": "Reuters | US fund flows through Oct 21",
-        "url": "https://www.reuters.com/legal/transactional/us-equity-funds-post-inflows-second-straight-week-2026-10-23/"
+        "title": "Reuters | Brazil Lula election win, Oct 25",
+        "url": "https://www.reuters.com/world/americas/brazil-heads-polls-runoff-between-leftist-lula-bolsonaro-jr-2026-10-25/"
       },
       {
         "title": "Reuters | Global fund flows through Oct 21",
         "url": "https://www.reuters.com/world/asia-pacific/global-markets-flows-graphic-2026-10-23/"
       },
       {
-        "title": "Reuters | AWS capacity reservations Oct 23",
+        "title": "Reuters | US bond and equity fund flows through Oct 21",
+        "url": "https://www.reuters.com/legal/transactional/us-equity-funds-post-inflows-second-straight-week-2026-10-23/"
+      },
+      {
+        "title": "Reuters | AWS large capacity bookings, Oct 23",
         "url": "https://www.reuters.com/business/retail-consumer/amazon-cloud-capacity-sold-out-through-2027-ceo-jassy-says-2026-10-23/"
       },
       {
-        "title": "Western Digital | Official Q1 FY2027 earnings",
+        "title": "Western Digital | Official Q1 FY2027 results, Oct 22",
         "url": "https://investor.wdc.com/node/28921"
       },
       {
-        "title": "Reuters | Gold falls on higher-rate expectations Oct 23",
-        "url": "https://www.reuters.com/world/india/gold-heads-steep-weekly-loss-oil-prices-fuel-fed-rate-concerns-2026-10-23/"
+        "title": "Reuters | Oil settlement Oct 23",
+        "url": "https://www.reuters.com/business/energy/oil-little-changed-supply-concern-lingers-amid-houthi-attacks-saudi-arabia-2026-10-23/"
       },
       {
-        "title": "Reuters | Week ahead central banks and AI earnings Oct 23",
+        "title": "Federal Reserve | October 2026 schedule",
+        "url": "https://www.federalreserve.gov/newsevents/2026-october.htm"
+      },
+      {
+        "title": "Reuters | Rate survey, Oct 20",
+        "url": "https://www.reuters.com/business/fed-skip-october-raise-rates-again-december-nearly-all-economists-say-2026-10-20/"
+      },
+      {
+        "title": "Reuters | Week ahead central banks and earnings",
         "url": "https://www.reuters.com/business/take-five/global-markets-themes-graphic-2026-10-23/"
+      },
+      {
+        "title": "Reuters | Saudi infrastructure risks, Oct 24",
+        "url": "https://www.reuters.com/world/middle-east/saudi-civil-defense-says-danger-passed-after-brief-alerts-mecca-jeddah-taif-2026-10-24/"
       }
     ]
   }
