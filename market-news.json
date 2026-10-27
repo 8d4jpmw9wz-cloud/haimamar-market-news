@@ -182,6 +182,59 @@
         "title": "Reuters | LSEG fund flows week to Oct 21",
         "url": "https://www.reuters.com/markets/global-markets-flows-2026-10-23/"
       }
-    ]
+    ],
+    "visuals": {
+      "cards": [
+        {
+          "label": "S&P 500",
+          "value": "7,676.77",
+          "change": "+0.70%",
+          "asof": "סגירת 26.10"
+        },
+        {
+          "label": "Nasdaq",
+          "value": "26,169.38",
+          "change": "+0.83%",
+          "asof": "סגירת 26.10"
+        },
+        {
+          "label": "נפט Brent",
+          "value": "$114.95",
+          "change": "−0.7%",
+          "asof": "27.10 · מסחר בוקר"
+        },
+        {
+          "label": "אג״ח ארה״ב 10 שנים",
+          "value": "5.00%",
+          "asof": "סגירת 26.10"
+        }
+      ],
+      "charts": [
+        {
+          "title": "עקום תשואות אג״ח ארה״ב",
+          "unit": "%",
+          "asof": "26.10.2026 · תשואות סגירה",
+          "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value_month=202610&type=daily_treasury_yield_curve",
+          "items": [
+            {
+              "label": "2Y",
+              "value": 4.68,
+              "display": "4.68%"
+            },
+            {
+              "label": "10Y",
+              "value": 5,
+              "display": "5.00%"
+            },
+            {
+              "label": "30Y",
+              "value": 5.31,
+              "display": "5.31%"
+            }
+          ],
+          "note": "השוואת תשואות לפי מועד פדיון; אורך העמודה מתחיל מאפס."
+        }
+      ]
+    }
   }
 ]

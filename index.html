@@ -39,6 +39,44 @@ document.getElementById('archiveLink').textContent=archive?t.latestLink:t.archiv
 document.getElementById('archiveLink').href=archive?('?lang='+lang):('?lang='+lang+'&archive=1');
 const esc=s=>String(s??'').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]));
 const arr=x=>Array.isArray(x)?x:[];
+
+const safeUrl=s=>{try{const u=new URL(String(s));return ['https:','http:'].includes(u.protocol)?u.href:'';}catch{return '';}};
+function renderVisuals(p){
+ const v=p.visuals||{};
+ const cards=arr(v.cards).slice(0,6),charts=arr(v.charts).slice(0,3);
+ if(!cards.length&&!charts.length)return '';
+ let out='<aside class="visuals" aria-label="'+esc(lang==='he'?'נתוני שוק וגרפים':'Market data and charts')+'">';
+ out+='<div class="visuals-head"><h2>'+esc(lang==='he'?'מפת השוק במספרים':'Market at a glance')+'</h2><span class="visuals-tag">'+esc(lang==='he'?'נתונים מאומתים':'Sourced data')+'</span></div>';
+ if(cards.length){
+  out+='<div class="metric-grid">';
+  for(const c of cards){
+   const ch=String(c.change||'').trim();
+   const trend=/^\+/.test(ch)?'up':/^[-−]/.test(ch)?'down':'';
+   out+='<div class="metric-card"><div class="metric-label">'+esc(c.label)+'</div><div class="metric-value" dir="auto">'+esc(c.value)+'</div>';
+   if(ch)out+='<div class="metric-change '+trend+'" dir="auto">'+esc(ch)+'</div>';
+   if(c.note)out+='<div class="metric-note">'+esc(c.note)+'</div>';
+   if(c.asof)out+='<div class="metric-asof">'+esc(c.asof)+'</div>';
+   out+='</div>';
+  }
+  out+='</div>';
+ }
+ for(const c of charts){
+  const points=arr(c.items).filter(x=>Number.isFinite(Number(x.value))&&Number(x.value)>=0).slice(0,8);
+  if(!points.length)continue;
+  const max=Math.max(1,...points.map(x=>Number(x.value)));
+  out+='<figure class="mini-chart"><figcaption>'+esc(c.title||'')+'</figcaption>';
+  for(const x of points){
+   const width=Math.max(1,Math.min(100,100*Number(x.value)/max));
+   out+='<div class="chart-row"><span class="chart-label">'+esc(x.label)+'</span><div class="chart-track"><div class="chart-bar" style="width:'+width.toFixed(2)+'%"></div></div><strong class="chart-value" dir="ltr">'+esc(x.display||String(x.value)+(c.unit||''))+'</strong></div>';
+  }
+  if(c.note)out+='<p class="chart-note">'+esc(c.note)+'</p>';
+  const url=safeUrl(c.source_url);
+  out+='<div class="chart-source">'+esc(c.asof||'')+(url?' · <a href="'+esc(url)+'" target="_blank" rel="noopener noreferrer">'+esc(lang==='he'?'מקור הנתונים':'Data source')+'</a>':'')+'</div></figure>';
+ }
+ out+='</aside>';
+ return out;
+}
+
 function renderBrief(p){
  const intro=p.summary||{};
  let html='<div class="date">'+esc(p.date||p.id||'')+'</div><h1>'+esc(p.title||'')+'</h1>';
@@ -49,6 +87,7 @@ function renderBrief(p){
   if(intro.watch) html+='<p><strong>'+t.watch+':</strong> '+esc(intro.watch)+'</p>';
   html+='</div>';
  }
+ html+=renderVisuals(p);
  for(const s of arr(p.sections)){
   html+='<section><h2>'+esc(s.heading||'')+'</h2>';
   for(const x of arr(s.paragraphs)) html+='<p>'+esc(x)+'</p>';

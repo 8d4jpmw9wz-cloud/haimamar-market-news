@@ -182,6 +182,59 @@
         "title": "Reuters | LSEG fund flows week to Oct 21",
         "url": "https://www.reuters.com/markets/global-markets-flows-2026-10-23/"
       }
-    ]
+    ],
+    "visuals": {
+      "cards": [
+        {
+          "label": "S&P 500",
+          "value": "7,676.77",
+          "change": "+0.70%",
+          "asof": "Oct 26 close"
+        },
+        {
+          "label": "Nasdaq",
+          "value": "26,169.38",
+          "change": "+0.83%",
+          "asof": "Oct 26 close"
+        },
+        {
+          "label": "Brent crude",
+          "value": "$114.95",
+          "change": "−0.7%",
+          "asof": "Oct 27 · morning quote"
+        },
+        {
+          "label": "US Treasury 10Y",
+          "value": "5.00%",
+          "asof": "Oct 26 close"
+        }
+      ],
+      "charts": [
+        {
+          "title": "US Treasury yield curve",
+          "unit": "%",
+          "asof": "Oct 26, 2026 · closing yields",
+          "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value_month=202610&type=daily_treasury_yield_curve",
+          "items": [
+            {
+              "label": "2Y",
+              "value": 4.68,
+              "display": "4.68%"
+            },
+            {
+              "label": "10Y",
+              "value": 5,
+              "display": "5.00%"
+            },
+            {
+              "label": "30Y",
+              "value": 5.31,
+              "display": "5.31%"
+            }
+          ],
+          "note": "Yields by maturity; bar lengths start at zero."
+        }
+      ]
+    }
   }
 ]
