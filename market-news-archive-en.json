@@ -1,5 +1,328 @@
 [
   {
+    "id": "2026-10-28",
+    "date": "2026-10-28",
+    "title": "A sold chip is not a profitable chip: SK hynix sets records, Oracle opens up inference and credit tests the AI boom",
+    "summary": {
+      "changed": "Oct 27: Nasdaq +1.18%, S&P +0.60%; SK hynix reported KRW 104.62tn revenue and KRW 83.33tn operating profit, about 8.6% above expectations; Oracle announced more Vera Rubin capacity plus Cerebras and Google TPUs; Israel exit polls gave neither bloc a majority.",
+      "missed": "HBM manufacturing-yield gaps between CXMT (20%–30% according to Reuters sources) and SK hynix (~70%) may matter more than announced chip volumes. ETFs also raised capital during a week when ICI's enormous headline outflows were largely CIT-driven.",
+      "watch": "Oct 28: Fed decision at 2 p.m. New York, Microsoft and Alphabet earnings after the close, EIA inventories, shekel reaction to vote counting, oil and private-credit risks."
+    },
+    "sections": [
+      {
+        "heading": "01 | Thesis: AI is moving from a chip shortage to a shortage of economically manufacturable chips",
+        "paragraphs": [
+          "October 28 delivered two apparently conflicting signals. SK hynix reported operating profit equal to 80% of revenue, while Reuters said China's CXMT plans to make HBM3E memory with only about 20%–30% usable-chip yields, versus roughly 70% at SK hynix. This is not merely a technology gap: it determines how much manufacturing cost is allocated to each saleable chip. The CXMT figures come from Reuters sources, not audited company disclosures.",
+          "As an illustration only, if wafer-processing costs are equal and yields are 25% versus 70%, processing cost per good chip is 2.8 times higher, before packaging, power, testing or selling-price differences. Huge demand therefore does not guarantee profitability for every competitor. Meanwhile, Oracle is adding Cerebras and Google's TPUs to its offerings: inference is becoming more competitive even as qualified HBM remains scarce.",
+          "Investment interpretation: suppliers with proven, profitable capacity may capture scarcity rents, while sellers of expensive compute carrying financing and depreciation burdens may struggle to earn their cost of capital. Revenue growth, gross margin and post-capex free cash flow are different tests."
+        ]
+      },
+      {
+        "heading": "02 | SK hynix: an 8.6% profit beat, but not every cash return is recurring",
+        "paragraphs": [
+          "Official Q3 2026 results: revenue KRW 104.6155 trillion, up 328% year on year and 32% quarter on quarter; operating profit KRW 83.3338 trillion, up 632% year on year and 38% sequentially; operating margin 80%. Reuters cited a KRW 76.7 trillion analyst consensus, making the beat about KRW 6.63 trillion, or 8.6%. Net profit of KRW 39.7756 trillion fell 58% sequentially, so it must not be confused with operating profit.",
+          "The company said long-term agreements cover more than half of its 2027–2028 production capacity and expects HBM4 to become mainstream from Q4. Its roughly KRW 100 trillion shareholder-return program includes dividends, buybacks and distribution of most gains on its Kioxia investment. Some of this is linked to exceptional investment gains, not necessarily recurring annual distributions.",
+          "Even after an extraordinary report, investors should test whether long-term orders carry firm pricing, cancellation penalties and prepayments; whether capacity expansion erodes pricing; and how much exceptional profitability reflects the memory cycle rather than a durable moat."
+        ]
+      },
+      {
+        "heading": "03 | Oracle and Cerebras: inference competition is diverging from model training",
+        "paragraphs": [
+          "On October 27, Oracle and NVIDIA announced plans to expand Vera Rubin systems on OCI to multi-gigawatt scale, without disclosing a binding dollar value. Oracle also said it would offer Google's TPUs, inference accelerators from Cerebras and SambaNova, and some of its own Acceleron networking in NVIDIA-based systems. The announcement should not be treated as if all prospective power capacity were an exclusive NVIDIA purchase order.",
+          "Oracle and Cerebras officially announced plans to bring fast inference to OCI. They disclosed no guaranteed revenue, unit volume or revenue-recognition schedule for CBRS. For Cerebras shareholders this improves distribution and access to major cloud customers, but does not replace analysis of contracts, utilization, gross margins or share lockup expirations.",
+          "Thesis: frontier-model training benefits from NVIDIA's software and hardware ecosystem; agentic inference increasingly rewards cost per token, latency and supplier choice. As model calls multiply, customers may combine suppliers by workload. That expands opportunity but also adds pricing pressure."
+        ]
+      },
+      {
+        "heading": "04 | Wall Street: Nasdaq gains 1.18%, but the risk has not disappeared",
+        "paragraphs": [
+          "At the October 27 close: S&P 500 at 7,722.60 (+0.60%; +12.8% YTD), Nasdaq at 26,477.81 (+1.18%; +13.9% YTD), Dow at 52,377.57 (+0.03%; about +9% YTD), and Russell 2000 at 2,818.87 (+1.2%; +13.6% YTD). Technology led and energy lagged. Broadcom gained about 4% following the Anthropic financing arrangement, while Meta fell 1.6% after increasing its planned equity financing to $97.5 billion.",
+          "The Philadelphia Semiconductor Index was up 62.1% year to date yet remained more than 20% below its June 22 closing record. A large annual gain does not preclude a severe drawdown. Reuters counted 3,118 Nasdaq advancers versus 1,680 decliners, but also 239 new 52-week lows versus 62 new highs: positive one-day participation alongside persistent damage in parts of the market.",
+          "Some 83% of S&P 500 companies that had reported beat analyst forecasts, according to LSEG data cited by Reuters. A beat measures results against expectations, not whether current valuations are cheap. With 10-year yields near 5%, cash-flow quality and liability duration matter as much as earnings growth."
+        ]
+      },
+      {
+        "heading": "05 | Bonds: a positively sloped curve, and TLT faces more than Fed risk",
+        "paragraphs": [
+          "The U.S. Treasury's October 27 nominal par yields were 4.70% for two years (+2 basis points versus October 26), 4.99% for ten years (-1bp) and 5.30% for thirty years (-1bp). The 10Y–2Y spread narrowed to 29bp from 32bp. Versus October 27, 2025, the 10-year yield was 98bp higher (4.01% then), materially affecting discount rates.",
+          "The Federal Reserve is scheduled to announce its October 28 decision at 2 p.m. New York time; the current target range is 3.75%–4.00%, with Reuters reporting a consensus for no change. No decision has yet been made at this briefing's timestamp. TLT is especially sensitive to long-term yields: a one-percentage-point yield move can imply a double-digit approximate price move depending on duration and market conditions, but an updated TLT price and duration were not verified, so no numerical fund forecast is offered.",
+          "Contrary scenario: Treasury yields may fall on slowdown fears while credit spreads on leveraged AI companies rise. A TLT rebound therefore does not guarantee a recovery in data-center stocks or corporate debt."
+        ]
+      },
+      {
+        "heading": "06 | Oil and geopolitical risk: an attack headline is not verified lost output",
+        "paragraphs": [
+          "In October 28 Asian trading Reuters quoted Brent near $115.47 a barrel (+1.4%) and WTI near $101.33 (+1.4%) at the time of its report; these are not settlement prices. The Houthis claimed a strike on a major Saudi refinery with about 550,000 barrels/day of capacity, but Saudi authorities had not immediately confirmed the claim. Neither lost production nor halted exports should be reported as verified.",
+          "Industry-group API figures suggested U.S. crude stocks fell about 2.03 million barrels in the week ended October 23, versus a small build expected in a Reuters poll. The official EIA release is due later today; API is preliminary, not the government inventory report. High oil prices raise inflation, freight and power risks, but can also support producer cash flow when output is intact.",
+          "Watch for independently confirmed physical damage, Saudi export routes, EIA inventories, refining margins and OPEC+'s December output decision. De-escalation could remove a risk premium without any change in physical demand."
+        ]
+      },
+      {
+        "heading": "07 | U.S. consumers: a large confidence beat, but the recovery remains fragile",
+        "paragraphs": [
+          "The Conference Board's October consumer-confidence index rose to 91.7 from an upwardly revised September 84.2, versus 81.0 expected in Reuters' poll. That is a 10.7-point, approximately 13.2% positive surprise. September had been revised from 81.9 to 84.2; comparing against the old figure would exaggerate the improvement.",
+          "The expectations index rose to 72.6 but remained below the 80 threshold the Conference Board has historically associated with possible recession risk, not a certain recession forecast. Consumers still complained about food, fuel and living costs. The mechanism matters: cheaper gasoline from September to October improved sentiment, but renewed oil inflation could reverse part of the gain.",
+          "Sector implications: stronger confidence may help consumption and delivery companies, while high rates constrain financed purchases, housing and long-duration growth equities. Validate the trend against retail sales, real income and credit-loss provisions."
+        ]
+      },
+      {
+        "heading": "08 | The cash-flow test: Boeing and UPS tell different stories",
+        "paragraphs": [
+          "Boeing reported quarterly revenue of $24.19 billion but an adjusted loss of $0.34 per share versus roughly $0.21 expected. Its stock fell 10.7%. It pushed the ramp to 47 Boeing 737 aircraft per month into early 2027 and forecast roughly $3 billion of 2027 free cash flow versus analysts' $5.5 billion estimate. Its $10 billion free-cash-flow goal shifted to 2029.",
+          "By contrast UPS reported $22.85 billion in revenue versus $22.27 billion expected and adjusted EPS of $1.69 versus $1.62 forecast. Shares rose 5.8% after an improved full-year outlook. This does not prove every U.S. consumer cohort is strong, but it shows the market rewarding execution and clearer cash-generation guidance.",
+          "Cross-sector lesson: a large order backlog is not cash flow. Boeing has substantial orders but production pace and working capital constrain realization; AI companies deserve the same discipline when assessing whether customer commitments generate cash after capex."
+        ]
+      },
+      {
+        "heading": "09 | Israel: voting is over, but the next government is not determined",
+        "paragraphs": [
+          "After Israel's October 27 election, updated TV exit polls indicated roughly 52 seats for Eisenkot's bloc and 50 for Netanyahu's, with around 18 for Arab parties; neither bloc reached 61. Turnout was 77.7%, the highest in more than two decades. These are exit polls, not final results; Reuters reported official counting was still underway and revisions remain possible.",
+          "On election day Reuters reported the shekel strengthened about 1.8% to roughly 3.02 per dollar amid expectations of political change. It subsequently reported shekel weakness after inconclusive exit polls, but no new verified closing FX rate is presented. The Tel Aviv exchange was closed on election day. An earlier JPMorgan scenario analysis allowed for currency swings of around 3%; it was a forecast, not an observed move.",
+          "Investors should focus not only on the largest party but on coalition formation, fiscal policy, foreign relations and bond/FX risk premia. Any claim that a bloc has already secured a majority is premature."
+        ]
+      },
+      {
+        "heading": "10 | Flows, private credit and ETFs: fund inflows are not stock-level purchases",
+        "paragraphs": [
+          "The latest verified LSEG Lipper flows available for this research cover the week through October 21: global equity funds drew $28.16 billion net, versus $19.88 billion the prior week; technology funds attracted about $5.05 billion. These figures predate the October 27 rally and cannot identify institutional buyers of MU, WDC, CBRS or FPS. They must not be presented as yesterday's stock-level purchases.",
+          "ICI's week-to-October-14 figures showed an extraordinary $471.68 billion of combined long-term outflows, alongside $53.26 billion of net ETF issuance. ICI explicitly explained that most of the domestic-equity outflow came from collective investment trust activity, not individual retail redemptions. Without that note the headline would misleadingly suggest a mass retail exodus.",
+          "In credit markets Reuters reported that neocloud company Argentum AI was in talks for $5 billion of equipment financing, not a completed deal. Lending against equipment leased to non-investment-grade customers illustrates how risk also moves to creditors; monitor collateral advance rates, interest costs, lease terms and refinancing capacity."
+        ]
+      },
+      {
+        "heading": "11 | FX, gold and copper: different gauges of the same risk",
+        "paragraphs": [
+          "In early October 28 trading Reuters quoted the dollar index near 102.37 and spot gold around $4,058 an ounce; these are time-sensitive intraday snapshots. The New Zealand dollar fell more than 1% after its central bank unexpectedly held rates at 2.75%. Even on a day when AI stocks rise, divergent monetary-policy surprises can move currencies.",
+          "For copper, a dated commercial quote for the LME three-month ask was €12,944.33 per tonne on October 27 versus €12,809.01 on October 26, about +1.06%. This is a redistributed quote converted using BFIX, not a directly verified official LME U.S.-dollar settlement; it must not be labeled as a USD-per-tonne closing price.",
+          "Gold may benefit from geopolitical fear yet suffer from higher real yields and a stronger dollar; copper may benefit from power-grid and data-center demand yet be hurt by industrial weakness or tariff-driven inventory distortions. There is no fixed correlation among these assets."
+        ]
+      },
+      {
+        "heading": "12 | Contrarian test: who wins if AI succeeds, and who wins if expectations are excessive?",
+        "paragraphs": [
+          "The emerging consensus is that AI compute and memory demand keeps rising and suppliers with proven capacity can sustain premium pricing. SK hynix's report and Oracle's expansion support that view. Yet triple-digit growth, 80% operating margins and huge equipment financing can also attract capacity, regulation and competition.",
+          "Alternative bull case: multi-year orders convert into usage, utilization stays high, specialized inference suppliers lower cost per token, and customers generate adequate post-capex cash flow. In that world, new suppliers can grow without destroying incumbents' economics.",
+          "Alternative bear case: customers keep buying chips but fund them with debt and leases, service prices fall faster than depreciation costs, and lower collateral values make financing more expensive. Falsifiers include actual utilization, cancellations, HBM unit pricing, manufacturing yield, credit spreads, capex versus FCF, and Microsoft/Alphabet results that are due only after today's U.S. close."
+        ]
+      }
+    ],
+    "market_map": [
+      "Oct 27 U.S. close: S&P 7,722.60 (+0.60%, +12.8% YTD); Nasdaq 26,477.81 (+1.18%, +13.9% YTD); Dow 52,377.57 (+0.03%); Russell 2,818.87 (+1.2%).",
+      "Oct 27 Treasury curve: 2Y 4.70% (+2bp), 10Y 4.99% (-1bp), 30Y 5.30% (-1bp); 10Y–2Y spread 29bp.",
+      "SK hynix Q3: revenue KRW 104.6155tn (+328% YoY), operating profit KRW 83.3338tn (+632% YoY), 80% operating margin, about 8.6% profit beat.",
+      "Oracle: multi-gigawatt NVIDIA Vera Rubin expansion without a disclosed deal value; Cerebras and Google TPUs join OCI inference offerings.",
+      "Early Oct 28 Asia: Brent near $115.47 (+1.4%), WTI near $101.33 (+1.4%); intraday quotes, not settlements.",
+      "U.S. October consumer confidence 91.7 versus 81.0 forecast; September revised to 84.2.",
+      "Israel election: exit polls roughly 52 Eisenkot bloc, 50 Netanyahu bloc and 18 Arab parties; no final results; turnout 77.7%.",
+      "Flows: LSEG global equities +$28.16B for week to Oct 21; ICI's Oct 14 week included exceptional CIT outflows alongside +$53.26B ETF issuance.",
+      "No verified fresh TLT/XLE prices, stock-specific institutional purchases or official USD LME copper settlement."
+    ],
+    "catalysts": {
+      "24 hours": [
+        "Oct 28 around 2 p.m. ET: FOMC statement; press conference later. Expected hold is not a decision.",
+        "Oct 28 after U.S. close: Microsoft and Alphabet earnings; compare cloud growth with capex and FCF.",
+        "Oct 28 10:30 a.m. ET: official EIA weekly oil stocks; distinguish from API.",
+        "Israeli vote count continues; verify official results, shekel and bond yields."
+      ],
+      "7 days": [
+        "Oct 29 Amazon results and AWS utilization versus capital spending.",
+        "Track HBM4 margins, SK hynix contract terms and memory pricing at MU and Samsung.",
+        "OPEC+ December production target and verified Saudi oil infrastructure status.",
+        "Credit spreads on data-center financing and equipment lease deals."
+      ],
+      "30 days": [
+        "Nov 12 Cerebras earnings (company-announced) and OCI inference rollout.",
+        "ETF and fund flows after the Oct 27 market rally.",
+        "Memory prices, HBM yields and customer commitments.",
+        "Israeli coalition formation and sovereign-risk repricing."
+      ]
+    },
+    "contrarian": {
+      "consensus": "AI demand is strong, chips and memory remain scarce, and AI shares can keep rallying.",
+      "why_right": "SK hynix profitability, multi-year capacity contracts and Oracle's expansion provide tangible demand evidence. Poor rival manufacturing yields may protect leading suppliers' margins.",
+      "why_wrong": "Inference competition, heavy capex and costly debt, equity dilution, rapid obsolescence and falling service prices could disconnect hardware sales from shareholder returns.",
+      "falsifiers": [
+        "Cloud revenue growth without better post-capex free cash flow",
+        "Lower HBM prices or utilization despite multi-year contracts",
+        "Wider credit spreads and lease cancellations",
+        "Improving rival manufacturing yields and accelerating supply",
+        "Slower capital spending in Microsoft, Alphabet and Amazon results"
+      ]
+    },
+    "bottom_line": [
+      "The AI boom should be measured by how many usable chips sell, at what price, and how much cash remains after capital spending and financing—not by announced chip counts.",
+      "SK hynix demonstrates extraordinary pricing power; Oracle/Cerebras show inference opening to competition; bonds and Israel's election remind investors that capital costs and risk premia do not vanish on a green Wall Street day."
+    ],
+    "disclaimer": "General research only, not investment advice. Market prices are dated; intraday quotes are not settlement prices. Exit polls, proposed transactions and source-based reporting are not final outcomes or completed deals.",
+    "sources": [
+      {
+        "title": "U.S. Treasury | Daily par yield curve, Oct 27",
+        "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value_month=202610&type=daily_treasury_yield_curve"
+      },
+      {
+        "title": "Reuters | Wall Street Oct 27 close and market breadth",
+        "url": "https://www.reuters.com/business/us-stock-futures-muted-oil-holds-near-april-highs-ahead-fed-decision-2026-10-27/"
+      },
+      {
+        "title": "AP | US indexes Oct 27, 2026 and YTD",
+        "url": "https://apnews.com/article/eae2932c0c253be1039e1545909656a8"
+      },
+      {
+        "title": "SK hynix | Official Q3 2026 financial results",
+        "url": "https://www.prnewswire.com/news-releases/sk-hynix-announces-3q26-financial-results-302921407.html"
+      },
+      {
+        "title": "Reuters | SK hynix earnings and shareholder return plan",
+        "url": "https://www.reuters.com/world/asia-pacific/sk-hynix-q3-profit-jumps-more-than-7-fold-beats-forecasts-2026-10-27/"
+      },
+      {
+        "title": "NVIDIA | Oracle multi-gigawatt Vera Rubin announcement",
+        "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-and-Oracle-Expand-NVIDIA-Vera-Rubin-to-Multi-Gigawatt-Scale-and-Bring-NVIDIA-Vera-CPU-to-Oracle-Cloud-Infrastructure/default.aspx"
+      },
+      {
+        "title": "Oracle and Cerebras | OCI inference announcement",
+        "url": "https://www.oracle.com/il-en/news/announcement/ai-world-cerebras-and-oracle-team-up-to-bring-cerebras-ai-inference-to-oracle-cloud-infrastructure-2026-10-27/"
+      },
+      {
+        "title": "Reuters | Oracle adds Nvidia, Google, Cerebras alternatives",
+        "url": "https://www.reuters.com/business/oracle-expands-chip-supply-deal-with-nvidia-adds-google-cerebras-offerings-2026-10-27/"
+      },
+      {
+        "title": "Reuters | China CXMT HBM yields and supply constraints",
+        "url": "https://www.reuters.com/world/china/chinas-cxmt-start-advanced-ai-memory-production-despite-poor-yields-sources-say-2026-10-28/"
+      },
+      {
+        "title": "Reuters | Consumer confidence Oct 27",
+        "url": "https://www.reuters.com/markets/us/us-consumer-confidence-improves-october-2026-10-27/"
+      },
+      {
+        "title": "Reuters | Boeing Q3 cash flow and delivery outlook",
+        "url": "https://www.reuters.com/business/aerospace-defense/boeing-jetliner-production-challenges-weigh-third-quarter-results-2026-10-27/"
+      },
+      {
+        "title": "Reuters | Oil Oct 28 early trading and Saudi refinery reports",
+        "url": "https://www.reuters.com/world/asia-pacific/oil-prices-rise-after-attack-saudi-arabian-refinery-reignites-supply-concerns-2026-10-28/"
+      },
+      {
+        "title": "Reuters | Israel election deadlock Oct 28",
+        "url": "https://www.reuters.com/world/middle-east/netanyahu-eisenkot-stake-rival-claims-lead-israel-after-deadlocked-vote-2026-10-28/"
+      },
+      {
+        "title": "Reuters | Shekel and election turnout Oct 27",
+        "url": "https://www.reuters.com/world/middle-east/israels-shekel-jumps-3-week-high-amid-high-election-turnout-2026-10-27/"
+      },
+      {
+        "title": "Reuters | Global equity fund flows through Oct 21",
+        "url": "https://uk.marketscreener.com/news/global-equity-funds-attract-inflows-for-a-fifth-consecutive-week-ce785cdfd88bf125"
+      },
+      {
+        "title": "ICI | Combined mutual-fund and ETF flows Oct 14",
+        "url": "https://www.ici.org/research/stats/combined_flows"
+      },
+      {
+        "title": "Federal Reserve | October 2026 policy calendar",
+        "url": "https://www.federalreserve.gov/newsevents/2026-october.htm?view=calendar"
+      },
+      {
+        "title": "EIA | Weekly petroleum report schedule",
+        "url": "https://www.eia.gov/petroleum/supply/weekly/schedule.php"
+      },
+      {
+        "title": "Reuters | Argentum AI private-credit funding talks",
+        "url": "https://www.reuters.com/business/finance/neocloud-firm-argentum-ai-talks-5-billion-ai-chip-financing-sources-say-2026-10-27/"
+      },
+      {
+        "title": "Reuters | Asia and foreign exchange early Oct 28",
+        "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-10-28/"
+      },
+      {
+        "title": "Aristoncavi | Dated LME copper three-month ask in EUR",
+        "url": "https://www.aristoncavi.com/copper-quotations"
+      }
+    ],
+    "visuals": {
+      "cards": [
+        {
+          "label": "S&P 500",
+          "value": "7,722.60",
+          "change": "+0.60%",
+          "asof": "Oct 27, 2026 close",
+          "note": "+12.8% YTD"
+        },
+        {
+          "label": "Nasdaq",
+          "value": "26,477.81",
+          "change": "+1.18%",
+          "asof": "Oct 27, 2026 close",
+          "note": "+13.9% YTD"
+        },
+        {
+          "label": "U.S. Treasury 10Y",
+          "value": "4.99%",
+          "change": "−1 bp",
+          "asof": "Official Oct 27, 2026 curve"
+        },
+        {
+          "label": "SK hynix operating profit",
+          "value": "₩83.33T",
+          "change": "+632% YoY",
+          "asof": "Q3 2026",
+          "note": "80% operating margin"
+        }
+      ],
+      "charts": [
+        {
+          "title": "U.S. Treasury yield curve",
+          "unit": "%",
+          "asof": "Oct 27, 2026 · official par yields",
+          "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value_month=202610&type=daily_treasury_yield_curve",
+          "items": [
+            {
+              "label": "2Y",
+              "value": 4.7,
+              "display": "4.70%"
+            },
+            {
+              "label": "10Y",
+              "value": 4.99,
+              "display": "4.99%"
+            },
+            {
+              "label": "30Y",
+              "value": 5.3,
+              "display": "5.30%"
+            }
+          ],
+          "note": "Nominal par yields by maturity; bars start at zero."
+        },
+        {
+          "title": "SK hynix: quarterly operating profit",
+          "unit": " KRW trillion",
+          "asof": "Q3 2026 report · K-IFRS",
+          "source_url": "https://www.prnewswire.com/news-releases/sk-hynix-announces-3q26-financial-results-302921407.html",
+          "items": [
+            {
+              "label": "Q3 2025",
+              "value": 11.3834,
+              "display": "₩11.38T"
+            },
+            {
+              "label": "Q2 2026",
+              "value": 60.5426,
+              "display": "₩60.54T"
+            },
+            {
+              "label": "Q3 2026",
+              "value": 83.3338,
+              "display": "₩83.33T"
+            }
+          ],
+          "note": "The surge also reflects the memory cycle; do not extrapolate a constant growth rate."
+        }
+      ]
+    }
+  },
+  {
     "id": "2026-10-27",
     "date": "2026-10-27",
     "title": "Money returns to AI — but who insures the chips? The $198 billion AI financing day",
