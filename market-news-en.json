@@ -1,310 +1,275 @@
 [
   {
-    "id": "2026-10-29",
-    "date": "2026-10-29",
-    "title": "AI's cash test: Microsoft generates $18.6 billion, Alphabet burns $9.1 billion — and the Fed reprices capital",
+    "id": "2026-10-30",
+    "date": "2026-10-30",
+    "title": "AI meets the return-on-capital test: Amazon cloud grows 39% while cash burns, Intel suffers an Israel fab hit — and bonds tell a different story",
     "summary": {
-      "changed": "Oct 28: Microsoft reported +$18.63B FCF versus Alphabet −$9.07B; Oracle targeted +$30B in FY2029; the Fed held 3.75%–4.00% by 10–2; Samsung reported record KRW107.4T operating profit this morning.",
-      "missed": "The 10Y–2Y spread widened from 29 to 38bp; $33.50B mutual-fund redemptions were offset by $45.82B of net ETF issuance. Cloud growth is not cash flow.",
-      "watch": "Oct 29: US Q3 GDP and September PCE at 12:30 UTC, ECB decision, Amazon/Intel earnings, GOOGL/MSFT reaction and credit spreads."
+      "changed": "Oct 29: Amazon reported AWS +39% to $46B but negative trailing-12-month free cash flow of $42.4B; Intel guided Q4 revenue to $15–16B versus $17.07B consensus. US GDP +3.4% annualized, PCE inflation +3.6% year-on-year; S&P -0.30%, Nasdaq -1.37%.",
+      "missed": "The gap between computing demand and returns on capital is widening: record Amazon operating profit alongside negative free cash flow, while costly memory raises PC prices and hurts demand. Meanwhile the 10Y Treasury yield actually fell 7bp to 4.98%.",
+      "watch": "Oct 30 Asia morning: AI-stock selling, Nasdaq futures, regular-session AMZN/INTC reaction, long yields, Brent/Hormuz, cloud-company credit, and updated fund flows. Asian quotes are intraday."
     },
     "sections": [
       {
-        "heading": "01 | Thesis: AI moves from the order test to the cash test",
+        "heading": "01 | Thesis: from 'how much AI can you sell?' to 'how much capital does it consume?'",
         "paragraphs": [
-          "Microsoft and Alphabet both reported strong cloud results on October 28, yet after-hours reactions diverged: Microsoft gained roughly 3% after $18.63 billion of free cash flow, while Alphabet lost about 10% with negative $9.07 billion. This is not a verdict on which technology is better; it suggests investors are assigning more weight to self-funding, borrowing costs and hardware returns than to revenue growth alone.",
-          "The connecting thesis: chip orders and cloud backlog establish demand, not when invested capital will be recovered. With expensive power, depreciation and interest, an equipment vendor can book a profitable sale while its customer is still burning cash. The reported figures are facts; the claim that valuation focus is shifting is interpretation."
+          "The latest three reports show a new hierarchy: Microsoft reported positive quarterly free cash flow in the results discussed yesterday; Alphabet reported negative free cash flow; and on October 29 Amazon posted 39% cloud revenue growth alongside negative $42.4 billion free cash flow over the last twelve months. This does not mean its operations are unprofitable: Amazon's quarterly operating profit reached a record $28.1 billion. The distinction is between accounting earnings and cash invested in equipment, real estate and electricity.",
+          "Interpretation: with long-term interest rates around 5%, every dollar of capex needs to earn an adequate return, not merely create backlog. Companies with strong operating cash generation, shorter payback periods and lower leverage may fare better than peers dependent on repeated capital raising. There is no evidence yet that AI demand has collapsed; there is evidence that investors demand economic proof."
         ]
       },
       {
-        "heading": "02 | Microsoft: Azure and the ability to fund itself",
+        "heading": "02 | Amazon: AWS accelerates while cash flow turns negative",
         "paragraphs": [
-          "In fiscal Q1 2027 Microsoft reported $92.279 billion of revenue, up 19% as reported, and $45.915 billion of operating income. Azure grew 48% to $33.165 billion against a $32.84 billion Visible Alpha estimate; adjusted EPS was $4.89 against $4.73 expected, while GAAP EPS was $4.92. Management projects 49%–50% Azure growth next quarter versus 47.6% expected.",
-          "Operating cash of $58.0 billion minus $39.367 billion of property additions produces $18.633 billion of FCF, about $10 billion above expectations according to Reuters. Company-defined capital expenditure of $45.2 billion versus a $50 billion forecast partly reflected delayed capacity deliveries, not abandoned plans. Differences between reported capex and cash-flow property additions reflect definitions and timing."
+          "Amazon's official October 29 report showed Q3 sales of $201.9B (+12% year-on-year), AWS revenue of $46.0B (+39.3%) and operating income of $28.1B versus $17.4B a year earlier; the operating margin reached 13.9%. AWS operating income rose to $17.8B from $11.4B. GAAP EPS was $1.89 versus $1.95, partly reflecting a difficult prior-year comparison affected by Anthropic investment gains.",
+          "However, trailing-twelve-month free cash flow was negative $42.4B versus positive $14.8B a year earlier, a $57.2B deterioration. The company reported a $94.8B year-on-year increase in net purchases of property and equipment, mainly AI. Q4 revenue guidance is $240–247B; its $243.5B midpoint is slightly below Reuters/LSEG consensus of $244.51B. Amazon expects approximately $220B of cash capex in 2026 and meaningfully higher spending in 2027, without specifying a firm amount."
         ]
       },
       {
-        "heading": "03 | Alphabet: operating income rises while free cash flow falls",
+        "heading": "03 | Why a selloff after record profits is not a contradiction",
         "paragraphs": [
-          "Alphabet posted $127.577 billion of revenue, up 25% but below $128.2 billion expected. Advertising revenue of $82.012 billion missed the $83.4 billion forecast; Google Cloud rose 103% to $30.709 billion, with management citing $561 billion of cloud backlog. Group operating income actually rose 30% to $40.576 billion, so a weaker net profit must not be mistaken for an operating collapse.",
-          "GAAP diluted EPS was $2.12; Reuters cited adjusted EPS of $2.67 versus $3.02 expected. Equity-investment remeasurement losses of $8.664 billion reduced after-tax earnings by about $6.7 billion. Operating cash of $42.290 billion against $51.355 billion of property purchases meant negative FCF of $9.065 billion, the second consecutive negative quarter. The 2026 capex outlook is $195–205 billion and is expected to rise in 2027: when will the investment turn into cash?"
+          "Amazon fell about 4.3% during October 29 regular trading to $243.79, then declined as much as 7% after hours following results. Those are different trading windows and should not be added as though they were one return. Investors received both faster AWS growth and a warning about capital spending and negative free cash flow. Stock value reflects discounted future cash generation, not cloud growth alone.",
+          "The AMZN investment test: whether incremental AWS and Bedrock revenue becomes cash after depreciation, leases, hardware purchases and energy costs; and what utilization new 2027–2028 capacity achieves. A bearish failure mode is genuine demand but eroding returns on invested capital because pricing competition and financing costs remain high."
         ]
       },
       {
-        "heading": "04 | Capex versus operating cash: the essential comparison",
+        "heading": "04 | Intel: seemingly strong quarter, dramatically weak outlook",
         "paragraphs": [
-          "For the quarter ended September 30, property additions consumed roughly 68% of Microsoft's operating cash versus 121% of Alphabet's. The companies' FCF outcomes diverged by about $27.7 billion in a single quarter. This is not a perfect valuation metric: seasonality, working capital, acquisitions and lease accounting can distort a quarterly comparison.",
-          "For electrical, cooling, server and memory suppliers, the implication cuts both ways. Existing orders support near-term sales, but if customers must raise capital to keep buying, funding costs and cancellation risk may rise. Alongside backlog, monitor customer prepayments, cash conversion, lease obligations and equipment payback periods."
+          "Intel reported Q3 revenue of $16.5B (+21% year-on-year), GAAP EPS of $0.60 and adjusted EPS of $0.52 against $0.40 consensus. Data Center and AI revenue reached $7.3B (+78%), while the PC segment generated $8.1B (-5%). Segment revenues include intersegment transactions and cannot simply be added to consolidated sales without eliminations.",
+          "But Q4 revenue guidance of $15–16B, midpoint $15.5B, is $1.57B or about 9.2% below the $17.07B analyst estimate. Adjusted EPS guidance of $0.25 trails the $0.43 forecast. Shares dropped as much as 23% after hours, not at the regular-session close. Intel warned that PC-market weakness could persist through the first half of 2027."
         ]
       },
       {
-        "heading": "05 | Samsung: record profits, falling shares",
+        "heading": "05 | Kiryat Gat: a local incident with global supply implications",
         "paragraphs": [
-          "On the morning of October 29, Samsung reported record Q3 revenue of KRW195.3 trillion and operating profit of KRW107.4 trillion, versus roughly KRW12.2 trillion of operating profit a year earlier. Its Device Solutions chip division generated KRW147.1 trillion in revenue and KRW106.5 trillion of operating profit. Samsung reported higher HBM4, server-memory and SSD sales and expects AI demand to exceed supply in 2027.",
-          "Yet Reuters reported Samsung shares fell as much as 6.2% that morning. Its shortage outlook through 2028 was less bullish than SK hynix's through 2030, and a final shareholder-return decision was postponed to January 2027. Samsung cited long-term supply agreements with ten customers. Exceptional earnings do not guarantee the market will keep paying the same multiple; test cycle duration and cash distributions."
+          "Reuters reported that an October explosion at Intel's Kiryat Gat, Israel, plant caused an approximately two-week shutdown. Intel estimates roughly $600M in lost revenue over two quarters, including around $300M from its Q4 forecast and about 200bp off expected gross margin. Reports said two people were killed and one seriously injured. The company is evaluating which silicon wafers can be salvaged, leaving the final impact uncertain.",
+          "AI supply chains depend on more than GPUs: server CPUs, memory, packaging, electricity and physical manufacturing facilities can all constrain output. At the same time, higher memory prices hurt PC consumers' purchasing power. The same price increase that benefits memory suppliers can hurt their customers elsewhere in the chain."
         ]
       },
       {
-        "heading": "06 | Oracle tries to cap the financing cost of the boom",
+        "heading": "06 | Macro: growth too strong, inflation too high",
         "paragraphs": [
-          "At its October 28 investor day, Oracle targeted FY2030 revenue above $225 billion, adjusted operating margin above 40% and adjusted EPS above $21. It expects positive FCF in the second half of FY2028 and more than $30 billion in FY2029, and committed to cap additional capital raises through FY2030 at $20 billion, excluding refinancing, half equity and half debt.",
-          "Reuters reported shares surged more than 12%. But forecasts are not cash already received: Oracle plans to use vendor financing, prepayments and customer-supplied hardware. Risk may move along the supply chain. Watch whether net debt to adjusted EBITDA falls below 3.5 in FY2029 and whether backlog converts without additional dilution."
+          "The BEA's October 29 advance Q3 GDP estimate showed 3.4% real annualized growth versus 2.2% in Q2 and Reuters consensus of 3.2%. Consumer spending grew 3.8%, business equipment investment surged 20.9%, and real final sales to private domestic purchasers rose 4.9%. Imports subtracted 2.64 percentage points from GDP growth while inventories added 1.61 points, reminding us that headline GDP is not identical to pure domestic demand.",
+          "The separate September PCE report showed headline inflation of 3.6% year-on-year, core PCE inflation of 3.1%, and a 0.5% monthly rise in headline prices. Real disposable income fell 0.3% and real consumption was flat in September; the savings rate declined to 3.8%. A strong quarter can therefore coexist with a consumer entering the next quarter in weaker shape."
         ]
       },
       {
-        "heading": "07 | The Fed and central banks: a pause is not easing",
+        "heading": "07 | The Fed, bonds and TLT: yields fall despite strong GDP",
         "paragraphs": [
-          "The Fed held its 3.75%–4.00% target on October 28 by a 10–2 vote; Lisa Cook and Beth Hammack preferred a 25-basis-point hike. The official statement described strong economic activity, robust capital investment and elevated inflation. Reuters reported Chair Kevin Warsh's comments reduced implied December hike odds slightly, but they remained around 78%–80% on the October 29 morning.",
-          "Canada's central bank raised rates 25 basis points to 2.5% on October 28, its first hike in more than three years, and lifted its year-end inflation forecast to about 3.5%. Expensive oil, resilient growth and concern about second-round inflation effects limit central banks' ability to make credit cheap quickly."
+          "Official Treasury yields on October 29: 2Y 4.61% (4.67% on October 28), 10Y 4.98% (5.05%) and 30Y 5.32% (5.37%), down 6, 7 and 5 basis points respectively. The 10Y–2Y spread is 37bp, versus 38bp the previous day. These are official constant-maturity par yields, not ETF prices.",
+          "In October 30 Asian morning trading, Reuters quoted the 10Y yield near 4.91%, a separate intraday observation. Falling long yields usually support TLT's price, but an exact TLT return cannot be inferred without the ETF's price and updated effective duration. Interpretation: flight from AI equities can support government bonds even while macro data point to restrictive monetary policy."
         ]
       },
       {
-        "heading": "08 | TLT and the yield curve: the short end falls, long end rises",
+        "heading": "08 | Equities: rotation rather than a uniform selloff",
         "paragraphs": [
-          "Official Treasury yields for October 28: two-year 4.67% versus 4.70% on October 27; ten-year 5.05% versus 4.99%; thirty-year 5.37% versus 5.30%. The 10Y-minus-2Y spread widened from 29 to 38 basis points. This was not a uniform bond rally; the short end fell and long yields rose. Long-duration TLT can suffer even if the Fed does not hike its policy rate.",
-          "The ten-year real yield rose from 2.64% to 2.67%; nominal minus real yields increased from 2.35% to 2.38%, an imperfect inflation-compensation proxy. Reuters has described more expensive default insurance for some AI borrowers, but thin CDS markets do not prove a credit failure. Track long yields and credit spreads separately."
+          "Reuters October 29 close: Dow 52,342.56 (-0.25%), S&P 500 7,720.39 (-0.30%), Nasdaq Composite 26,184.72 (-1.37%). The Russell 2000 gained about 1.0%, while the SOX fell about 1.4%. Alphabet plunged 12.6% even as smaller stocks held up relatively well. Among 253 S&P 500 companies that had reported, around 81% beat analyst forecasts according to LSEG, with Q3 aggregate earnings growth estimated at 31%.",
+          "Implication: major indexes are unusually sensitive to a handful of capex-heavy giants. That does not establish that the whole economy is contracting. Before declaring a broad bear market, examine breadth, credit, earnings revisions, credit spreads and actual capital flows."
         ]
       },
       {
-        "heading": "09 | Stocks, FX and Asia: green US close, weaker morning",
+        "heading": "09 | October 30 Asia morning: testing contagion",
         "paragraphs": [
-          "US stocks closed October 28 modestly higher: S&P 500 up about 0.3% to 7,743.98 (+13.1% YTD), Nasdaq up about 0.3% to 26,549.85 (+14.2% YTD), Dow up about 0.2% to 52,475.10 (+9.2% YTD), and Russell 2000 up about 0.4% to 2,830.51 (+14.0% YTD). These are closing levels before the full reaction to evening earnings.",
-          "On the October 29 morning, Reuters reported Nasdaq futures down roughly 1%, KOSPI down 2.6% and MSCI Asia ex-Japan down 0.7%, while Nikkei rose about 0.3%; all are intraday quotes. The dollar was broadly steady after a roughly 0.2% overnight dip, and the New Zealand dollar traded around $0.5626. No fresh USD/ILS rate was verified, so no old rate is presented as current."
+          "Reuters reported morning losses exceeding 3% in South Korea's KOSPI and 2% in Japan's Nikkei, while Nasdaq 100 futures were down about 1.9% following Amazon and Intel earnings. These are intraday moves that can change by the close. The dollar weakened against the yen to about 157.20 yen, and bitcoin traded near $78,171 after losses amid reports of a Binance hack.",
+          "This signals higher correlation among chipmakers, cloud vendors and risk assets, not proof that every company has suffered the same fundamental damage. For MU, WDC, FPS and CBRS, distinguish sector-wide selling from company-specific changes in margins, orders or debt. No new stock-specific institutional transactions were verified since the previous brief."
         ]
       },
       {
-        "heading": "10 | Oil, gold, copper and energy expenses",
+        "heading": "10 | Oil, FX, Europe and Japan: competing risks",
         "paragraphs": [
-          "Brent settled October 28 at $115.32 per barrel (+1%) and WTI at $102.78 (+3%), amid Middle East supply fears and a surprise 1.9-million-barrel US crude inventory draw. On the October 29 morning Brent traded around $114.91 (−0.4%) after a report of renewed Iran diplomacy. Claims of attacks are not verified losses of production.",
-          "Spot gold was around $4,037.98 per ounce at 04:10 UTC October 29 (−0.7%). No fresh October 29 LME copper quote was verified; an earlier three-month copper price of $14,242.5 per tonne on October 26 is not today's price. Oil matters to AI beyond the energy sector: it can raise cooling, electricity, transport and construction costs and lengthen data-center investment payback."
+          "Brent settled October 29 near $114.88 per barrel (-0.38%) and WTI around $102 (-0.76%), according to Reuters. Reports of renewed Iran diplomacy reduced some risk premium, while claims of attacks and threats to Hormuz shipping keep supply risks elevated. Claims by parties should not be mistaken for verified production outages or physical damage. A fresh LME copper quote could not be independently verified and is omitted.",
+          "On October 29 the ECB kept its deposit rate at 2.50%, main refinancing rate at 2.65% and marginal lending rate at 2.90%, warning that costly energy both depresses growth and lifts inflation. The Bank of Japan also kept rates unchanged on October 30 according to Reuters, while signalling inflation vigilance and faster future ETF sales. Globally coordinated rate cuts are not assured."
         ]
       },
       {
-        "heading": "11 | Flows: mutual funds negative, ETFs positive",
+        "heading": "11 | Capital flows: what the data actually show",
         "paragraphs": [
-          "ICI's October 28 release for the week through October 21 showed $33.50 billion of long-term mutual-fund outflows, including $21.47 billion from equities and $9.73 billion from bonds. Net ETF issuance, however, was positive $45.82 billion, yielding combined mutual-fund-and-ETF inflows of $12.32 billion, including $13.89 billion for equities. Looking only at mutual funds gives a misleading 'capital flight' picture.",
-          "The prior week's extraordinary roughly $511 billion of equity mutual-fund outflows was attributed by ICI mainly to collective investment trust activity, not normal retail redemptions. Weekly estimates are not stock-specific institutional holding disclosures; they do not reveal who bought MU, WDC, FPS, CBRS or BHF yesterday."
+          "Latest verified ICI data cover the week ended October 21: net ETF issuance of $45.82B, including $35.36B in equity ETFs and $9.57B in bond ETFs. The combined ETF-plus-mutual-fund report showed net inflows of about $12.32B. These are lagged weekly data, not flows from October 29, and cannot explain yesterday's selling with certainty.",
+          "On credit, Reuters reported a $25B debt sale by Microsoft on October 29. Issuing debt is not itself a sign of distress, but it sharpens the need to monitor borrowing costs, lease obligations, equipment lives and credit spreads across AI companies. No verified fresh Dark Pool activity or stock-specific institutional purchases were established for BHF, FPS, CBRS, MU or WDC."
         ]
       },
       {
-        "heading": "12 | Investment map and contrarian test",
+        "heading": "12 | Investment decision: separate operating winners from stock-market winners",
         "paragraphs": [
-          "MU and WDC: memory-company profits support server demand, but DRAM, NAND and hard drives are distinct markets; test contract prices, inventories, capacity and cash flow. FPS and electrical-equipment suppliers benefit from data-center construction but face customer funding and timing risks. CBRS: inclusion in Oracle's accelerator offering is not a verified revenue contract. BHF: long yields, asset valuations and credit spreads matter alongside acquisition risk; no fresh verified material change in deal terms was found this morning.",
-          "JEPQ remains exposed to Nasdaq declines despite distributing option premiums; TLT is sensitive to rising long yields; XLE may benefit from expensive oil but not every company benefits equally. The contrarian risk to the AI boom is growing backlog with delayed cash conversion, cheaper compute services, obsolete hardware and widening credit spreads. Test it through Alphabet's FCF, Oracle's targets and memory pricing."
+          "Near-term analysis should separate (a) memory and equipment suppliers selling into AI but vulnerable to sector rotation, (b) hyperscalers with growing revenue and extraordinary capex, and (c) leveraged infrastructure companies dependent on debt refinancing and utilization. Each requires a different valuation model: cash flow and ROIC for Microsoft/Amazon, manufacturing yield and gross margin for Intel, and duration/rate sensitivity for TLT.",
+          "What the market may miss: AWS growth of 39% and record operating profit can coexist with deeply negative free cash flow; GDP growth of 3.4% can coexist with falling bond yields on a risk-off day. If the cost of capital declines while demand stays high, the selloff may prove an opportunity. If AI-service pricing erodes while capex stays high, the valuation warning is real."
         ]
       }
     ],
     "market_map": [
-      "Oct 28 close: S&P 7,743.98 (+0.3%, +13.1% YTD); Nasdaq 26,549.85 (+0.3%, +14.2% YTD); Dow 52,475.10 (+0.2%, +9.2% YTD); Russell 2000 2,830.51 (+0.4%, +14.0% YTD).",
-      "Oct 29 morning: Nasdaq futures about −1%; KOSPI −2.6%; MSCI Asia ex-Japan −0.7%; Nikkei +0.3%; intraday quotes.",
-      "Oct 28 Fed: 3.75%–4.00% by 10–2, two dissenters favored a 25bp hike.",
-      "Oct 28 official Treasury yields: 2Y 4.67% (−3bp), 10Y 5.05% (+6bp), 30Y 5.37% (+7bp).",
-      "Oct 28 oil settlement: Brent $115.32 (+1%), WTI $102.78 (+3%); Oct 29 morning Brent $114.91 (−0.4%).",
-      "Oct 29 04:10 UTC: spot gold $4,037.98 (−0.7%).",
-      "Microsoft FY27 Q1: revenue $92.279B, Azure $33.165B (+48%), FCF +$18.633B, adjusted EPS $4.89 versus $4.73 expected.",
-      "Alphabet Q3: revenue $127.577B vs $128.2B expected, Cloud $30.709B (+103%), FCF −$9.065B, GAAP EPS $2.12 and adjusted $2.67.",
-      "Samsung Q3: revenue KRW195.3T, operating profit KRW107.4T; shares fell up to 6.2% in morning trading.",
-      "ICI week through Oct 21: mutual funds −$33.50B, net ETFs +$45.82B, combined +$12.32B.",
-      "No fresh verified copper price, selected-ticker closing prices, institutional flows or USD/ILS quote."
+      "Oct 29 US close: S&P 7,720.39 (-0.30%), Nasdaq 26,184.72 (-1.37%), Dow 52,342.56 (-0.25%); Russell 2000 about +1.0%, SOX about -1.4%.",
+      "Oct 29 Amazon: revenue $201.9B (+12% y/y), AWS $46.0B (+39.3%), operating profit $28.1B; TTM free cash flow -$42.4B versus +$14.8B a year earlier.",
+      "Oct 29 Intel: Q3 revenue $16.5B (+21%), adjusted EPS $0.52 versus $0.40; Q4 guidance $15–16B versus $17.07B forecast; down as much as 23% after hours.",
+      "Oct 29 BEA: Q3 GDP +3.4% annualized versus +3.2% forecast; September PCE +3.6% y/y, core +3.1%; real disposable income -0.3% m/m.",
+      "Oct 29 Treasury: 2Y 4.61% (-6bp), 10Y 4.98% (-7bp), 30Y 5.32% (-5bp).",
+      "Oct 29 Brent close $114.88 (-0.38%), WTI $102.00 (-0.76%); Oct 30 morning quotes are not closing prices.",
+      "Oct 29 ECB deposit rate held at 2.50%; Oct 30 BOJ held according to Reuters.",
+      "Oct 30 Asia morning: KOSPI down over 3%, Nikkei down over 2%, Nasdaq 100 futures about -1.9%; intraday quotes.",
+      "Latest ICI data: week to Oct 21 ETF net issuance $45.82B; not yesterday's flows.",
+      "Not verified: fresh LME copper quote, live TLT/JEPQ price, Dark Pool flows or stock-specific institutional purchases."
     ],
     "catalysts": {
       "24 hours": [
-        "Oct 29 12:30 UTC: Q3 GDP advance and September PCE; core consensus near +0.3% monthly, not a released result.",
-        "Oct 29: ECB decision, Amazon and Intel earnings, regular-session GOOGL/MSFT reaction.",
-        "Watch Brent near $115, Iran developments and AI borrower bond spreads."
+        "Oct 30: US cash-session reaction to Amazon/Intel results after after-hours drops; monitor volume, credit spreads and analyst revisions.",
+        "Oct 30: long Treasury yields and TLT after GDP/PCE, alongside Hormuz developments and Brent.",
+        "Oct 30: Asian market intraday-to-close comparison; avoid treating morning prints as final."
       ],
       "7 days": [
-        "Nov 3 US midterms and JOLTS; fiscal-risk impact on yields.",
-        "Nov 4 US trade balance and weekly oil inventories.",
-        "Watch Oracle/CoreWeave credit and chip earnings."
+        "Nov 3: US midterm elections; assess fiscal and regulatory implications without presuming an outcome.",
+        "Revisions to capex and free-cash-flow expectations for hyperscalers and equipment makers after earnings week.",
+        "New ICI and fund flow releases: check whether small-cap rotation is supported by actual flows."
       ],
       "30 days": [
-        "Alphabet FCF improvement and Oracle target execution.",
-        "2027–2028 HBM contracts and memory pricing.",
-        "Inflation and jobs before the December Fed, 10Y–2Y and credit spreads."
+        "Nov 25: second estimate of Q3 GDP and October PCE per the BEA release calendar.",
+        "AI utilization, capex returns, financing terms and debt/lease exposure across cloud infrastructure.",
+        "Intel Kiryat Gat restart, Xeon supply, memory prices and PC demand."
       ]
     },
     "contrarian": {
-      "consensus": "AI, cloud and memory demand are strong; cash-generating companies should secure better funding.",
-      "why_right": "Microsoft shows large positive cash flow; Samsung and SK hynix report extraordinary profitability and tight HBM supply.",
-      "why_wrong": "Backlog can grow alongside cash burn; obsolescence, inference competition, expensive oil and costly funding can reduce returns.",
+      "consensus": "AI demand is enormous but hyperscalers are overspending, so megacap valuations must compress.",
+      "why_right": "Negative free cash flow at Amazon and Alphabet, elevated financing costs, rapid hardware depreciation, energy risks and weaker PC demand can drive ROIC below the cost of capital even with fast AWS growth.",
+      "why_wrong": "If new AI capacity fills quickly, inference prices stabilize and bond yields keep falling, markets may underestimate future cash generation. AWS +39.3% and record operating income demonstrate genuine business strength.",
       "falsifiers": [
-        "Bullish: Alphabet lowers capex-to-cash without sacrificing cloud growth.",
-        "Bullish: Oracle meets FCF and capital-raising targets.",
-        "Bearish: wider credit spreads and delayed projects.",
-        "Bearish: HBM prices weaken earlier than forecasts."
+        "Consistent improvement in free cash flow after capex for at least two quarters without a sharp cloud growth slowdown.",
+        "Widening credit spreads or lease obligations rising faster than revenue.",
+        "Revisions to capex plans versus capacity utilization and compute service pricing.",
+        "PC demand and memory prices showing broad end-demand destruction.",
+        "Falling Treasury yields with widening corporate credit spreads: separate risk-free rates from credit risk."
       ]
     },
-    "bottom_line": "AI investment continues, but demand alone is no longer enough. The Microsoft-Alphabet cash-flow split, Samsung's record earnings alongside a falling stock, and Oracle's funding cap all point to the same question: how much cash remains after building capacity, and who bears the risk if demand monetizes slowly? GDP, PCE and Amazon/Intel results are the next test.",
-    "disclaimer": "Information and research only, not investment advice. Prices are marked as closes or intraday quotes; forecasts, probabilities and scenarios are not future facts.",
+    "bottom_line": "Oct 30: the story is not the collapse of AI demand but a higher burden of proof. Amazon shows strong AWS but negative free cash flow; Intel shows server growth alongside supply shortages, a Kiryat Gat disruption and weak guidance; macro growth is strong while consumers weaken; bonds attract risk-off demand. No price target follows without cash-flow forecasts, a cost of capital and a margin of safety. Publishing visuals in GitHub does not prove they appear on the main custom domain.",
+    "disclaimer": "Research and general information, not personalized investment advice. After-hours prices and morning quotes are not closing prices. Flow data are lagged; interpretations and scenarios are not established facts or certain forecasts.",
     "sources": [
       {
-        "title": "Microsoft FY27 Q1 earnings",
-        "url": "https://www.microsoft.com/en-us/investor/earnings/fy-2027-q1/press-release-webcast"
+        "title": "Amazon IR | Q3 2026 official results",
+        "url": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Third-Quarter-Results/default.aspx"
       },
       {
-        "title": "Alphabet Q3 SEC exhibit",
-        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/googexhibit991q32026.htm"
+        "title": "Intel IR | Q3 2026 official results",
+        "url": "https://www.intc.com/news-events/press-releases/detail/1786/intel-reports-third-quarter-2026-financial-results"
       },
       {
-        "title": "Reuters Microsoft cash flow and cloud Oct 28",
-        "url": "https://www.reuters.com/business/retail-consumer/microsoft-beats-quarterly-cloud-revenue-estimates-2026-10-28/"
+        "title": "BEA | Q3 2026 advance GDP",
+        "url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026"
       },
       {
-        "title": "Reuters Alphabet cash burn Oct 28",
-        "url": "https://www.reuters.com/business/alphabets-google-cloud-unit-beats-quarterly-revenue-estimates-steady-ai-demand-2026-10-28/"
+        "title": "BEA | September 2026 personal income and PCE",
+        "url": "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026"
       },
       {
-        "title": "Samsung Q3 2026 official release",
-        "url": "https://news.samsung.com/global/samsung-electronics-announces-third-quarter-2026-results"
+        "title": "US Treasury | Daily yield curve, October 2026",
+        "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value_month=202610&type=daily_treasury_yield_curve"
       },
       {
-        "title": "Reuters Samsung profit and shareholder returns Oct 29",
-        "url": "https://www.reuters.com/world/china/samsung-posts-record-profit-q3-ai-chip-boom-2026-10-29/"
+        "title": "ECB | Monetary policy decision, Oct 29",
+        "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html"
       },
       {
-        "title": "Oracle Investor Day official Oct 28",
-        "url": "https://investor.oracle.com/investor-news/news-details/2026/Oracle-Investor-Day-2026-Accelerating-Value-Creation/default.aspx"
+        "title": "Reuters | Amazon cash burn and AWS acceleration",
+        "url": "https://www.reuters.com/business/retail-consumer/amazon-projects-fourth-quarter-sales-below-estimates-2026-10-29/"
       },
       {
-        "title": "Reuters Oracle financing plan Oct 28",
-        "url": "https://www.reuters.com/business/oracle-expects-turn-cash-flow-positive-second-half-fiscal-2028-2026-10-28/"
+        "title": "Reuters | Intel guidance, Israel fab and PC market",
+        "url": "https://www.reuters.com/business/intel-signals-slower-growth-pc-market-remains-under-pressure-2026-10-29/"
       },
       {
-        "title": "Federal Reserve FOMC Oct 28",
-        "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm"
+        "title": "Reuters | Wall Street Oct 29 closing levels",
+        "url": "https://www.reuters.com/business/nasdaq-futures-slide-mixed-big-tech-results-test-ai-trade-2026-10-29/"
       },
       {
-        "title": "Treasury daily nominal yields",
-        "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value=2026&type=daily_treasury_yield_curve"
+        "title": "Reuters | US GDP and inflation analysis",
+        "url": "https://www.reuters.com/world/us/us-economic-growth-accelerates-third-quarter-2026-10-29/"
       },
       {
-        "title": "Treasury daily real yields",
-        "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value=2026&field_tdr_date_value_month=202610&type=daily_treasury_real_yield_curve"
+        "title": "Reuters | AI capital spending and credit spillover",
+        "url": "https://www.reuters.com/business/weak-quarter-intel-sends-shivers-through-cooling-chip-stocks-2026-10-29/"
       },
       {
-        "title": "AP US stock indexes Oct 28 close",
-        "url": "https://apnews.com/article/7864eac2e13db75f07758ed9c39ad96b"
+        "title": "Reuters | Global markets Oct 30 Asia morning",
+        "url": "https://www.reuters.com/legal/transactional/global-markets-global-markets-2026-10-30/"
       },
       {
-        "title": "Reuters Asian markets Oct 29",
-        "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-10-29/"
+        "title": "Reuters | Brent settlement Oct 29",
+        "url": "https://www.reuters.com/business/energy/us-oil-prices-fall-investors-gauge-risks-mideast-supply-2026-10-29/"
       },
       {
-        "title": "Reuters oil settlements Oct 28",
-        "url": "https://www.reuters.com/world/asia-pacific/oil-prices-rise-after-attack-saudi-arabian-refinery-reignites-supply-concerns-2026-10-28/"
+        "title": "ICI | ETF net issuance for week ended Oct 21",
+        "url": "https://www.ici.org/research/stats/etf_flows"
       },
       {
-        "title": "Reuters gold Oct 29",
-        "url": "https://www.reuters.com/world/india/gold-slips-markets-assess-fed-signals-await-us-inflation-data-2026-10-29/"
-      },
-      {
-        "title": "Bank of Canada Oct 28 decision",
-        "url": "https://www.bankofcanada.ca/2026/10/fad-press-release-2026-10-28/"
-      },
-      {
-        "title": "ICI combined fund and ETF flows Oct 28",
-        "url": "https://www.ici.org/research/stats/combined_flows"
-      },
-      {
-        "title": "ICI mutual fund flows Oct 28",
-        "url": "https://www.ici.org/research/stats/flows"
-      },
-      {
-        "title": "BEA release schedule",
-        "url": "https://www.bea.gov/news/schedule/"
-      },
-      {
-        "title": "Reuters AI CDS market explainer Oct 15",
-        "url": "https://www.reuters.com/business/finance/global-markets-cds-explainer-2026-10-15/"
-      },
-      {
-        "title": "Reuters via Business Recorder | LME copper, Oct 26",
-        "url": "https://www.brecorder.com/news/amp/40445959"
+        "title": "ICI | Weekly combined ETF and mutual fund flows",
+        "url": "https://www.ici.org/research/statistics/etfs/weekly-combined-estimated-etf-and-longterm-flows"
       }
     ],
     "visuals": {
       "cards": [
         {
-          "label": "S&P 500",
-          "value": "7,743.98",
-          "change": "+0.3%",
-          "asof": "Oct 28, 2026 close",
-          "note": "+13.1% year to date"
+          "label": "Nasdaq Composite",
+          "value": "26,184.72",
+          "change": "−1.37%",
+          "asof": "Oct 29 · close"
         },
         {
-          "label": "Nasdaq",
-          "value": "26,549.85",
-          "change": "+0.3%",
-          "asof": "Oct 28, 2026 close",
-          "note": "+14.2% year to date"
+          "label": "AWS Q3 revenue",
+          "value": "$46.0B",
+          "change": "+39.3% y/y",
+          "asof": "Oct 29 results"
         },
         {
-          "label": "Microsoft FCF",
-          "value": "+$18.63B",
-          "asof": "Quarter to Sep 30, 2026",
-          "note": "Operating cash less property additions"
+          "label": "Amazon free cash flow",
+          "value": "−$42.4B",
+          "change": "trailing 12 months",
+          "asof": "through Sep 30, 2026",
+          "note": "versus +$14.8B one year earlier"
         },
         {
-          "label": "Alphabet FCF",
-          "value": "−$9.07B",
-          "asof": "Quarter to Sep 30, 2026",
-          "note": "Operating cash less property additions"
+          "label": "US Treasury 10Y",
+          "value": "4.98%",
+          "change": "−7bp",
+          "asof": "Oct 29 · official Treasury"
         }
       ],
       "charts": [
         {
-          "title": "Operating cash vs property additions | Q3",
-          "unit": " $bn",
-          "asof": "Quarter to Sep 30, 2026",
-          "source_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/googexhibit991q32026.htm",
-          "items": [
-            {
-              "label": "MSFT ops",
-              "value": 58,
-              "display": "$58.00B"
-            },
-            {
-              "label": "MSFT capex",
-              "value": 39.367,
-              "display": "$39.37B"
-            },
-            {
-              "label": "GOOG ops",
-              "value": 42.29,
-              "display": "$42.29B"
-            },
-            {
-              "label": "GOOG capex",
-              "value": 51.355,
-              "display": "$51.36B"
-            }
-          ],
-          "note": "Both companies' filings; chart links to Alphabet, Microsoft is in the sources. FCF: +$18.63B vs −$9.07B."
-        },
-        {
-          "title": "US Treasury yields | Oct 28, 2026",
+          "title": "US Treasury yields by maturity",
           "unit": "%",
-          "asof": "Treasury data Oct 28",
-          "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value=2026&type=daily_treasury_yield_curve",
+          "asof": "Oct 29, 2026 · official Treasury",
+          "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value_month=202610&type=daily_treasury_yield_curve",
           "items": [
             {
               "label": "2Y",
-              "value": 4.67,
-              "display": "4.67%"
+              "value": 4.61,
+              "display": "4.61%"
             },
             {
               "label": "10Y",
-              "value": 5.05,
-              "display": "5.05%"
+              "value": 4.98,
+              "display": "4.98%"
             },
             {
               "label": "30Y",
-              "value": 5.37,
-              "display": "5.37%"
+              "value": 5.32,
+              "display": "5.32%"
             }
           ],
-          "note": "Versus Oct 27: 2Y −3bp, 10Y +6bp, 30Y +7bp."
+          "note": "Constant-maturity yields; bars start at zero. Not bond ETF prices."
+        },
+        {
+          "title": "Amazon: quarterly operating income",
+          "unit": " $B",
+          "asof": "Q3 2025 versus Q3 2026",
+          "source_url": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Third-Quarter-Results/default.aspx",
+          "items": [
+            {
+              "label": "Q3 2025",
+              "value": 17.4,
+              "display": "$17.4B"
+            },
+            {
+              "label": "Q3 2026",
+              "value": 28.1,
+              "display": "$28.1B"
+            }
+          ],
+          "note": "Accounting operating income, not free cash flow; trailing free cash flow remains negative."
         }
       ]
     }
