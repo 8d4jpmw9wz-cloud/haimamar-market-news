@@ -1,319 +1,292 @@
 [
   {
-    "id": "2026-10-31",
-    "date": "2026-10-31",
-    "title": "Two balance sheets, three risk shocks: AI seeks funding as oil and crypto custody demand a premium",
+    "date": "2026-11-01",
+    "id": "2026-11-01",
+    "title": "Record chips, slowing China, scarce power: who really finances the AI boom?",
     "summary": {
-      "changed": "Oct 30: Nasdaq fell 2.86%, SOX lost 7.2% and Intel plunged 28.6%; meanwhile December Brent settled up 2.4% at $117.64, Exxon/Chevron reported strong cash generation, and the official 10Y Treasury yield eased to 4.94%. On Oct 31, FT/Reuters reported a reduced OpenAI fundraising target, not confirmed by OpenAI.",
-      "missed": "The divide between firms generating free cash flow now and firms funding future capex, combined with energy-supply and credit-contagion risk, explains the rotation better than a generic 'AI bubble' headline. Fund-flow data through Oct 28 precede Friday's rout and do not establish Friday institutional buying.",
-      "watch": "Nov 1 OPEC+; Nov 2 Apple earnings; Nov 3 US midterms and JOLTS; Nov 6 US payrolls. At the next market open: credit spreads, SOX recovery, active oil contracts, TLT and crypto exposure."
+      "changed": "Nov 1: Korea's October exports +93.7%, chips +259.4% to $56.44B; China manufacturing PMI 49.3; German gas inventories 61.35% against 80% target; Binance plans withdrawals after covering/recovering 95% of hack.",
+      "missed": "Korean exports also reflect working-day effects; China's high-tech sector expands while broad manufacturing contracts. OPEC+ is discussing frozen quotas but actual output remains below targets. Power and credit are the next bottlenecks.",
+      "watch": "Official OPEC+ decision today; Monday reaction after Friday's 7.2% SOX decline; US midterms Nov 3, Apple/AMD/Palantir earnings and jobs report Nov 6."
     },
     "sections": [
       {
-        "heading": "01 | Thesis: from demand growth to financing and collateral risk",
+        "heading": "01 | Thesis: real demand, expensive financing",
         "paragraphs": [
-          "Friday, October 30 offered a full macro stress test: the Nasdaq fell 2.86% and SOX lost 7.2%, while major energy shares advanced. This does not establish that AI demand has disappeared. Markets are repricing the time required to earn returns on investment and the possibility that capital becomes more expensive or selective. At the same time, geopolitical risks around Hormuz are lifting energy costs, including the operating costs of data centers.",
-          "The less obvious connection: three types of collateral are being tested at once—servers and accelerators financed by debt and leases, physical oil shipped through a dangerous chokepoint, and digital assets held by centralized custodians. In each case the question is who absorbs losses when prices, liquidity or access change. That is an investment interpretation, not an accounting fact."
+          "On November 1, while US exchanges are closed, Korea is reporting record AI chip exports even as Chinese manufacturing returns to contraction. Germany's gas storage is below target, and US electricity prices are becoming a political issue. This is a two-speed economy, not a simple story of growth or recession.",
+          "The key investor question is who receives cash from equipment sales now, and who finances construction, electricity, debt and leases over many years. Chip orders do not guarantee adequate returns on the customers' capital. This is an investment interpretation grounded in export, financing and energy data."
         ]
       },
       {
-        "heading": "02 | Wall Street: a broad selloff, not just Intel",
+        "heading": "02 | Korea: record exports and a positive surprise",
         "paragraphs": [
-          "October 30 closes: S&P 500 7,580.07 (-1.82%), Nasdaq 25,437.00 (-2.86%), Dow 51,770.31 (-1.09%), Russell 2000 2,811.84 (-1.66%). AP reports that year-to-date returns remained positive: S&P +10.7%, Nasdaq +9.4%, Dow +7.7%, Russell +13.3%. The Nasdaq was 7.8% below its October 6 closing high.",
-          "Breadth matters more than the headline: 3,622 Nasdaq issues declined versus 1,196 advancing; 355 recorded new 52-week lows against 70 new highs. US exchange volume reached 19.87 billion shares versus a 20-day full-session average of 17.26 billion. Reuters reports the technology sector's worst month since March 2025."
+          "November 1 data: Korean October exports surged 93.7% to $115.28 billion versus the Reuters consensus of 93.2%, a positive surprise of 0.5 percentage points. September growth was 83.7%. The fastest annual pace since January 1974 was also helped by more working days than in October 2025 because of the Chuseok holiday.",
+          "Semiconductor exports jumped 259.4% to $56.44 billion, about 49% of total exports. Computer exports grew 496.6% on AI server demand. Imports rose 36% to $72.78 billion and the trade surplus was $42.50 billion versus $49.97 billion in September. This is evidence of physical server demand, not a direct estimate of MU or WDC profitability."
         ]
       },
       {
-        "heading": "03 | Intel: cash flow, management credibility and cost of capital",
+        "heading": "03 | China: high tech above 50, manufacturing below 50",
         "paragraphs": [
-          "Intel shares lost 28.6% on October 30 after guiding to $15–16 billion of fourth-quarter revenue, despite $16.5 billion of third-quarter sales and $0.52 in adjusted EPS. Reuters reports that management does not expect positive cash flow this year and that 2027 may remain capital-intensive. AMD fell 10.9%, Nvidia 4.2%, and server vendors Dell and HP 10.8% and 9.6%.",
-          "Reuters put Intel's end-September cash at $21.84 billion versus $46.32 billion in long-term debt and reported a jump in credit-default protection costs. Gross debt alone does not imply insolvency: debt maturities, plant obligations, government support and capital-market access must be analyzed. That is the distinction between a value opportunity and a value trap."
+          "China's National Bureau of Statistics said October manufacturing PMI fell to 49.3 from 50.1 in September; non-manufacturing and composite indices were both 49.7. New orders registered 49.4 and production 49.8. These are diffusion indices: a reading below 50 signals contraction, not a 0.7% drop in GDP.",
+          "In the same survey, high-tech manufacturing was 51.3, equipment 50.6, consumer goods 48.8 and energy-intensive industries 47.3. Raw-material input prices scored 56.8 and selling prices 51.7. The thesis: the AI supply chain can become more profitable while broader manufacturing and parts of end demand weaken."
         ]
       },
       {
-        "heading": "04 | Amazon: cloud sales are not free cash flow",
+        "heading": "04 | OPEC+: paper quotas versus actual barrels",
         "paragraphs": [
-          "Amazon's October 29 release showed AWS revenue of $46.0 billion, up 39.3% year on year, and record group operating income of $28.1 billion. But trailing-12-month free cash flow through September was negative $42.4 billion versus positive $14.8 billion a year earlier—a $57.2 billion deterioration. Operating cash flow nevertheless rose 29% to $168.3 billion over those 12 months.",
-          "This does not mean the business is unprofitable operationally: investment spending precedes future sales. The relevant tests are whether returns on newly installed capacity exceed the cost of capital and how economic accelerator depreciation compares with customer-contract duration. Friday's market reaction turned this company-level question into a repricing of the broader AI supply chain."
+          "On October 31 Reuters reported a preliminary agreement among seven OPEC+ producers to keep December output targets unchanged at today's meeting. This is a source-based report, not a final official decision. Another layer of cuts of about 2 million barrels per day remains in force for most producers through end-2026, while the group reviews 2027 baselines.",
+          "Most Gulf producers remain below quota after Iran-war disruptions. December Brent settled October 30 at $117.64 per barrel, up 2.4% on the day, and WTI at $104.12. Frozen quotas need not release additional barrels; expensive energy can add inflation and raise the cost of financing data centers."
         ]
       },
       {
-        "heading": "05 | Oil and Hormuz: a real supply-risk premium",
+        "heading": "05 | Germany: thin gas storage ahead of winter",
         "paragraphs": [
-          "Reuters reported that the expiring December Brent contract settled at $117.64 a barrel on October 30, up 2.4%, while WTI settled at $104.12, up 2.08%; the contracts gained roughly 13.6% and 15.2% respectively in October. December Brent expired on Friday: January Brent quotes are not directly comparable without identifying the delivery month.",
-          "UKMTO and maritime security sources said a tanker was struck by limpet mines in the Strait of Hormuz; the crew was safe and the fire extinguished. Iran's Revolutionary Guards made additional claims about damaged tankers that Reuters could not independently verify. Those claims are not verified lost output. Marine insurance, freight and shipment delays can raise costs even without a complete closure of the strait."
+          "German gas storage was 61.35% full on October 30 versus an 80% November 1 target, a shortfall of 18.65 percentage points. Operators' group INES called for a stronger storage-filling framework. Berlin said it did not expect bottlenecks, so an actual supply shortage has not been established.",
+          "High gas prices and disrupted trade made summer storage injections less economical. For AI investment the impact is indirect but important: reliable power, cooling and backup require additional contracts and infrastructure, and higher energy costs raise the required return on a data center."
         ]
       },
       {
-        "heading": "06 | Energy supermajors show cash already earned",
+        "heading": "06 | US electricity: regulatory risk before the elections",
         "paragraphs": [
-          "ExxonMobil reported October 30 third-quarter GAAP earnings of $15.4 billion, adjusted earnings of $17.5 billion ($4.23 per share), operating cash flow of $25.7 billion and free cash flow of $19.1 billion. Chevron reported $9.9 billion in GAAP earnings, $10.4 billion adjusted ($5.28 per share), $16.0 billion of operating cash flow and $12.0 billion of free cash flow. Chevron's return on capital employed was 17.7%.",
-          "Reuters says Exxon and Chevron shares gained 2.2% and 2.8% on a sharply negative market day. Contrasting their cash flow with Amazon's negative FCF is illustrative, not apples-to-apples: Amazon's figure spans 12 months, oil-company figures one quarter, and non-GAAP FCF definitions differ. Counter-risk: energy earnings depend on oil and refining margins and may not persist at peak levels."
+          "An October 31 Reuters investigation found US household electricity prices up more than 10% since 2024 and more than 20% in Ohio. Investor-owned utilities plan nearly $1.3 trillion of spending over five years. Candidates from both parties are proposing tariff oversight, limits on allowed returns and sometimes restrictions on data centers.",
+          "If regulators limit recovery of grid investments, infrastructure financing could become more expensive or be delayed. If costs shift directly to cloud operators, their margins could narrow. The November 3 midterms are therefore a catalyst for utilities, infrastructure and data-center valuations."
         ]
       },
       {
-        "heading": "07 | Treasuries and TLT: temporary shelter, not necessarily a rate pivot",
+        "heading": "07 | Binance: covering losses is not the same as reopening withdrawals",
         "paragraphs": [
-          "Official Treasury figures for October 30: 2-year yield 4.56%, 10-year 4.94%, 30-year 5.31%, down 5, 4 and 1 basis points respectively from October 29. The 10Y–2Y spread is 38bp. The 10-year yield remains 83bp above its October 30, 2025 level, so a one-day decline should not be presented as a confirmed reversal in long-term rates.",
-          "For TLT, falling long-term yields usually support price because of the fund's long duration; this is not a verified TLT quote. Meanwhile three Fed officials argued on October 30 for further rate increases, including Lorie Logan's call for at least two additional 25bp hikes. These are individual officials' views, not an FOMC decision or a guaranteed market path."
+          "Reuters reported November 1 that Binance said it had covered or recovered 95% of the $6.3 billion in stolen assets and planned phased withdrawals between 06:00 and 09:00 GMT. At 07:45 Israel time (05:45 GMT), that window had not started, so actual resumption was unverified. The remaining 5% consists of less-liquid assets.",
+          "The FBI attributed the attack to North Korea-linked TraderTraitor; this is the agency's attribution, not independent verification. Five percent of $6.3 billion is about $315 million. Freezing assets, recovering them and covering losses with company capital are distinct actions. For IBIT and crypto-exchange stocks this is a custody and confidence risk, not evidence of a Bitcoin protocol breach."
         ]
       },
       {
-        "heading": "08 | Macro: wages cool but energy keeps inflation alive",
+        "heading": "08 | Wall Street: Friday closes, not Sunday quotes",
         "paragraphs": [
-          "The US Employment Cost Index rose 0.8% in Q3, in line with consensus and down from 0.9% in Q2. The wage component rose 0.7% versus 0.9% previously, with annual wages up 3.1%. Inflation-adjusted wages declined 0.6% over the year to September. This is relief from labor-cost pressure, not proof inflation is resolved.",
-          "September PCE inflation released October 29 was 3.6% year on year, with core PCE at 3.1%, both above the Fed's 2% target. Thus the conflict sharpens: slower wages may help, while higher energy costs can raise transport, electricity and production costs. Treasury pricing reflects growth risks as well as the expected policy rate."
+          "October 30 closes: S&P 500 at 7,580.07 (-1.82%), Nasdaq at 25,437.00 (-2.86%), Dow at 51,770.31 (-1.09%); SOX lost 7.2%. Intel plunged 28.6%, AMD fell 10.9% and Nvidia 4.2%. Compared with end-2025 closes, the S&P was still up about 10.7% year to date and Nasdaq about 9.4%.",
+          "According to LSEG, 82% of the 299 S&P 500 companies reporting had beaten earnings estimates, and aggregate earnings growth was forecast at 31.6%. Nasdaq had 3,622 declining stocks versus 1,196 advancing. The divergence shows markets punishing cash-flow and financing risk even while aggregate profits are growing."
         ]
       },
       {
-        "heading": "09 | Funds and institutions: the latest flow data predate the rout",
+        "heading": "09 | Bonds, gold and copper: not every safe haven works",
         "paragraphs": [
-          "LSEG Lipper data released October 30 for the week ended October 28 showed $10.19 billion entering global equity funds, down from $25.06 billion the prior week. Asian equity funds drew $9.9 billion and European funds $4.54 billion, while US equity funds lost $6.65 billion. Technology funds gained $5.5 billion and global bond funds $2.72 billion.",
-          "These observations exclude Friday's selloff. Precious-metal funds lost $1.51 billion and energy funds attracted $177 million. ICI data for the week ended October 21 showed $12.32 billion of combined mutual-fund and ETF inflows despite mutual-fund-only redemptions. None of this proves stock-specific institutional purchases in MU, WDC, FPS, CBRS or BHF."
+          "The US Treasury published October 30 yields of 4.56% for two years, 4.94% for ten years and 5.31% for thirty years, down 5, 4 and 1 basis points from October 29. Lower long yields usually support TLT, but a separate TLT closing price or fresh JEPQ return was not verified.",
+          "Reuters reported spot gold around $3,880.97 per ounce at reporting time and silver near $49; three-month LME copper was quoted near $14,320.50 per ton, down 0.25% intraday, not a closing settlement. No new verified USD/ILS quote was available. Gold falling alongside stocks while oil rose highlights interest-rate pressures and forced liquidation."
         ]
       },
       {
-        "heading": "10 | Gold, copper and FX: even havens can sell off",
+        "heading": "10 | Fund flows: Asia attracted money before the rout",
         "paragraphs": [
-          "Reuters reported late Friday spot gold down about 3.5% near $3,880.97 an ounce and silver down roughly 6.5% near $49. Possible explanations include forced liquidation and margin calls alongside rate fears; these are analysts' interpretations, not a transaction-by-transaction causal measurement. LME three-month copper traded near $14,140 per tonne at 17:20 GMT, down 1.5% at that time—not a verified settlement.",
-          "In FX, Reuters' October 30 morning snapshot had the yen around 157.51 per dollar and the dollar index around 101.88, neither a closing rate. The Bank of Japan held policy rates at 1.25% and signaled possible additional tightening. A verified Friday USD/ILS close was not obtained and is deliberately omitted."
+          "LSEG Lipper data for the week ended October 28 show $10.19 billion entering global equity funds versus $25.06 billion the prior week. Asia attracted $9.9 billion, Europe $4.54 billion, US equities lost $6.65 billion and technology funds gained $5.5 billion. Utilities funds lost $928 million and global bond funds received $2.72 billion.",
+          "The data predate the October 30 semiconductor selloff and do not prove dip-buying. They also cannot establish specific institutional purchases of MU, WDC, FPS, CBRS or BHF. Fund flows must be distinguished from security-level ownership and transaction disclosures."
         ]
       },
       {
-        "heading": "11 | Binance breach and OpenAI report: custody and funding under pressure",
+        "heading": "11 | Taiwan and AI finance: tail risks beyond the price chart",
         "paragraphs": [
-          "Reuters reported an estimated $6.3 billion asset theft at Binance. The exchange said it allocated more than $6.34 billion to cover the fallout and that roughly $3 billion had been frozen with partners. Bitcoin hit an intraday six-week low of $77,646 on Friday, while COIN/MSTR/HOOD shares fell sharply. Recovery, liability and customer effects remain under investigation. This is a custody/liquidity event, not evidence of a Bitcoin protocol failure.",
-          "In a separate report published October 31 at 00:17 UTC, Reuters cited the Financial Times saying OpenAI cut its fundraising target by $10 billion to about $20 billion, seeking a roughly $1.25 trillion valuation. OpenAI and the investors had not confirmed the details to Reuters. This is a reported development, not a completed financing. If confirmed, it would suggest private funding is beginning to reflect the public market's selectivity."
+          "Reuters reported November 1 that Taiwan accused Chinese coast guard vessels of harassing shipping off its east coast. This is an allegation about a patrol, not a verified blockade or halted chip exports. Even so, shipping routes and marine insurance remain material tail risks for Asian electronics supply chains.",
+          "Reuters also cited an FT report that OpenAI reduced its fundraising target to about $20 billion, without direct company confirmation; another report described talks on potential Nvidia credit guarantees for Nscale financing intended for Anthropic. Talks are not signed deals. When suppliers also back customer funding, some of the customer's credit risk returns to the supplier."
         ]
       },
       {
-        "heading": "12 | Investment process: what would falsify the thesis?",
+        "heading": "12 | The week ahead: how to test the thesis",
         "paragraphs": [
-          "For AI infrastructure, examine capex relative to operating cash flow, ROIC versus WACC, binding contracts versus unfinanced backlog, equipment age, lease financing, credit spreads and debt maturities. For chipmakers, check whether HBM/DRAM sales translate into margins and cash even as PC makers weaken. For TLT, separate duration gains from falling yields from any indirect equity-growth narrative.",
-          "Evidence against the bearish thesis would include falling capex-to-revenue ratios without slowing AI demand, positive hyperscaler FCF, stable credit spreads and lower oil risk premiums. Evidence for it would include project delays, more expensive financing, rising marine insurance and weaker cash generation. Saturday has no regular US equity session: every US equity quote here is Friday's close."
+          "The official OPEC+ decision is expected today; November 2 brings the first market reaction to Korea and China data; US midterms are November 3. Apple, AMD and Palantir are expected to report this week, and the October US jobs report is due November 6. Confirm exact corporate release times with issuers.",
+          "The key tests: capex versus operating cash flow, ROIC versus WACC, HBM/DRAM pricing versus supply, and power and debt contracts versus cloud-service pricing. If cash flow improves despite heavy investment, the bearish thesis weakens; if service prices fall while fixed obligations persist, the bullish thesis weakens."
         ]
       }
     ],
     "market_map": [
-      "Oct 30 closes: S&P 7,580.07 (-1.82%, +10.7% YTD); Nasdaq 25,437.00 (-2.86%, +9.4% YTD); Dow 51,770.31 (-1.09%, +7.7% YTD); Russell 2,811.84 (-1.66%, +13.3% YTD).",
-      "Oct 30 equities: Intel -28.6%, Nvidia -4.2%, AMD -10.9%, SOX -7.2%; Exxon +2.2%, Chevron +2.8%; closing-session moves.",
-      "Oct 30 official Treasuries: 2Y 4.56% (-5bp vs Oct 29), 10Y 4.94% (-4bp), 30Y 5.31% (-1bp).",
-      "Oct 30 oil: expiring December Brent settled at $117.64 (+2.4%); WTI $104.12 (+2.08%). Do not mix December with January Brent.",
-      "Oct 30 late spot gold near $3,880.97 (-3.5%, Reuters); LME 3-month copper near $14,140/t (-1.5%) at 17:20 GMT, intraday quote.",
-      "Oct 30 morning FX: USD/JPY near 157.51 and DXY near 101.88, not closing quotes.",
-      "Week to Oct 28 LSEG Lipper flows: global equities +$10.19B; US -$6.65B; tech +$5.5B; bonds +$2.72B. Data precede Oct 30 selloff.",
-      "Q3 Exxon FCF $19.1B and Chevron FCF $12.0B; different non-GAAP definitions.",
-      "Oct 30–31 Binance: estimated $6.3B theft, roughly $3B frozen; recovery and consequences under investigation.",
-      "Oct 31 OpenAI: FT/Reuters report of a $10B cut in funding target to ~$20B, not independently confirmed by OpenAI.",
-      "No verified TLT/JEPQ closing quotes, closing copper price, or stock-level institutional purchases."
+      "Sunday Nov 1, 07:45 Israel time: US equity markets are closed; stock prices below are Oct 30 closes.",
+      "Oct 30: S&P 7,580.07 (−1.82%), Nasdaq 25,437.00 (−2.86%), Dow 51,770.31 (−1.09%), SOX −7.2%; 2026 YTD S&P about +10.7%, Nasdaq about +9.4% using closing comparisons.",
+      "Oct 30: December Brent $117.64 (+2.4% daily), WTI $104.12; spot gold around $3,880.97 at reporting time, LME copper $14,320.50/ton at reporting time (−0.25%, not a close).",
+      "Oct 30 official Treasuries: 2Y 4.56% (−5bp), 10Y 4.94% (−4bp), 30Y 5.31% (−1bp) versus Oct 29.",
+      "Nov 1: Korea exports $115.28B (+93.7% YoY), chips $56.44B (+259.4% YoY), trade surplus $42.50B.",
+      "Oct 31: China PMI 49.3, high tech 51.3, equipment 50.6, consumer goods 48.8, energy-intensive 47.3.",
+      "Oct 30: German gas storage 61.35% versus 80% Nov 1 target; 18.65 percentage-point gap.",
+      "Week to Oct 28: global equity funds +$10.19B, US −$6.65B, Asia +$9.9B, technology +$5.5B; before Friday's rout.",
+      "No separately verified TLT/JEPQ close, new USD/ILS quote, stock-specific institutional purchases or final OPEC+ decision."
     ],
     "catalysts": {
       "24 hours": [
-        "Oct 31 Saturday: US regular equities are closed. Watch official Hormuz developments, marine insurance, Binance and confirmation or denial of OpenAI fundraising reports.",
-        "Nov 1: scheduled OPEC+ review; compare any target changes with physical export constraints."
+        "Nov 1: official OPEC+ December targets; do not treat preliminary agreement as final.",
+        "Nov 1: Binance planned 06:00–09:00 GMT withdrawal restart; verify actual execution.",
+        "Nov 2: first market reaction to Korea, China, gas and electricity developments."
       ],
       "7 days": [
-        "Nov 2: Apple earnings after the close; assess margins, memory pricing, iPhone demand and guidance.",
-        "Nov 3: US midterms and September JOLTS release; do not presume election results.",
-        "Nov 6: October US employment report at 08:30 New York time; watch payrolls, wages and Fed implications.",
-        "Next market open: Intel credit, SOX recovery, TLT, active oil contracts and ETF flows."
+        "Nov 3: US midterms and effects on electricity and data-center regulation.",
+        "Week of Nov 2–6: Apple, AMD and Palantir earnings; verify times with companies.",
+        "Nov 6: US October jobs report and Treasury-yield sensitivity."
       ],
       "30 days": [
-        "Nov 10: October CPI; Nov 25: second Q3 GDP estimate and October PCE, subject to official calendars.",
-        "Check whether cloud capex translates into recurring bookings, cash flow and returns on capital; monitor ratings and lease commitments.",
-        "Track Hormuz, crude, marine-insurance premiums, energy cash flows and inflation spillovers."
+        "Fund flows for the week including the Oct 30 chip selloff.",
+        "HBM/DRAM pricing, supply and lead times; distinguish volume from price growth.",
+        "US power tariffs, European gas storage and AI credit spreads."
       ]
     },
     "contrarian": {
-      "consensus": "After October 30 the prevailing narrative is that AI is overfunded, companies will burn cash and tech shares will keep falling while energy benefits from scarcity.",
-      "why_right": "Amazon's sharply negative trailing FCF, Intel's funding challenges, SOX's 7.2% daily drop and an unconfirmed OpenAI fundraising cut all point toward capital selectivity. High oil could prolong restrictive rates.",
-      "why_wrong": "Cloud demand is still growing rapidly; current capex may precede a long period of high utilization and cash generation. Oil prices could ease if Hormuz risk declines, and falling Treasury yields could lower WACC and restore demand for growth assets.",
+      "consensus": "AI chip demand is accelerating, so the entire manufacturing and cloud chain will profit regardless of the cost of capital.",
+      "why_right": "Korean chip exports surged 259.4%, China's high-tech PMI is above 50 and physical server demand continues. Sustained utilization and prices could eventually turn capital spending into cash flow.",
+      "why_wrong": "China's overall PMI is 49.3, German gas inventories are 18.65 points below target, US power costs are rising and private AI funding may tighten. Orders are not free cash flow.",
       "falsifiers": [
-        "Hyperscaler FCF turns positive without a sharp slowdown in cloud growth.",
-        "AI and Intel credit spreads stabilize and capital remains available at sustainable terms.",
-        "Verified Hormuz escalation versus restored shipping—opposite market implications.",
-        "Inference service prices fall faster than hardware costs, or the reverse."
+        "Cloud free cash flow improves despite capex and ROIC exceeds WACC.",
+        "AI-service or memory prices fall while debt, lease and power costs remain high.",
+        "Actual OPEC+ decisions, power costs and credit spreads contradict the scarcity thesis."
       ]
     },
-    "bottom_line": "October 31 is not just an AI stock correction. On a day when the chip index lost 7.2%, Exxon and Chevron showed substantial quarterly cash, oil became more expensive, Treasuries rallied and crypto custody was stress-tested. Investors must price return on capital, liquidity, duration and asset security together—not chase growth without financing discipline.",
-    "disclaimer": "General research, not personalized investment advice. Equity quotes are October 30, 2026 closes; copper/FX are labeled intraday; Brent refers to the expiring December contract. Cross-company cash-flow comparisons require period and definition adjustments. OpenAI funding reports, Binance attack attribution and Iranian tanker claims are not final verified outcomes. No verified TLT/JEPQ quote or stock-specific institutional flows.",
+    "bottom_line": "Korea is selling chips at a historic pace while China's broader manufacturing contracts, and energy, regulation and credit become constraints. Ask who collects cash today and who finances future obligations.",
+    "disclaimer": "General research, not personalized investment advice. November 1 developments as of 07:45 Israel time; market prices are labeled by observation date. Annual growth rates are affected by base comparisons and working days. Source reports are not final decisions.",
     "sources": [
       {
-        "title": "Reuters | US stocks close sharply lower, Oct 30",
+        "title": "korea",
+        "url": "https://www.reuters.com/world/asia-pacific/south-korea-exports-nearly-double-october-strongest-growth-since-1974-2026-11-01/"
+      },
+      {
+        "title": "china",
+        "url": "https://www.stats.gov.cn/sj/sjjd/202610/t20261031_1965719.html"
+      },
+      {
+        "title": "opec",
+        "url": "https://www.reuters.com/business/energy/opec-set-keep-production-targets-unchanged-december-source-says-2026-10-31/"
+      },
+      {
+        "title": "gas",
+        "url": "https://www.reuters.com/business/energy/germany-must-do-more-boost-gas-reserves-storage-levels-hit-record-low-lobby-2026-11-01/"
+      },
+      {
+        "title": "binance",
+        "url": "https://www.reuters.com/legal/government/binance-resume-withdrawals-after-recovering-bulk-6-billion-stolen-funds-2026-11-01/"
+      },
+      {
+        "title": "power",
+        "url": "https://www.reuters.com/business/energy/power-bills-data-centers-cast-rare-spotlight-utilities-us-midterms-2026-10-31/"
+      },
+      {
+        "title": "stocks",
         "url": "https://www.reuters.com/business/nasdaq-futures-tumble-amazon-intel-results-deepen-ai-spending-woes-2026-10-30/"
       },
       {
-        "title": "AP | US index closing levels, Oct 30",
-        "url": "https://apnews.com/article/a01d3551e794fed1a0c317c20bc3f0a2"
-      },
-      {
-        "title": "Amazon IR | Q3 2026 earnings release, Oct 29",
-        "url": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Third-Quarter-Results/default.aspx"
-      },
-      {
-        "title": "Intel IR | Q3 2026 results and Q4 guidance, Oct 29",
-        "url": "https://www.intc.com/filings-reports/all-sec-filings/content/0000050863-26-000188/q326earningsrelease.htm"
-      },
-      {
-        "title": "US Treasury | Official daily par yield curve, Oct 30",
+        "title": "treasury",
         "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value_month=202610&type=daily_treasury_yield_curve"
       },
       {
-        "title": "Reuters | Fed officials argue for further hikes, Oct 30",
-        "url": "https://www.reuters.com/business/feds-musalem-says-rate-hike-is-needed-soon-2026-10-30/"
-      },
-      {
-        "title": "Reuters | US employment cost index, Oct 30",
-        "url": "https://www.reuters.com/business/us-labor-costs-rise-moderately-third-quarter-2026-10-30/"
-      },
-      {
-        "title": "Reuters | Oil settles at six-month highs, Oct 30",
+        "title": "oil",
         "url": "https://www.reuters.com/business/energy/oil-rises-supply-concerns-houthis-attack-saudi-arabia-2026-10-30/"
       },
       {
-        "title": "Reuters | Strait of Hormuz tanker attack, Oct 30",
-        "url": "https://www.reuters.com/world/tanker-strait-hormuz-hit-by-limpet-mines-security-sources-say-2026-10-30/"
-      },
-      {
-        "title": "Reuters | IRGC claims about tankers, not independently verified, Oct 30",
-        "url": "https://www.reuters.com/world/middle-east/irans-irgc-navy-says-two-tankers-stopped-south-hormuz-after-incidents-2026-10-30/"
-      },
-      {
-        "title": "ExxonMobil IR | Q3 2026 official results, Oct 30",
-        "url": "https://investor.exxonmobil.com/company-information/press-releases/detail/1213/exxonmobil-announces-third-quarter-2026-results"
-      },
-      {
-        "title": "Chevron IR | Q3 2026 official results, Oct 30",
-        "url": "https://chevroncorp.gcs-web.com/node/38811"
-      },
-      {
-        "title": "Reuters | Oil producer earnings expectations, Oct 30",
-        "url": "https://www.reuters.com/business/energy/chevron-tops-q3-expectations-higher-downstream-profit-2026-10-30/"
-      },
-      {
-        "title": "Reuters | LSEG Lipper fund flows week ended Oct 28",
+        "title": "flows",
         "url": "https://www.reuters.com/world/china/global-markets-flows-graphic-2026-10-30/"
       },
       {
-        "title": "ICI | Combined fund and ETF flows week ended Oct 21",
-        "url": "https://www.ici.org/research/stats/combined_flows"
+        "title": "week",
+        "url": "https://www.reuters.com/legal/legalindustry/wall-st-week-ahead-midterm-elections-earnings-jobs-data-loom-ai-wary-market-2026-10-30/"
       },
       {
-        "title": "Reuters | Gold and precious metals decline, Oct 30",
-        "url": "https://www.reuters.com/world/india/gold-slips-higher-oil-us-inflation-data-bolster-fed-hike-bets-2026-10-30/"
+        "title": "taiwan",
+        "url": "https://www.reuters.com/world/china/taiwan-says-china-harassing-shipping-with-east-coast-patrol-2026-11-01/"
       },
       {
-        "title": "Reuters | Copper price Oct 30, via Kitco",
-        "url": "https://www.kitco.com/news/off-the-wire/2026-10-30/copper-price-set-first-monthly-loss-june-ai-spending-worries-weigh"
-      },
-      {
-        "title": "Reuters | Yen and dollar after BOJ, Oct 30",
-        "url": "https://www.reuters.com/world/asia-pacific/yen-steady-before-boj-ai-jitters-drive-treasury-rally-weigh-dollar-2026-10-30/"
-      },
-      {
-        "title": "Reuters | Binance hack and exchange response, Oct 31",
-        "url": "https://www.reuters.com/legal/government/crypto-exchanges-call-quick-moves-bolster-defenses-after-binance-heist-2026-10-31/"
-      },
-      {
-        "title": "Reuters | Binance says funds set aside, Oct 30",
-        "url": "https://www.reuters.com/legal/transactional/binance-sets-aside-over-634-billion-cover-losses-attack-2026-10-30/"
-      },
-      {
-        "title": "Reuters | OpenAI funding target report, Oct 31",
+        "title": "openai",
         "url": "https://www.reuters.com/business/openai-cuts-funding-target-by-10-billion-ft-reports-2026-10-31/"
       },
       {
-        "title": "Reuters | OPEC+ November meeting background",
-        "url": "https://www.reuters.com/business/energy/opec-agrees-principle-keep-november-oil-output-targets-steady-sources-say-2026-10-04/"
+        "title": "nvidia",
+        "url": "https://www.reuters.com/technology/nvidia-talks-give-credit-support-nscales-deal-with-anthropic-information-reports-2026-10-30/"
       },
       {
-        "title": "BLS | Official November 2026 economic release calendar",
-        "url": "https://www.bls.gov/schedule/2026/11_sched_list.htm"
+        "title": "gold",
+        "url": "https://www.reuters.com/world/india/gold-slips-higher-oil-us-inflation-data-bolster-fed-hike-bets-2026-10-30/"
       },
       {
-        "title": "MacRumors | Apple Q4 earnings scheduled Nov 2",
-        "url": "https://www.macrumors.com/2026/10/06/apple-q4-2026-earnings-nov-2/"
+        "title": "copper",
+        "url": "https://www.brecorder.com/news/40446670/copper-edges-lower-as-higher-oil-ai-doubts-weigh"
       },
       {
-        "title": "Reuters | Intel credit risk and chip selloff, Oct 30",
-        "url": "https://www.reuters.com/business/intel-warning-sparks-chip-rout-pc-weakness-clouds-turnaround-2026-10-30/"
-      },
-      {
-        "title": "Bipartisan Policy Center | US midterm election date Nov 3",
-        "url": "https://bipartisanpolicy.org/article/the-2026-midterms-key-dates-and-events/"
+        "title": "ytd",
+        "url": "https://portfolio-terminal.com/blog/stock-market-week-in-review-october-30-2026"
       }
     ],
     "visuals": {
       "cards": [
         {
-          "label": "Nasdaq Composite",
-          "value": "25,437.00",
-          "change": "−2.86%",
-          "asof": "Oct 30 · close",
-          "note": "+9.4% YTD"
+          "label": "Korea exports · October",
+          "value": "$115.28B",
+          "change": "+93.7% YoY",
+          "asof": "Published Nov 1 · monthly",
+          "note": "Forecast +93.2%; working-day effect"
         },
         {
-          "label": "SOX semiconductor index",
-          "value": "−7.2%",
-          "asof": "Oct 30 · daily close change",
-          "note": "Monthly decline exceeds 15%"
+          "label": "Korean chip exports",
+          "value": "$56.44B",
+          "change": "+259.4% YoY",
+          "asof": "Published Nov 1 · October",
+          "note": "About 49% of total exports"
         },
         {
-          "label": "Brent · December contract",
-          "value": "$117.64",
-          "change": "+2.4%",
-          "asof": "Oct 30 · expiring contract settlement"
+          "label": "China manufacturing PMI",
+          "value": "49.3",
+          "change": "−0.8 points",
+          "asof": "Oct 31 · October",
+          "note": "Below 50 = contraction"
         },
         {
-          "label": "US Treasury 10Y",
-          "value": "4.94%",
-          "change": "−4bp",
-          "asof": "Oct 30 · official Treasury"
+          "label": "German gas storage",
+          "value": "61.35%",
+          "asof": "Oct 30 · 80% target",
+          "note": "18.65 percentage-point shortfall"
         }
       ],
       "charts": [
         {
-          "title": "US Treasury yields by maturity",
-          "unit": "%",
-          "asof": "Oct 30, 2026 · official curve",
-          "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value_month=202610&type=daily_treasury_yield_curve",
+          "title": "Korea: October export composition",
+          "unit": " $ billion",
+          "asof": "Nov 1 · October data",
+          "source_url": "https://www.reuters.com/world/asia-pacific/south-korea-exports-nearly-double-october-strongest-growth-since-1974-2026-11-01/",
           "items": [
             {
-              "label": "2Y",
-              "value": 4.56,
-              "display": "4.56%"
+              "label": "Chips",
+              "value": 56.44,
+              "display": "$56.44B"
             },
             {
-              "label": "10Y",
-              "value": 4.94,
-              "display": "4.94%"
-            },
-            {
-              "label": "30Y",
-              "value": 5.31,
-              "display": "5.31%"
+              "label": "Other exports",
+              "value": 58.84,
+              "display": "$58.84B"
             }
           ],
-          "note": "CMT yields, not bond or TLT prices; bars start at zero."
+          "note": "Other exports = 115.28 less 56.44; calculated from reported data."
         },
         {
-          "title": "Oil majors' quarterly free cash flow",
-          "unit": " $B",
-          "asof": "Q3 2026 · company releases",
-          "source_url": "https://chevroncorp.gcs-web.com/node/38811",
+          "title": "China: manufacturing PMI divergence",
+          "unit": "",
+          "asof": "Oct 31 · October data",
+          "source_url": "https://www.stats.gov.cn/sj/sjjd/202610/t20261031_1965719.html",
           "items": [
             {
-              "label": "Exxon",
-              "value": 19.1,
-              "display": "$19.1B"
+              "label": "High tech",
+              "value": 51.3,
+              "display": "51.3"
             },
             {
-              "label": "Chevron",
-              "value": 12,
-              "display": "$12.0B"
+              "label": "Equipment",
+              "value": 50.6,
+              "display": "50.6"
+            },
+            {
+              "label": "Overall",
+              "value": 49.3,
+              "display": "49.3"
+            },
+            {
+              "label": "Consumer",
+              "value": 48.8,
+              "display": "48.8"
+            },
+            {
+              "label": "Energy intensive",
+              "value": 47.3,
+              "display": "47.3"
             }
           ],
-          "note": "One quarter; different non-GAAP FCF definitions. Exxon source: investor.exxonmobil.com."
+          "note": "50 is the expansion threshold; bars start at zero, not at 50."
         }
       ]
     }
