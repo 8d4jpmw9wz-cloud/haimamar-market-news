@@ -1,5 +1,297 @@
 [
   {
+    "date": "2026-11-01",
+    "id": "2026-11-01",
+    "title": "Record chips, slowing China, scarce power: who really finances the AI boom?",
+    "summary": {
+      "changed": "Nov 1: Korea's October exports +93.7%, chips +259.4% to $56.44B; China manufacturing PMI 49.3; German gas inventories 61.35% against 80% target; Binance plans withdrawals after covering/recovering 95% of hack.",
+      "missed": "Korean exports also reflect working-day effects; China's high-tech sector expands while broad manufacturing contracts. OPEC+ is discussing frozen quotas but actual output remains below targets. Power and credit are the next bottlenecks.",
+      "watch": "Official OPEC+ decision today; Monday reaction after Friday's 7.2% SOX decline; US midterms Nov 3, Apple/AMD/Palantir earnings and jobs report Nov 6."
+    },
+    "sections": [
+      {
+        "heading": "01 | Thesis: real demand, expensive financing",
+        "paragraphs": [
+          "On November 1, while US exchanges are closed, Korea is reporting record AI chip exports even as Chinese manufacturing returns to contraction. Germany's gas storage is below target, and US electricity prices are becoming a political issue. This is a two-speed economy, not a simple story of growth or recession.",
+          "The key investor question is who receives cash from equipment sales now, and who finances construction, electricity, debt and leases over many years. Chip orders do not guarantee adequate returns on the customers' capital. This is an investment interpretation grounded in export, financing and energy data."
+        ]
+      },
+      {
+        "heading": "02 | Korea: record exports and a positive surprise",
+        "paragraphs": [
+          "November 1 data: Korean October exports surged 93.7% to $115.28 billion versus the Reuters consensus of 93.2%, a positive surprise of 0.5 percentage points. September growth was 83.7%. The fastest annual pace since January 1974 was also helped by more working days than in October 2025 because of the Chuseok holiday.",
+          "Semiconductor exports jumped 259.4% to $56.44 billion, about 49% of total exports. Computer exports grew 496.6% on AI server demand. Imports rose 36% to $72.78 billion and the trade surplus was $42.50 billion versus $49.97 billion in September. This is evidence of physical server demand, not a direct estimate of MU or WDC profitability."
+        ]
+      },
+      {
+        "heading": "03 | China: high tech above 50, manufacturing below 50",
+        "paragraphs": [
+          "China's National Bureau of Statistics said October manufacturing PMI fell to 49.3 from 50.1 in September; non-manufacturing and composite indices were both 49.7. New orders registered 49.4 and production 49.8. These are diffusion indices: a reading below 50 signals contraction, not a 0.7% drop in GDP.",
+          "In the same survey, high-tech manufacturing was 51.3, equipment 50.6, consumer goods 48.8 and energy-intensive industries 47.3. Raw-material input prices scored 56.8 and selling prices 51.7. The thesis: the AI supply chain can become more profitable while broader manufacturing and parts of end demand weaken."
+        ]
+      },
+      {
+        "heading": "04 | OPEC+: paper quotas versus actual barrels",
+        "paragraphs": [
+          "On October 31 Reuters reported a preliminary agreement among seven OPEC+ producers to keep December output targets unchanged at today's meeting. This is a source-based report, not a final official decision. Another layer of cuts of about 2 million barrels per day remains in force for most producers through end-2026, while the group reviews 2027 baselines.",
+          "Most Gulf producers remain below quota after Iran-war disruptions. December Brent settled October 30 at $117.64 per barrel, up 2.4% on the day, and WTI at $104.12. Frozen quotas need not release additional barrels; expensive energy can add inflation and raise the cost of financing data centers."
+        ]
+      },
+      {
+        "heading": "05 | Germany: thin gas storage ahead of winter",
+        "paragraphs": [
+          "German gas storage was 61.35% full on October 30 versus an 80% November 1 target, a shortfall of 18.65 percentage points. Operators' group INES called for a stronger storage-filling framework. Berlin said it did not expect bottlenecks, so an actual supply shortage has not been established.",
+          "High gas prices and disrupted trade made summer storage injections less economical. For AI investment the impact is indirect but important: reliable power, cooling and backup require additional contracts and infrastructure, and higher energy costs raise the required return on a data center."
+        ]
+      },
+      {
+        "heading": "06 | US electricity: regulatory risk before the elections",
+        "paragraphs": [
+          "An October 31 Reuters investigation found US household electricity prices up more than 10% since 2024 and more than 20% in Ohio. Investor-owned utilities plan nearly $1.3 trillion of spending over five years. Candidates from both parties are proposing tariff oversight, limits on allowed returns and sometimes restrictions on data centers.",
+          "If regulators limit recovery of grid investments, infrastructure financing could become more expensive or be delayed. If costs shift directly to cloud operators, their margins could narrow. The November 3 midterms are therefore a catalyst for utilities, infrastructure and data-center valuations."
+        ]
+      },
+      {
+        "heading": "07 | Binance: covering losses is not the same as reopening withdrawals",
+        "paragraphs": [
+          "Reuters reported November 1 that Binance said it had covered or recovered 95% of the $6.3 billion in stolen assets and planned phased withdrawals between 06:00 and 09:00 GMT. At 07:45 Israel time (05:45 GMT), that window had not started, so actual resumption was unverified. The remaining 5% consists of less-liquid assets.",
+          "The FBI attributed the attack to North Korea-linked TraderTraitor; this is the agency's attribution, not independent verification. Five percent of $6.3 billion is about $315 million. Freezing assets, recovering them and covering losses with company capital are distinct actions. For IBIT and crypto-exchange stocks this is a custody and confidence risk, not evidence of a Bitcoin protocol breach."
+        ]
+      },
+      {
+        "heading": "08 | Wall Street: Friday closes, not Sunday quotes",
+        "paragraphs": [
+          "October 30 closes: S&P 500 at 7,580.07 (-1.82%), Nasdaq at 25,437.00 (-2.86%), Dow at 51,770.31 (-1.09%); SOX lost 7.2%. Intel plunged 28.6%, AMD fell 10.9% and Nvidia 4.2%. Compared with end-2025 closes, the S&P was still up about 10.7% year to date and Nasdaq about 9.4%.",
+          "According to LSEG, 82% of the 299 S&P 500 companies reporting had beaten earnings estimates, and aggregate earnings growth was forecast at 31.6%. Nasdaq had 3,622 declining stocks versus 1,196 advancing. The divergence shows markets punishing cash-flow and financing risk even while aggregate profits are growing."
+        ]
+      },
+      {
+        "heading": "09 | Bonds, gold and copper: not every safe haven works",
+        "paragraphs": [
+          "The US Treasury published October 30 yields of 4.56% for two years, 4.94% for ten years and 5.31% for thirty years, down 5, 4 and 1 basis points from October 29. Lower long yields usually support TLT, but a separate TLT closing price or fresh JEPQ return was not verified.",
+          "Reuters reported spot gold around $3,880.97 per ounce at reporting time and silver near $49; three-month LME copper was quoted near $14,320.50 per ton, down 0.25% intraday, not a closing settlement. No new verified USD/ILS quote was available. Gold falling alongside stocks while oil rose highlights interest-rate pressures and forced liquidation."
+        ]
+      },
+      {
+        "heading": "10 | Fund flows: Asia attracted money before the rout",
+        "paragraphs": [
+          "LSEG Lipper data for the week ended October 28 show $10.19 billion entering global equity funds versus $25.06 billion the prior week. Asia attracted $9.9 billion, Europe $4.54 billion, US equities lost $6.65 billion and technology funds gained $5.5 billion. Utilities funds lost $928 million and global bond funds received $2.72 billion.",
+          "The data predate the October 30 semiconductor selloff and do not prove dip-buying. They also cannot establish specific institutional purchases of MU, WDC, FPS, CBRS or BHF. Fund flows must be distinguished from security-level ownership and transaction disclosures."
+        ]
+      },
+      {
+        "heading": "11 | Taiwan and AI finance: tail risks beyond the price chart",
+        "paragraphs": [
+          "Reuters reported November 1 that Taiwan accused Chinese coast guard vessels of harassing shipping off its east coast. This is an allegation about a patrol, not a verified blockade or halted chip exports. Even so, shipping routes and marine insurance remain material tail risks for Asian electronics supply chains.",
+          "Reuters also cited an FT report that OpenAI reduced its fundraising target to about $20 billion, without direct company confirmation; another report described talks on potential Nvidia credit guarantees for Nscale financing intended for Anthropic. Talks are not signed deals. When suppliers also back customer funding, some of the customer's credit risk returns to the supplier."
+        ]
+      },
+      {
+        "heading": "12 | The week ahead: how to test the thesis",
+        "paragraphs": [
+          "The official OPEC+ decision is expected today; November 2 brings the first market reaction to Korea and China data; US midterms are November 3. Apple, AMD and Palantir are expected to report this week, and the October US jobs report is due November 6. Confirm exact corporate release times with issuers.",
+          "The key tests: capex versus operating cash flow, ROIC versus WACC, HBM/DRAM pricing versus supply, and power and debt contracts versus cloud-service pricing. If cash flow improves despite heavy investment, the bearish thesis weakens; if service prices fall while fixed obligations persist, the bullish thesis weakens."
+        ]
+      }
+    ],
+    "market_map": [
+      "Sunday Nov 1, 07:45 Israel time: US equity markets are closed; stock prices below are Oct 30 closes.",
+      "Oct 30: S&P 7,580.07 (−1.82%), Nasdaq 25,437.00 (−2.86%), Dow 51,770.31 (−1.09%), SOX −7.2%; 2026 YTD S&P about +10.7%, Nasdaq about +9.4% using closing comparisons.",
+      "Oct 30: December Brent $117.64 (+2.4% daily), WTI $104.12; spot gold around $3,880.97 at reporting time, LME copper $14,320.50/ton at reporting time (−0.25%, not a close).",
+      "Oct 30 official Treasuries: 2Y 4.56% (−5bp), 10Y 4.94% (−4bp), 30Y 5.31% (−1bp) versus Oct 29.",
+      "Nov 1: Korea exports $115.28B (+93.7% YoY), chips $56.44B (+259.4% YoY), trade surplus $42.50B.",
+      "Oct 31: China PMI 49.3, high tech 51.3, equipment 50.6, consumer goods 48.8, energy-intensive 47.3.",
+      "Oct 30: German gas storage 61.35% versus 80% Nov 1 target; 18.65 percentage-point gap.",
+      "Week to Oct 28: global equity funds +$10.19B, US −$6.65B, Asia +$9.9B, technology +$5.5B; before Friday's rout.",
+      "No separately verified TLT/JEPQ close, new USD/ILS quote, stock-specific institutional purchases or final OPEC+ decision."
+    ],
+    "catalysts": {
+      "24 hours": [
+        "Nov 1: official OPEC+ December targets; do not treat preliminary agreement as final.",
+        "Nov 1: Binance planned 06:00–09:00 GMT withdrawal restart; verify actual execution.",
+        "Nov 2: first market reaction to Korea, China, gas and electricity developments."
+      ],
+      "7 days": [
+        "Nov 3: US midterms and effects on electricity and data-center regulation.",
+        "Week of Nov 2–6: Apple, AMD and Palantir earnings; verify times with companies.",
+        "Nov 6: US October jobs report and Treasury-yield sensitivity."
+      ],
+      "30 days": [
+        "Fund flows for the week including the Oct 30 chip selloff.",
+        "HBM/DRAM pricing, supply and lead times; distinguish volume from price growth.",
+        "US power tariffs, European gas storage and AI credit spreads."
+      ]
+    },
+    "contrarian": {
+      "consensus": "AI chip demand is accelerating, so the entire manufacturing and cloud chain will profit regardless of the cost of capital.",
+      "why_right": "Korean chip exports surged 259.4%, China's high-tech PMI is above 50 and physical server demand continues. Sustained utilization and prices could eventually turn capital spending into cash flow.",
+      "why_wrong": "China's overall PMI is 49.3, German gas inventories are 18.65 points below target, US power costs are rising and private AI funding may tighten. Orders are not free cash flow.",
+      "falsifiers": [
+        "Cloud free cash flow improves despite capex and ROIC exceeds WACC.",
+        "AI-service or memory prices fall while debt, lease and power costs remain high.",
+        "Actual OPEC+ decisions, power costs and credit spreads contradict the scarcity thesis."
+      ]
+    },
+    "bottom_line": "Korea is selling chips at a historic pace while China's broader manufacturing contracts, and energy, regulation and credit become constraints. Ask who collects cash today and who finances future obligations.",
+    "disclaimer": "General research, not personalized investment advice. November 1 developments as of 07:45 Israel time; market prices are labeled by observation date. Annual growth rates are affected by base comparisons and working days. Source reports are not final decisions.",
+    "sources": [
+      {
+        "title": "korea",
+        "url": "https://www.reuters.com/world/asia-pacific/south-korea-exports-nearly-double-october-strongest-growth-since-1974-2026-11-01/"
+      },
+      {
+        "title": "china",
+        "url": "https://www.stats.gov.cn/sj/sjjd/202610/t20261031_1965719.html"
+      },
+      {
+        "title": "opec",
+        "url": "https://www.reuters.com/business/energy/opec-set-keep-production-targets-unchanged-december-source-says-2026-10-31/"
+      },
+      {
+        "title": "gas",
+        "url": "https://www.reuters.com/business/energy/germany-must-do-more-boost-gas-reserves-storage-levels-hit-record-low-lobby-2026-11-01/"
+      },
+      {
+        "title": "binance",
+        "url": "https://www.reuters.com/legal/government/binance-resume-withdrawals-after-recovering-bulk-6-billion-stolen-funds-2026-11-01/"
+      },
+      {
+        "title": "power",
+        "url": "https://www.reuters.com/business/energy/power-bills-data-centers-cast-rare-spotlight-utilities-us-midterms-2026-10-31/"
+      },
+      {
+        "title": "stocks",
+        "url": "https://www.reuters.com/business/nasdaq-futures-tumble-amazon-intel-results-deepen-ai-spending-woes-2026-10-30/"
+      },
+      {
+        "title": "treasury",
+        "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value_month=202610&type=daily_treasury_yield_curve"
+      },
+      {
+        "title": "oil",
+        "url": "https://www.reuters.com/business/energy/oil-rises-supply-concerns-houthis-attack-saudi-arabia-2026-10-30/"
+      },
+      {
+        "title": "flows",
+        "url": "https://www.reuters.com/world/china/global-markets-flows-graphic-2026-10-30/"
+      },
+      {
+        "title": "week",
+        "url": "https://www.reuters.com/legal/legalindustry/wall-st-week-ahead-midterm-elections-earnings-jobs-data-loom-ai-wary-market-2026-10-30/"
+      },
+      {
+        "title": "taiwan",
+        "url": "https://www.reuters.com/world/china/taiwan-says-china-harassing-shipping-with-east-coast-patrol-2026-11-01/"
+      },
+      {
+        "title": "openai",
+        "url": "https://www.reuters.com/business/openai-cuts-funding-target-by-10-billion-ft-reports-2026-10-31/"
+      },
+      {
+        "title": "nvidia",
+        "url": "https://www.reuters.com/technology/nvidia-talks-give-credit-support-nscales-deal-with-anthropic-information-reports-2026-10-30/"
+      },
+      {
+        "title": "gold",
+        "url": "https://www.reuters.com/world/india/gold-slips-higher-oil-us-inflation-data-bolster-fed-hike-bets-2026-10-30/"
+      },
+      {
+        "title": "copper",
+        "url": "https://www.brecorder.com/news/40446670/copper-edges-lower-as-higher-oil-ai-doubts-weigh"
+      },
+      {
+        "title": "ytd",
+        "url": "https://portfolio-terminal.com/blog/stock-market-week-in-review-october-30-2026"
+      }
+    ],
+    "visuals": {
+      "cards": [
+        {
+          "label": "Korea exports · October",
+          "value": "$115.28B",
+          "change": "+93.7% YoY",
+          "asof": "Published Nov 1 · monthly",
+          "note": "Forecast +93.2%; working-day effect"
+        },
+        {
+          "label": "Korean chip exports",
+          "value": "$56.44B",
+          "change": "+259.4% YoY",
+          "asof": "Published Nov 1 · October",
+          "note": "About 49% of total exports"
+        },
+        {
+          "label": "China manufacturing PMI",
+          "value": "49.3",
+          "change": "−0.8 points",
+          "asof": "Oct 31 · October",
+          "note": "Below 50 = contraction"
+        },
+        {
+          "label": "German gas storage",
+          "value": "61.35%",
+          "asof": "Oct 30 · 80% target",
+          "note": "18.65 percentage-point shortfall"
+        }
+      ],
+      "charts": [
+        {
+          "title": "Korea: October export composition",
+          "unit": " $ billion",
+          "asof": "Nov 1 · October data",
+          "source_url": "https://www.reuters.com/world/asia-pacific/south-korea-exports-nearly-double-october-strongest-growth-since-1974-2026-11-01/",
+          "items": [
+            {
+              "label": "Chips",
+              "value": 56.44,
+              "display": "$56.44B"
+            },
+            {
+              "label": "Other exports",
+              "value": 58.84,
+              "display": "$58.84B"
+            }
+          ],
+          "note": "Other exports = 115.28 less 56.44; calculated from reported data."
+        },
+        {
+          "title": "China: manufacturing PMI divergence",
+          "unit": "",
+          "asof": "Oct 31 · October data",
+          "source_url": "https://www.stats.gov.cn/sj/sjjd/202610/t20261031_1965719.html",
+          "items": [
+            {
+              "label": "High tech",
+              "value": 51.3,
+              "display": "51.3"
+            },
+            {
+              "label": "Equipment",
+              "value": 50.6,
+              "display": "50.6"
+            },
+            {
+              "label": "Overall",
+              "value": 49.3,
+              "display": "49.3"
+            },
+            {
+              "label": "Consumer",
+              "value": 48.8,
+              "display": "48.8"
+            },
+            {
+              "label": "Energy intensive",
+              "value": 47.3,
+              "display": "47.3"
+            }
+          ],
+          "note": "50 is the expansion threshold; bars start at zero, not at 50."
+        }
+      ]
+    }
+  },
+  {
     "id": "2026-10-31",
     "date": "2026-10-31",
     "title": "Two balance sheets, three risk shocks: AI seeks funding as oil and crypto custody demand a premium",
