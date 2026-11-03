@@ -1,5 +1,331 @@
 [
   {
+    "id": "2026-11-02",
+    "date": "2026-11-02",
+    "sources": [
+      {
+        "title": "OPEC official decision — 1 November",
+        "url": "https://www.opec.org/pr-detail/620-1-november-2026.html"
+      },
+      {
+        "title": "Reuters — OPEC+ output targets and 2027 capacity",
+        "url": "https://www.reuters.com/business/energy/opec-set-keep-oil-output-targets-steady-sources-say-2026-11-01/"
+      },
+      {
+        "title": "Reuters — Oil falls as Qatar-Iran talks continue",
+        "url": "https://www.reuters.com/business/energy/oil-slips-more-than-1-talks-continue-ending-iran-war-2026-11-01/"
+      },
+      {
+        "title": "Reuters — Global markets, November 2",
+        "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-11-02/"
+      },
+      {
+        "title": "Reuters — Asian factory PMIs, November 2",
+        "url": "https://www.reuters.com/world/asia-pacific/global-economy-asias-factory-activity-feels-fading-glimmer-ai-boom-2026-11-02/"
+      },
+      {
+        "title": "Reuters — China private PMI and orders",
+        "url": "https://www.reuters.com/world/asia-pacific/china-factory-growth-slows-october-export-orders-ease-private-pmi-shows-2026-11-02/"
+      },
+      {
+        "title": "Reuters — South Korea manufacturing PMI",
+        "url": "https://www.reuters.com/world/asia-pacific/south-korea-factory-activity-growth-slows-8-month-low-pmi-shows-2026-11-02/"
+      },
+      {
+        "title": "Reuters — PBOC overnight funding operation",
+        "url": "https://www.reuters.com/world/asia-pacific/china-cbank-injects-cash-shifts-overnight-rate-key-policy-lever-2026-11-02/"
+      },
+      {
+        "title": "Reuters — Apple earnings preview and consensus",
+        "url": "https://www.reuters.com/business/retail-consumer/apples-new-ceo-ternus-face-first-earnings-test-memory-costs-surge-2026-11-02/"
+      },
+      {
+        "title": "Reuters — US midterms, earnings and labor-market week",
+        "url": "https://www.reuters.com/legal/legalindustry/wall-st-week-ahead-midterm-elections-earnings-jobs-data-loom-ai-wary-market-2026-10-30/"
+      },
+      {
+        "title": "US Treasury — official October 2026 yield curve",
+        "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value_month=202610&type=daily_treasury_yield_curve"
+      },
+      {
+        "title": "Reuters — Gold and Fed expectations",
+        "url": "https://www.reuters.com/world/india/gold-rises-softer-oil-markets-parse-fed-signals-2026-11-02/"
+      },
+      {
+        "title": "Reuters — Binance withdrawals and spot BTC ETF flows",
+        "url": "https://www.reuters.com/business/finance/binance-sees-outflows-stabilising-exchange-returns-online-after-63-billion-heist-2026-11-02/"
+      },
+      {
+        "title": "Reuters/LSEG Lipper — global equity fund flows",
+        "url": "https://www.reuters.com/world/china/global-markets-flows-graphic-2026-10-30/"
+      },
+      {
+        "title": "Reuters/LSEG — US equity fund flows",
+        "url": "https://www.reuters.com/business/investors-pull-money-us-equity-funds-ahead-earnings-reports-ai-hyperscalers-2026-10-30/"
+      },
+      {
+        "title": "Investment Company Institute — combined fund flows",
+        "url": "https://www.ici.org/research/stats/combined_flows"
+      },
+      {
+        "title": "US BLS — October jobs release schedule",
+        "url": "https://www.bls.gov/schedule/news_release/empsit.htm"
+      },
+      {
+        "title": "Reuters — Intel warning and chip selloff",
+        "url": "https://www.reuters.com/business/intel-warning-sparks-chip-rout-pc-weakness-clouds-turnaround-2026-10-30/"
+      }
+    ],
+    "title": "Oil eases, capital stays costly: AI's test shifts from chips to financing",
+    "summary": {
+      "changed": "OPEC+ confirmed unchanged December targets; Brent fell about 3.2% in early trading amid Iran-Qatar mediation; China and Asian chip-exporter factory PMIs slowed; the PBOC shifted its rate anchor and supplied overnight liquidity; Binance reopened withdrawals with $3.64B in net outflows.",
+      "missed": "Chip demand can remain strong even as broad manufacturing slows. The core question is cost of capital versus AI investment returns; OPEC quotas are not available barrels, and ETF flows are not proof of buying individual shares.",
+      "watch": "Apple reports today against $113.39B revenue consensus; US midterms and JOLTS on Tuesday; payrolls Friday. Track long yields, oil, credit spreads and Chinese order indicators."
+    },
+    "sections": [
+      {
+        "heading": "The connecting story: risk now has two prices — energy and capital",
+        "paragraphs": [
+          "Three material developments have emerged since the November 1 brief: OPEC+ formally confirmed unchanged December output targets; oil is falling sharply this morning amid Iran-related mediation; and Asian manufacturing surveys point to slower expansion despite meaningful semiconductor demand. These are linked rather than isolated events: energy prices affect inflation and interest rates, and rates affect financing costs for data centers, chip companies and industrial firms.",
+          "Our thesis is that the decisive AI question is not whether compute demand exists — evidence suggests it does — but whether buyers can earn more than their cost of capital as memory, electricity and credit costs shift. Monday's oil move, PMI readings, Treasury yields and forthcoming Apple earnings provide a real-time stress test.",
+          "US equities have not yet opened for November 2. All US cash-equity figures refer to the October 30 close, while futures are early indications, not a completed session."
+        ]
+      },
+      {
+        "heading": "Oil: the geopolitical risk premium contracts — it does not disappear",
+        "paragraphs": [
+          "At 04:07 UTC on November 2, Reuters reported Brent futures down 3.2% to $109.75 a barrel and WTI down 3.3% to $100.69. Brent had risen roughly 13.6% during October. These are intraday quotes, not closing prices.",
+          "The trigger is a third consecutive day of contacts between Iran and Qatari mediators, not a signed peace agreement. Tanker attacks and shipping risks in the Strait of Hormuz persist, so the drop may represent a lower risk premium rather than an immediate increase in available physical barrels.",
+          "If sustained, cheaper oil could ease inflation expectations and support long-duration bonds and growth stocks. Renewed attacks or failed negotiations could rapidly restore the premium. These are scenarios, not price forecasts."
+        ]
+      },
+      {
+        "heading": "OPEC+: December decision confirmed, but quotas are not physical supply",
+        "paragraphs": [
+          "In its official November 1 release, seven countries — Saudi Arabia, Russia, Iraq, Kuwait, Kazakhstan, Algeria and Oman — kept the required September 2026 production level in place for December. The next meeting is scheduled for November 29. This is now a verified decision, not merely the expectation discussed in yesterday's brief.",
+          "Reuters notes that many Gulf producers remain below their actual targets because of war-related disruption. A headline saying 'unchanged output targets' therefore does not guarantee stable physical supply. The 2027 framework, production baselines and capacity review will matter more for future balances.",
+          "For XLE and oilfield services, high crude can benefit producers' revenue but also raise operating costs and hurt demand. Drilling-service firms additionally depend on customers' capital budgets, not just the spot barrel price."
+        ]
+      },
+      {
+        "heading": "China: the private PMI is positive, but composition matters more",
+        "paragraphs": [
+          "The RatingDog/S&P Global private manufacturing PMI released this morning eased from 52.1 in September to 52.0 in October but beat the Reuters consensus of 51.6. China's official PMI, released Saturday, was 49.3, below the 50 threshold. The two need not contradict one another because their samples and sector exposures differ.",
+          "New orders edged down from 53.4 to 53.3; export-order growth slowed to a three-month low, export prices declined for the first time since November 2025, and business confidence hit a nine-month low. This suggests pricing pressure even while output expands.",
+          "For copper and industrial investors, a PMI above 50 is not equivalent to improving margins. Intense competition can support volumes while suppressing profitability; orders, prices and inventories should be tracked separately."
+        ]
+      },
+      {
+        "heading": "China's central bank: 541 billion yuan of liquidity is not a simple stimulus headline",
+        "paragraphs": [
+          "On November 2 the PBOC conducted 541 billion yuan (about $81.3 billion) of overnight reverse repos at 1.25%, as it shifted the policy anchor toward the overnight rate. That is the reported gross operation, not a verified net liquidity injection after maturities.",
+          "Analysts estimate the framework lowers the interest-rate floor by about 15 basis points and eases bank funding costs; Reuters stresses this is not a conventional policy-rate cut. The move comes amid credit concerns surrounding developer Zhuhai Huafa and planned regulator meetings with financial institutions.",
+          "The test is whether cheaper short-term funding turns into new business credit and real demand, or remains a bank balance-sheet relief measure. For commodity exporters, that second stage matters far more than the headline operation size."
+        ]
+      },
+      {
+        "heading": "Asia: booming chip exports coexist with slower factory activity",
+        "paragraphs": [
+          "October surveys released on November 2 show slower manufacturing PMIs in Japan (53.3 versus 54.1), South Korea (51.3 versus 53.9) and Taiwan (54.9 versus 56.7). All remain above 50, so this is slower expansion rather than broad contraction.",
+          "This puts yesterday's exceptional Korean semiconductor export figures into context: booming shipments of one product category do not measure all industrial orders. Korea reported relatively subdued US demand and weaker auto-related activity even as AI demand remained resilient.",
+          "For MU, WDC and memory suppliers, this is a warning signal rather than proof of a downturn. HBM/server demand must be separated from PCs, smartphones and consumer storage; a shift in product mix can change margins even when aggregate exports rise."
+        ]
+      },
+      {
+        "heading": "Equities: a futures rebound does not erase Friday's selloff",
+        "paragraphs": [
+          "At the October 30 close the S&P 500 lost roughly 1.8% and the Nasdaq roughly 2.9%; chip shares fell particularly hard and Intel plunged nearly 29% after disappointing guidance and cash-flow commentary. Reuters says the Nasdaq lost almost 7% in October. There is no Monday closing price yet.",
+          "In early Asian trade on November 2, S&P 500 futures were up about 0.5%, Nasdaq futures about 0.9%, Korea's Kospi about 2.6%, Japan's Nikkei about 0.3% and China's CSI 300 about 1.3%. These are intraday snapshots, not final results.",
+          "As of Friday, third-quarter S&P 500 earnings growth was estimated at 31.6% by LSEG IBES, yet the market punished companies failing to clear elevated expectations. A falling index need not mean falling profits; multiples can compress when growth and capex assumptions are already demanding."
+        ]
+      },
+      {
+        "heading": "Apple: a business-model test for AI without hundreds of billions of capex",
+        "paragraphs": [
+          "Apple is due to report later today and has not yet published the quarter's results. LSEG/Reuters expects July–September revenue of $113.39 billion (nearly 11% growth), net income of $29.04 billion (about 6% growth), and EPS near $2 versus $1.85 a year earlier. These are estimates, not results.",
+          "Reuters projects services revenue of $31.56 billion (roughly 10% growth) and iPhone revenue of $56.54 billion (roughly 15%). With memory costs rising, investors will look to holiday-quarter guidance for pricing power, demand for the new foldable phone and the monetization path for AI services.",
+          "Apple is up about 27% year to date according to Reuters while capital-intensive cloud names have faced pressure. This compares business models: distributing and pricing AI services versus owning data centers. An asset-light advantage only lasts if the platform retains customer value and is not displaced by rivals."
+        ]
+      },
+      {
+        "heading": "AI's financing equation: spending can rise even as its growth rate peaks",
+        "paragraphs": [
+          "According to Reuters, Goldman Sachs estimates hyperscaler capital expenditure at roughly $800 billion in 2026 and $1.2 trillion in 2027. This is an analyst forecast, not company guidance or spending already incurred. The implied year-on-year increase is 50%.",
+          "Goldman simultaneously projects S&P 500 EPS growth near 30% in 2026 slowing to roughly 18% in 2027. If investment rises 50% while profit growth slows, investors must identify who bears depreciation, lease obligations, debt and power costs rather than stopping at revenue growth.",
+          "A useful thesis audit combines operating cash flow less cash capex, ROIC versus WACC and net debt/EBITDA. Capex should be judged against equipment life and actual utilization. Without verified contract data, none of this establishes future revenue for FPS, VRT or CBRS."
+        ]
+      },
+      {
+        "heading": "Treasuries, the Fed and TLT: inflation persistence still matters",
+        "paragraphs": [
+          "Official US Treasury yields on October 30 were 4.56% for two years, 4.94% for ten years and 5.31% for thirty years. In November 2 Asian trading, the ten-year was quoted near 4.931% and the two-year near 4.612% — live indications, not an official closing curve.",
+          "According to Reuters, rate futures implied about a 72%–73% probability of a quarter-point December hike, although the Fed held rates unchanged in October. A futures-implied probability is not a Fed decision and can shift quickly with payroll and oil news.",
+          "TLT is sensitive to long yields and the term premium, not only the Fed's policy rate. A 10-basis-point fall in long yields might lift the fund by roughly 1.5%–1.7% under an assumed 15–17-year duration, before convexity and other effects; this is a conditional sensitivity illustration, not a forecast or actual return. TLT's price was not independently verified."
+        ]
+      },
+      {
+        "heading": "Crypto: Binance's trust test begins with flows, not assurances",
+        "paragraphs": [
+          "After the roughly $6.3 billion crypto theft, Binance resumed withdrawals in stages. Reuters reports $3.64 billion of net customer withdrawals — about 2.1% of exchange assets by the company's figures — and Binance says the pace is stabilizing. It claims to have replaced 95% of stolen assets; that is not the same as full recovery of the original tokens.",
+          "Reuters cited TRM Labs for roughly $643 million of Friday outflows from spot bitcoin ETFs and more than $1.3 billion of leveraged liquidations. This is a temporal association, not proof of full causality. Bitcoin was above $78,000 on Monday in the report, but no more precise current quote was verified here.",
+          "Watch the distinction between genuine net withdrawals and internal wallet transfers, redeemable assets, proof of reserves and flows into IBIT. The FBI's attribution and the US president's expressed uncertainty should not be treated as a court finding."
+        ]
+      },
+      {
+        "heading": "Fund flows: buying technology is not the same as buying the US market",
+        "paragraphs": [
+          "LSEG Lipper data published October 30 for the week ended October 28 show $10.19 billion of inflows into global equity funds, down from $25.06 billion the previous week — roughly a 59% slowdown. US equity funds lost $6.65 billion, while global technology funds drew about $5.5 billion.",
+          "Asian equity funds attracted roughly $9.9 billion and European funds $4.54 billion. Geographic and sector rotation can therefore coexist with weakness in US indexes. These figures end before Friday's selloff and do not capture investors' reaction to it.",
+          "As a cross-check, ICI's latest available combined long-term mutual fund and ETF estimate covers the week ended October 21: $12.32 billion of net inflows. It should not be directly compared with LSEG without aligning fund universes, geographies and dates."
+        ]
+      },
+      {
+        "heading": "FX, gold and copper: verified readings and remaining gaps",
+        "paragraphs": [
+          "On November 2 morning Reuters quoted EUR/USD near 1.1169 and USD/JPY near 157.75; these are early market indications, not official reference or closing rates. No sufficiently current USD/ILS quote was verified at the same time, so none is supplied.",
+          "Spot gold rose about 0.7% to $3,900.90 an ounce at 04:40 UTC after a 3.5% Friday fall to around a one-year low. Gold falling alongside equities shows that a 'safe haven' can be sold to meet margin calls; one day's correlation is not a permanent rule.",
+          "No sufficiently reliable current copper price was found for the morning window, so no quote is shown. Instead, track China's order surveys, grid capex plans and inventories: the broad industrial picture is weaker than the AI-chip picture."
+        ]
+      },
+      {
+        "heading": "Watchlist: MU, WDC, FPS, VRT, CBRS, BHF and JEPQ",
+        "paragraphs": [
+          "MU and WDC: the key risk is a gap between strong server-memory demand and weaker PC or consumer-storage demand. Track DRAM/NAND pricing, customer inventories, long-term contracts and capex; unverified stock prices or insider changes are not presented here.",
+          "FPS, VRT and CBRS: AI demand data support the power, cooling and accelerator narratives, but an investment thesis requires backlog-to-cash conversion, project margins, funding risk and manufacturing execution. A partnership announcement is not equivalent to a binding order or recognized revenue.",
+          "BHF: Aquarian's $70-per-share acquisition remains subject to regulatory-event monitoring; this scan does not establish a new development or closing date. For JEPQ, distinguish distribution yield from total return, especially during Nasdaq volatility. Broad ETF flows cannot be attributed to individual stock purchases."
+        ]
+      }
+    ],
+    "market_map": [
+      "Oct 30 close: S&P 500 fell about 1.8%, Nasdaq about 2.9%; US cash equities have not opened for Nov 2.",
+      "Nov 2 early trading: S&P 500 futures about +0.5%, Nasdaq futures about +0.9%; these are not closing returns.",
+      "Nov 2 intraday Asia: Kospi about +2.6%, Nikkei about +0.3%, CSI 300 about +1.3%.",
+      "Nov 2 at 04:07 UTC: Brent $109.75 (-3.2%); WTI $100.69 (-3.3%); intraday quotes.",
+      "Oct 30 official US Treasury curve: 2Y 4.56%, 10Y 4.94%, 30Y 5.31%.",
+      "Nov 2 early quotes: EUR/USD near 1.1169; USD/JPY near 157.75; spot gold $3,900.90 (+0.7% at 04:40 UTC).",
+      "Nov 2 October PMIs: private China 52.0 (51.6 forecast), official China 49.3; Korea 51.3; Japan 53.3; Taiwan 54.9.",
+      "LSEG flows for week to Oct 28: global equities +$10.19B; US equities -$6.65B; technology +$5.5B — not Friday's flows."
+    ],
+    "catalysts": {
+      "24 hours": [
+        "Nov 2: Apple earnings after the US close; consensus revenue $113.39B and EPS around $2 per LSEG/Reuters.",
+        "Nov 2: US October ISM manufacturing; examine orders, prices and employment.",
+        "Nov 2: monitor Iran-Qatar mediation and Brent; no agreement has yet been confirmed."
+      ],
+      "7 days": [
+        "Nov 3: US midterm elections — potential regulatory risks for data centers and taxation.",
+        "Nov 3: September JOLTS; AMD and Palantir results are due during the week per company schedules/Reuters.",
+        "Nov 4: US Treasury quarterly refunding announcement; examine issuance mix.",
+        "Nov 6: October US employment report, 08:30 ET (15:30 Israel); Reuters consensus near 65,000 jobs and 4.2% unemployment."
+      ],
+      "30 days": [
+        "Nov 29: OPEC+ meeting to establish 2027 quota framework; watch capacity review.",
+        "November: assess AI credit spreads and financing against capex disclosures and backlog-to-cash conversion.",
+        "November: monitor DRAM/NAND prices and inventories, and server versus PC demand."
+      ]
+    },
+    "contrarian": {
+      "consensus": "AI demand remains strong, but enormous capex and high rates will continue pressuring technology multiples.",
+      "why_right": "PMIs show broad slowing; Chinese export pricing is weak; futures still price a December Fed hike; electricity and financing costs may erode returns on capital.",
+      "why_wrong": "Sustained cheaper oil could ease inflation and funding costs, while server/memory orders convert into high utilization and cash flow; Apple may demonstrate profitable AI distribution with relatively little capex.",
+      "falsifiers": [
+        "If hyperscaler operating profitability and free cash flow outgrow capex, the financing-stress thesis weakens.",
+        "If oil surges again because of Hormuz disruption, the rate-relief scenario weakens.",
+        "If export PMIs and chip orders deteriorate together in coming quarters, the resilient-AI-demand thesis weakens.",
+        "If Apple shows gross-margin erosion despite sales growth, the asset-light advantage thesis weakens."
+      ]
+    },
+    "bottom_line": "The new story is not 'AI is over' but a shift from pricing demand to pricing funding and return on invested capital. On a morning of falling oil and rising equity futures, examine the combined cost of chips, power, debt and leases instead of chasing an index bounce.",
+    "disclaimer": "General information only; not investment advice. Morning quotes are intraday and subject to change; forecasts are not reported results. No verified current copper, USD/ILS, TLT or watchlist-share prices are supplied. The live display on haimamar.co.il remains unverified.",
+    "visuals": {
+      "cards": [
+        {
+          "label": "Brent · futures",
+          "value": "$109.75",
+          "change": "−3.2%",
+          "asof": "Nov 2 · 04:07 UTC · intraday",
+          "note": "Iran-Qatar mediation; not a closing quote"
+        },
+        {
+          "label": "China private manufacturing PMI",
+          "value": "52.0",
+          "change": "−0.1 pt",
+          "asof": "Nov 2 · October",
+          "note": "Above 51.6 forecast; official PMI 49.3"
+        },
+        {
+          "label": "South Korea manufacturing PMI",
+          "value": "51.3",
+          "change": "−2.6 pts",
+          "asof": "Nov 2 · October",
+          "note": "Slowest expansion in eight months"
+        },
+        {
+          "label": "US Treasury · 10-year",
+          "value": "4.94%",
+          "change": "−4bp",
+          "asof": "Oct 30 · official close",
+          "note": "Nov 2 early quote near 4.931%"
+        }
+      ],
+      "charts": [
+        {
+          "title": "Asian manufacturing PMIs · October",
+          "unit": "",
+          "asof": "Released Nov 2 · October readings",
+          "source_url": "https://www.reuters.com/world/asia-pacific/global-economy-asias-factory-activity-feels-fading-glimmer-ai-boom-2026-11-02/",
+          "items": [
+            {
+              "label": "China private",
+              "value": 52,
+              "display": "52.0"
+            },
+            {
+              "label": "Japan",
+              "value": 53.3,
+              "display": "53.3"
+            },
+            {
+              "label": "Korea",
+              "value": 51.3,
+              "display": "51.3"
+            },
+            {
+              "label": "Taiwan",
+              "value": 54.9,
+              "display": "54.9"
+            }
+          ],
+          "note": "50 marks expansion. Surveys have different samples; bars start at zero."
+        },
+        {
+          "title": "US Treasury yields · October 30",
+          "unit": "%",
+          "asof": "Oct 30, 2026 · official Treasury",
+          "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value_month=202610&type=daily_treasury_yield_curve",
+          "items": [
+            {
+              "label": "2Y",
+              "value": 4.56,
+              "display": "4.56%"
+            },
+            {
+              "label": "10Y",
+              "value": 4.94,
+              "display": "4.94%"
+            },
+            {
+              "label": "30Y",
+              "value": 5.31,
+              "display": "5.31%"
+            }
+          ],
+          "note": "CMT yields, not bond or TLT prices. Bars start at zero."
+        }
+      ]
+    }
+  },
+  {
     "date": "2026-11-01",
     "id": "2026-11-01",
     "title": "Record chips, slowing China, scarce power: who really finances the AI boom?",
