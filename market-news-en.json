@@ -1,238 +1,159 @@
 [
   {
-    "id": "2026-11-04",
-    "date": "2026-11-04",
+    "id": "2026-11-05",
+    "date": "2026-11-05",
     "sources": [
       {
-        "title": "BLS September 2026 JOLTS",
-        "url": "https://www.bls.gov/news.release/jolts.nr0.htm"
+        "title": "AP November 4 US closing",
+        "url": "https://apnews.com/article/c0be7ca45b5875abe758e0570cb9a265"
       },
       {
-        "title": "Reuters Nov 3 JOLTS and labor",
-        "url": "https://www.reuters.com/business/us-job-openings-increase-sharply-september-2026-11-03/"
+        "title": "Reuters November 5 global markets",
+        "url": "https://www.reuters.com/business/energy/global-markets-global-markets-2026-11-05/"
       },
       {
-        "title": "US Treasury daily par yield",
+        "title": "Reuters November 4 Treasury AI debt advisory",
+        "url": "https://www.reuters.com/legal/transactional/ai-debt-binge-isnt-crowding-out-treasuries-tbac-says-2026-11-04/"
+      },
+      {
+        "title": "US Treasury refunding official releases",
+        "url": "https://home.treasury.gov/news/press-releases"
+      },
+      {
+        "title": "US Treasury yields",
         "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
       },
       {
-        "title": "AP Nov 3 Wall Street closing",
-        "url": "https://apnews.com/article/0d235af127a92c68da0cc2c45c028cef"
+        "title": "AP November 4 oil and market analysis",
+        "url": "https://apnews.com/article/4d12764c0b3ce38ffde3077712811182"
       },
       {
-        "title": "Reuters November 4 election analysis",
-        "url": "https://www.reuters.com/business/analysts-react-us-midterm-election-results-2026-11-04/"
+        "title": "Reuters November 5 oil and rupee",
+        "url": "https://www.reuters.com/world/india/rupee-rally-after-us-midterm-fallout-sinks-oil-on-iran-war-exit-hopes-2026-11-05/"
       },
       {
-        "title": "Reuters November 4 election results",
-        "url": "https://www.reuters.com/world/us/trump-faces-midterm-verdict-with-control-congress-stake-2026-11-03/"
+        "title": "US BLS payroll schedule",
+        "url": "https://www.bls.gov/schedule/news_release/empsit.htm"
       },
       {
-        "title": "AMD third-quarter earnings",
-        "url": "https://www.wsj.com/business/earnings/advancedmicrodevices-amd-thirdquarter-earnings-report-2026-stock-e186e911"
-      },
-      {
-        "title": "Reuters November 3 market analysis",
-        "url": "https://www.reuters.com/business/us-job-openings-increase-sharply-september-2026-11-03/"
+        "title": "ICI fund flows",
+        "url": "https://www.ici.org/research/stats/combined_flows"
       }
     ],
-    "title": "The AI capital test: stronger job openings keep long yields high even as tech rebounds",
+    "title": "The election cut the oil risk premium, not AI's cost of capital: who benefits from the gap?",
     "summary": {
-      "changed": "JOLTS openings surprised to the upside; US stocks rebounded selectively; AMD posted strong data-center sales; midterm results remain fluid.",
-      "missed": "Strong vacancies may sustain higher long yields, even as cloud demand stays resilient.",
-      "watch": "Treasury refunding, election certification, October payrolls and AI cash returns."
+      "changed": "US equities rallied after midterms; oil collapsed; Treasury held coupon auction sizes steady.",
+      "missed": "AI issuance has not demonstrably crowded out Treasuries, yet corporate credit spreads can still widen.",
+      "watch": "Oil risk premium, Treasury auctions, data-center regulation, payrolls and AI free cash flow."
     },
     "sections": [
       {
-        "heading": "Thesis: The labor market has not broken, keeping the cost of capital at the center of AI valuations",
+        "heading": [
+          "וול סטריט: זינוק רחב, עם פער בין סקטורים",
+          "Wall Street: a broad surge, but sectors diverged",
+          "בסגירת 4 בנובמבר S&P 500 עלה 1.6% ל-7,688.62, נאסד״ק עלה 1.4% ל-25,736.51, דאו עלה 1,569.40 נקודות ל-53,356.12, וראסל 2000 עלה 1.6% ל-2,856.95. מתחילת השנה לפי AP: 12.3%, 10.7%, 11% ו-15.1% בהתאמה. אלה שערי סגירה, לא חוזים עתידיים.",
+          "At the November 4 close, the S&P 500 rose 1.6% to 7,688.62, Nasdaq gained 1.4% to 25,736.51, Dow added 1,569.40 points to 53,356.12, and Russell 2000 advanced 1.6% to 2,856.95. AP's year-to-date gains were 12.3%, 10.7%, 11% and 15.1%, respectively. These are closes, not futures quotes."
+        ],
         "paragraphs": [
-          "November 3 JOLTS data showed 7.523 million September job openings against a Reuters consensus near 7.1 million. This was stronger than expected, but does not prove broad hiring acceleration: actual hiring remains restrained. With the 10-year Treasury yield at 4.95% at the November 3 close, AI infrastructure companies must demonstrate returns on capital rather than merely large backlogs.",
-          "The market's November 3 verdict was selective: Nvidia gained 2.3% and the Nasdaq 0.8%, while Apple lost 1.9% amid memory-cost concerns. Not every company in the AI supply chain benefits equally from demand."
-        ]
-      },
-      {
-        "heading": "JOLTS: a positive surprise amid low hiring and low firing",
-        "paragraphs": [
-          "Openings rose 333,000 to 7.523 million, from a revised 7.190 million in August. The surprise versus the 7.100 million forecast was 423,000, or roughly 6.0%. August was revised upward by 111,000. The openings rate increased to 4.5% from 4.3%.",
-          "Hires increased by 131,000 to 5.402 million, voluntary quits by 321,000 to 3.365 million, and layoffs declined by 127,000 to 1.641 million. Openings per unemployed person were estimated at roughly 1.06, versus 1.02. These preliminary figures are subject to revision."
-        ]
-      },
-      {
-        "heading": "Wall Street: a narrow recovery, not a broad rally",
-        "paragraphs": [
-          "At the November 3 close, the S&P 500 rose 0.4% to 7,568.92, the Nasdaq gained 0.8% to 25,372.01, and the Dow lost 0.4% to 51,786.72. Nvidia rose 2.3% and Broadcom 3.1%; Apple fell 1.9%. These are closing figures, not premarket quotes.",
-          "A handful of megacaps lifted indices despite weakness elsewhere. The Nasdaq gain should not be interpreted as proof of a broad technology recovery. Year-to-date gains were estimated near 10% for the S&P and 9% for Nasdaq, depending on calculation date."
-        ]
-      },
-      {
-        "heading": "Treasuries, TLT and the Fed: long-duration funding remains costly",
-        "paragraphs": [
-          "The Treasury reported November 3 yields of 4.61% at two years, 4.95% at ten years, and 5.32% at thirty years. A year earlier, ten- and thirty-year yields were 4.13% and 4.69% respectively: increases of 82 and 63 basis points. The ten-minus-two-year spread stands at 34 basis points.",
-          "Higher long yields generally hurt TLT. A sensitivity illustration using a hypothetical 16-year duration: a 0.10 percentage-point yield rise could reduce price by approximately 1.6%, before convexity and other factors. This is not TLT's observed return."
-        ]
-      },
-      {
-        "heading": "AMD: data-center demand remains strong, but accounting matters",
-        "paragraphs": [
-          "AMD reported approximately $13.4 billion of third-quarter revenue against an estimated $13.1 billion, with data-center revenue near $8.5 billion, almost double the year-earlier figure and about 63% of total sales. Shares reportedly rose around 9% after hours, not a regular-session closing return.",
-          "Coverage described an approximately $1.1 billion accounting charge tied to the OpenAI agreement and contingent warrants. Distinguish realized sales from future deployment commitments and possible dilution. Verify accounting treatment directly in company filings before building a valuation model."
-        ]
-      },
-      {
-        "heading": "US midterms: a regulatory risk, without prematurely declaring outcomes",
-        "paragraphs": [
-          "Early November 4 reporting points to substantial Democratic gains and possible changes in congressional control. Evolving reports differ on whether all seats are finalized; this brief therefore does not present a definitive seat tally or claim certification.",
-          "Potential implications include closer scrutiny of AI companies, data-center infrastructure and crypto; conversely, divided government may impede major legislation. The election effect cannot be cleanly separated from already elevated AI valuations."
-        ]
-      },
-      {
-        "heading": "Energy: lower Brent eases inflation, while Hormuz remains a risk",
-        "paragraphs": [
-          "Brent settled around $103.60 per barrel on November 3, down approximately 1.1% on the day, versus $117.64 for the December contract that expired at October's end. These are different contracts, so this is not a precise continuous-contract return.",
-          "Lower oil prices could ease inflation expectations and transportation costs, but conflict and supply-route risks remain substantial. For XLE and drilling companies, oil prices, service costs and capital budgets matter more than a single diplomatic headline."
-        ]
-      },
-      {
-        "heading": "FX, commodities and crypto: avoid unverified quotes",
-        "paragraphs": [
-          "Market reporting described a firmer dollar against major currencies following labor data and softer gold. Exact closing USD/ILS, copper and Bitcoin quotes were not independently verified in this research window, so no new figures are presented.",
-          "IBIT exposure depends on Bitcoin prices, ETF flows and exchange custody risk. A general crypto headline is not evidence of daily IBIT inflows or outflows."
-        ]
-      },
-      {
-        "heading": "Fund flows and institutions: limits of the evidence",
-        "paragraphs": [
-          "The latest verified fund-flow figures from the previous brief covered the week ended October 28: $10.19 billion of global equity inflows, $6.65 billion of US equity outflows and $5.50 billion of technology inflows. No newly verified weekly release supersedes these figures.",
-          "These weekly figures cannot establish that institutions specifically bought MU, WDC, FPS or CBRS on November 3. Such claims require relevant holdings disclosures, transaction data or regulatory filings."
-        ]
-      },
-      {
-        "heading": "Watchlist: MU, WDC, FPS, CBRS, BHF",
-        "paragraphs": [
-          "MU: track DRAM/HBM pricing, inventories and pass-through ability. WDC: data-center HDD demand is not equivalent to DRAM demand. FPS: test backlog against cash generation, capex and margins. CBRS: distinguish recognized contract revenue from partnerships with undisclosed volumes.",
-          "BHF: acquisition monitoring requires regulatory approvals, financing and the spread to the offer price. No new material development in these five names was independently verified in this research window, so no fresh stock prices are attributed."
-        ]
-      },
-      {
-        "heading": "Contrarian case: strong labor data need not be bearish",
-        "paragraphs": [
-          "Bear case: resilient vacancies and sticky inflation keep Treasury yields elevated, compressing multiples and raising data-center funding costs. Chip orders continue but free cash flow deteriorates.",
-          "Bull case: a stable labor market supports consumption and cloud demand, while falling oil reduces inflation. If utilization rises faster than capital expenditure, ROIC could move above WACC. Track cash flow, utilization, credit spreads and computing service pricing in both scenarios."
-        ]
-      },
-      {
-        "heading": "Catalysts and verification tests",
-        "paragraphs": [
-          "November 4: evolving election results and Treasury refunding announcements; verify each against official releases. November 6: the US October payroll report; compare jobs, unemployment and wages with contemporaneous consensus.",
-          "For AI companies, monitor free cash flow after capex, purchase and lease commitments, memory prices and credit spreads. No unsourced numerical forecast is presented."
+          [
+            "הבחירות: לא רק רוח גבית למניות",
+            "Midterms: not an unqualified tailwind",
+            "דיווחי AP ו-Reuters מצביעים על ניצחונות דמוקרטיים שהעניקו להם שליטה בקונגרס. מניות בתי חולים וקמעונאות מוזלת נהנו מהציפיות לשינויי מדיניות, אך חברות הקשורות למרכזי נתונים נפגעו מחששות לפיקוח ולמגבלות בנייה. יש להבחין בין תוצאות הבחירות לבין תחזיות רגולטוריות שטרם הפכו לחוק.",
+            "AP and Reuters report Democratic victories yielding congressional control. Hospital operators and discount retailers benefited from policy expectations, while data-center-related shares faced concern over oversight and construction limits. Election outcomes are facts; future regulatory changes are not enacted laws."
+          ]
         ]
       }
     ],
-    "market_map": [
-      {
-        "name": "US job openings",
-        "value": "7.523M",
-        "change": "+333K m/m",
-        "asof": "September · released Nov 3"
-      },
-      {
-        "name": "US 10Y Treasury",
-        "value": "4.95%",
-        "change": "+82bp y/y",
-        "asof": "Nov 3 · official close"
-      },
-      {
-        "name": "S&P 500",
-        "value": "7,568.92",
-        "change": "+0.4%",
-        "asof": "Nov 3 · close"
-      },
-      {
-        "name": "Nasdaq",
-        "value": "25,372.01",
-        "change": "+0.8%",
-        "asof": "Nov 3 · close"
-      }
+    "market_map": "November 4 closes: S&P 7,688.62 (+1.6%); Nasdaq 25,736.51 (+1.4%); Dow 53,356.12 (+3.0%); Russell 2,856.95 (+1.6%). Brent $94.62 (−8.7%); US 10-year yield 4.88%.",
+    "catalysts": "November 6 US payrolls (verify release schedule); November 9, 10 and 12 Treasury 3Y/10Y/30Y auctions; Iran diplomacy and data-center policy.",
+    "contrarian": [
+      "הבחירות: לא רק רוח גבית למניות",
+      "Midterms: not an unqualified tailwind",
+      "דיווחי AP ו-Reuters מצביעים על ניצחונות דמוקרטיים שהעניקו להם שליטה בקונגרס. מניות בתי חולים וקמעונאות מוזלת נהנו מהציפיות לשינויי מדיניות, אך חברות הקשורות למרכזי נתונים נפגעו מחששות לפיקוח ולמגבלות בנייה. יש להבחין בין תוצאות הבחירות לבין תחזיות רגולטוריות שטרם הפכו לחוק.",
+      "AP and Reuters report Democratic victories yielding congressional control. Hospital operators and discount retailers benefited from policy expectations, while data-center-related shares faced concern over oversight and construction limits. Election outcomes are facts; future regulatory changes are not enacted laws."
     ],
-    "catalysts": [
-      "Nov 4: Treasury refunding and election updates",
-      "Nov 6: US October employment report",
-      "Ongoing: AI capex, free cash flow and credit spreads"
-    ],
-    "contrarian": "Bear case: resilient vacancies and sticky inflation keep Treasury yields elevated, compressing multiples and raising data-center funding costs. Chip orders continue but free cash flow deteriorates. Bull case: a stable labor market supports consumption and cloud demand, while falling oil reduces inflation. If utilization rises faster than capital expenditure, ROIC could move above WACC. Track cash flow, utilization, credit spreads and computing service pricing in both scenarios.",
-    "bottom_line": "AI demand is not the only variable: long yields, capital intensity and realized cash returns determine valuation resilience.",
-    "disclaimer": "Information verified as of early November 4, 2026 Israel time. Election counts are developing; no investment advice.",
+    "bottom_line": "The election reduced one risk premium, not all of them. Value AI infrastructure on free cash flow, financing costs and execution, not order books alone.",
+    "disclaimer": "Research as of November 5, 2026 morning Israel time. Distinguish verified closes from November 5 intraday quotes; scenarios are analysis, not facts or investment advice.",
     "visuals": {
       "cards": [
         {
-          "label": "US job openings",
-          "value": "7.523M",
-          "change": "+333K m/m",
-          "asof": "September · released Nov 3",
-          "note": "Forecast 7.100M"
-        },
-        {
-          "label": "US 10Y Treasury",
-          "value": "4.95%",
-          "change": "+82bp y/y",
-          "asof": "Nov 3 · official close"
-        },
-        {
           "label": "S&P 500",
-          "value": "7,568.92",
-          "change": "+0.4%",
-          "asof": "Nov 3 · close"
+          "value": "7,688.62",
+          "change": "+1.6%",
+          "asof": "Nov 4 close"
         },
         {
           "label": "Nasdaq",
-          "value": "25,372.01",
-          "change": "+0.8%",
-          "asof": "Nov 3 · close"
+          "value": "25,736.51",
+          "change": "+1.4%",
+          "asof": "Nov 4 close"
+        },
+        {
+          "label": "Brent",
+          "value": "$94.62",
+          "change": "−8.7%",
+          "asof": "Nov 4 AP report"
+        },
+        {
+          "label": "US 10-year yield",
+          "value": "4.88%",
+          "change": "−7 bp vs Nov 3",
+          "asof": "Nov 4 AP report"
         }
       ],
       "charts": [
         {
-          "title": "September JOLTS versus August",
-          "unit": "million",
-          "asof": "2026-11-03",
-          "source_url": "https://www.bls.gov/news.release/jolts.nr0.htm",
+          "title": "US equity index year-to-date returns",
+          "unit": "%",
+          "asof": "2026-11-04",
+          "source_url": "https://apnews.com/article/c0be7ca45b5875abe758e0570cb9a265",
           "items": [
             {
-              "label": "August",
-              "value": 7.19,
-              "display": "7.190M"
+              "label": "S&P 500",
+              "value": 12.3,
+              "display": "12.3%"
             },
             {
-              "label": "September",
-              "value": 7.523,
-              "display": "7.523M"
+              "label": "Nasdaq",
+              "value": 10.7,
+              "display": "10.7%"
+            },
+            {
+              "label": "Dow",
+              "value": 11,
+              "display": "11%"
+            },
+            {
+              "label": "Russell 2000",
+              "value": 15.1,
+              "display": "15.1%"
             }
           ],
-          "note": "August revised; September preliminary"
+          "note": "AP figures as of November 4 close"
         },
         {
-          "title": "US Treasury yield curve",
-          "unit": "%",
-          "asof": "2026-11-03",
-          "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates",
+          "title": "Treasury November refunding sizes",
+          "unit": "USD billion",
+          "asof": "2026-11-04",
+          "source_url": "https://home.treasury.gov/news/press-releases",
           "items": [
             {
-              "label": "2 years",
-              "value": 4.61,
-              "display": "4.61%"
+              "label": "3Y",
+              "value": 58,
+              "display": "$58B"
             },
             {
-              "label": "10 years",
-              "value": 4.95,
-              "display": "4.95%"
+              "label": "10Y",
+              "value": 42,
+              "display": "$42B"
             },
             {
-              "label": "30 years",
-              "value": 5.32,
-              "display": "5.32%"
+              "label": "30Y",
+              "value": 25,
+              "display": "$25B"
             }
           ],
-          "note": "Official Treasury par yields; closing data"
+          "note": "Announced auction amounts, not realized demand"
         }
       ]
     }
