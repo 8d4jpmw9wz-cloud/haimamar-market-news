@@ -1,5 +1,208 @@
 [
   {
+    "id": "2026-11-05",
+    "date": "2026-11-05",
+    "sources": [
+      {
+        "title": "AP November 4 US closing",
+        "url": "https://apnews.com/article/c0be7ca45b5875abe758e0570cb9a265"
+      },
+      {
+        "title": "Reuters November 5 global markets",
+        "url": "https://www.reuters.com/business/energy/global-markets-global-markets-2026-11-05/"
+      },
+      {
+        "title": "Reuters November 4 Treasury AI debt advisory",
+        "url": "https://www.reuters.com/legal/transactional/ai-debt-binge-isnt-crowding-out-treasuries-tbac-says-2026-11-04/"
+      },
+      {
+        "title": "US Treasury refunding official releases",
+        "url": "https://home.treasury.gov/news/press-releases"
+      },
+      {
+        "title": "US Treasury yields",
+        "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+      },
+      {
+        "title": "AP November 4 oil and market analysis",
+        "url": "https://apnews.com/article/4d12764c0b3ce38ffde3077712811182"
+      },
+      {
+        "title": "Reuters November 5 oil and rupee",
+        "url": "https://www.reuters.com/world/india/rupee-rally-after-us-midterm-fallout-sinks-oil-on-iran-war-exit-hopes-2026-11-05/"
+      },
+      {
+        "title": "US BLS payroll schedule",
+        "url": "https://www.bls.gov/schedule/news_release/empsit.htm"
+      },
+      {
+        "title": "ICI fund flows",
+        "url": "https://www.ici.org/research/stats/combined_flows"
+      }
+    ],
+    "title": "The election cut the oil risk premium, not AI's cost of capital: who benefits from the gap?",
+    "summary": {
+      "changed": "US equities rallied after midterms; oil collapsed; Treasury held coupon auction sizes steady.",
+      "missed": "AI issuance has not demonstrably crowded out Treasuries, yet corporate credit spreads can still widen.",
+      "watch": "Oil risk premium, Treasury auctions, data-center regulation, payrolls and AI free cash flow."
+    },
+    "sections": [
+      {
+        "heading": "Thesis: oil falls, but the cost of capital remains",
+        "paragraphs": [
+          "The US elections drove a stock rally and a sharp drop in geopolitical risk premium. Lower energy prices can ease inflation, but do not guarantee tighter AI corporate credit spreads."
+        ]
+      },
+      {
+        "heading": "Wall Street November 4 close",
+        "paragraphs": [
+          "The S&P 500 rose 1.6% to 7,688.62; Nasdaq 1.4% to 25,736.51; Dow 3.0% to 53,356.12; Russell 2000 1.6% to 2,856.95. AP reports year-to-date returns of 12.3%, 10.7%, 11.0% and 15.1%, respectively."
+        ]
+      },
+      {
+        "heading": "Oil: lower prices do not establish supply restoration",
+        "paragraphs": [
+          "AP reported Brent down 8.7% to $94.62 per barrel on November 4. Reuters quoted about $94.20 during Asian trading on November 5. These reflect expectations of easing Iran tensions, not a verified peace agreement or full supply restoration."
+        ]
+      },
+      {
+        "heading": "Election results and sector divergence",
+        "paragraphs": [
+          "AP and Reuters report Democratic control of Congress. Hospital operators and discount retailers benefited from policy expectations; data-center stocks faced scrutiny and construction concerns. These are regulatory scenarios, not enacted laws."
+        ]
+      },
+      {
+        "heading": "Treasury refunding: $125 billion",
+        "paragraphs": [
+          "Treasury kept November 3-, 10- and 30-year auctions at $58 billion, $42 billion and $25 billion, totaling $125 billion. About $97 billion refinances maturities and $28 billion raises new cash. Stable supply does not guarantee lower yields."
+        ]
+      },
+      {
+        "heading": "AI financing: what TBAC found",
+        "paragraphs": [
+          "Treasury's advisory committee found no evidence AI bond issuance is crowding out Treasury auction demand. It nevertheless noted pressure on technology credit spreads and greater competition for long-term capital."
+        ]
+      },
+      {
+        "heading": "Long bonds and TLT",
+        "paragraphs": [
+          "The US 10-year Treasury yield fell to 4.88% on November 4 from 4.95% the previous day, according to AP. This generally supports TLT but is not an observed ETF return. Monitor the 30-year yield, inflation and convexity too."
+        ]
+      },
+      {
+        "heading": "AI and chips: the rally is uneven",
+        "paragraphs": [
+          "Data-center names and Nvidia faced regulatory concerns while Microsoft rallied sharply. For MU, WDC, FPS and CBRS, distinguish physical demand, pricing power, capex, power and regulation. No individual institutional purchases are verified."
+        ]
+      },
+      {
+        "heading": "Currencies, commodities and fund flows",
+        "paragraphs": [
+          "Reuters reported dollar weakness versus the euro and support for oil-importer currencies. No new verified copper or USD/ILS close is asserted. Rising stocks do not prove net fund inflows; ICI and LSEG releases lag."
+        ]
+      },
+      {
+        "heading": "Contrarian case: oil could rebound",
+        "paragraphs": [
+          "If shipping disruptions and Iran tensions persist, oil's risk premium could return. If regulation delays data centers, lower yields cannot guarantee returns on capital. Conversely, cheaper energy and higher utilization could improve AI cash flow faster than expected."
+        ]
+      }
+    ],
+    "market_map": "November 4 closes: S&P 7,688.62 (+1.6%); Nasdaq 25,736.51 (+1.4%); Dow 53,356.12 (+3.0%); Russell 2,856.95 (+1.6%). Brent $94.62 (−8.7%); US 10-year yield 4.88%.",
+    "catalysts": "November 6 US payrolls (verify release schedule); November 9, 10 and 12 Treasury 3Y/10Y/30Y auctions; Iran diplomacy and data-center policy.",
+    "contrarian": [
+      "הבחירות: לא רק רוח גבית למניות",
+      "Midterms: not an unqualified tailwind",
+      "דיווחי AP ו-Reuters מצביעים על ניצחונות דמוקרטיים שהעניקו להם שליטה בקונגרס. מניות בתי חולים וקמעונאות מוזלת נהנו מהציפיות לשינויי מדיניות, אך חברות הקשורות למרכזי נתונים נפגעו מחששות לפיקוח ולמגבלות בנייה. יש להבחין בין תוצאות הבחירות לבין תחזיות רגולטוריות שטרם הפכו לחוק.",
+      "AP and Reuters report Democratic victories yielding congressional control. Hospital operators and discount retailers benefited from policy expectations, while data-center-related shares faced concern over oversight and construction limits. Election outcomes are facts; future regulatory changes are not enacted laws."
+    ],
+    "bottom_line": "The election reduced one risk premium, not all of them. Value AI infrastructure on free cash flow, financing costs and execution, not order books alone.",
+    "disclaimer": "Research as of November 5, 2026 morning Israel time. Distinguish verified closes from November 5 intraday quotes; scenarios are analysis, not facts or investment advice.",
+    "visuals": {
+      "cards": [
+        {
+          "label": "S&P 500",
+          "value": "7,688.62",
+          "change": "+1.6%",
+          "asof": "Nov 4 close"
+        },
+        {
+          "label": "Nasdaq",
+          "value": "25,736.51",
+          "change": "+1.4%",
+          "asof": "Nov 4 close"
+        },
+        {
+          "label": "Brent",
+          "value": "$94.62",
+          "change": "−8.7%",
+          "asof": "Nov 4 AP report"
+        },
+        {
+          "label": "US 10-year yield",
+          "value": "4.88%",
+          "change": "−7 bp vs Nov 3",
+          "asof": "Nov 4 AP report"
+        }
+      ],
+      "charts": [
+        {
+          "title": "US equity index year-to-date returns",
+          "unit": "%",
+          "asof": "2026-11-04",
+          "source_url": "https://apnews.com/article/c0be7ca45b5875abe758e0570cb9a265",
+          "items": [
+            {
+              "label": "S&P 500",
+              "value": 12.3,
+              "display": "12.3%"
+            },
+            {
+              "label": "Nasdaq",
+              "value": 10.7,
+              "display": "10.7%"
+            },
+            {
+              "label": "Dow",
+              "value": 11,
+              "display": "11%"
+            },
+            {
+              "label": "Russell 2000",
+              "value": 15.1,
+              "display": "15.1%"
+            }
+          ],
+          "note": "AP figures as of November 4 close"
+        },
+        {
+          "title": "Treasury November refunding sizes",
+          "unit": "USD billion",
+          "asof": "2026-11-04",
+          "source_url": "https://home.treasury.gov/news/press-releases",
+          "items": [
+            {
+              "label": "3Y",
+              "value": 58,
+              "display": "$58B"
+            },
+            {
+              "label": "10Y",
+              "value": 42,
+              "display": "$42B"
+            },
+            {
+              "label": "30Y",
+              "value": 25,
+              "display": "$25B"
+            }
+          ],
+          "note": "Announced auction amounts, not realized demand"
+        }
+      ]
+    }
+  },
+  {
     "id": "2026-11-04",
     "date": "2026-11-04",
     "sources": [

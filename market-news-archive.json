@@ -1,5 +1,208 @@
 [
   {
+    "id": "2026-11-05",
+    "date": "2026-11-05",
+    "sources": [
+      {
+        "title": "AP November 4 US closing",
+        "url": "https://apnews.com/article/c0be7ca45b5875abe758e0570cb9a265"
+      },
+      {
+        "title": "Reuters November 5 global markets",
+        "url": "https://www.reuters.com/business/energy/global-markets-global-markets-2026-11-05/"
+      },
+      {
+        "title": "Reuters November 4 Treasury AI debt advisory",
+        "url": "https://www.reuters.com/legal/transactional/ai-debt-binge-isnt-crowding-out-treasuries-tbac-says-2026-11-04/"
+      },
+      {
+        "title": "US Treasury refunding official releases",
+        "url": "https://home.treasury.gov/news/press-releases"
+      },
+      {
+        "title": "US Treasury yields",
+        "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
+      },
+      {
+        "title": "AP November 4 oil and market analysis",
+        "url": "https://apnews.com/article/4d12764c0b3ce38ffde3077712811182"
+      },
+      {
+        "title": "Reuters November 5 oil and rupee",
+        "url": "https://www.reuters.com/world/india/rupee-rally-after-us-midterm-fallout-sinks-oil-on-iran-war-exit-hopes-2026-11-05/"
+      },
+      {
+        "title": "US BLS payroll schedule",
+        "url": "https://www.bls.gov/schedule/news_release/empsit.htm"
+      },
+      {
+        "title": "ICI fund flows",
+        "url": "https://www.ici.org/research/stats/combined_flows"
+      }
+    ],
+    "title": "הבחירות הורידו את מחיר הנפט, לא את מחיר ההון של AI: מי מרוויח מהפער?",
+    "summary": {
+      "changed": "מניות ארה״ב זינקו לאחר הבחירות; הנפט קרס; האוצר שמר על היקף הנפקות אג״ח.",
+      "missed": "הנפקות חוב AI לא דחקו באופן מוכח ביקוש לאג״ח ממשלתיות, אך מרווחי האשראי של החברות יכולים להתרחב.",
+      "watch": "פרמיית הסיכון בנפט, מכרזי אג״ח, רגולציית מרכזי נתונים, תעסוקה ותזרים AI."
+    },
+    "sections": [
+      {
+        "heading": "התזה: הנפט יורד, אבל מחיר ההון לא נעלם",
+        "paragraphs": [
+          "הבחירות בארה״ב הובילו לזינוק במניות ולירידה חדה בפרמיית הסיכון הגיאופוליטית. ירידת מחירי האנרגיה יכולה להקל על האינפלציה, אך אינה מבטיחה ירידת מרווחי אשראי של חברות AI."
+        ]
+      },
+      {
+        "heading": "סגירת וול סטריט 4 בנובמבר",
+        "paragraphs": [
+          "S&P 500 עלה 1.6% ל-7,688.62; נאסד״ק 1.4% ל-25,736.51; דאו 3.0% ל-53,356.12; ראסל 2000 1.6% ל-2,856.95. לפי AP, מתחילת השנה עלו המדדים 12.3%, 10.7%, 11.0% ו-15.1% בהתאמה."
+        ]
+      },
+      {
+        "heading": "הנפט: ירידה במחיר אינה שיקום האספקה",
+        "paragraphs": [
+          "AP דיווחה על ירידת Brent ב-8.7% ל-94.62 דולר לחבית ב-4 בנובמבר. Reuters ציטטה כ-94.20 דולר במסחר האסייתי ב-5 בנובמבר. מדובר בציפיות להפחתת סיכון מול איראן, לא בהסכם מאומת או באישור לחזרת אספקה מלאה."
+        ]
+      },
+      {
+        "heading": "תוצאות הבחירות ומניות הסקטורים",
+        "paragraphs": [
+          "דיווחי AP ו-Reuters מצביעים על מעבר השליטה בקונגרס לדמוקרטים. מניות בתי חולים וקמעונאים מוזלים נהנו מהציפיות לשינויי מדיניות; מניות מרכזי נתונים נפגעו מחששות לפיקוח ולהגבלות בנייה. אלה תרחישים רגולטוריים, לא חוקים שכבר אושרו."
+        ]
+      },
+      {
+        "heading": "מימון מחדש של האוצר: 125 מיליארד דולר",
+        "paragraphs": [
+          "האוצר השאיר את מכרזי נובמבר לשלוש, עשר ושלושים שנים על 58, 42 ו-25 מיליארד דולר, סך הכול 125 מיליארד. כ-97 מיליארד למחזור חוב וכ-28 מיליארד למזומן חדש. היצע יציב אינו מבטיח ירידת תשואות."
+        ]
+      },
+      {
+        "heading": "מימון AI: מה מצאה ועדת TBAC",
+        "paragraphs": [
+          "ועדת הייעוץ לאוצר לא מצאה ראיה שגל הנפקות החוב של חברות AI דוחק ביקוש לאג״ח ממשלתיות במכרזים. במקביל ציינה שהנפקות טכנולוגיה מכבידות על מרווחי האשראי בסקטור ומגבירות תחרות על הון ארוך טווח."
+        ]
+      },
+      {
+        "heading": "אג״ח ארוכות ו-TLT",
+        "paragraphs": [
+          "תשואת אג״ח ממשלת ארה״ב לעשר שנים ירדה לפי AP ל-4.88% ב-4 בנובמבר לעומת 4.95% ביום הקודם. הדבר תומך עקרונית ב-TLT, אך אינו נתון לתשואת הקרן עצמה. יש לבחון גם תשואת שלושים השנים, אינפלציה וקמירות."
+        ]
+      },
+      {
+        "heading": "AI ושבבים: לא כל חברה נהנית מהראלי",
+        "paragraphs": [
+          "חברות מרכזי נתונים ו-Nvidia התמודדו עם חששות רגולטוריים, בעוד Microsoft עלתה בחדות. עבור MU, WDC, FPS ו-CBRS יש להפריד בין ביקוש פיזי, כוח תמחור, הוצאות הון, חשמל ורגולציה. אין ראיה לרכישה מוסדית נקודתית."
+        ]
+      },
+      {
+        "heading": "מטבעות, סחורות וזרימות הון",
+        "paragraphs": [
+          "Reuters דיווחה על היחלשות הדולר מול האירו ועל תמיכה במטבעות יבואניות נפט. אין שער סגירה מאומת חדש לנחושת או לדולר-שקל. עליות המניות אינן מוכיחות כניסה נטו לקרנות; נתוני ICI ו-LSEG מתפרסמים בפיגור."
+        ]
+      },
+      {
+        "heading": "איפכא מסתברא: הנפט יכול לשוב לזנק",
+        "paragraphs": [
+          "אם שיבושי השיט והעימות מול איראן יימשכו, פרמיית הסיכון יכולה לחזור. אם רגולציה תעכב הקמת מרכזי נתונים, ירידת תשואות לא תבטיח תשואה על ההון. מנגד, אנרגיה זולה וניצולת גבוהה עשויות לשפר את תזרים ה-AI מהר מהצפוי."
+        ]
+      }
+    ],
+    "market_map": "סגירת 4.11: S&P ‏7,688.62 (+1.6%); Nasdaq ‏25,736.51 (+1.4%); Dow ‏53,356.12 (+3.0%); Russell ‏2,856.95 (+1.6%). Brent ‏$94.62 (−8.7%); תשואת 10 שנים 4.88%.",
+    "catalysts": "6.11 דוח תעסוקה אמריקאי (בכפוף ללוח הפרסומים); 9, 10 ו-12.11 מכרזי אג״ח 3/10/30 שנים; דיפלומטיה מול איראן ומדיניות מרכזי נתונים.",
+    "contrarian": [
+      "נפט: ירידה במחיר אינה הוכחה שהיצע שוקם",
+      "Oil: a price fall does not prove supply recovery",
+      "ברנט ירד ב-8.7% ל-94.62 דולר לחבית לפי סיכום AP ל-4 בנובמבר. במסחר האסייתי ב-5 בנובמבר דיווחה Reuters על כ-94.20 דולר, ירידה תוך-יומית נוספת. הירידה משקפת בעיקר ציפיות להפחתת סיכון המלחמה עם איראן; אין להציג זאת כאימות לחזרת אספקה מלאה במצר הורמוז.",
+      "Brent fell 8.7% to $94.62 per barrel in AP's November 4 account. Reuters reported about $94.20 in Asian trading on November 5, an additional intraday quote. The move chiefly reflects expectations of reduced Iran-war risk; it does not verify full restoration of Strait of Hormuz supply."
+    ],
+    "bottom_line": "הבחירות הפחיתו פרמיית סיכון אחת, לא את כולן. יש לתמחר תשתיות AI לפי תזרים חופשי, עלות מימון וביצוע, ולא לפי צבר בלבד.",
+    "disclaimer": "מחקר נכון לבוקר 5.11.2026 שעון ישראל. שערי סגירה מובחנים מציטוטים תוך-יומיים של 5.11; תרחישים הם פרשנות ולא עובדות או ייעוץ השקעות.",
+    "visuals": {
+      "cards": [
+        {
+          "label": "S&P 500",
+          "value": "7,688.62",
+          "change": "+1.6%",
+          "asof": "4.11 · סגירה"
+        },
+        {
+          "label": "Nasdaq",
+          "value": "25,736.51",
+          "change": "+1.4%",
+          "asof": "4.11 · סגירה"
+        },
+        {
+          "label": "Brent",
+          "value": "$94.62",
+          "change": "−8.7%",
+          "asof": "4.11 · סיכום AP"
+        },
+        {
+          "label": "אג״ח 10 שנים",
+          "value": "4.88%",
+          "change": "−7 נ״ב מול 3.11",
+          "asof": "4.11 · דיווח AP"
+        }
+      ],
+      "charts": [
+        {
+          "title": "תשואת מדדי ארה״ב מתחילת השנה",
+          "unit": "%",
+          "asof": "2026-11-04",
+          "source_url": "https://apnews.com/article/c0be7ca45b5875abe758e0570cb9a265",
+          "items": [
+            {
+              "label": "S&P 500",
+              "value": 12.3,
+              "display": "12.3%"
+            },
+            {
+              "label": "Nasdaq",
+              "value": 10.7,
+              "display": "10.7%"
+            },
+            {
+              "label": "Dow",
+              "value": 11,
+              "display": "11%"
+            },
+            {
+              "label": "Russell 2000",
+              "value": 15.1,
+              "display": "15.1%"
+            }
+          ],
+          "note": "נתוני AP לסגירת 4 בנובמבר"
+        },
+        {
+          "title": "היקפי הנפקות המימון מחדש בנובמבר",
+          "unit": "מיליארד דולר",
+          "asof": "2026-11-04",
+          "source_url": "https://home.treasury.gov/news/press-releases",
+          "items": [
+            {
+              "label": "3Y",
+              "value": 58,
+              "display": "$58B"
+            },
+            {
+              "label": "10Y",
+              "value": 42,
+              "display": "$42B"
+            },
+            {
+              "label": "30Y",
+              "value": 25,
+              "display": "$25B"
+            }
+          ],
+          "note": "היקפי מכרז שהוכרזו, לא ביקוש בפועל"
+        }
+      ]
+    }
+  },
+  {
     "id": "2026-11-04",
     "date": "2026-11-04",
     "sources": [

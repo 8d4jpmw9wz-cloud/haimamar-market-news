@@ -1,203 +1,210 @@
 [
   {
-    "id": "2026-11-05",
-    "date": "2026-11-05",
+    "id": "2026-11-06",
+    "date": "2026-11-06",
     "sources": [
       {
-        "title": "AP November 4 US closing",
-        "url": "https://apnews.com/article/c0be7ca45b5875abe758e0570cb9a265"
+        "title": "Reuters: Wall Street rout November 5",
+        "url": "https://www.reuters.com/business/sp-500-futures-steady-after-midterm-rally-nasdaq-lags-chip-weakness-2026-11-05/"
       },
       {
-        "title": "Reuters November 5 global markets",
-        "url": "https://www.reuters.com/business/energy/global-markets-global-markets-2026-11-05/"
+        "title": "Reuters: AI infrastructure regulation fears",
+        "url": "https://www.reuters.com/legal/transactional/ai-data-center-stocks-slip-democratic-sweep-clouds-expansion-plans-2026-11-05/"
       },
       {
-        "title": "Reuters November 4 Treasury AI debt advisory",
-        "url": "https://www.reuters.com/legal/transactional/ai-debt-binge-isnt-crowding-out-treasuries-tbac-says-2026-11-04/"
+        "title": "Reuters: IREN Microsoft deliveries and capex",
+        "url": "https://www.reuters.com/technology/neocloud-firm-iren-tops-quarterly-revenue-estimates-shares-jump-2026-11-05/"
       },
       {
-        "title": "US Treasury refunding official releases",
-        "url": "https://home.treasury.gov/news/press-releases"
+        "title": "Reuters: Global trading day November 5",
+        "url": "https://www.reuters.com/commentary/reuters-open-interest/global-markets-trading-day-graphic-2026-11-05/"
       },
       {
-        "title": "US Treasury yields",
+        "title": "Reuters: Dollar and haven flows November 6",
+        "url": "https://www.reuters.com/world/asia-pacific/dollar-holds-yen-gains-equity-rout-saps-risk-appetite-ahead-payrolls-2026-11-06/"
+      },
+      {
+        "title": "Reuters: Gold and oil November 6",
+        "url": "https://www.reuters.com/world/india/gold-eases-inflation-worries-higher-oil-us-payrolls-data-focus-2026-11-06/"
+      },
+      {
+        "title": "Reuters: Qualcomm smartphone chips",
+        "url": "https://www.reuters.com/business/retail-consumer/qualcomm-slumps-weak-smartphone-chip-sales-overshadow-data-center-momentum-2026-11-05/"
+      },
+      {
+        "title": "Reuters: ARM earnings outlook",
+        "url": "https://www.reuters.com/business/arm-beats-second-quarter-revenue-estimates-ai-data-center-demand-2026-11-04/"
+      },
+      {
+        "title": "US Treasury daily rates official",
         "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates"
       },
       {
-        "title": "AP November 4 oil and market analysis",
-        "url": "https://apnews.com/article/4d12764c0b3ce38ffde3077712811182"
-      },
-      {
-        "title": "Reuters November 5 oil and rupee",
-        "url": "https://www.reuters.com/world/india/rupee-rally-after-us-midterm-fallout-sinks-oil-on-iran-war-exit-hopes-2026-11-05/"
-      },
-      {
-        "title": "US BLS payroll schedule",
+        "title": "BLS payroll calendar official",
         "url": "https://www.bls.gov/schedule/news_release/empsit.htm"
       },
       {
-        "title": "ICI fund flows",
+        "title": "ICI combined flows official",
         "url": "https://www.ici.org/research/stats/combined_flows"
       }
     ],
-    "title": "The election cut the oil risk premium, not AI's cost of capital: who benefits from the gap?",
+    "title": "When risk became regulatory: Nasdaq plunges 5.52% as AI's test shifts from orders to permits and funding",
     "summary": {
-      "changed": "US equities rallied after midterms; oil collapsed; Treasury held coupon auction sizes steady.",
-      "missed": "AI issuance has not demonstrably crowded out Treasuries, yet corporate credit spreads can still widen.",
-      "watch": "Oil risk premium, Treasury auctions, data-center regulation, payrolls and AI free cash flow."
+      "changed": "Broad November 5 Wall Street rout; Nasdaq entered correction territory; IREN reported delivery delays for Microsoft.",
+      "missed": "Lost market value is not fund redemptions; permitting and financing fears can hit valuations without a collapse in chip demand.",
+      "watch": "Payrolls at 15:30 Israel time, bond yields, regulatory proposals and AI cash flow."
     },
     "sections": [
       {
-        "heading": "Thesis: oil falls, but the cost of capital remains",
+        "heading": "Thesis: the fear is no longer just valuation — it is permission to build AI infrastructure",
         "paragraphs": [
-          "The US elections drove a stock rally and a sharp drop in geopolitical risk premium. Lower energy prices can ease inflation, but do not guarantee tighter AI corporate credit spreads."
+          "Thursday, November 5 reversed Wednesday's rally: the Nasdaq lost 5.52% and the S&P 500 fell 4.36%. Reuters links the selloff to fears that Democratic control of Congress may bring tighter AI oversight and delay data-center construction. This is market expectation, not enacted legislation.",
+          "The deeper link: chip vendors' valuations depend not only on end demand but also on cloud customers' access to power, permits and financing. If one of these channels weakens, even a substantial backlog may command a lower multiple."
         ]
       },
       {
-        "heading": "Wall Street November 4 close",
+        "heading": "Wall Street: Nasdaq correction and broad semiconductor selling",
         "paragraphs": [
-          "The S&P 500 rose 1.6% to 7,688.62; Nasdaq 1.4% to 25,736.51; Dow 3.0% to 53,356.12; Russell 2000 1.6% to 2,856.95. AP reports year-to-date returns of 12.3%, 10.7%, 11.0% and 15.1%, respectively."
+          "November 5 close: Nasdaq Composite 24,315.00, down 5.52%; S&P 500 7,353.73, down 4.36%; Dow Jones about 51,523, down 3.44%. Reuters calls the Nasdaq decline its steepest in 19 months and reports the index more than 10% below its October 6 peak.",
+          "Nvidia fell more than 9%, and the Philadelphia Semiconductor Index lost more than 12%. This does not prove orders have collapsed: multiple compression, profit-taking and regulatory uncertainty can all contribute."
         ]
       },
       {
-        "heading": "Oil: lower prices do not establish supply restoration",
+        "heading": "The reversal from Wednesday: unusually rapid repricing of risk",
         "paragraphs": [
-          "AP reported Brent down 8.7% to $94.62 per barrel on November 4. Reuters quoted about $94.20 during Asian trading on November 5. These reflect expectations of easing Iran tensions, not a verified peace agreement or full supply restoration."
+          "The S&P 500 closed November 4 at 7,688.62 and the Nasdaq at 25,736.51; November 5 closes were 7,353.73 and 24,315.00. That is a one-day loss of 334.89 and 1,421.51 index points respectively.",
+          "Reuters estimates roughly $3 trillion in S&P 500 market capitalization was erased. This is a market-value estimate, not a measure of cash withdrawn from investment funds."
         ]
       },
       {
-        "heading": "Election results and sector divergence",
+        "heading": "IREN: a test case separating contracted demand from execution",
         "paragraphs": [
-          "AP and Reuters report Democratic control of Congress. Hospital operators and discount retailers benefited from policy expectations; data-center stocks faced scrutiny and construction concerns. These are regulatory scenarios, not enacted laws."
+          "Reuters reported on November 5 that data-center operator IREN delayed some AI infrastructure deliveries to Microsoft while outlining another $15 billion of spending.",
+          "This is an operational warning, not proof of demand cancellation: investors should examine delivery dates, revenue recognition, funding sources, electricity costs and utilization. Companies with large contracts can be highly sensitive to construction delays."
         ]
       },
       {
-        "heading": "Treasury refunding: $125 billion",
+        "heading": "Qualcomm and Arm: semiconductors are not one homogeneous market",
         "paragraphs": [
-          "Treasury kept November 3-, 10- and 30-year auctions at $58 billion, $42 billion and $25 billion, totaling $125 billion. About $97 billion refinances maturities and $28 billion raises new cash. Stable supply does not guarantee lower yields."
+          "Reuters reported weakness in Qualcomm shares amid soft smartphone chip sales despite data-center momentum. Arm, by contrast, projected quarterly revenue above expectations on AI demand.",
+          "HBM or GPU trends should not be extrapolated to the whole semiconductor market. For MU, examine DRAM and HBM pricing; for WDC, cloud hard-drive demand and storage capacity — distinct value chains."
         ]
       },
       {
-        "heading": "AI financing: what TBAC found",
+        "heading": "Bonds, the Fed and TLT: safe-haven demand is not a rate cut",
         "paragraphs": [
-          "Treasury's advisory committee found no evidence AI bond issuance is crowding out Treasury auction demand. It nevertheless noted pressure on technology credit spreads and greater competition for long-term capital."
+          "Reuters reported demand for government bonds and haven currencies during the rout, while traders reduced the implied probability of a December rate hike from above 80% to about 70%. These are shifting market-implied odds, not a Fed decision.",
+          "Falling long yields usually support TLT, but this brief does not claim a separately verified TLT closing price or complete official November 5 yield curve. Long duration magnifies moves in both directions."
         ]
       },
       {
-        "heading": "Long bonds and TLT",
+        "heading": "FX, oil and gold: safe havens face competing forces",
         "paragraphs": [
-          "The US 10-year Treasury yield fell to 4.88% on November 4 from 4.95% the previous day, according to AP. This generally supports TLT but is not an observed ETF return. Monitor the 30-year yield, inflation and convexity too."
+          "Reuters reported that in Asian trading November 6 the dollar index rose about 0.3% to 101.74, while the yen briefly benefited from haven demand. These are intraday indications, not closing quotes.",
+          "Oil rebounded after steep declines and gold fell more than 1% in the morning report as inflation fears resurfaced. Safe havens do not always rise: gold also responds to real yields and the dollar."
         ]
       },
       {
-        "heading": "AI and chips: the rally is uneven",
+        "heading": "Capital flows: market-cap losses are not fund redemptions",
         "paragraphs": [
-          "Data-center names and Nvidia faced regulatory concerns while Microsoft rallied sharply. For MU, WDC, FPS and CBRS, distinguish physical demand, pricing power, capex, power and regulation. No individual institutional purchases are verified."
+          "A sharp decline in equity market value reflects repricing of trades; it is not a direct measure of net withdrawals from funds. ICI and LSEG flow data arrive with a lag, so no new November 5 redemptions are attributed to the rout without verified releases.",
+          "High volume also does not prove institutional selling specifically in FPS, MU, WDC or BHF. Such claims require transaction evidence or relevant holdings disclosures."
         ]
       },
       {
-        "heading": "Currencies, commodities and fund flows",
+        "heading": "Contrarian view: is the decline creating opportunity?",
         "paragraphs": [
-          "Reuters reported dollar weakness versus the euro and support for oil-importer currencies. No new verified copper or USD/ILS close is asserted. Rising stocks do not prove net fund inflows; ICI and LSEG releases lag."
+          "Bear case: regulatory delays, expensive electricity and debt-funded capital spending postpone revenue, pressure free cash flow and widen credit spreads; valuations can fall even while underlying demand remains strong.",
+          "Bull case: oversight proves moderate, already-approved projects continue, compute demand fills capacity and leading firms generate better-than-expected cash flow. Seek evidence in backlog conversion, utilization, net capex and ROIC versus WACC."
         ]
       },
       {
-        "heading": "Contrarian case: oil could rebound",
+        "heading": "Catalyst calendar: payrolls, yields and regulatory follow-through",
         "paragraphs": [
-          "If shipping disruptions and Iran tensions persist, oil's risk premium could return. If regulation delays data centers, lower yields cannot guarantee returns on capital. Conversely, cheaper energy and higher utilization could improve AI cash flow faster than expected."
+          "The US October employment report is scheduled for November 6 at 13:30 UTC (15:30 Israel time). Reuters cited expectations near 65,000 payroll additions and 4.2% unemployment; these are forecasts, not released results.",
+          "Watch subsequent Treasury yield moves, concrete legislative proposals affecting data centers, hyperscaler capex revisions, and next week's Treasury auctions."
         ]
       }
     ],
-    "market_map": "November 4 closes: S&P 7,688.62 (+1.6%); Nasdaq 25,736.51 (+1.4%); Dow 53,356.12 (+3.0%); Russell 2,856.95 (+1.6%). Brent $94.62 (−8.7%); US 10-year yield 4.88%.",
-    "catalysts": "November 6 US payrolls (verify release schedule); November 9, 10 and 12 Treasury 3Y/10Y/30Y auctions; Iran diplomacy and data-center policy.",
-    "contrarian": [
-      "הבחירות: לא רק רוח גבית למניות",
-      "Midterms: not an unqualified tailwind",
-      "דיווחי AP ו-Reuters מצביעים על ניצחונות דמוקרטיים שהעניקו להם שליטה בקונגרס. מניות בתי חולים וקמעונאות מוזלת נהנו מהציפיות לשינויי מדיניות, אך חברות הקשורות למרכזי נתונים נפגעו מחששות לפיקוח ולמגבלות בנייה. יש להבחין בין תוצאות הבחירות לבין תחזיות רגולטוריות שטרם הפכו לחוק.",
-      "AP and Reuters report Democratic victories yielding congressional control. Hospital operators and discount retailers benefited from policy expectations, while data-center-related shares faced concern over oversight and construction limits. Election outcomes are facts; future regulatory changes are not enacted laws."
+    "market_map": "November 5 close: S&P 500 7,353.73 (−4.36%), Nasdaq 24,315 (−5.52%), Dow about 51,523 (−3.44%). November 6 dollar and gold observations are intraday.",
+    "catalysts": [
+      "November 6, 15:30 Israel — US payrolls; Reuters expectations: 65,000 jobs, 4.2% unemployment",
+      "Week of November 9 — US Treasury auctions and scrutiny of proposed AI regulation"
     ],
-    "bottom_line": "The election reduced one risk premium, not all of them. Value AI infrastructure on free cash flow, financing costs and execution, not order books alone.",
-    "disclaimer": "Research as of November 5, 2026 morning Israel time. Distinguish verified closes from November 5 intraday quotes; scenarios are analysis, not facts or investment advice.",
+    "contrarian": "The selloff may overprice regulatory risk if demand and funding remain strong; conversely permit delays can defer cash flow and justify lower multiples.",
+    "bottom_line": "Do not chase a one-day drop; examine backlog conversion, funding, power, ROIC and free cash flow.",
+    "disclaimer": "Market research, not investment advice. Intraday quotes are identified separately; no claim is made about unreleased payroll results.",
     "visuals": {
       "cards": [
         {
-          "label": "S&P 500",
-          "value": "7,688.62",
-          "change": "+1.6%",
-          "asof": "Nov 4 close"
-        },
-        {
           "label": "Nasdaq",
-          "value": "25,736.51",
-          "change": "+1.4%",
-          "asof": "Nov 4 close"
+          "value": "24,315.00",
+          "change": "−5.52%",
+          "asof": "Nov 5 · close"
         },
         {
-          "label": "Brent",
-          "value": "$94.62",
-          "change": "−8.7%",
-          "asof": "Nov 4 AP report"
+          "label": "S&P 500",
+          "value": "7,353.73",
+          "change": "−4.36%",
+          "asof": "Nov 5 · close"
         },
         {
-          "label": "US 10-year yield",
-          "value": "4.88%",
-          "change": "−7 bp vs Nov 3",
-          "asof": "Nov 4 AP report"
+          "label": "Dow Jones",
+          "value": "≈51,523",
+          "change": "−3.44%",
+          "asof": "Nov 5 · close",
+          "note": "Rounded Reuters figure"
+        },
+        {
+          "label": "Dollar index",
+          "value": "101.74",
+          "change": "+0.3%",
+          "asof": "Nov 6 · intraday"
         }
       ],
       "charts": [
         {
-          "title": "US equity index year-to-date returns",
+          "title": "US index declines, November 5",
           "unit": "%",
-          "asof": "2026-11-04",
-          "source_url": "https://apnews.com/article/c0be7ca45b5875abe758e0570cb9a265",
+          "asof": "2026-11-05 · close",
+          "source_url": "https://www.reuters.com/business/sp-500-futures-steady-after-midterm-rally-nasdaq-lags-chip-weakness-2026-11-05/",
           "items": [
             {
-              "label": "S&P 500",
-              "value": 12.3,
-              "display": "12.3%"
+              "label": "Nasdaq",
+              "value": -5.52,
+              "display": "−5.52%"
             },
             {
-              "label": "Nasdaq",
-              "value": 10.7,
-              "display": "10.7%"
+              "label": "S&P 500",
+              "value": -4.36,
+              "display": "−4.36%"
             },
             {
               "label": "Dow",
-              "value": 11,
-              "display": "11%"
-            },
-            {
-              "label": "Russell 2000",
-              "value": 15.1,
-              "display": "15.1%"
+              "value": -3.44,
+              "display": "−3.44%"
             }
           ],
-          "note": "AP figures as of November 4 close"
+          "note": "Daily changes reported by Reuters; negative values indicate losses"
         },
         {
-          "title": "Treasury November refunding sizes",
-          "unit": "USD billion",
-          "asof": "2026-11-04",
-          "source_url": "https://home.treasury.gov/news/press-releases",
+          "title": "Index-point change, November 4–5",
+          "unit": "index points",
+          "asof": "2026-11-05 · close",
+          "source_url": "https://www.reuters.com/business/sp-500-futures-steady-after-midterm-rally-nasdaq-lags-chip-weakness-2026-11-05/",
           "items": [
             {
-              "label": "3Y",
-              "value": 58,
-              "display": "$58B"
+              "label": "S&P 500",
+              "value": -334.89,
+              "display": "−334.89"
             },
             {
-              "label": "10Y",
-              "value": 42,
-              "display": "$42B"
-            },
-            {
-              "label": "30Y",
-              "value": 25,
-              "display": "$25B"
+              "label": "Nasdaq",
+              "value": -1421.51,
+              "display": "−1,421.51"
             }
           ],
-          "note": "Announced auction amounts, not realized demand"
+          "note": "Calculated from two verified closes"
         }
       ]
     }
