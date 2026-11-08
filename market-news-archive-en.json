@@ -1,5 +1,232 @@
 [
   {
+    "id": "2026-11-07",
+    "date": "2026-11-07",
+    "sources": [
+      {
+        "title": "Reuters — October employment",
+        "url": "https://www.reuters.com/business/us-job-growth-beats-expectations-october-unemployment-rate-falls-41-2026-11-06/"
+      },
+      {
+        "title": "Reuters — Fed rate outlook",
+        "url": "https://www.reuters.com/business/traders-raise-bets-fed-rate-hike-after-jobs-report-2026-11-06/"
+      },
+      {
+        "title": "Reuters — Friday market close",
+        "url": "https://www.reuters.com/business/nasdaq-futures-rise-after-steep-ai-selloff-chip-stocks-stabilize-2026-11-06/"
+      },
+      {
+        "title": "AP — Friday market close",
+        "url": "https://apnews.com/article/bba6f0bf9035a6e6b1c4fef3e8230b89"
+      },
+      {
+        "title": "US Treasury — daily yields",
+        "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value=2026&type=daily_treasury_yield_curve"
+      },
+      {
+        "title": "Reuters — proposed AI legislation",
+        "url": "https://www.reuters.com/business/media-telecom/democrats-planning-flood-ai-bills-when-they-take-control-congress-2026-11-06/"
+      },
+      {
+        "title": "Reuters — Microsoft Oracle report",
+        "url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/"
+      },
+      {
+        "title": "Reuters — OpenAI funding",
+        "url": "https://www.reuters.com/business/openai-secures-11-billion-funding-125-trillion-valuation-bloomberg-news-reports-2026-11-06/"
+      },
+      {
+        "title": "Reuters — OpenAI data center plan",
+        "url": "https://www.reuters.com/business/retail-consumer/openai-press-ahead-with-data-center-expansion-despite-midterm-sweep-cfo-tells-2026-11-06/"
+      },
+      {
+        "title": "Reuters — precious metals",
+        "url": "https://www.reuters.com/world/india/gold-eases-inflation-worries-higher-oil-us-payrolls-data-focus-2026-11-06/"
+      },
+      {
+        "title": "Reuters — weekly outlook",
+        "url": "https://www.reuters.com/business/wall-st-week-ahead-tech-swoon-roils-market-us-inflation-data-tap-2026-11-06/"
+      },
+      {
+        "title": "Reuters — Anthropic finance beta",
+        "url": "https://www.reuters.com/business/anthropic-rolls-out-personal-finance-feature-claude-2026-11-05/"
+      }
+    ],
+    "title": "Strong jobs, expensive money: the AI boom faces a financing test",
+    "summary": {
+      "changed": "October payrolls beat forecasts; Fed hike odds rose; tech recovered only partly.",
+      "missed": "A strong economy can still mean expensive financing and uneven household purchasing power.",
+      "watch": "November 10 CPI, long yields, AI legislation and cloud contract quality."
+    },
+    "sections": [
+      {
+        "heading": "Thesis: a strong labor market does not resolve AI financing risk",
+        "paragraphs": [
+          "Friday delivered two seemingly conflicting signals: 165,000 new US jobs, 2.54 times the Reuters consensus, and only a partial technology-stock recovery after Thursday's plunge. Economic resilience also reduces the case for lower interest rates.",
+          "Interpretation: the cost of capital remains central to valuing AI infrastructure. Strong backlogs do not guarantee that cash-burning operators can fund their commitments."
+        ]
+      },
+      {
+        "heading": "Payrolls: a 100,000-job upside surprise",
+        "paragraphs": [
+          "October payrolls rose 165,000 versus 65,000 expected; unemployment fell to 4.1% from 4.2%. August and September were revised up by a combined 84,000 jobs, to 186,000 and 60,000 respectively.",
+          "Professional and business services added 70,000 jobs, healthcare 42,000, transportation and warehousing 25,000, and manufacturing 19,000. The gains were relatively broad but not universal."
+        ]
+      },
+      {
+        "heading": "The warning inside a strong headline",
+        "paragraphs": [
+          "People working part-time for economic reasons increased 339,000 to 4.84 million; broader unemployment rose from 7.6% to 7.9%; median unemployment duration reached 11.9 weeks. Annual hourly wage growth was 3.1%, below September's 3.7% annual consumer inflation.",
+          "The report therefore does not imply uniform prosperity. Real purchasing power remains pressured for some households."
+        ]
+      },
+      {
+        "heading": "Fed: markets raised December hike probabilities",
+        "paragraphs": [
+          "After payrolls, markets priced roughly 78%–80% odds of a December hike, versus approximately 67%–70% beforehand, depending on the Reuters observation window. The current policy range remains 3.75%–4.00%. These are market probabilities, not Fed commitments.",
+          "The next major catalyst is October CPI on Tuesday, November 10. Persistent inflation could keep bond yields elevated despite any stock rebound."
+        ]
+      },
+      {
+        "heading": "Equities: a rebound that did not erase the selloff",
+        "paragraphs": [
+          "The S&P 500 gained 0.32% Friday to 7,376.86 but lost 2.7% for the week. The Nasdaq gained about 1.1% Friday yet fell 3.4% for the week, its fourth consecutive weekly decline. The Dow slipped about 0.46% Friday.",
+          "Semiconductors gained 4.2%, AMD rose about 11% and Nvidia about 2.8%. This does not confirm a bottom: the Nasdaq remains more than 10% below its recent high. Unverified year-to-date returns are omitted."
+        ]
+      },
+      {
+        "heading": "Treasuries and TLT: long yields edge higher after payrolls",
+        "paragraphs": [
+          "Official US Treasury November 6 yields: 2-year 4.51%, 10-year 4.86%, 30-year 5.26%. November 5 values were 4.46%, 4.84%, and 5.25%, increases of 5, 2, and 1 basis points respectively.",
+          "TLT is especially sensitive to long-duration yields, so even a small increase in long yields is a headwind to price, all else equal. No verified TLT closing quote or trading recommendation is offered."
+        ]
+      },
+      {
+        "heading": "AI regulation: real risk, not yet law",
+        "paragraphs": [
+          "Reuters reports that Democratic lawmakers are preparing numerous AI and data-center proposals ahead of taking control of Congress in January. These are prospective bills, not enacted restrictions.",
+          "A temporary freeze on new permits, local environmental rules and model oversight have very different implications for existing projects, chip orders and future cash flow."
+        ]
+      },
+      {
+        "heading": "Microsoft–Oracle: reported capacity reassessment",
+        "paragraphs": [
+          "Reuters cited Bloomberg reporting that Microsoft is winding down an Oracle AI capacity-rental arrangement as part of a broader review of cloud partnerships. This is source-based reporting, not direct confirmation that every agreement has been cancelled.",
+          "If confirmed, it matters: even well-capitalized customers may optimize capacity commitments. Investors must distinguish binding contracts, conditional orders and backlog projections."
+        ]
+      },
+      {
+        "heading": "OpenAI: partial funding at an enormous valuation",
+        "paragraphs": [
+          "Reuters reported, citing a person familiar with the matter, $11 billion in funding closed as part of a round valuing OpenAI at $1.25 trillion. That is below the original up-to-$30-billion target and an initially sought $1.5 trillion valuation. A private-round valuation is not a liquid public-market capitalization.",
+          "Meanwhile OpenAI's CFO said expansion of US data centers would continue. Expansion ambition remains strong, but financing price and size deserve scrutiny."
+        ]
+      },
+      {
+        "heading": "Commodities, FX and fund flows",
+        "paragraphs": [
+          "Reuters reported gold weakening Friday as the dollar and yields strengthened after payrolls. Unverified time-matched closing prices for oil, gold, copper and USD/ILS are intentionally omitted.",
+          "An index gain is not the same as net fund inflows. No verified November 6 flow data demonstrate institutional buying in MU, WDC, FPS or BHF."
+        ]
+      },
+      {
+        "heading": "Contrarian case: opportunity or value trap?",
+        "paragraphs": [
+          "Bull case: labor-market resilience sustains cloud demand, chips recover, and most proposed rules never become binding obstacles. Multiple compression without deterioration in long-run cash generation could create opportunities.",
+          "Bear case: higher-for-longer rates, pressure on real wages and cloud-capacity renegotiations undermine project financing. Track free cash flow after capex, ROIC versus WACC, contract quality and credit spreads."
+        ]
+      },
+      {
+        "heading": "Next week's watch list",
+        "paragraphs": [
+          "Tuesday, November 10: US October CPI; Treasury auctions next week; and policy responses to proposed data-center restrictions. Compare actual data with expectations, not just headlines.",
+          "Company-specific watch: MU DRAM/HBM pricing and margins; WDC cloud HDD demand; FPS backlog conversion and capital needs; TLT long-end yield curve."
+        ]
+      }
+    ],
+    "market_map": "Nov 6 close: S&P 500 7,376.86 (+0.32%); Nasdaq +~1.1%; Dow −~0.46%; official US Treasury 10-year 4.86%.",
+    "catalysts": [
+      "November 10: October CPI (actual versus consensus)",
+      "Next week: Treasury auctions and data-center policy developments"
+    ],
+    "contrarian": "The rebound could reflect an overshoot if demand stays firm, or be a trap if financing and permit delays hit cash flow.",
+    "bottom_line": "Focus on free cash flow after capex, contract quality, ROIC versus WACC, and credit spreads.",
+    "disclaimer": "Market research, not investment advice. All market closes are marked; no unverified quotes or fund flows.",
+    "visuals": {
+      "cards": [
+        {
+          "label": "October US payrolls",
+          "value": "165,000",
+          "change": "+100,000 vs consensus",
+          "asof": "Nov 6 · official release"
+        },
+        {
+          "label": "US unemployment",
+          "value": "4.1%",
+          "change": "−0.1 pp",
+          "asof": "October 2026"
+        },
+        {
+          "label": "S&P 500",
+          "value": "7,376.86",
+          "change": "+0.32%",
+          "asof": "Nov 6 · close"
+        },
+        {
+          "label": "US 10Y Treasury",
+          "value": "4.86%",
+          "change": "+2 bp vs Nov 5",
+          "asof": "Nov 6 · official close"
+        }
+      ],
+      "charts": [
+        {
+          "title": "October payrolls: consensus vs actual",
+          "unit": "jobs",
+          "asof": "2026-11-06",
+          "source_url": "https://www.reuters.com/business/us-job-growth-beats-expectations-october-unemployment-rate-falls-41-2026-11-06/",
+          "items": [
+            {
+              "label": "Consensus",
+              "value": 65000,
+              "display": "65,000"
+            },
+            {
+              "label": "Actual",
+              "value": 165000,
+              "display": "165,000"
+            }
+          ],
+          "note": "Reuters economist survey vs BLS actual"
+        },
+        {
+          "title": "Treasury yields by maturity",
+          "unit": "%",
+          "asof": "2026-11-06",
+          "source_url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value=2026&type=daily_treasury_yield_curve",
+          "items": [
+            {
+              "label": "2-year",
+              "value": 4.51,
+              "display": "4.51%"
+            },
+            {
+              "label": "10-year",
+              "value": 4.86,
+              "display": "4.86%"
+            },
+            {
+              "label": "30-year",
+              "value": 5.26,
+              "display": "5.26%"
+            }
+          ],
+          "note": "Official US Treasury closing yield curve"
+        }
+      ]
+    }
+  },
+  {
     "id": "2026-11-06",
     "date": "2026-11-06",
     "sources": [
