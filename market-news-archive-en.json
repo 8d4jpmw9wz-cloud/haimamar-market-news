@@ -1,5 +1,209 @@
 [
   {
+    "id": "2026-11-08",
+    "date": "2026-11-08",
+    "sources": [
+      {
+        "title": "Reuters — Berkshire Q3 results and buybacks, November 7",
+        "url": "https://www.reuters.com/business/finance/berkshire-hathaway-accelerates-stock-buybacks-operating-profit-falls-2026-11-07/"
+      },
+      {
+        "title": "Reuters — October jobs report, November 6",
+        "url": "https://www.reuters.com/business/us-job-growth-beats-expectations-october-unemployment-rate-falls-41-2026-11-06/"
+      },
+      {
+        "title": "Reuters — next week's market risks, November 6",
+        "url": "https://www.reuters.com/business/take-five/global-markets-themes-graphic-2026-11-06/"
+      },
+      {
+        "title": "Reuters — European markets, November 6",
+        "url": "https://www.reuters.com/markets/europe/european-shares-set-fall-global-ai-rout-gathers-pace-2026-11-06/"
+      },
+      {
+        "title": "AP — sector reaction to midterm elections",
+        "url": "https://apnews.com/article/4ac9a6a3c35aeec37374fc8083bf9395"
+      },
+      {
+        "title": "BLS — official employment release",
+        "url": "https://www.bls.gov/news.release/empsit.htm"
+      },
+      {
+        "title": "US Treasury — daily yield curve",
+        "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value=2026&type=daily_treasury_yield_curve"
+      },
+      {
+        "title": "BLS — release calendar",
+        "url": "https://www.bls.gov/schedule/2026/home.htm"
+      },
+      {
+        "title": "Federal Reserve — FOMC schedule",
+        "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+      }
+    ],
+    "title": "Berkshire buys back shares while AI seeks capital: who controls cash when funding is expensive?",
+    "summary": {
+      "changed": "Berkshire's November 7 report: $9.6 billion in quarterly buybacks plus about $2 billion in October, alongside weaker insurance profits.",
+      "missed": "Berkshire's cash provides allocation flexibility while capital-intensive AI firms are judged on funding needs.",
+      "watch": "November 10 CPI, bond pricing, underwriting quality, credit spreads and data-center permits."
+    },
+    "sections": [
+      {
+        "heading": "The new development: Berkshire returns capital while tech seeks funding",
+        "paragraphs": [
+          "On November 7, Berkshire Hathaway reported $9.6 billion of third-quarter share repurchases and roughly $2 billion more in October. Operating earnings declined 6% to $12.71 billion, while cash and equivalents totaled $356.9 billion at the end of September (Reuters, Nov. 7).",
+          "The contrast drives today's thesis: investors are reassessing which companies can return cash and which need new debt or outside funding. Buybacks alone do not prove Berkshire is undervalued; repurchase prices versus intrinsic value were not verified."
+        ]
+      },
+      {
+        "heading": "Inside Berkshire's results",
+        "paragraphs": [
+          "Revenue rose 11% to $105.65 billion; net earnings fell 28% to $22.11 billion. Geico pretax profit fell about 45% as it lowered premiums to attract customers. Meanwhile BNSF profit rose 19%, Berkshire Hathaway Energy profit rose 8%, and Precision Castparts pretax profit increased 30% (Reuters, Nov. 7).",
+          "When valuing insurers, a drop in underwriting profit need not imply a matching decline in the investment portfolio's value. Combined ratio, reserves, investment yield, debt and economic capital require separate analysis."
+        ]
+      },
+      {
+        "heading": "Labor market: Friday's news has already been digested",
+        "paragraphs": [
+          "The October report released November 6 showed 165,000 payroll jobs against a Reuters consensus of 65,000, unemployment of 4.1%, and a combined upward revision of 84,000 jobs for August and September. This is not a fresh development since the November 7 brief.",
+          "In the same report, U-6 underemployment rose to 7.9% and hourly wages increased 3.1% year over year. This indicates resilient hiring alongside pressure on purchasing power."
+        ]
+      },
+      {
+        "heading": "Market snapshot: US equities do not trade on Sunday",
+        "paragraphs": [
+          "The last verified close in the preceding brief was the S&P 500 at 7,376.86 on Friday, November 6, up 0.32% that day. The 10-year US Treasury yield was 4.86% on the same date; there are no new US equity closing prices for November 8.",
+          "Friday's prices must not be described as live Sunday quotes. Updated year-to-date returns for individual stocks, TLT prices and USD/ILS were not independently verified and are omitted."
+        ]
+      },
+      {
+        "heading": "Europe: rotation extends beyond the United States",
+        "paragraphs": [
+          "Reuters reported on November 6 that the STOXX 600 fell 1% to 648.33; insurers declined 2.6% after downgrades to German reinsurers, while travel stocks rose about 0.9%.",
+          "European insurer weakness does not directly establish a valuation change for US names such as BHF or LNC. Business mix, reserves and rate exposure differ materially."
+        ]
+      },
+      {
+        "heading": "How AI regulatory risk is changing",
+        "paragraphs": [
+          "AP's review of the midterm market reaction highlights a divergence between data-center companies exposed to permitting and oversight, and hospitals, retailers and renewable-energy firms that could benefit from policy shifts.",
+          "What is established is a shift in investor expectations; proposed data-center restrictions have not yet become enacted legislation. Separate permitted projects from plans still requiring approval."
+        ]
+      },
+      {
+        "heading": "Rates and bonds: the prolonged expensive-funding scenario",
+        "paragraphs": [
+          "The Fed kept its target range at 3.75%-4.00% in October. After the jobs report, market expectations for a December hike increased; futures-implied probabilities are dynamic and do not constitute a central-bank decision.",
+          "For TLT, the 30-year yield, inflation expectations and Treasury supply matter especially; the policy rate alone cannot predict the fund's return."
+        ]
+      },
+      {
+        "heading": "Oil, FX and crypto: no invented weekend quotes",
+        "paragraphs": [
+          "Oil remains sensitive to US-Iran developments, and Reuters' coming-week outlook also flags inflation and geopolitical risks. New quotes for Brent, USD/ILS, copper and Bitcoin at preparation time were not verified, so no fresh prices are supplied.",
+          "Neither November 7–8 ETF flows nor specific institutional stock purchases were verified. Changes in market capitalization are not direct measurements of net fund flows."
+        ]
+      },
+      {
+        "heading": "Contrarian view: could Berkshire's cash be a weakness?",
+        "paragraphs": [
+          "The bullish case for Berkshire is that ample cash supports buybacks and acquisitions in a selloff. The countercase is that uninvested cash may underperform a rising market, while Geico's lower pricing may continue to pressure profitability.",
+          "The bullish case for AI is that heavy capital expenditure can earn high returns if utilization and pricing improve. The bearish case is that permitting delays and costly funding erode cash flow before new capacity generates revenue."
+        ]
+      },
+      {
+        "heading": "Catalysts and monitoring framework",
+        "paragraphs": [
+          "US consumer inflation is scheduled for Tuesday, November 10, and producer-price data later in the week according to Reuters' November 6 preview. Actual releases and times should be confirmed against the BLS calendar.",
+          "This week's investment test: free cash flow after capex, quality of insurance earnings, ROIC versus WACC, credit spreads and permit progress."
+        ]
+      }
+    ],
+    "market_map": "Sunday Nov. 8: no new US equity close. Friday Nov. 6 close: S&P 500 7,376.86 (+0.32%); 10-year Treasury 4.86%. Berkshire released results Saturday Nov. 7.",
+    "catalysts": [
+      "Nov. 10: US CPI — verify actual release against BLS",
+      "This week: Treasury auctions, credit spreads, company earnings and regulatory developments"
+    ],
+    "contrarian": "The bullish case for Berkshire is that ample cash supports buybacks and acquisitions in a selloff. The countercase is that uninvested cash may underperform a rising market, while Geico's lower pricing may continue to pressure profitability. The bullish case for AI is that heavy capital expenditure can earn high returns if utilization and pricing improve. The bearish case is that permitting delays and costly funding erode cash flow before new capacity generates revenue.",
+    "bottom_line": "The question is not just revenue growth but cash retained and its financing cost. Separate new facts, Friday prices and scenarios.",
+    "disclaimer": "Research, not investment advice. US stocks do not trade on Sunday; unverified weekend quotes are omitted.",
+    "visuals": {
+      "cards": [
+        {
+          "label": "Berkshire Q3 buybacks",
+          "value": "$9.6B",
+          "asof": "Nov. 7 report · Q3"
+        },
+        {
+          "label": "Berkshire cash and equivalents",
+          "value": "$356.9B",
+          "asof": "Sep. 30 balance sheet"
+        },
+        {
+          "label": "Berkshire Q3 operating earnings",
+          "value": "$12.71B",
+          "change": "−6% YoY",
+          "asof": "Nov. 7 report"
+        },
+        {
+          "label": "S&P 500",
+          "value": "7,376.86",
+          "change": "+0.32%",
+          "asof": "Nov. 6 close, not live"
+        }
+      ],
+      "charts": [
+        {
+          "title": "Berkshire: buybacks by period",
+          "unit": "USD billions",
+          "asof": "2026-11-07",
+          "source_url": "https://www.reuters.com/business/finance/berkshire-hathaway-accelerates-stock-buybacks-operating-profit-falls-2026-11-07/",
+          "items": [
+            {
+              "label": "Third quarter",
+              "value": 9.6,
+              "display": "$9.6B"
+            },
+            {
+              "label": "October",
+              "value": 2,
+              "display": "≈$2B"
+            }
+          ],
+          "note": "October figure approximate; different periods, not a constant monthly run rate"
+        },
+        {
+          "title": "Berkshire: operating profit changes",
+          "unit": "%",
+          "asof": "2026-11-07",
+          "source_url": "https://www.reuters.com/business/finance/berkshire-hathaway-accelerates-stock-buybacks-operating-profit-falls-2026-11-07/",
+          "items": [
+            {
+              "label": "Geico",
+              "value": -45,
+              "display": "−45%"
+            },
+            {
+              "label": "BNSF",
+              "value": 19,
+              "display": "+19%"
+            },
+            {
+              "label": "Energy",
+              "value": 8,
+              "display": "+8%"
+            },
+            {
+              "label": "Precision Castparts",
+              "value": 30,
+              "display": "+30%"
+            }
+          ],
+          "note": "Year-on-year reported segment profit changes; Geico and Precision Castparts pretax measures are not fully comparable with all other segment metrics"
+        }
+      ]
+    }
+  },
+  {
     "id": "2026-11-07",
     "date": "2026-11-07",
     "sources": [

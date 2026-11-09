@@ -1,204 +1,242 @@
 [
   {
-    "id": "2026-11-08",
-    "date": "2026-11-08",
+    "id": "2026-11-09",
+    "date": "2026-11-09",
     "sources": [
       {
-        "title": "Reuters — Berkshire Q3 results and buybacks, November 7",
-        "url": "https://www.reuters.com/business/finance/berkshire-hathaway-accelerates-stock-buybacks-operating-profit-falls-2026-11-07/"
+        "title": "Reuters — Asian markets, oil, FX and Fed pricing, 9 Nov",
+        "url": "https://www.reuters.com/world/asia-pacific/global-markets-global-markets-2026-11-09/"
       },
       {
-        "title": "Reuters — October jobs report, November 6",
-        "url": "https://www.reuters.com/business/us-job-growth-beats-expectations-october-unemployment-rate-falls-41-2026-11-06/"
+        "title": "Reuters — China October PPI/CPI, 9 Nov",
+        "url": "https://www.reuters.com/world/asia-pacific/chinas-october-producer-inflation-quickens-further-consumer-prices-edge-down-2026-11-09/"
       },
       {
-        "title": "Reuters — next week's market risks, November 6",
-        "url": "https://www.reuters.com/business/take-five/global-markets-themes-graphic-2026-11-06/"
+        "title": "BLS — 2025 shutdown impact on October 2026 CPI",
+        "url": "https://www.bls.gov/cpi/additional-resources/2025-federal-government-shutdown-impact-cpi-faq.htm"
       },
       {
-        "title": "Reuters — European markets, November 6",
-        "url": "https://www.reuters.com/markets/europe/european-shares-set-fall-global-ai-rout-gathers-pace-2026-11-06/"
+        "title": "BLS — September CPI and October release schedule",
+        "url": "https://www.bls.gov/news.release/CPI.htm"
       },
       {
-        "title": "AP — sector reaction to midterm elections",
-        "url": "https://apnews.com/article/4ac9a6a3c35aeec37374fc8083bf9395"
+        "title": "Reuters — Wall Street week ahead, 6 Nov",
+        "url": "https://www.reuters.com/business/wall-st-week-ahead-tech-swoon-roils-market-us-inflation-data-tap-2026-11-06/"
       },
       {
-        "title": "BLS — official employment release",
-        "url": "https://www.bls.gov/news.release/empsit.htm"
-      },
-      {
-        "title": "US Treasury — daily yield curve",
+        "title": "US Treasury — official yield curve",
         "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value=2026&type=daily_treasury_yield_curve"
       },
       {
-        "title": "BLS — release calendar",
-        "url": "https://www.bls.gov/schedule/2026/home.htm"
-      },
-      {
-        "title": "Federal Reserve — FOMC schedule",
+        "title": "Federal Reserve — meeting calendar",
         "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
       }
     ],
-    "title": "Berkshire buys back shares while AI seeks capital: who controls cash when funding is expensive?",
+    "title": "Asia buys the dip, but China exposes a margin squeeze: AI faces its cost-of-capital test",
     "summary": {
-      "changed": "Berkshire's November 7 report: $9.6 billion in quarterly buybacks plus about $2 billion in October, alongside weaker insurance profits.",
-      "missed": "Berkshire's cash provides allocation flexibility while capital-intensive AI firms are judged on funding needs.",
-      "watch": "November 10 CPI, bond pricing, underwriting quality, credit spreads and data-center permits."
+      "changed": "New: Asian equities rebound while Chinese price data reveal a widening gap between costs and demand.",
+      "missed": "What markets may miss: producer-price inflation without consumer pricing power can squeeze margins even as revenue and backlogs grow.",
+      "watch": "Watch November 10 US CPI, CoreWeave/Applied Materials/Cisco results, Brent, Treasury yields, credit spreads and post-capex free cash flow."
     },
     "sections": [
       {
-        "heading": "The new development: Berkshire returns capital while tech seeks funding",
+        "heading": "Asia rebounds after a week of heavy selling",
         "paragraphs": [
-          "On November 7, Berkshire Hathaway reported $9.6 billion of third-quarter share repurchases and roughly $2 billion more in October. Operating earnings declined 6% to $12.71 billion, while cash and equivalents totaled $356.9 billion at the end of September (Reuters, Nov. 7).",
-          "The contrast drives today's thesis: investors are reassessing which companies can return cash and which need new debt or outside funding. Buybacks alone do not prove Berkshire is undervalued; repurchase prices versus intrinsic value were not verified."
+          "Reuters reported on November 9 that MSCI Asia ex-Japan gained roughly 2% intraday after a 4.6% weekly fall. The Nikkei added 3.5%, Korea 1.8%, and Taiwan more than 6% after its worst week in roughly two decades. S&P 500 futures gained around 0.6%. These are intraday quotes, not closing prices.",
+          "Interpretation: this is a sharp repricing of risk, not yet evidence of improved data-center operators' ROIC. A price rebound is not the same as a fundamental turnaround."
         ]
       },
       {
-        "heading": "Inside Berkshire's results",
+        "heading": "China: inflation reaches factories, not consumers",
         "paragraphs": [
-          "Revenue rose 11% to $105.65 billion; net earnings fell 28% to $22.11 billion. Geico pretax profit fell about 45% as it lowered premiums to attract customers. Meanwhile BNSF profit rose 19%, Berkshire Hathaway Energy profit rose 8%, and Precision Castparts pretax profit increased 30% (Reuters, Nov. 7).",
-          "When valuing insurers, a drop in underwriting profit need not imply a matching decline in the investment portfolio's value. Combined ratio, reserves, investment yield, debt and economic capital require separate analysis."
+          "China's October PPI rose 5.7% year on year, versus 5.0% in September and a Reuters consensus of 5.3%, a 0.4 percentage-point upside surprise. CPI rose 0.7%, versus 0.9% previously and 0.8% expected; core CPI slowed to 0.8% from 1.0%. The figures were released November 9.",
+          "This is not automatically 'good inflation': expensive energy and inputs raise costs while weak domestic demand limits consumer price increases. That combination can compress margins for manufacturers and supply-chain businesses."
         ]
       },
       {
-        "heading": "Labor market: Friday's news has already been digested",
+        "heading": "Historical context: China's producer prices",
         "paragraphs": [
-          "The October report released November 6 showed 165,000 payroll jobs against a Reuters consensus of 65,000, unemployment of 4.1%, and a combined upward revision of 84,000 jobs for August and September. This is not a fresh development since the November 7 brief.",
-          "In the same report, U-6 underemployment rose to 7.9% and hourly wages increased 3.1% year over year. This indicates resilient hiring alongside pressure on purchasing power."
+          "The 5.7% PPI pace is the fastest since June 2022, Reuters reported. It does not establish a broad demand recovery: the increase partly reflects an external energy shock. CPI at 0.7% tells a much softer demand story.",
+          "For semiconductor and industrial investors, distinguish higher selling prices caused by capacity scarcity from input inflation absorbed in gross margins."
         ]
       },
       {
-        "heading": "Market snapshot: US equities do not trade on Sunday",
+        "heading": "Oil and Hormuz: risk premium eases, not disappears",
         "paragraphs": [
-          "The last verified close in the preceding brief was the S&P 500 at 7,376.86 on Friday, November 6, up 0.32% that day. The 10-year US Treasury yield was 4.86% on the same date; there are no new US equity closing prices for November 8.",
-          "Friday's prices must not be described as live Sunday quotes. Updated year-to-date returns for individual stocks, TLT prices and USD/ILS were not independently verified and are omitted."
+          "Brent traded near $98.20 a barrel in Reuters' morning report after Trump said fresh attacks on Iran were unlikely while peace talks advance. This is an intraday quote, not evidence of a signed agreement or fully restored shipping.",
+          "Cheaper oil may ease freight costs and inflation, but data-center economics depend on electricity tariffs, contracts, natural gas and grid access, not simply the barrel price."
         ]
       },
       {
-        "heading": "Europe: rotation extends beyond the United States",
+        "heading": "Dollar, bonds and Fed: valuation headwinds persist",
         "paragraphs": [
-          "Reuters reported on November 6 that the STOXX 600 fell 1% to 648.33; insurers declined 2.6% after downgrades to German reinsurers, while travel stocks rose about 0.9%.",
-          "European insurer weakness does not directly establish a valuation change for US names such as BHF or LNC. Business mix, reserves and rate exposure differ materially."
+          "The dollar index traded near 102.2, the euro near $1.1148 and the yen near 158.215 per dollar, Reuters reported November 9; all are intraday quotes. After the November 6 US jobs report, markets priced close to an 80% chance of a Fed hike of at least 25 basis points in December. That is market pricing, not a Fed decision.",
+          "No new official Treasury closing yield or TLT price was verified this morning. Higher long yields would lower the present value of distant cash flows and may raise financing costs for leveraged companies."
         ]
       },
       {
-        "heading": "How AI regulatory risk is changing",
+        "heading": "US CPI: an unusual gap in the year-on-year series",
         "paragraphs": [
-          "AP's review of the midterm market reaction highlights a divergence between data-center companies exposed to permitting and oversight, and hospitals, retailers and renewable-energy firms that could benefit from policy shifts.",
-          "What is established is a shift in investor expectations; proposed data-center restrictions have not yet become enacted legislation. Separate permitted projects from plans still requiring approval."
+          "The BLS states that the October report due November 10 will omit 12-month changes for series lacking an October 2025 index because of the federal shutdown. Focus on monthly moves, component detail and the last comparable annual readings rather than inventing a new headline year-over-year rate.",
+          "September US CPI was 3.7% year on year, according to the BLS. October readings are not yet published; any estimates remain forecasts. The Fed will assess whether price pressures extend beyond energy."
         ]
       },
       {
-        "heading": "Rates and bonds: the prolonged expensive-funding scenario",
+        "heading": "Earnings week: three tests of AI economics",
         "paragraphs": [
-          "The Fed kept its target range at 3.75%-4.00% in October. After the jobs report, market expectations for a December hike increased; futures-implied probabilities are dynamic and do not constitute a central-bank decision.",
-          "For TLT, the 30-year yield, inflation expectations and Treasury supply matter especially; the policy rate alone cannot predict the fund's return."
+          "Reuters flags upcoming results from CoreWeave, Applied Materials and Cisco this week. CoreWeave may illuminate capacity financing and customer contracts; Applied Materials, chip-equipment orders; Cisco, networking and server demand. Unverified forecasts must not be presented as results.",
+          "Each has different unit economics. Strong chip sales can coexist with weak returns on invested capital for a cloud operator financing purchases with debt."
         ]
       },
       {
-        "heading": "Oil, FX and crypto: no invented weekend quotes",
+        "heading": "Sectors and stocks: value chain versus financing chain",
         "paragraphs": [
-          "Oil remains sensitive to US-Iran developments, and Reuters' coming-week outlook also flags inflation and geopolitical risks. New quotes for Brent, USD/ILS, copper and Bitcoin at preparation time were not verified, so no fresh prices are supplied.",
-          "Neither November 7–8 ETF flows nor specific institutional stock purchases were verified. Changes in market capitalization are not direct measurements of net fund flows."
+          "For MU, track DRAM/HBM pricing, gross margin and inventory; for WDC, cloud HDD orders, capacity and selling prices; for FPS, backlog, delivery schedules and cash conversion. These are monitoring variables, not claims of fresh institutional trades.",
+          "For insurers such as BHF and LNC, higher rates affect asset-liability duration matching, regulatory capital and hedging costs; the AI thesis should not be mechanically extended to every sector."
         ]
       },
       {
-        "heading": "Contrarian view: could Berkshire's cash be a weakness?",
+        "heading": "Capital flows: evidence and limits",
         "paragraphs": [
-          "The bullish case for Berkshire is that ample cash supports buybacks and acquisitions in a selloff. The countercase is that uninvested cash may underperform a rising market, while Geico's lower pricing may continue to pressure profitability.",
-          "The bullish case for AI is that heavy capital expenditure can earn high returns if utilization and pricing improve. The bearish case is that permitting delays and costly funding erode cash flow before new capacity generates revenue."
+          "A 6%-plus rise in Taiwan's index is not proof of an equivalent net inflow to funds. Reuters described possible dip-buying, but its morning report did not establish verified fund flows or stock-specific dark-pool activity.",
+          "Do not infer institutional accumulation of MU, WDC or FPS from price action alone. Await flow data, ownership filings and relevant trading evidence."
         ]
       },
       {
-        "heading": "Catalysts and monitoring framework",
+        "heading": "Contrarian case: what if markets are pricing the wrong variable?",
         "paragraphs": [
-          "US consumer inflation is scheduled for Tuesday, November 10, and producer-price data later in the week according to Reuters' November 6 preview. Actual releases and times should be confirmed against the BLS calendar.",
-          "This week's investment test: free cash flow after capex, quality of insurance earnings, ROIC versus WACC, credit spreads and permit progress."
+          "Bear case: Asia's rally is only short covering; energy and funding stay expensive, CPI surprises upward, and data centers fail to earn returns above WACC. Growth multiples could compress further.",
+          "Bull case: oil declines, monthly CPI cools, AI demand remains firm, and utilization of existing infrastructure grows faster than capex. Recent selloffs could then widen the margin of safety in well-financed businesses."
+        ]
+      },
+      {
+        "heading": "Catalyst calendar: dates matter more than price targets",
+        "paragraphs": [
+          "November 10: US CPI (8:30 a.m. New York; 3:30 p.m. Israel). This week: CoreWeave, Applied Materials and Cisco earnings; verify precise timing on investor-relations pages before trading. December: the Fed decision. No verified new copper, USD/ILS or TLT closing quote is provided this morning.",
+          "The most important question now is whether businesses can pass costs through to customers, not merely report sales growth."
         ]
       }
     ],
-    "market_map": "Sunday Nov. 8: no new US equity close. Friday Nov. 6 close: S&P 500 7,376.86 (+0.32%); 10-year Treasury 4.86%. Berkshire released results Saturday Nov. 7.",
-    "catalysts": [
-      "Nov. 10: US CPI — verify actual release against BLS",
-      "This week: Treasury auctions, credit spreads, company earnings and regulatory developments"
+    "market_map": [
+      {
+        "asset": "MSCI Asia ex-Japan",
+        "value": "+2.0%",
+        "change": "Nov 9 intraday; prior week −4.6%"
+      },
+      {
+        "asset": "Nikkei",
+        "value": "+3.5%",
+        "change": "Nov 9 intraday"
+      },
+      {
+        "asset": "Taiwan",
+        "value": ">+6%",
+        "change": "Nov 9 intraday"
+      },
+      {
+        "asset": "Brent",
+        "value": "$98.20",
+        "change": "Nov 9 intraday"
+      },
+      {
+        "asset": "DXY",
+        "value": "102.2",
+        "change": "Nov 9 intraday"
+      },
+      {
+        "asset": "China PPI Oct",
+        "value": "+5.7% YoY",
+        "change": "vs +5.0% September"
+      },
+      {
+        "asset": "China CPI Oct",
+        "value": "+0.7% YoY",
+        "change": "vs +0.9% September"
+      }
     ],
-    "contrarian": "The bullish case for Berkshire is that ample cash supports buybacks and acquisitions in a selloff. The countercase is that uninvested cash may underperform a rising market, while Geico's lower pricing may continue to pressure profitability. The bullish case for AI is that heavy capital expenditure can earn high returns if utilization and pricing improve. The bearish case is that permitting delays and costly funding erode cash flow before new capacity generates revenue.",
-    "bottom_line": "The question is not just revenue growth but cash retained and its financing cost. Separate new facts, Friday prices and scenarios.",
-    "disclaimer": "Research, not investment advice. US stocks do not trade on Sunday; unverified weekend quotes are omitted.",
+    "catalysts": [
+      "Nov 10: US CPI — monthly change is critical given missing year-on-year series",
+      "This week: CoreWeave, Applied Materials and Cisco earnings",
+      "December: Fed decision; monitor yields and credit spreads"
+    ],
+    "contrarian": "Dip-buying may prove temporary if expensive funding and input inflation squeeze margins; conversely cheaper oil, softer CPI and higher utilization could justify a valuation recovery.",
+    "bottom_line": "Asia's rally is no substitute for examining pricing power and free cash flow. China's PPI–CPI gap is the new warning: rising costs do not guarantee rising revenue.",
+    "disclaimer": "November 9 market quotes are intraday, not closing prices; not investment advice. Unverified flows, year-to-date returns and quotes were omitted.",
     "visuals": {
       "cards": [
         {
-          "label": "Berkshire Q3 buybacks",
-          "value": "$9.6B",
-          "asof": "Nov. 7 report · Q3"
+          "label": "MSCI Asia ex-Japan",
+          "value": "+2.0%",
+          "change": "−4.6% prior week",
+          "asof": "Nov 9 · intraday"
         },
         {
-          "label": "Berkshire cash and equivalents",
-          "value": "$356.9B",
-          "asof": "Sep. 30 balance sheet"
+          "label": "China PPI · October",
+          "value": "+5.7%",
+          "change": "+0.7 pp vs September",
+          "asof": "Nov 9 · year-on-year"
         },
         {
-          "label": "Berkshire Q3 operating earnings",
-          "value": "$12.71B",
-          "change": "−6% YoY",
-          "asof": "Nov. 7 report"
+          "label": "China CPI · October",
+          "value": "+0.7%",
+          "change": "−0.2 pp vs September",
+          "asof": "Nov 9 · year-on-year"
         },
         {
-          "label": "S&P 500",
-          "value": "7,376.86",
-          "change": "+0.32%",
-          "asof": "Nov. 6 close, not live"
+          "label": "Brent crude",
+          "value": "$98.20",
+          "asof": "Nov 9 · intraday",
+          "note": "Not a closing price"
         }
       ],
       "charts": [
         {
-          "title": "Berkshire: buybacks by period",
-          "unit": "USD billions",
-          "asof": "2026-11-07",
-          "source_url": "https://www.reuters.com/business/finance/berkshire-hathaway-accelerates-stock-buybacks-operating-profit-falls-2026-11-07/",
+          "title": "China: producer versus consumer inflation",
+          "unit": "%",
+          "asof": "2026-11-09",
+          "source_url": "https://www.reuters.com/world/asia-pacific/chinas-october-producer-inflation-quickens-further-consumer-prices-edge-down-2026-11-09/",
           "items": [
             {
-              "label": "Third quarter",
-              "value": 9.6,
-              "display": "$9.6B"
+              "label": "October PPI",
+              "value": 5.7,
+              "display": "+5.7%"
             },
             {
-              "label": "October",
-              "value": 2,
-              "display": "≈$2B"
+              "label": "October CPI",
+              "value": 0.7,
+              "display": "+0.7%"
+            },
+            {
+              "label": "Core CPI",
+              "value": 0.8,
+              "display": "+0.8%"
             }
           ],
-          "note": "October figure approximate; different periods, not a constant monthly run rate"
+          "note": "Year-on-year changes; distinct indexes, not a gross-margin spread"
         },
         {
-          "title": "Berkshire: operating profit changes",
+          "title": "Asia: intraday rebound",
           "unit": "%",
-          "asof": "2026-11-07",
-          "source_url": "https://www.reuters.com/business/finance/berkshire-hathaway-accelerates-stock-buybacks-operating-profit-falls-2026-11-07/",
+          "asof": "2026-11-09",
+          "source_url": "https://www.reuters.com/world/asia-pacific/global-markets-global-markets-2026-11-09/",
           "items": [
             {
-              "label": "Geico",
-              "value": -45,
-              "display": "−45%"
+              "label": "MSCI Asia ex-Japan",
+              "value": 2,
+              "display": "+2.0%"
             },
             {
-              "label": "BNSF",
-              "value": 19,
-              "display": "+19%"
+              "label": "Nikkei",
+              "value": 3.5,
+              "display": "+3.5%"
             },
             {
-              "label": "Energy",
-              "value": 8,
-              "display": "+8%"
-            },
-            {
-              "label": "Precision Castparts",
-              "value": 30,
-              "display": "+30%"
+              "label": "Korea",
+              "value": 1.8,
+              "display": "+1.8%"
             }
           ],
-          "note": "Year-on-year reported segment profit changes; Geico and Precision Castparts pretax measures are not fully comparable with all other segment metrics"
+          "note": "Intraday only; Taiwan excluded because the reported figure was 'more than 6%', not an exact value"
         }
       ]
     }
