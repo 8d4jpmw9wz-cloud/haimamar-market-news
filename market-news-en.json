@@ -1,242 +1,199 @@
 [
   {
-    "id": "2026-11-09",
-    "date": "2026-11-09",
+    "id": "2026-11-10",
+    "date": "2026-11-10",
     "sources": [
       {
-        "title": "Reuters — Asian markets, oil, FX and Fed pricing, 9 Nov",
-        "url": "https://www.reuters.com/world/asia-pacific/global-markets-global-markets-2026-11-09/"
+        "title": "Reuters — Wall Street November 9 closing report",
+        "url": "https://www.reuters.com/business/wall-st-futures-rise-after-rough-week-nvidia-unsettles-investors-2026-11-09/"
       },
       {
-        "title": "Reuters — China October PPI/CPI, 9 Nov",
-        "url": "https://www.reuters.com/world/asia-pacific/chinas-october-producer-inflation-quickens-further-consumer-prices-edge-down-2026-11-09/"
+        "title": "Reuters — analysts reassess AI selloff, November 9",
+        "url": "https://www.reuters.com/business/finance/wall-st-brokerages-say-ai-selloff-overdone-downplay-democrat-regulation-risks-2026-11-09/"
       },
       {
-        "title": "BLS — 2025 shutdown impact on October 2026 CPI",
-        "url": "https://www.bls.gov/cpi/additional-resources/2025-federal-government-shutdown-impact-cpi-faq.htm"
+        "title": "AP — November 9 index closing levels and YTD returns",
+        "url": "https://apnews.com/article/f7ec9680fc858e3c2505913e7b3a54e2"
       },
       {
-        "title": "BLS — September CPI and October release schedule",
-        "url": "https://www.bls.gov/news.release/CPI.htm"
+        "title": "Reuters — India inflows and oil, November 9",
+        "url": "https://www.reuters.com/world/india/indian-shares-likely-open-higher-lower-crude-prices-foreign-inflow-optimism-2026-11-09/"
       },
       {
-        "title": "Reuters — Wall Street week ahead, 6 Nov",
-        "url": "https://www.reuters.com/business/wall-st-week-ahead-tech-swoon-roils-market-us-inflation-data-tap-2026-11-06/"
+        "title": "BLS — official November 2026 economic release schedule",
+        "url": "https://blsmon1.bls.gov/schedule/2026/11_sched_list.htm"
       },
       {
-        "title": "US Treasury — official yield curve",
+        "title": "US Treasury — official yield curve data",
         "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value=2026&type=daily_treasury_yield_curve"
       },
       {
-        "title": "Federal Reserve — meeting calendar",
+        "title": "Federal Reserve — FOMC calendars",
         "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
       }
     ],
-    "title": "Asia buys the dip, but China exposes a margin squeeze: AI faces its cost-of-capital test",
+    "title": "Oil relief fuels a broad rebound, but CPI will test AI's cost of capital",
     "summary": {
-      "changed": "New: Asian equities rebound while Chinese price data reveal a widening gap between costs and demand.",
-      "missed": "What markets may miss: producer-price inflation without consumer pricing power can squeeze margins even as revenue and backlogs grow.",
-      "watch": "Watch November 10 US CPI, CoreWeave/Applied Materials/Cisco results, Brent, Treasury yields, credit spreads and post-capex free cash flow."
+      "changed": "November 9: US stocks rebounded broadly as oil fell, while Nvidia lagged despite a semiconductor rally.",
+      "missed": "Sector momentum is not evidence of equal cash-flow quality or identical regulatory exposure.",
+      "watch": "October CPI November 10, long Treasury yields, Nvidia November 17, credit spreads and AI capital spending."
     },
     "sections": [
       {
-        "heading": "Asia rebounds after a week of heavy selling",
+        "heading": "Wall Street: a sharp reversal, not an automatic return to the highs",
         "paragraphs": [
-          "Reuters reported on November 9 that MSCI Asia ex-Japan gained roughly 2% intraday after a 4.6% weekly fall. The Nikkei added 3.5%, Korea 1.8%, and Taiwan more than 6% after its worst week in roughly two decades. S&P 500 futures gained around 0.6%. These are intraday quotes, not closing prices.",
-          "Interpretation: this is a sharp repricing of risk, not yet evidence of improved data-center operators' ROIC. A price rebound is not the same as a fundamental turnaround."
+          "On November 9 the S&P 500 closed at 7,549.94 (+2.35%), Nasdaq at 25,253.14 (+2.74%), Dow at 52,389.75 (+2.15%), and Russell 2000 at 2,840.81 (+3.1%). All 11 S&P 500 sectors gained, led by industrials and consumer discretionary. These are closing levels, not morning quotes.",
+          "AP reports year-to-date gains of 10.3% for the S&P 500, 8.7% for Nasdaq, 9.0% for Dow and 14.5% for Russell 2000. A strong daily advance does not erase the earlier correction; broader participation may signal a shift beyond mega-cap leadership."
         ]
       },
       {
-        "heading": "China: inflation reaches factories, not consumers",
+        "heading": "Semiconductors: remarkable dispersion within one sector",
         "paragraphs": [
-          "China's October PPI rose 5.7% year on year, versus 5.0% in September and a Reuters consensus of 5.3%, a 0.4 percentage-point upside surprise. CPI rose 0.7%, versus 0.9% previously and 0.8% expected; core CPI slowed to 0.8% from 1.0%. The figures were released November 9.",
-          "This is not automatically 'good inflation': expensive energy and inputs raise costs while weak domestic demand limits consumer price increases. That combination can compress margins for manufacturers and supply-chain businesses."
+          "The Philadelphia Semiconductor Index gained 6.9%; AMD surged 13.3% and Broadcom 8.8%, while Nvidia fell 4.2%. This was not an indiscriminate AI rally: company-specific risk can overwhelm sector strength.",
+          "Reuters reported questions concerning Nvidia's CEO and a possible national-security investigation; allegations must not be presented as established facts. Distinguishing governance events from chip execution and computing demand matters for valuation."
         ]
       },
       {
-        "heading": "Historical context: China's producer prices",
+        "heading": "Was the earlier selloff excessive?",
         "paragraphs": [
-          "The 5.7% PPI pace is the fastest since June 2022, Reuters reported. It does not establish a broad demand recovery: the increase partly reflects an external energy shock. CPI at 0.7% tells a much softer demand story.",
-          "For semiconductor and industrial investors, distinguish higher selling prices caused by capacity scarcity from input inflation absorbed in gross margins."
+          "Morgan Stanley and UBS argued that the market overreacted to data-center regulatory risk. According to Reuters, Morgan Stanley believes some projects could shift from 2028 to 2029 rather than be cancelled. These are analyst assessments, not company commitments.",
+          "Delays may temporarily ease electricity and equipment bottlenecks but defer suppliers' revenue and extend financing needs. The same change can help one business and hurt another."
         ]
       },
       {
-        "heading": "Oil and Hormuz: risk premium eases, not disappears",
+        "heading": "Oil and inflation: relief powering the rally",
         "paragraphs": [
-          "Brent traded near $98.20 a barrel in Reuters' morning report after Trump said fresh attacks on Iran were unlikely while peace talks advance. This is an intraday quote, not evidence of a signed agreement or fully restored shipping.",
-          "Cheaper oil may ease freight costs and inflation, but data-center economics depend on electricity tariffs, contracts, natural gas and grid access, not simply the barrel price."
+          "Reuters linked the rebound to falling oil and easing inflation concerns. AP reported Brent down 5.8% Monday; a Reuters report on India quoted Brent around $97 a barrel intraday, not as a verified closing price.",
+          "Lower oil can ease transportation costs and inflation expectations but does not directly lower every data-center electricity expense. Long-term power contracts, grid tariffs and natural gas pricing often matter more."
         ]
       },
       {
-        "heading": "Dollar, bonds and Fed: valuation headwinds persist",
+        "heading": "Rates, Treasuries and TLT: one day before CPI",
         "paragraphs": [
-          "The dollar index traded near 102.2, the euro near $1.1148 and the yen near 158.215 per dollar, Reuters reported November 9; all are intraday quotes. After the November 6 US jobs report, markets priced close to an 80% chance of a Fed hike of at least 25 basis points in December. That is market pricing, not a Fed decision.",
-          "No new official Treasury closing yield or TLT price was verified this morning. Higher long yields would lower the present value of distant cash flows and may raise financing costs for leveraged companies."
+          "Following the strong November 6 jobs report, Reuters said markets still priced more than an 80% probability of a December Fed rate hike. This is market-implied pricing, not a Fed commitment.",
+          "A fresh verified November 9 Treasury curve close or TLT close was not available for this research, so no daily move is invented. A 0.10-percentage-point rise in long yields generally weighs on long-duration bond funds, with the exact effect depending on duration and convexity."
         ]
       },
       {
-        "heading": "US CPI: an unusual gap in the year-on-year series",
+        "heading": "Capital flows: India as a test of global rotation",
         "paragraphs": [
-          "The BLS states that the October report due November 10 will omit 12-month changes for series lacking an October 2025 index because of the federal shutdown. Focus on monthly moves, component detail and the last comparable annual readings rather than inventing a new headline year-over-year rate.",
-          "September US CPI was 3.7% year on year, according to the BLS. October readings are not yet published; any estimates remain forecasts. The Fed will assess whether price pressures extend beyond energy."
+          "Reuters reported more than $4.1 billion of foreign purchases of Indian equities so far in November; the Nifty 50 closed at 25,044.65 (+0.23%), an approximately eight-month high. These are reported India flows, not evidence of similar flows into specific US stocks.",
+          "Meanwhile the US Russell 2000 gained 3.1%. Both developments are consistent with investors seeking exposure beyond mega-caps, but neither proves a structural institutional asset-allocation shift."
         ]
       },
       {
-        "heading": "Earnings week: three tests of AI economics",
+        "heading": "What the market may miss: CAPEX versus returns",
         "paragraphs": [
-          "Reuters flags upcoming results from CoreWeave, Applied Materials and Cisco this week. CoreWeave may illuminate capacity financing and customer contracts; Applied Materials, chip-equipment orders; Cisco, networking and server demand. Unverified forecasts must not be presented as results.",
-          "Each has different unit economics. Strong chip sales can coexist with weak returns on invested capital for a cloud operator financing purchases with debt."
+          "Analysts may be right that regulatory fears were excessive, but a valuation rebound cannot replace analysis of free cash flow after capital expenditures. Equipment orders, binding contracts, delivered capacity and revenue-generating capacity are distinct milestones.",
+          "MU is exposed to memory pricing, WDC to hard-disk storage, and infrastructure suppliers such as FPS to order timing and cash conversion. AMD's share-price gain does not imply identical future returns for every related company."
         ]
       },
       {
-        "heading": "Sectors and stocks: value chain versus financing chain",
+        "heading": "Today's catalyst: CPI and the counter-case",
         "paragraphs": [
-          "For MU, track DRAM/HBM pricing, gross margin and inventory; for WDC, cloud HDD orders, capacity and selling prices; for FPS, backlog, delivery schedules and cash conversion. These are monitoring variables, not claims of fresh institutional trades.",
-          "For insurers such as BHF and LNC, higher rates affect asset-liability duration matching, regulatory capital and hedging costs; the AI thesis should not be mechanically extended to every sector."
-        ]
-      },
-      {
-        "heading": "Capital flows: evidence and limits",
-        "paragraphs": [
-          "A 6%-plus rise in Taiwan's index is not proof of an equivalent net inflow to funds. Reuters described possible dip-buying, but its morning report did not establish verified fund flows or stock-specific dark-pool activity.",
-          "Do not infer institutional accumulation of MU, WDC or FPS from price action alone. Await flow data, ownership filings and relevant trading evidence."
-        ]
-      },
-      {
-        "heading": "Contrarian case: what if markets are pricing the wrong variable?",
-        "paragraphs": [
-          "Bear case: Asia's rally is only short covering; energy and funding stay expensive, CPI surprises upward, and data centers fail to earn returns above WACC. Growth multiples could compress further.",
-          "Bull case: oil declines, monthly CPI cools, AI demand remains firm, and utilization of existing infrastructure grows faster than capex. Recent selloffs could then widen the margin of safety in well-financed businesses."
-        ]
-      },
-      {
-        "heading": "Catalyst calendar: dates matter more than price targets",
-        "paragraphs": [
-          "November 10: US CPI (8:30 a.m. New York; 3:30 p.m. Israel). This week: CoreWeave, Applied Materials and Cisco earnings; verify precise timing on investor-relations pages before trading. December: the Fed decision. No verified new copper, USD/ILS or TLT closing quote is provided this morning.",
-          "The most important question now is whether businesses can pass costs through to customers, not merely report sales growth."
+          "The BLS calendar schedules October CPI for November 10 at 8:30 a.m. New York time, 3:30 p.m. Israel time; PPI is scheduled for November 13. At the time of writing CPI had not been released, so no result or surprise is claimed.",
+          "Contrarian scenarios: benign CPI may support lower yields and an extended rally; an upside surprise could revive rate fears and compress multiples. Even benign CPI could accompany weaker demand and earnings. Examine core and services components, not just the headline."
         ]
       }
     ],
     "market_map": [
-      {
-        "asset": "MSCI Asia ex-Japan",
-        "value": "+2.0%",
-        "change": "Nov 9 intraday; prior week −4.6%"
-      },
-      {
-        "asset": "Nikkei",
-        "value": "+3.5%",
-        "change": "Nov 9 intraday"
-      },
-      {
-        "asset": "Taiwan",
-        "value": ">+6%",
-        "change": "Nov 9 intraday"
-      },
-      {
-        "asset": "Brent",
-        "value": "$98.20",
-        "change": "Nov 9 intraday"
-      },
-      {
-        "asset": "DXY",
-        "value": "102.2",
-        "change": "Nov 9 intraday"
-      },
-      {
-        "asset": "China PPI Oct",
-        "value": "+5.7% YoY",
-        "change": "vs +5.0% September"
-      },
-      {
-        "asset": "China CPI Oct",
-        "value": "+0.7% YoY",
-        "change": "vs +0.9% September"
-      }
+      "US closes Nov 9: S&P 7,549.94 (+2.35%); Nasdaq 25,253.14 (+2.74%); Dow 52,389.75 (+2.15%).",
+      "SOX +6.9%; AMD +13.3%; Broadcom +8.8%; Nvidia -4.2%.",
+      "Brent -5.8% Monday per AP; ~$97 was an intraday Reuters quote, not a closing price."
     ],
     "catalysts": [
-      "Nov 10: US CPI — monthly change is critical given missing year-on-year series",
-      "This week: CoreWeave, Applied Materials and Cisco earnings",
-      "December: Fed decision; monitor yields and credit spreads"
+      "Nov 10, 8:30 ET / 15:30 Israel: October CPI",
+      "Nov 13: October PPI",
+      "Nov 17: Nvidia earnings, per Reuters"
     ],
-    "contrarian": "Dip-buying may prove temporary if expensive funding and input inflation squeeze margins; conversely cheaper oil, softer CPI and higher utilization could justify a valuation recovery.",
-    "bottom_line": "Asia's rally is no substitute for examining pricing power and free cash flow. China's PPI–CPI gap is the new warning: rising costs do not guarantee rising revenue.",
-    "disclaimer": "November 9 market quotes are intraday, not closing prices; not investment advice. Unverified flows, year-to-date returns and quotes were omitted.",
+    "contrarian": "Bull: oil relief and delayed—not cancelled—AI projects ease financing pressure. Bear: CPI surprise and rising long yields reverse multiple expansion; delays postpone supplier cash flows.",
+    "bottom_line": "Track ROIC versus WACC, free cash flow after CAPEX, binding orders and Treasury yields; do not confuse a rebound with proof of stronger fundamentals.",
+    "disclaimer": "Market data as of November 9 US close; CPI pending at preparation time. Analysis is not investment advice.",
     "visuals": {
       "cards": [
         {
-          "label": "MSCI Asia ex-Japan",
-          "value": "+2.0%",
-          "change": "−4.6% prior week",
-          "asof": "Nov 9 · intraday"
+          "label": "S&P 500",
+          "value": "7,549.94",
+          "change": "+2.35%",
+          "asof": "Nov 9, 2026 · close"
         },
         {
-          "label": "China PPI · October",
-          "value": "+5.7%",
-          "change": "+0.7 pp vs September",
-          "asof": "Nov 9 · year-on-year"
+          "label": "Nasdaq Composite",
+          "value": "25,253.14",
+          "change": "+2.74%",
+          "asof": "Nov 9, 2026 · close"
         },
         {
-          "label": "China CPI · October",
-          "value": "+0.7%",
-          "change": "−0.2 pp vs September",
-          "asof": "Nov 9 · year-on-year"
+          "label": "Dow Jones",
+          "value": "52,389.75",
+          "change": "+2.15%",
+          "asof": "Nov 9, 2026 · close"
         },
         {
-          "label": "Brent crude",
-          "value": "$98.20",
-          "asof": "Nov 9 · intraday",
-          "note": "Not a closing price"
+          "label": "Semiconductor Index",
+          "value": "+6.9%",
+          "asof": "Nov 9, 2026 · daily change",
+          "note": "SOX; not an index level"
         }
       ],
       "charts": [
         {
-          "title": "China: producer versus consumer inflation",
+          "title": "US indexes: November 9 daily return",
           "unit": "%",
-          "asof": "2026-11-09",
-          "source_url": "https://www.reuters.com/world/asia-pacific/chinas-october-producer-inflation-quickens-further-consumer-prices-edge-down-2026-11-09/",
+          "asof": "2026-11-09 close",
+          "source_url": "https://apnews.com/article/f7ec9680fc858e3c2505913e7b3a54e2",
           "items": [
             {
-              "label": "October PPI",
-              "value": 5.7,
-              "display": "+5.7%"
+              "label": "S&P 500",
+              "value": 2.35,
+              "display": "+2.35%"
             },
             {
-              "label": "October CPI",
-              "value": 0.7,
-              "display": "+0.7%"
+              "label": "Nasdaq",
+              "value": 2.74,
+              "display": "+2.74%"
             },
             {
-              "label": "Core CPI",
-              "value": 0.8,
-              "display": "+0.8%"
+              "label": "Dow",
+              "value": 2.15,
+              "display": "+2.15%"
+            },
+            {
+              "label": "Russell 2000",
+              "value": 3.1,
+              "display": "+3.1%"
             }
           ],
-          "note": "Year-on-year changes; distinct indexes, not a gross-margin spread"
+          "note": "Closing returns; not intraday quotes"
         },
         {
-          "title": "Asia: intraday rebound",
+          "title": "US indexes: year-to-date return",
           "unit": "%",
-          "asof": "2026-11-09",
-          "source_url": "https://www.reuters.com/world/asia-pacific/global-markets-global-markets-2026-11-09/",
+          "asof": "2026-11-09 close",
+          "source_url": "https://apnews.com/article/f7ec9680fc858e3c2505913e7b3a54e2",
           "items": [
             {
-              "label": "MSCI Asia ex-Japan",
-              "value": 2,
-              "display": "+2.0%"
+              "label": "S&P 500",
+              "value": 10.3,
+              "display": "+10.3%"
             },
             {
-              "label": "Nikkei",
-              "value": 3.5,
-              "display": "+3.5%"
+              "label": "Nasdaq",
+              "value": 8.7,
+              "display": "+8.7%"
             },
             {
-              "label": "Korea",
-              "value": 1.8,
-              "display": "+1.8%"
+              "label": "Dow",
+              "value": 9,
+              "display": "+9.0%"
+            },
+            {
+              "label": "Russell 2000",
+              "value": 14.5,
+              "display": "+14.5%"
             }
           ],
-          "note": "Intraday only; Taiwan excluded because the reported figure was 'more than 6%', not an exact value"
+          "note": "YTD through November 9 closing prices"
         }
       ]
     }

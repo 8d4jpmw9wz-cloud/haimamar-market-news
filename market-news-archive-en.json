@@ -1,5 +1,247 @@
 [
   {
+    "id": "2026-11-09",
+    "date": "2026-11-09",
+    "sources": [
+      {
+        "title": "Reuters — Asian markets, oil, FX and Fed pricing, 9 Nov",
+        "url": "https://www.reuters.com/world/asia-pacific/global-markets-global-markets-2026-11-09/"
+      },
+      {
+        "title": "Reuters — China October PPI/CPI, 9 Nov",
+        "url": "https://www.reuters.com/world/asia-pacific/chinas-october-producer-inflation-quickens-further-consumer-prices-edge-down-2026-11-09/"
+      },
+      {
+        "title": "BLS — 2025 shutdown impact on October 2026 CPI",
+        "url": "https://www.bls.gov/cpi/additional-resources/2025-federal-government-shutdown-impact-cpi-faq.htm"
+      },
+      {
+        "title": "BLS — September CPI and October release schedule",
+        "url": "https://www.bls.gov/news.release/CPI.htm"
+      },
+      {
+        "title": "Reuters — Wall Street week ahead, 6 Nov",
+        "url": "https://www.reuters.com/business/wall-st-week-ahead-tech-swoon-roils-market-us-inflation-data-tap-2026-11-06/"
+      },
+      {
+        "title": "US Treasury — official yield curve",
+        "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value=2026&type=daily_treasury_yield_curve"
+      },
+      {
+        "title": "Federal Reserve — meeting calendar",
+        "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+      }
+    ],
+    "title": "Asia buys the dip, but China exposes a margin squeeze: AI faces its cost-of-capital test",
+    "summary": {
+      "changed": "New: Asian equities rebound while Chinese price data reveal a widening gap between costs and demand.",
+      "missed": "What markets may miss: producer-price inflation without consumer pricing power can squeeze margins even as revenue and backlogs grow.",
+      "watch": "Watch November 10 US CPI, CoreWeave/Applied Materials/Cisco results, Brent, Treasury yields, credit spreads and post-capex free cash flow."
+    },
+    "sections": [
+      {
+        "heading": "Asia rebounds after a week of heavy selling",
+        "paragraphs": [
+          "Reuters reported on November 9 that MSCI Asia ex-Japan gained roughly 2% intraday after a 4.6% weekly fall. The Nikkei added 3.5%, Korea 1.8%, and Taiwan more than 6% after its worst week in roughly two decades. S&P 500 futures gained around 0.6%. These are intraday quotes, not closing prices.",
+          "Interpretation: this is a sharp repricing of risk, not yet evidence of improved data-center operators' ROIC. A price rebound is not the same as a fundamental turnaround."
+        ]
+      },
+      {
+        "heading": "China: inflation reaches factories, not consumers",
+        "paragraphs": [
+          "China's October PPI rose 5.7% year on year, versus 5.0% in September and a Reuters consensus of 5.3%, a 0.4 percentage-point upside surprise. CPI rose 0.7%, versus 0.9% previously and 0.8% expected; core CPI slowed to 0.8% from 1.0%. The figures were released November 9.",
+          "This is not automatically 'good inflation': expensive energy and inputs raise costs while weak domestic demand limits consumer price increases. That combination can compress margins for manufacturers and supply-chain businesses."
+        ]
+      },
+      {
+        "heading": "Historical context: China's producer prices",
+        "paragraphs": [
+          "The 5.7% PPI pace is the fastest since June 2022, Reuters reported. It does not establish a broad demand recovery: the increase partly reflects an external energy shock. CPI at 0.7% tells a much softer demand story.",
+          "For semiconductor and industrial investors, distinguish higher selling prices caused by capacity scarcity from input inflation absorbed in gross margins."
+        ]
+      },
+      {
+        "heading": "Oil and Hormuz: risk premium eases, not disappears",
+        "paragraphs": [
+          "Brent traded near $98.20 a barrel in Reuters' morning report after Trump said fresh attacks on Iran were unlikely while peace talks advance. This is an intraday quote, not evidence of a signed agreement or fully restored shipping.",
+          "Cheaper oil may ease freight costs and inflation, but data-center economics depend on electricity tariffs, contracts, natural gas and grid access, not simply the barrel price."
+        ]
+      },
+      {
+        "heading": "Dollar, bonds and Fed: valuation headwinds persist",
+        "paragraphs": [
+          "The dollar index traded near 102.2, the euro near $1.1148 and the yen near 158.215 per dollar, Reuters reported November 9; all are intraday quotes. After the November 6 US jobs report, markets priced close to an 80% chance of a Fed hike of at least 25 basis points in December. That is market pricing, not a Fed decision.",
+          "No new official Treasury closing yield or TLT price was verified this morning. Higher long yields would lower the present value of distant cash flows and may raise financing costs for leveraged companies."
+        ]
+      },
+      {
+        "heading": "US CPI: an unusual gap in the year-on-year series",
+        "paragraphs": [
+          "The BLS states that the October report due November 10 will omit 12-month changes for series lacking an October 2025 index because of the federal shutdown. Focus on monthly moves, component detail and the last comparable annual readings rather than inventing a new headline year-over-year rate.",
+          "September US CPI was 3.7% year on year, according to the BLS. October readings are not yet published; any estimates remain forecasts. The Fed will assess whether price pressures extend beyond energy."
+        ]
+      },
+      {
+        "heading": "Earnings week: three tests of AI economics",
+        "paragraphs": [
+          "Reuters flags upcoming results from CoreWeave, Applied Materials and Cisco this week. CoreWeave may illuminate capacity financing and customer contracts; Applied Materials, chip-equipment orders; Cisco, networking and server demand. Unverified forecasts must not be presented as results.",
+          "Each has different unit economics. Strong chip sales can coexist with weak returns on invested capital for a cloud operator financing purchases with debt."
+        ]
+      },
+      {
+        "heading": "Sectors and stocks: value chain versus financing chain",
+        "paragraphs": [
+          "For MU, track DRAM/HBM pricing, gross margin and inventory; for WDC, cloud HDD orders, capacity and selling prices; for FPS, backlog, delivery schedules and cash conversion. These are monitoring variables, not claims of fresh institutional trades.",
+          "For insurers such as BHF and LNC, higher rates affect asset-liability duration matching, regulatory capital and hedging costs; the AI thesis should not be mechanically extended to every sector."
+        ]
+      },
+      {
+        "heading": "Capital flows: evidence and limits",
+        "paragraphs": [
+          "A 6%-plus rise in Taiwan's index is not proof of an equivalent net inflow to funds. Reuters described possible dip-buying, but its morning report did not establish verified fund flows or stock-specific dark-pool activity.",
+          "Do not infer institutional accumulation of MU, WDC or FPS from price action alone. Await flow data, ownership filings and relevant trading evidence."
+        ]
+      },
+      {
+        "heading": "Contrarian case: what if markets are pricing the wrong variable?",
+        "paragraphs": [
+          "Bear case: Asia's rally is only short covering; energy and funding stay expensive, CPI surprises upward, and data centers fail to earn returns above WACC. Growth multiples could compress further.",
+          "Bull case: oil declines, monthly CPI cools, AI demand remains firm, and utilization of existing infrastructure grows faster than capex. Recent selloffs could then widen the margin of safety in well-financed businesses."
+        ]
+      },
+      {
+        "heading": "Catalyst calendar: dates matter more than price targets",
+        "paragraphs": [
+          "November 10: US CPI (8:30 a.m. New York; 3:30 p.m. Israel). This week: CoreWeave, Applied Materials and Cisco earnings; verify precise timing on investor-relations pages before trading. December: the Fed decision. No verified new copper, USD/ILS or TLT closing quote is provided this morning.",
+          "The most important question now is whether businesses can pass costs through to customers, not merely report sales growth."
+        ]
+      }
+    ],
+    "market_map": [
+      {
+        "asset": "MSCI Asia ex-Japan",
+        "value": "+2.0%",
+        "change": "Nov 9 intraday; prior week −4.6%"
+      },
+      {
+        "asset": "Nikkei",
+        "value": "+3.5%",
+        "change": "Nov 9 intraday"
+      },
+      {
+        "asset": "Taiwan",
+        "value": ">+6%",
+        "change": "Nov 9 intraday"
+      },
+      {
+        "asset": "Brent",
+        "value": "$98.20",
+        "change": "Nov 9 intraday"
+      },
+      {
+        "asset": "DXY",
+        "value": "102.2",
+        "change": "Nov 9 intraday"
+      },
+      {
+        "asset": "China PPI Oct",
+        "value": "+5.7% YoY",
+        "change": "vs +5.0% September"
+      },
+      {
+        "asset": "China CPI Oct",
+        "value": "+0.7% YoY",
+        "change": "vs +0.9% September"
+      }
+    ],
+    "catalysts": [
+      "Nov 10: US CPI — monthly change is critical given missing year-on-year series",
+      "This week: CoreWeave, Applied Materials and Cisco earnings",
+      "December: Fed decision; monitor yields and credit spreads"
+    ],
+    "contrarian": "Dip-buying may prove temporary if expensive funding and input inflation squeeze margins; conversely cheaper oil, softer CPI and higher utilization could justify a valuation recovery.",
+    "bottom_line": "Asia's rally is no substitute for examining pricing power and free cash flow. China's PPI–CPI gap is the new warning: rising costs do not guarantee rising revenue.",
+    "disclaimer": "November 9 market quotes are intraday, not closing prices; not investment advice. Unverified flows, year-to-date returns and quotes were omitted.",
+    "visuals": {
+      "cards": [
+        {
+          "label": "MSCI Asia ex-Japan",
+          "value": "+2.0%",
+          "change": "−4.6% prior week",
+          "asof": "Nov 9 · intraday"
+        },
+        {
+          "label": "China PPI · October",
+          "value": "+5.7%",
+          "change": "+0.7 pp vs September",
+          "asof": "Nov 9 · year-on-year"
+        },
+        {
+          "label": "China CPI · October",
+          "value": "+0.7%",
+          "change": "−0.2 pp vs September",
+          "asof": "Nov 9 · year-on-year"
+        },
+        {
+          "label": "Brent crude",
+          "value": "$98.20",
+          "asof": "Nov 9 · intraday",
+          "note": "Not a closing price"
+        }
+      ],
+      "charts": [
+        {
+          "title": "China: producer versus consumer inflation",
+          "unit": "%",
+          "asof": "2026-11-09",
+          "source_url": "https://www.reuters.com/world/asia-pacific/chinas-october-producer-inflation-quickens-further-consumer-prices-edge-down-2026-11-09/",
+          "items": [
+            {
+              "label": "October PPI",
+              "value": 5.7,
+              "display": "+5.7%"
+            },
+            {
+              "label": "October CPI",
+              "value": 0.7,
+              "display": "+0.7%"
+            },
+            {
+              "label": "Core CPI",
+              "value": 0.8,
+              "display": "+0.8%"
+            }
+          ],
+          "note": "Year-on-year changes; distinct indexes, not a gross-margin spread"
+        },
+        {
+          "title": "Asia: intraday rebound",
+          "unit": "%",
+          "asof": "2026-11-09",
+          "source_url": "https://www.reuters.com/world/asia-pacific/global-markets-global-markets-2026-11-09/",
+          "items": [
+            {
+              "label": "MSCI Asia ex-Japan",
+              "value": 2,
+              "display": "+2.0%"
+            },
+            {
+              "label": "Nikkei",
+              "value": 3.5,
+              "display": "+3.5%"
+            },
+            {
+              "label": "Korea",
+              "value": 1.8,
+              "display": "+1.8%"
+            }
+          ],
+          "note": "Intraday only; Taiwan excluded because the reported figure was 'more than 6%', not an exact value"
+        }
+      ]
+    }
+  },
+  {
     "id": "2026-11-08",
     "date": "2026-11-08",
     "sources": [
