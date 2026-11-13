@@ -1,199 +1,198 @@
 [
   {
-    "id": "2026-11-10",
-    "date": "2026-11-10",
+    "id": "2026-11-13",
+    "date": "2026-11-13",
     "sources": [
       {
-        "title": "Reuters — Wall Street November 9 closing report",
-        "url": "https://www.reuters.com/business/wall-st-futures-rise-after-rough-week-nvidia-unsettles-investors-2026-11-09/"
+        "title": "Reuters — Nvidia CEO succession, November 12",
+        "url": "https://www.reuters.com/business/retail-consumer/nvidia-ceo-jensen-huang-step-down-big-blow-ai-boom-2026-11-12/"
       },
       {
-        "title": "Reuters — analysts reassess AI selloff, November 9",
-        "url": "https://www.reuters.com/business/finance/wall-st-brokerages-say-ai-selloff-overdone-downplay-democrat-regulation-risks-2026-11-09/"
+        "title": "Reuters — Nvidia forward valuation, November 12",
+        "url": "https://www.reuters.com/business/nvidia-pe-falls-14-year-low-ceo-exit-ai-worries-cloud-bargain-2026-11-12/"
       },
       {
-        "title": "AP — November 9 index closing levels and YTD returns",
-        "url": "https://apnews.com/article/f7ec9680fc858e3c2505913e7b3a54e2"
+        "title": "AP — US index closes, November 12",
+        "url": "https://apnews.com/article/3f3668a937a11535103e3a5c8d82c9fc"
       },
       {
-        "title": "Reuters — India inflows and oil, November 9",
-        "url": "https://www.reuters.com/world/india/indian-shares-likely-open-higher-lower-crude-prices-foreign-inflow-optimism-2026-11-09/"
+        "title": "Reuters — foreign capital outflows from Asian equities, November 11",
+        "url": "https://www.reuters.com/world/china/foreign-investors-pull-out-50-billion-asian-equities-october-ai-cash-burn-woes-2026-11-11/"
       },
       {
-        "title": "BLS — official November 2026 economic release schedule",
-        "url": "https://blsmon1.bls.gov/schedule/2026/11_sched_list.htm"
+        "title": "Reuters — Nvidia board and governance, November 12",
+        "url": "https://www.reuters.com/technology/who-is-harvey-jones-nvidias-first-ever-board-chair-2026-11-12/"
       },
       {
-        "title": "US Treasury — official yield curve data",
-        "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value=2026&type=daily_treasury_yield_curve"
+        "title": "BLS — Producer Price Index official release",
+        "url": "https://www.bls.gov/news.release/ppi.htm"
       },
       {
-        "title": "Federal Reserve — FOMC calendars",
+        "title": "US Treasury — official yield curve",
+        "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2026"
+      },
+      {
+        "title": "Federal Reserve — FOMC calendar",
         "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
       }
     ],
-    "title": "Oil relief fuels a broad rebound, but CPI will test AI's cost of capital",
+    "title": "The founder exits, capital flees: AI faces its independence test",
     "summary": {
-      "changed": "November 9: US stocks rebounded broadly as oil fell, while Nvidia lagged despite a semiconductor rally.",
-      "missed": "Sector momentum is not evidence of equal cash-flow quality or identical regulatory exposure.",
-      "watch": "October CPI November 10, long Treasury yields, Nvidia November 17, credit spreads and AI capital spending."
+      "changed": "Jensen Huang left Nvidia on November 12; US indexes ended modestly lower; large Asian equity outflows were reported.",
+      "missed": "Key-person and cash-flow risk are not the same as chip demand; a low forward multiple does not establish value.",
+      "watch": "November 13 PPI, November 17 Nvidia results, financing costs, export policy and capital flows."
     },
     "sections": [
       {
-        "heading": "Wall Street: a sharp reversal, not an automatic return to the highs",
+        "heading": "Nvidia leadership shock",
         "paragraphs": [
-          "On November 9 the S&P 500 closed at 7,549.94 (+2.35%), Nasdaq at 25,253.14 (+2.74%), Dow at 52,389.75 (+2.15%), and Russell 2000 at 2,840.81 (+3.1%). All 11 S&P 500 sectors gained, led by industrials and consumer discretionary. These are closing levels, not morning quotes.",
-          "AP reports year-to-date gains of 10.3% for the S&P 500, 8.7% for Nasdaq, 9.0% for Dow and 14.5% for Russell 2000. A strong daily advance does not erase the earlier correction; broader participation may signal a shift beyond mega-cap leadership."
+          "Reuters and AP reported on November 12 that Nvidia founder and CEO Jensen Huang departed and CFO Colette Kress became interim CEO; Harvey Jones became board chair. The leadership change is confirmed, but allegations behind the controversy are not proof that company secrets were compromised.",
+          "This tests key-person risk at a platform company. Products, software, customer relationships and chip roadmaps do not disappear overnight, but capital allocation, export policy and strategic partnerships may change. Separate governance shock from evidence of cancelled orders."
         ]
       },
       {
-        "heading": "Semiconductors: remarkable dispersion within one sector",
+        "heading": "Nvidia valuation: a low multiple is not automatically a bargain",
         "paragraphs": [
-          "The Philadelphia Semiconductor Index gained 6.9%; AMD surged 13.3% and Broadcom 8.8%, while Nvidia fell 4.2%. This was not an indiscriminate AI rally: company-specific risk can overwhelm sector strength.",
-          "Reuters reported questions concerning Nvidia's CEO and a possible national-security investigation; allegations must not be presented as established facts. Distinguishing governance events from chip execution and computing demand matters for valuation."
+          "Reuters reported Nvidia's forward P/E at a roughly 14-year low, with shares down around 12% for the week as of November 12. AP reported a roughly 4.3% Thursday fall and a 30.5% decline from the October 6 peak. These are historical price observations, not earnings forecasts.",
+          "A forward multiple can fall because the share price declines or earnings estimates change. Without inspecting the EPS forecast denominator and growth assumptions, comparisons with historical valuation lows can mislead. Watch how new leadership affects pricing power and the CUDA ecosystem."
         ]
       },
       {
-        "heading": "Was the earlier selloff excessive?",
+        "heading": "Wall Street: modest index losses despite the shock",
         "paragraphs": [
-          "Morgan Stanley and UBS argued that the market overreacted to data-center regulatory risk. According to Reuters, Morgan Stanley believes some projects could shift from 2028 to 2029 rather than be cancelled. These are analyst assessments, not company commitments.",
-          "Delays may temporarily ease electricity and equipment bottlenecks but defer suppliers' revenue and extend financing needs. The same change can help one business and hurt another."
+          "At the November 12 close, the S&P 500 stood at 7,592.40 (about -0.35%), Nasdaq at 25,366.09 (about -0.39%), Dow at 52,297.09 (about -0.36%), and Russell 2000 at 2,799.06 (about -1.7%). These are closing levels, not November 13 premarket quotes.",
+          "Despite Nvidia's sharp intraday decline, broad indexes ended only modestly lower. That shows dispersion across the market, not proof that institutions bought the dip. Small caps underperformed."
         ]
       },
       {
-        "heading": "Oil and inflation: relief powering the rally",
+        "heading": "Capital flows: exceptional withdrawals from Asia",
         "paragraphs": [
-          "Reuters linked the rebound to falling oil and easing inflation concerns. AP reported Brent down 5.8% Monday; a Reuters report on India quoted Brent around $97 a barrel intraday, not as a verified closing price.",
-          "Lower oil can ease transportation costs and inflation expectations but does not directly lower every data-center electricity expense. Long-term power contracts, grid tariffs and natural gas pricing often matter more."
+          "LSEG data reported by Reuters on November 11 show $49.77 billion in net foreign equity outflows from seven Asian markets in October, including $30.68 billion from Taiwan and $14.59 billion from South Korea. Another $22.6 billion had exited in November by the report date. The periods and market coverage must not be conflated.",
+          "The flows are consistent with reduced AI supply-chain exposure, but do not establish whether proceeds moved to US Treasuries, cash or other equities. India attracted inflows in November, so this was not a uniform exit from all Asia."
         ]
       },
       {
-        "heading": "Rates, Treasuries and TLT: one day before CPI",
+        "heading": "Inflation, Treasuries and TLT",
         "paragraphs": [
-          "Following the strong November 6 jobs report, Reuters said markets still priced more than an 80% probability of a December Fed rate hike. This is market-implied pricing, not a Fed commitment.",
-          "A fresh verified November 9 Treasury curve close or TLT close was not available for this research, so no daily move is invented. A 0.10-percentage-point rise in long yields generally weighs on long-duration bond funds, with the exact effect depending on duration and convexity."
+          "The October CPI released November 10 showed monthly headline inflation of 0.4% and core of 0.3%, versus forecasts of 0.3% and 0.2%, respectively, as covered in earlier research. These are not new November 12 figures. October PPI is scheduled for November 13 and had not been released when this brief was prepared.",
+          "The valuation link is the discount rate: higher long yields can weigh on both AI multiples and TLT. No fresh official yield-curve close or TLT closing price was verified here, so none is invented. Market-implied rate expectations are not Fed decisions."
         ]
       },
       {
-        "heading": "Capital flows: India as a test of global rotation",
+        "heading": "Sectors: chips, storage, equipment and infrastructure",
         "paragraphs": [
-          "Reuters reported more than $4.1 billion of foreign purchases of Indian equities so far in November; the Nifty 50 closed at 25,044.65 (+0.23%), an approximately eight-month high. These are reported India flows, not evidence of similar flows into specific US stocks.",
-          "Meanwhile the US Russell 2000 gained 3.1%. Both developments are consistent with investors seeking exposure beyond mega-caps, but neither proves a structural institutional asset-allocation shift."
+          "Nvidia's leadership event is not identical to demand for AMD, Broadcom, MU or WDC products. MU depends on DRAM/HBM pricing; WDC on cloud hard-drive demand; infrastructure suppliers such as FPS on converting orders into deliveries and cash. New evidence does not establish an immediate order change for each business.",
+          "Separate three channels: demand for computing capacity, hyperscaler purchasing decisions, and financing cost. Each can move differently; a chip supplier's share price is not a direct measure of data-center utilization."
         ]
       },
       {
-        "heading": "What the market may miss: CAPEX versus returns",
+        "heading": "Oil, FX and commodities: evidence boundaries",
         "paragraphs": [
-          "Analysts may be right that regulatory fears were excessive, but a valuation rebound cannot replace analysis of free cash flow after capital expenditures. Equipment orders, binding contracts, delivered capacity and revenue-generating capacity are distinct milestones.",
-          "MU is exposed to memory pricing, WDC to hard-disk storage, and infrastructure suppliers such as FPS to order timing and cash conversion. AMD's share-price gain does not imply identical future returns for every related company."
+          "AP reported that oil prices rose on November 12 following remarks by the US president about an agreement with Iran. No fresh verified Brent, USD/ILS, copper or gold closing price was obtained for this brief, so precise quotes or annual returns are omitted.",
+          "Oil influences inflation expectations and energy, transport and industrial companies, but data-center electricity also depends on gas, power contracts and grid infrastructure. A daily oil move does not translate directly into data-center profitability."
         ]
       },
       {
-        "heading": "Today's catalyst: CPI and the counter-case",
+        "heading": "Contrarian case and catalyst calendar",
         "paragraphs": [
-          "The BLS calendar schedules October CPI for November 10 at 8:30 a.m. New York time, 3:30 p.m. Israel time; PPI is scheduled for November 13. At the time of writing CPI had not been released, so no result or surprise is claimed.",
-          "Contrarian scenarios: benign CPI may support lower yields and an extended rally; an upside surprise could revive rate fears and compress multiples. Even benign CPI could accompany weaker demand and earnings. Examine core and services components, not just the headline."
+          "Bear case: the founder's exit delays strategic decisions, export scrutiny tightens, PPI surprises higher and financing costs compress distant cash-flow valuations. Bull case: Nvidia's demand and ecosystem remain robust, new leadership preserves execution, and prices already discount excessive risk.",
+          "Catalysts: US PPI on November 13; Nvidia earnings scheduled for November 17 according to AP; and the December Fed decision. Track revised EPS, gross margins, customer capex, free cash flow, ROIC versus WACC and credit spreads. Neither scenario is assigned a numerical probability without a model."
         ]
       }
     ],
     "market_map": [
-      "US closes Nov 9: S&P 7,549.94 (+2.35%); Nasdaq 25,253.14 (+2.74%); Dow 52,389.75 (+2.15%).",
-      "SOX +6.9%; AMD +13.3%; Broadcom +8.8%; Nvidia -4.2%.",
-      "Brent -5.8% Monday per AP; ~$97 was an intraday Reuters quote, not a closing price."
+      "November 12 closes: S&P 7,592.40; Nasdaq 25,366.09; Dow 52,297.09; Russell 2,799.06.",
+      "Nvidia declined about 4.3% Thursday; historical close, not premarket.",
+      "October: $49.77B net outflows from seven Asian equity markets."
     ],
     "catalysts": [
-      "Nov 10, 8:30 ET / 15:30 Israel: October CPI",
-      "Nov 13: October PPI",
-      "Nov 17: Nvidia earnings, per Reuters"
+      "November 13: US PPI — not yet released at preparation",
+      "November 17: scheduled Nvidia earnings",
+      "December: Fed policy decision"
     ],
-    "contrarian": "Bull: oil relief and delayed—not cancelled—AI projects ease financing pressure. Bear: CPI surprise and rising long yields reverse multiple expansion; delays postpone supplier cash flows.",
-    "bottom_line": "Track ROIC versus WACC, free cash flow after CAPEX, binding orders and Treasury yields; do not confuse a rebound with proof of stronger fundamentals.",
-    "disclaimer": "Market data as of November 9 US close; CPI pending at preparation time. Analysis is not investment advice.",
+    "contrarian": "Bull: Nvidia's products and ecosystem withstand the leadership transition and price already reflects risk. Bear: leadership uncertainty, export scrutiny and high rates defer revenue and compress multiples.",
+    "bottom_line": "Separate chip demand, leadership quality and cost of capital; track post-capex free cash flow and ROIC versus WACC.",
+    "disclaimer": "Index data are November 12, 2026 closing levels. Flow data cover October and the Reuters reporting cutoff. Not investment advice.",
     "visuals": {
       "cards": [
         {
           "label": "S&P 500",
-          "value": "7,549.94",
-          "change": "+2.35%",
-          "asof": "Nov 9, 2026 · close"
+          "value": "7,592.40",
+          "change": "−0.35%",
+          "asof": "Nov 12, 2026 · close"
         },
         {
-          "label": "Nasdaq Composite",
-          "value": "25,253.14",
-          "change": "+2.74%",
-          "asof": "Nov 9, 2026 · close"
+          "label": "Nasdaq",
+          "value": "25,366.09",
+          "change": "−0.39%",
+          "asof": "Nov 12, 2026 · close"
         },
         {
-          "label": "Dow Jones",
-          "value": "52,389.75",
-          "change": "+2.15%",
-          "asof": "Nov 9, 2026 · close"
+          "label": "Nvidia",
+          "value": "−4.3%",
+          "asof": "Nov 12, 2026 · daily change",
+          "note": "Not share price"
         },
         {
-          "label": "Semiconductor Index",
-          "value": "+6.9%",
-          "asof": "Nov 9, 2026 · daily change",
-          "note": "SOX; not an index level"
+          "label": "Asian equity outflows",
+          "value": "$49.77B",
+          "asof": "October 2026",
+          "note": "Net across seven markets"
         }
       ],
       "charts": [
         {
-          "title": "US indexes: November 9 daily return",
+          "title": "US indexes — daily changes November 12",
           "unit": "%",
-          "asof": "2026-11-09 close",
-          "source_url": "https://apnews.com/article/f7ec9680fc858e3c2505913e7b3a54e2",
+          "asof": "2026-11-12 close",
+          "source_url": "https://apnews.com/article/3f3668a937a11535103e3a5c8d82c9fc",
           "items": [
             {
               "label": "S&P 500",
-              "value": 2.35,
-              "display": "+2.35%"
+              "value": -0.35,
+              "display": "−0.35%"
             },
             {
               "label": "Nasdaq",
-              "value": 2.74,
-              "display": "+2.74%"
+              "value": -0.39,
+              "display": "−0.39%"
             },
             {
               "label": "Dow",
-              "value": 2.15,
-              "display": "+2.15%"
+              "value": -0.36,
+              "display": "−0.36%"
             },
             {
               "label": "Russell 2000",
-              "value": 3.1,
-              "display": "+3.1%"
+              "value": -1.7,
+              "display": "−1.7%"
             }
           ],
-          "note": "Closing returns; not intraday quotes"
+          "note": "Closing levels; rounded daily percentage changes"
         },
         {
-          "title": "US indexes: year-to-date return",
-          "unit": "%",
-          "asof": "2026-11-09 close",
-          "source_url": "https://apnews.com/article/f7ec9680fc858e3c2505913e7b3a54e2",
+          "title": "Net Asian equity outflows in October",
+          "unit": "USD billions",
+          "asof": "2026-10",
+          "source_url": "https://www.reuters.com/world/china/foreign-investors-pull-out-50-billion-asian-equities-october-ai-cash-burn-woes-2026-11-11/",
           "items": [
             {
-              "label": "S&P 500",
-              "value": 10.3,
-              "display": "+10.3%"
+              "label": "Taiwan",
+              "value": 30.68,
+              "display": "$30.68B"
             },
             {
-              "label": "Nasdaq",
-              "value": 8.7,
-              "display": "+8.7%"
+              "label": "South Korea",
+              "value": 14.59,
+              "display": "$14.59B"
             },
             {
-              "label": "Dow",
-              "value": 9,
-              "display": "+9.0%"
-            },
-            {
-              "label": "Russell 2000",
-              "value": 14.5,
-              "display": "+14.5%"
+              "label": "India",
+              "value": 3.6,
+              "display": "$3.60B"
             }
           ],
-          "note": "YTD through November 9 closing prices"
+          "note": "Net outflows; selected markets, not the seven-market total"
         }
       ]
     }

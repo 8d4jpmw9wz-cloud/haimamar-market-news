@@ -1,5 +1,204 @@
 [
   {
+    "id": "2026-11-10",
+    "date": "2026-11-10",
+    "sources": [
+      {
+        "title": "Reuters — Wall Street November 9 closing report",
+        "url": "https://www.reuters.com/business/wall-st-futures-rise-after-rough-week-nvidia-unsettles-investors-2026-11-09/"
+      },
+      {
+        "title": "Reuters — analysts reassess AI selloff, November 9",
+        "url": "https://www.reuters.com/business/finance/wall-st-brokerages-say-ai-selloff-overdone-downplay-democrat-regulation-risks-2026-11-09/"
+      },
+      {
+        "title": "AP — November 9 index closing levels and YTD returns",
+        "url": "https://apnews.com/article/f7ec9680fc858e3c2505913e7b3a54e2"
+      },
+      {
+        "title": "Reuters — India inflows and oil, November 9",
+        "url": "https://www.reuters.com/world/india/indian-shares-likely-open-higher-lower-crude-prices-foreign-inflow-optimism-2026-11-09/"
+      },
+      {
+        "title": "BLS — official November 2026 economic release schedule",
+        "url": "https://blsmon1.bls.gov/schedule/2026/11_sched_list.htm"
+      },
+      {
+        "title": "US Treasury — official yield curve data",
+        "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value=2026&type=daily_treasury_yield_curve"
+      },
+      {
+        "title": "Federal Reserve — FOMC calendars",
+        "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+      }
+    ],
+    "title": "Oil relief fuels a broad rebound, but CPI will test AI's cost of capital",
+    "summary": {
+      "changed": "November 9: US stocks rebounded broadly as oil fell, while Nvidia lagged despite a semiconductor rally.",
+      "missed": "Sector momentum is not evidence of equal cash-flow quality or identical regulatory exposure.",
+      "watch": "October CPI November 10, long Treasury yields, Nvidia November 17, credit spreads and AI capital spending."
+    },
+    "sections": [
+      {
+        "heading": "Wall Street: a sharp reversal, not an automatic return to the highs",
+        "paragraphs": [
+          "On November 9 the S&P 500 closed at 7,549.94 (+2.35%), Nasdaq at 25,253.14 (+2.74%), Dow at 52,389.75 (+2.15%), and Russell 2000 at 2,840.81 (+3.1%). All 11 S&P 500 sectors gained, led by industrials and consumer discretionary. These are closing levels, not morning quotes.",
+          "AP reports year-to-date gains of 10.3% for the S&P 500, 8.7% for Nasdaq, 9.0% for Dow and 14.5% for Russell 2000. A strong daily advance does not erase the earlier correction; broader participation may signal a shift beyond mega-cap leadership."
+        ]
+      },
+      {
+        "heading": "Semiconductors: remarkable dispersion within one sector",
+        "paragraphs": [
+          "The Philadelphia Semiconductor Index gained 6.9%; AMD surged 13.3% and Broadcom 8.8%, while Nvidia fell 4.2%. This was not an indiscriminate AI rally: company-specific risk can overwhelm sector strength.",
+          "Reuters reported questions concerning Nvidia's CEO and a possible national-security investigation; allegations must not be presented as established facts. Distinguishing governance events from chip execution and computing demand matters for valuation."
+        ]
+      },
+      {
+        "heading": "Was the earlier selloff excessive?",
+        "paragraphs": [
+          "Morgan Stanley and UBS argued that the market overreacted to data-center regulatory risk. According to Reuters, Morgan Stanley believes some projects could shift from 2028 to 2029 rather than be cancelled. These are analyst assessments, not company commitments.",
+          "Delays may temporarily ease electricity and equipment bottlenecks but defer suppliers' revenue and extend financing needs. The same change can help one business and hurt another."
+        ]
+      },
+      {
+        "heading": "Oil and inflation: relief powering the rally",
+        "paragraphs": [
+          "Reuters linked the rebound to falling oil and easing inflation concerns. AP reported Brent down 5.8% Monday; a Reuters report on India quoted Brent around $97 a barrel intraday, not as a verified closing price.",
+          "Lower oil can ease transportation costs and inflation expectations but does not directly lower every data-center electricity expense. Long-term power contracts, grid tariffs and natural gas pricing often matter more."
+        ]
+      },
+      {
+        "heading": "Rates, Treasuries and TLT: one day before CPI",
+        "paragraphs": [
+          "Following the strong November 6 jobs report, Reuters said markets still priced more than an 80% probability of a December Fed rate hike. This is market-implied pricing, not a Fed commitment.",
+          "A fresh verified November 9 Treasury curve close or TLT close was not available for this research, so no daily move is invented. A 0.10-percentage-point rise in long yields generally weighs on long-duration bond funds, with the exact effect depending on duration and convexity."
+        ]
+      },
+      {
+        "heading": "Capital flows: India as a test of global rotation",
+        "paragraphs": [
+          "Reuters reported more than $4.1 billion of foreign purchases of Indian equities so far in November; the Nifty 50 closed at 25,044.65 (+0.23%), an approximately eight-month high. These are reported India flows, not evidence of similar flows into specific US stocks.",
+          "Meanwhile the US Russell 2000 gained 3.1%. Both developments are consistent with investors seeking exposure beyond mega-caps, but neither proves a structural institutional asset-allocation shift."
+        ]
+      },
+      {
+        "heading": "What the market may miss: CAPEX versus returns",
+        "paragraphs": [
+          "Analysts may be right that regulatory fears were excessive, but a valuation rebound cannot replace analysis of free cash flow after capital expenditures. Equipment orders, binding contracts, delivered capacity and revenue-generating capacity are distinct milestones.",
+          "MU is exposed to memory pricing, WDC to hard-disk storage, and infrastructure suppliers such as FPS to order timing and cash conversion. AMD's share-price gain does not imply identical future returns for every related company."
+        ]
+      },
+      {
+        "heading": "Today's catalyst: CPI and the counter-case",
+        "paragraphs": [
+          "The BLS calendar schedules October CPI for November 10 at 8:30 a.m. New York time, 3:30 p.m. Israel time; PPI is scheduled for November 13. At the time of writing CPI had not been released, so no result or surprise is claimed.",
+          "Contrarian scenarios: benign CPI may support lower yields and an extended rally; an upside surprise could revive rate fears and compress multiples. Even benign CPI could accompany weaker demand and earnings. Examine core and services components, not just the headline."
+        ]
+      }
+    ],
+    "market_map": [
+      "US closes Nov 9: S&P 7,549.94 (+2.35%); Nasdaq 25,253.14 (+2.74%); Dow 52,389.75 (+2.15%).",
+      "SOX +6.9%; AMD +13.3%; Broadcom +8.8%; Nvidia -4.2%.",
+      "Brent -5.8% Monday per AP; ~$97 was an intraday Reuters quote, not a closing price."
+    ],
+    "catalysts": [
+      "Nov 10, 8:30 ET / 15:30 Israel: October CPI",
+      "Nov 13: October PPI",
+      "Nov 17: Nvidia earnings, per Reuters"
+    ],
+    "contrarian": "Bull: oil relief and delayed—not cancelled—AI projects ease financing pressure. Bear: CPI surprise and rising long yields reverse multiple expansion; delays postpone supplier cash flows.",
+    "bottom_line": "Track ROIC versus WACC, free cash flow after CAPEX, binding orders and Treasury yields; do not confuse a rebound with proof of stronger fundamentals.",
+    "disclaimer": "Market data as of November 9 US close; CPI pending at preparation time. Analysis is not investment advice.",
+    "visuals": {
+      "cards": [
+        {
+          "label": "S&P 500",
+          "value": "7,549.94",
+          "change": "+2.35%",
+          "asof": "Nov 9, 2026 · close"
+        },
+        {
+          "label": "Nasdaq Composite",
+          "value": "25,253.14",
+          "change": "+2.74%",
+          "asof": "Nov 9, 2026 · close"
+        },
+        {
+          "label": "Dow Jones",
+          "value": "52,389.75",
+          "change": "+2.15%",
+          "asof": "Nov 9, 2026 · close"
+        },
+        {
+          "label": "Semiconductor Index",
+          "value": "+6.9%",
+          "asof": "Nov 9, 2026 · daily change",
+          "note": "SOX; not an index level"
+        }
+      ],
+      "charts": [
+        {
+          "title": "US indexes: November 9 daily return",
+          "unit": "%",
+          "asof": "2026-11-09 close",
+          "source_url": "https://apnews.com/article/f7ec9680fc858e3c2505913e7b3a54e2",
+          "items": [
+            {
+              "label": "S&P 500",
+              "value": 2.35,
+              "display": "+2.35%"
+            },
+            {
+              "label": "Nasdaq",
+              "value": 2.74,
+              "display": "+2.74%"
+            },
+            {
+              "label": "Dow",
+              "value": 2.15,
+              "display": "+2.15%"
+            },
+            {
+              "label": "Russell 2000",
+              "value": 3.1,
+              "display": "+3.1%"
+            }
+          ],
+          "note": "Closing returns; not intraday quotes"
+        },
+        {
+          "title": "US indexes: year-to-date return",
+          "unit": "%",
+          "asof": "2026-11-09 close",
+          "source_url": "https://apnews.com/article/f7ec9680fc858e3c2505913e7b3a54e2",
+          "items": [
+            {
+              "label": "S&P 500",
+              "value": 10.3,
+              "display": "+10.3%"
+            },
+            {
+              "label": "Nasdaq",
+              "value": 8.7,
+              "display": "+8.7%"
+            },
+            {
+              "label": "Dow",
+              "value": 9,
+              "display": "+9.0%"
+            },
+            {
+              "label": "Russell 2000",
+              "value": 14.5,
+              "display": "+14.5%"
+            }
+          ],
+          "note": "YTD through November 9 closing prices"
+        }
+      ]
+    }
+  },
+  {
     "id": "2026-11-09",
     "date": "2026-11-09",
     "sources": [
