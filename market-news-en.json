@@ -1,198 +1,210 @@
 [
   {
-    "id": "2026-11-13",
-    "date": "2026-11-13",
+    "id": "2026-11-16",
+    "date": "2026-11-16",
     "sources": [
       {
-        "title": "Reuters — Nvidia CEO succession, November 12",
-        "url": "https://www.reuters.com/business/retail-consumer/nvidia-ceo-jensen-huang-step-down-big-blow-ai-boom-2026-11-12/"
+        "title": "Reuters — Asia and AI repricing, November 16",
+        "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-11-16/"
       },
       {
-        "title": "Reuters — Nvidia forward valuation, November 12",
-        "url": "https://www.reuters.com/business/nvidia-pe-falls-14-year-low-ceo-exit-ai-worries-cloud-bargain-2026-11-12/"
+        "title": "Reuters — Indian capital inflows and rupee, November 16",
+        "url": "https://www.reuters.com/world/india/indian-rupee-caught-between-external-pressures-foreign-inflows-2026-11-16/"
       },
       {
-        "title": "AP — US index closes, November 12",
-        "url": "https://apnews.com/article/3f3668a937a11535103e3a5c8d82c9fc"
+        "title": "Reuters — oil supply and IEA outlook, November 16",
+        "url": "https://www.reuters.com/business/energy/oil-prices-fall-expectations-coming-supply-surplus-2026-11-16/"
       },
       {
-        "title": "Reuters — foreign capital outflows from Asian equities, November 11",
-        "url": "https://www.reuters.com/world/china/foreign-investors-pull-out-50-billion-asian-equities-october-ai-cash-burn-woes-2026-11-11/"
+        "title": "Reuters — Friday global markets, November 13",
+        "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-11-13/"
       },
       {
-        "title": "Reuters — Nvidia board and governance, November 12",
-        "url": "https://www.reuters.com/technology/who-is-harvey-jones-nvidias-first-ever-board-chair-2026-11-12/"
+        "title": "AP — verified November 13 US closes and YTD returns",
+        "url": "https://apnews.com/article/12c1e8155fb85c3c7b09e058ed6d3c74"
       },
       {
-        "title": "BLS — Producer Price Index official release",
-        "url": "https://www.bls.gov/news.release/ppi.htm"
+        "title": "BLS — official November releases",
+        "url": "https://www.bls.gov/schedule/2026/11_sched_list.htm"
       },
       {
-        "title": "US Treasury — official yield curve",
-        "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2026"
-      },
-      {
-        "title": "Federal Reserve — FOMC calendar",
-        "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+        "title": "TD Economics — US macro calendar November 16–20",
+        "url": "https://economics.td.com/domains/economics.td.com/documents/reports/bottom-line/tables/2026-11-13/upcoming.htm"
       }
     ],
-    "title": "The founder exits, capital flees: AI faces its independence test",
+    "title": "AI faces two markets: Asia sells chips, India attracts capital and oil sheds its shortage premium",
     "summary": {
-      "changed": "Jensen Huang left Nvidia on November 12; US indexes ended modestly lower; large Asian equity outflows were reported.",
-      "missed": "Key-person and cash-flow risk are not the same as chip demand; a low forward multiple does not establish value.",
-      "watch": "November 13 PPI, November 17 Nvidia results, financing costs, export policy and capital flows."
+      "changed": "Asia weakened ahead of Nvidia earnings and Anthropic's expected IPO; India saw unusually strong inflows; oil eased on a projected supply surplus.",
+      "missed": "AI financing and concentration risk is not the same as demand destruction; flows do not establish direct transfers between markets.",
+      "watch": "Nvidia on November 17, retail sales and import prices, bond yields, capital flows and AI margins."
     },
     "sections": [
       {
-        "heading": "Nvidia leadership shock",
+        "heading": "The connecting story: AI becomes a financing and concentration test",
         "paragraphs": [
-          "Reuters and AP reported on November 12 that Nvidia founder and CEO Jensen Huang departed and CFO Colette Kress became interim CEO; Harvey Jones became board chair. The leadership change is confirmed, but allegations behind the controversy are not proof that company secrets were compromised.",
-          "This tests key-person risk at a platform company. Products, software, customer relationships and chip roadmaps do not disappear overnight, but capital allocation, export policy and strategic partnerships may change. Separate governance shock from evidence of cancelled orders."
+          "On Monday, November 16, Asian markets weakened ahead of Nvidia earnings and Anthropic's expected IPO, while positive capital flows into India highlighted geographic divergence. Reuters reported sharp declines in Taiwan and South Korea. These are intraday Asian observations, not US closing prices.",
+          "The thesis: computing demand can remain strong while valuations face pressure from interest rates, concentration, governance risk and the gap between orders and cash flow. Price declines alone do not establish contract cancellations."
         ]
       },
       {
-        "heading": "Nvidia valuation: a low multiple is not automatically a bargain",
+        "heading": "US close: a weak tech Friday, a positive week",
         "paragraphs": [
-          "Reuters reported Nvidia's forward P/E at a roughly 14-year low, with shares down around 12% for the week as of November 12. AP reported a roughly 4.3% Thursday fall and a 30.5% decline from the October 6 peak. These are historical price observations, not earnings forecasts.",
-          "A forward multiple can fall because the share price declines or earnings estimates change. Without inspecting the EPS forecast denominator and growth assumptions, comparisons with historical valuation lows can mislead. Watch how new leadership affects pricing power and the CUDA ecosystem."
+          "On November 13, the S&P 500 closed at 7,561.67 (−0.40%), Nasdaq at 25,136.27 (−0.91%), Dow at 52,347.55 (+0.10%), and Russell 2000 at 2,790.49 (−0.30%). These are AP-reported closes, not Monday live quotes.",
+          "Despite Friday's weakness, weekly returns were +2.5%, +2.3%, +2.1% and +1.3%, respectively. Year to date: S&P +10.5%, Nasdaq +8.2%, Dow +8.9%, Russell +12.4%. A positive week ending with weakness signals volatility rather than an unambiguous trend."
         ]
       },
       {
-        "heading": "Wall Street: modest index losses despite the shock",
+        "heading": "Asia: semiconductor concentration is being repriced",
         "paragraphs": [
-          "At the November 12 close, the S&P 500 stood at 7,592.40 (about -0.35%), Nasdaq at 25,366.09 (about -0.39%), Dow at 52,297.09 (about -0.36%), and Russell 2000 at 2,799.06 (about -1.7%). These are closing levels, not November 13 premarket quotes.",
-          "Despite Nvidia's sharp intraday decline, broad indexes ended only modestly lower. That shows dispersion across the market, not proof that institutions bought the dip. Small caps underperformed."
+          "Reuters reported pressure on Asian technology stocks on November 16, particularly Taiwan and South Korea. A separate report cited intraday declines around 5% in Taiwan and 3.5% in Korea at publication; these must not be mistaken for closing returns.",
+          "One possible explanation is the reduction of crowded positions ahead of Nvidia and Anthropic catalysts. This is interpretation, not verified fund-level redemption data. Divergent Asian market performance suggests risk assets are not being sold uniformly."
         ]
       },
       {
-        "heading": "Capital flows: exceptional withdrawals from Asia",
+        "heading": "India: capital inflows amid chip weakness",
         "paragraphs": [
-          "LSEG data reported by Reuters on November 11 show $49.77 billion in net foreign equity outflows from seven Asian markets in October, including $30.68 billion from Taiwan and $14.59 billion from South Korea. Another $22.6 billion had exited in November by the report date. The periods and market coverage must not be conflated.",
-          "The flows are consistent with reduced AI supply-chain exposure, but do not establish whether proceeds moved to US Treasuries, cash or other equities. India attracted inflows in November, so this was not a uniform exit from all Asia."
+          "According to Reuters, foreign purchases of Indian equities reached a record roughly $10 billion so far in November at the time of reporting. The rupee appreciated about 0.1% to 94.125 per dollar; the Nifty 50 gained about 0.4% intraday.",
+          "These data do not prove money leaving Taiwan went into India. They do illustrate the distinction between sector-specific risk and overall risk appetite. For technology-concentrated portfolios, broadening market leadership is worth monitoring."
         ]
       },
       {
-        "heading": "Inflation, Treasuries and TLT",
+        "heading": "Oil: from shortage fears to expected surplus",
         "paragraphs": [
-          "The October CPI released November 10 showed monthly headline inflation of 0.4% and core of 0.3%, versus forecasts of 0.3% and 0.2%, respectively, as covered in earlier research. These are not new November 12 figures. October PPI is scheduled for November 13 and had not been released when this brief was prepared.",
-          "The valuation link is the discount rate: higher long yields can weigh on both AI multiples and TLT. No fresh official yield-curve close or TLT closing price was verified here, so none is invented. Market-implied rate expectations are not Fed decisions."
+          "Reuters quoted Brent around $95.30 a barrel (−0.6%) and WTI around $88.34 (−0.3%) on November 16, both intraday. It reported an IEA supply forecast of approximately 105 million barrels a day, around 1.7 million above demand.",
+          "This is a forecast balance shift, not proof of a sustained price decline. Recovering Middle East shipments and weaker Chinese refinery activity exert downward pressure, while freight costs and Strait of Hormuz risk support a premium. An Iranian claim that a tanker hit a mine was unverified by Reuters and is not treated as fact."
         ]
       },
       {
-        "heading": "Sectors: chips, storage, equipment and infrastructure",
+        "heading": "Rates, dollar and bonds: discount-rate pressure",
         "paragraphs": [
-          "Nvidia's leadership event is not identical to demand for AMD, Broadcom, MU or WDC products. MU depends on DRAM/HBM pricing; WDC on cloud hard-drive demand; infrastructure suppliers such as FPS on converting orders into deliveries and cash. New evidence does not establish an immediate order change for each business.",
-          "Separate three channels: demand for computing capacity, hyperscaler purchasing decisions, and financing cost. Each can move differently; a chip supplier's share price is not a direct measure of data-center utilization."
+          "Reuters described the dollar near its highest since April 2025 and elevated US Treasury yields amid inflation worries and expectations of Fed tightening. On Friday, the two-year yield recorded its biggest weekly increase in more than two years.",
+          "No fresh official TLT close or full November 16 yield curve was verified, so no daily return is fabricated. Higher long-term yields generally pressure long-duration bonds and the present value of distant cash flows, but equity effects also depend on earnings expectations."
         ]
       },
       {
-        "heading": "Oil, FX and commodities: evidence boundaries",
+        "heading": "Nvidia: the next report is about more than revenue",
         "paragraphs": [
-          "AP reported that oil prices rose on November 12 following remarks by the US president about an agreement with Iran. No fresh verified Brent, USD/ILS, copper or gold closing price was obtained for this brief, so precise quotes or annual returns are omitted.",
-          "Oil influences inflation expectations and energy, transport and industrial companies, but data-center electricity also depends on gas, power contracts and grid infrastructure. A daily oil move does not translate directly into data-center profitability."
+          "Reuters identifies Nvidia's scheduled November 17 earnings and Anthropic's expected IPO as major catalysts. Its reporting cites analysts' expectations of rapid earnings growth; forecasts are not published results.",
+          "Investors should separate data-center execution, gross margin, free cash flow, customer financing and leadership risk following Jensen Huang's departure. A revenue beat may not suffice if guidance or cash conversion deteriorates."
         ]
       },
       {
-        "heading": "Contrarian case and catalyst calendar",
+        "heading": "The supply chain: MU, WDC and FPS",
         "paragraphs": [
-          "Bear case: the founder's exit delays strategic decisions, export scrutiny tightens, PPI surprises higher and financing costs compress distant cash-flow valuations. Bull case: Nvidia's demand and ecosystem remain robust, new leadership preserves execution, and prices already discount excessive risk.",
-          "Catalysts: US PPI on November 13; Nvidia earnings scheduled for November 17 according to AP; and the December Fed decision. Track revised EPS, gross margins, customer capex, free cash flow, ROIC versus WACC and credit spreads. Neither scenario is assigned a numerical probability without a model."
+          "For memory and storage providers such as MU and WDC, and power-infrastructure suppliers such as FPS, the economic effect of AI investment depends on converting backlog to deliveries, pricing power, capital spending and margins. No fresh share prices or company releases for these names were verified in this brief.",
+          "Accordingly, no unverified price moves or guidance revisions are attributed to them. Appropriate tests include ROIC versus WACC, cash flow after CAPEX, delivery capacity and the quality of customers' commitments."
+        ]
+      },
+      {
+        "heading": "This week's catalysts: macro and cash conversion",
+        "paragraphs": [
+          "The BLS calendar schedules October import and export prices for November 17 at 8:30 a.m. Eastern. TD Economics lists Empire Manufacturing on November 16 and retail sales on November 17. These figures had not been released at preparation time.",
+          "An upside inflation or demand surprise can support revenue expectations while also raising yields. Monitor the yield curve response rather than only the headline number."
+        ]
+      },
+      {
+        "heading": "Contrarian case: is fear creating an opportunity?",
+        "paragraphs": [
+          "Bear case: high capital costs, governance uncertainty and power-grid connection delays push revenue further out while AI multiples still assume rapid growth. Strong backlogs may then fail to protect valuations.",
+          "Bull case: computing demand keeps expanding, cash flow catches up with backlog, oil softens and regulation is milder than feared. Strong-balance-sheet firms with pricing power may benefit as competitors retrench. The deciding metric is return on invested capital, not an AI headline."
         ]
       }
     ],
-    "market_map": [
-      "November 12 closes: S&P 7,592.40; Nasdaq 25,366.09; Dow 52,297.09; Russell 2,799.06.",
-      "Nvidia declined about 4.3% Thursday; historical close, not premarket.",
-      "October: $49.77B net outflows from seven Asian equity markets."
-    ],
+    "market_map": "US: November 13 closing data only; Asia, rupee and oil: November 16 intraday observations. Do not conflate them.",
     "catalysts": [
-      "November 13: US PPI — not yet released at preparation",
-      "November 17: scheduled Nvidia earnings",
-      "December: Fed policy decision"
+      "November 17: expected Nvidia earnings",
+      "November 17: US import and export prices",
+      "This week: planned Anthropic IPO, subject to change",
+      "Long yields, fund flows and CAPEX guidance"
     ],
-    "contrarian": "Bull: Nvidia's products and ecosystem withstand the leadership transition and price already reflects risk. Bear: leadership uncertainty, export scrutiny and high rates defer revenue and compress multiples.",
-    "bottom_line": "Separate chip demand, leadership quality and cost of capital; track post-capex free cash flow and ROIC versus WACC.",
-    "disclaimer": "Index data are November 12, 2026 closing levels. Flow data cover October and the Reuters reporting cutoff. Not investment advice.",
+    "contrarian": "Bull: softer oil and cash conversion offset financing costs; bear: demanding multiples, costly financing and infrastructure delays erode value.",
+    "bottom_line": "Prioritize free cash flow, ROIC versus WACC, quality of customer commitments and delivery capacity over AI headlines.",
+    "disclaimer": "Verified figures from cited sources; forecasts and interpretation are distinguished. Not investment advice.",
     "visuals": {
       "cards": [
         {
           "label": "S&P 500",
-          "value": "7,592.40",
-          "change": "−0.35%",
-          "asof": "Nov 12, 2026 · close"
+          "value": "7,561.67",
+          "change": "−0.40%",
+          "asof": "Nov 13, 2026 · close"
         },
         {
           "label": "Nasdaq",
-          "value": "25,366.09",
-          "change": "−0.39%",
-          "asof": "Nov 12, 2026 · close"
+          "value": "25,136.27",
+          "change": "−0.91%",
+          "asof": "Nov 13, 2026 · close"
         },
         {
-          "label": "Nvidia",
-          "value": "−4.3%",
-          "asof": "Nov 12, 2026 · daily change",
-          "note": "Not share price"
+          "label": "Brent",
+          "value": "$95.30",
+          "change": "−0.6%",
+          "asof": "Nov 16, 2026 · intraday"
         },
         {
-          "label": "Asian equity outflows",
-          "value": "$49.77B",
-          "asof": "October 2026",
-          "note": "Net across seven markets"
+          "label": "Foreign inflows to India",
+          "value": "~$10B",
+          "asof": "November through Nov 16",
+          "note": "Cumulative net purchases per Reuters"
         }
       ],
       "charts": [
         {
-          "title": "US indexes — daily changes November 12",
+          "title": "US index returns year to date in 2026",
           "unit": "%",
-          "asof": "2026-11-12 close",
-          "source_url": "https://apnews.com/article/3f3668a937a11535103e3a5c8d82c9fc",
+          "asof": "2026-11-13 close",
+          "source_url": "https://apnews.com/article/12c1e8155fb85c3c7b09e058ed6d3c74",
           "items": [
             {
               "label": "S&P 500",
-              "value": -0.35,
-              "display": "−0.35%"
+              "value": 10.5,
+              "display": "+10.5%"
             },
             {
               "label": "Nasdaq",
-              "value": -0.39,
-              "display": "−0.39%"
+              "value": 8.2,
+              "display": "+8.2%"
             },
             {
               "label": "Dow",
-              "value": -0.36,
-              "display": "−0.36%"
+              "value": 8.9,
+              "display": "+8.9%"
             },
             {
               "label": "Russell 2000",
-              "value": -1.7,
-              "display": "−1.7%"
+              "value": 12.4,
+              "display": "+12.4%"
             }
           ],
-          "note": "Closing levels; rounded daily percentage changes"
+          "note": "AP data; November 13 closes, not live trading"
         },
         {
-          "title": "Net Asian equity outflows in October",
-          "unit": "USD billions",
-          "asof": "2026-10",
-          "source_url": "https://www.reuters.com/world/china/foreign-investors-pull-out-50-billion-asian-equities-october-ai-cash-burn-woes-2026-11-11/",
+          "title": "US daily index moves — November 13",
+          "unit": "%",
+          "asof": "2026-11-13 close",
+          "source_url": "https://apnews.com/article/12c1e8155fb85c3c7b09e058ed6d3c74",
           "items": [
             {
-              "label": "Taiwan",
-              "value": 30.68,
-              "display": "$30.68B"
+              "label": "S&P 500",
+              "value": -0.4,
+              "display": "-0.4%"
             },
             {
-              "label": "South Korea",
-              "value": 14.59,
-              "display": "$14.59B"
+              "label": "Nasdaq",
+              "value": -0.9,
+              "display": "-0.9%"
             },
             {
-              "label": "India",
-              "value": 3.6,
-              "display": "$3.60B"
+              "label": "Dow",
+              "value": 0.1,
+              "display": "+0.1%"
+            },
+            {
+              "label": "Russell 2000",
+              "value": -0.3,
+              "display": "-0.3%"
             }
           ],
-          "note": "Net outflows; selected markets, not the seven-market total"
+          "note": "Rounded changes reported by AP"
         }
       ]
     }
