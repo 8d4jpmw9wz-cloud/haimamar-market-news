@@ -1,183 +1,174 @@
 [
   {
-    "id": "2026-11-23",
-    "date": "2026-11-23",
+    "id": "2026-11-24",
+    "date": "2026-11-24",
     "sources": [
       {
-        "title": "Associated Press — US market close, November 20",
-        "url": "https://www.washingtonpost.com/business/2026/11/20/wall-street-stocks-dow-nasdaq/b0d74256-e529-11f1-a99e-b3e3805c6b8b_story.html"
+        "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
+        "title": "Nvidia — official release"
       },
       {
-        "title": "Reuters — market participants on November 20 selloff",
-        "url": "https://www.reuters.com/business/view-nasdaq-plunges-5-day-after-anthropic-debut-investors-still-believe-ai-2026-11-20/"
+        "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-11-22/",
+        "title": "Reuters — Nov 23"
       },
       {
-        "title": "US Treasury — daily Treasury yield curve",
-        "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2026"
+        "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-11-24/",
+        "title": "Reuters — Nov 24"
       },
       {
-        "title": "Federal Reserve — monetary policy calendar",
-        "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+        "url": "https://portfolio-terminal.com/markets/stock-market-close/november-23-2026",
+        "title": "Portfolio Terminal — Nov 23"
       }
     ],
-    "title": "The AI selloff reveals a financing divide: revenue today versus returns tomorrow",
+    "title": "Huang returns, but so do rate fears: a rally that trades one risk for another",
     "summary": {
-      "changed": "Friday's broad selloff took the S&P into correction and Nasdaq down 10% on the week.",
-      "missed": "Stock-price losses do not prove canceled chip demand; financing risk and future returns differ from current supplier revenue.",
-      "watch": "Monday breadth, yields, Nvidia disclosures, hyperscaler capex and free cash flow."
+      "changed": "Huang’s return sparked a sharp US and Asian rally.",
+      "missed": "Lower leadership risk does not resolve capital costs.",
+      "watch": "PCE, yields, inquiry and CAPEX guidance."
     },
     "sections": [
       {
-        "heading": "The connecting story: markets are repricing financing quality, not just AI growth",
+        "heading": "Founder returns, investigation remains open",
         "paragraphs": [
-          "Friday, November 20 brought a severe selloff: Nasdaq lost 5.28% and the S&P 500 fell 3.70%. At 07:45 Israel time on Monday, November 23, regular US trading had not yet opened. The figures below are Friday closes, not live quotes.",
-          "The thesis: the distinction between chip vendors already booking revenue and infrastructure buyers financing capex and seeking returns over years has become critical. Falling stock prices alone do not prove collapsing end demand."
+          "Nvidia announced Huang’s unanimous reinstatement as CEO and director on November 23. Its independent inquiry continues and a chief compliance officer role is planned. This is not an exoneration or closure."
         ]
       },
       {
-        "heading": "Indexes: the selloff is sharp and broad",
+        "heading": "US indexes: recovery does not erase the drawdown",
         "paragraphs": [
-          "According to AP, November 20 closes were S&P 500 6,910.39 (−3.70%), Nasdaq 22,617.73 (−5.28%), Dow 48,147.33 (−1.93%) and Russell 2000 2,581.79 (−2.76%). Weekly changes were −8.6%, −10.0%, −8.0% and −7.5%, respectively.",
-          "Year to date, AP reports S&P +0.9%, Nasdaq −2.7%, Dow +0.2%, Russell +4.0%. The S&P is more than 10% below its October high, a correction by the usual definition. Russell's relative YTD resilience indicates dispersion but does not establish net fund inflows."
+          "November 23 closes: S&P 500 7,237.17 (+4.73%), Nasdaq Composite 24,089.56 (+6.51%), Dow 49,595.31 (+3.01%), Russell 2000 2,669.66 (+3.40%). Portfolio Terminal reports trailing-year returns of 9.60%, 8.16%, 7.24% and 12.66% respectively. The S&P remains 7.44% below its October peak."
         ]
       },
       {
-        "heading": "Semiconductors and governance: Nvidia headlines do not establish wrongdoing",
+        "heading": "Concentration: how broad was the rally?",
         "paragraphs": [
-          "Reuters reported Nvidia down roughly 14% Friday and said reports of SEC accounting scrutiny contributed to concerns. A reported investigation is not a finding of a legal violation; without an official conclusion, its outcome cannot be asserted.",
-          "Sharp declines among other chip suppliers may reflect sector-wide risk reduction. Actual order cancellations, revised profit estimates, financing costs and multiple compression are distinct mechanisms."
+          "NVDA gained 31.48%, contributing 111.1 of the S&P’s 326.78-point rise, about 34%. MU rose 19.04% while CRWD fell 8.92%. Small-cap gains show broader participation, not proven net inflows. A 10% loss requires an 11.11% gain to break even."
         ]
       },
       {
-        "heading": "Treasuries and rates: safe-haven demand versus restrictive policy expectations",
+        "heading": "Asia and ETFs",
         "paragraphs": [
-          "Reuters reported the US 10-year yield falling around 12 basis points to roughly 4.93% Friday amid safe-haven demand. This is a rounded reported figure, not a separately retrieved official Treasury observation.",
-          "Lower long yields generally support long-duration bond prices, including TLT, but no verified TLT closing quote is available here. Lower discount rates can support equity valuations without offsetting weaker future earnings."
+          "Reuters reported intraday gains of 9.1% in Taiwan and 6.5% in Korea on November 24. US-listed EWT gained nearly 18% Monday. Different trading hours prevent direct comparisons; ETF prices are not creation/redemption data."
         ]
       },
       {
-        "heading": "Sectors, funds and capital flows: what the evidence can and cannot show",
+        "heading": "Rates: the rally itself may complicate Fed policy",
         "paragraphs": [
-          "Reuters described broad reductions in AI and technology exposure, alongside some relative investor interest in cloud, cybersecurity and nontechnology businesses. These are market participants' views, not verified ETF flow measurements.",
-          "Establishing a transfer of capital from chips into bonds would require verified ETF creations/redemptions and careful separation of primary and secondary trading. Those data were not verified today, so no flow totals are asserted."
+          "Reuters reported morning two- and ten-year yields of 4.668% and 4.92%, with December tightening priced as nearly certain versus 89% Friday. These are market probabilities, not a Fed decision. Higher discount rates may offset lower risk premiums; no verified TLT close."
         ]
       },
       {
-        "heading": "Commodities and FX: do not fill missing prices",
+        "heading": "Commodities and FX",
         "paragraphs": [
-          "The equity rout coincided with reports of weakness in gold and bitcoin, but comparable official closing figures for oil, copper, gold, USD/ILS and DXY across the period were not verified here. No numerical daily or annual changes are presented for them.",
-          "Economically, cheaper oil can ease some inflation pressure, while a stronger dollar can weigh on overseas revenues of US companies. Directional reasoning is not a substitute for verified quotes."
+          "Reuters quoted Brent around $89.50 and gold at $3,657.97 on November 24 morning; Monday’s dollar index reached 104.31. Cheaper oil may ease input costs while a stronger dollar pressures translated foreign revenues. Copper and USD/ILS were not verified."
         ]
       },
       {
-        "heading": "What markets may be missing: cash-flow test, not headline test",
+        "heading": "What the market misses",
         "paragraphs": [
-          "Equipment suppliers can report strong sales while their customers are still building infrastructure whose eventual return is unproven. For MU, WDC and electrical-equipment suppliers, watch backlog conversion, pricing, margins, inventory and free cash flow after capex.",
-          "Valuation requires EPS scenarios, DCF and comparable multiples under different rate assumptions. A lower share price alone does not prove that intrinsic value has risen."
+          "Leadership continuity reduces execution risk but does not automatically change cash flows. Illustrative sensitivity: a perpetual annual cash flow of 100 is worth 1,000 at a 10% discount rate and 909 at 11%. Separate project success probabilities from capital costs. For MU, WDC and FPS, examine orders, margins and cash conversion independently."
         ]
       },
       {
-        "heading": "Catalysts for the week and the contrarian case",
+        "heading": "Catalysts and contrarian case",
         "paragraphs": [
-          "At Monday's November 23 open, monitor market breadth, Treasury yields, VIX, official Nvidia disclosures and revisions to hyperscaler capex plans. No unverified numerical macro forecasts are presented.",
-          "Bear case: expensive financing and deferred projects compress both orders and multiples. Bull case: crowded positions are being unwound, underlying demand holds and cash generation validates expectations. The decisive test is ROIC versus WACC, not the size of a one-day decline."
+          "Reuters identifies Wednesday November 25 PCE as a catalyst; no numerical consensus was verified. Bull case: continuity supports deliveries and cash conversion. Bear case: inquiries, export controls and high rates remain, and the rally may mainly reflect short covering, a hypothesis not verified by positioning data."
         ]
       }
     ],
-    "market_map": "US indexes: verified November 20 closes only; no November 23 US cash-market session yet. Treasury yield is a rounded Reuters report.",
+    "market_map": "US November 23 closes; Asia and commodities November 24 morning quotes.",
     "catalysts": [
-      "November 23: US cash-market open and breadth",
-      "Official Nvidia disclosures and any verified regulatory updates",
-      "Hyperscaler capex outlooks, long yields and credit spreads"
+      "Nov 25: expected PCE",
+      "Inquiry and compliance updates"
     ],
-    "contrarian": "Bull: position unwinding overshoots fundamentals; bear: financing costs and weaker capex damage earnings and valuations.",
-    "bottom_line": "Track post-capex cash flow and ROIC versus WACC; distinguish chip demand from the economics of financing data centers.",
-    "disclaimer": "Verified market figures refer to November 20 closes, not live November 23 quotes. Reported SEC scrutiny does not imply guilt. Not investment advice.",
+    "contrarian": "Bull: continuity and cash flow; bear: rates and open inquiry.",
+    "bottom_line": "Distinguish risk-premium changes from cash-flow changes.",
+    "disclaimer": "Cited data; net flows and consensus forecast not verified. No investment recommendation.",
     "visuals": {
       "cards": [
         {
           "label": "S&P 500",
-          "value": "6,910.39",
-          "change": "−3.70%",
-          "asof": "Nov 20 close"
+          "value": "7,237.17",
+          "change": "+4.73%",
+          "asof": "Nov 23, 2026 · close"
         },
         {
-          "label": "Nasdaq",
-          "value": "22,617.73",
-          "change": "−5.28%",
-          "asof": "Nov 20 close"
+          "label": "Nasdaq Composite",
+          "value": "24,089.56",
+          "change": "+6.51%",
+          "asof": "Nov 23, 2026 · close"
         },
         {
-          "label": "Dow",
-          "value": "48,147.33",
-          "change": "−1.93%",
-          "asof": "Nov 20 close"
+          "label": "Dow Jones",
+          "value": "49,595.31",
+          "change": "+3.01%",
+          "asof": "Nov 23, 2026 · close"
         },
         {
           "label": "Russell 2000",
-          "value": "2,581.79",
-          "change": "−2.76%",
-          "asof": "Nov 20 close"
+          "value": "2,669.66",
+          "change": "+3.40%",
+          "asof": "Nov 23, 2026 · close"
         }
       ],
       "charts": [
         {
-          "title": "US indexes — November 20 daily change",
+          "title": "Daily index moves",
           "unit": "%",
-          "asof": "2026-11-20 close",
-          "source_url": "https://www.washingtonpost.com/business/2026/11/20/wall-street-stocks-dow-nasdaq/b0d74256-e529-11f1-a99e-b3e3805c6b8b_story.html",
+          "asof": "Nov 23, 2026 · close",
+          "source_url": "https://portfolio-terminal.com/markets/stock-market-close/november-23-2026",
           "items": [
             {
               "label": "S&P 500",
-              "value": -3.7,
-              "display": "−3.70%"
+              "value": 4.73,
+              "display": "+4.73%"
             },
             {
-              "label": "Nasdaq",
-              "value": -5.28,
-              "display": "−5.28%"
+              "label": "Nasdaq Composite",
+              "value": 6.51,
+              "display": "+6.51%"
             },
             {
-              "label": "Dow",
-              "value": -1.93,
-              "display": "−1.93%"
+              "label": "Dow Jones",
+              "value": 3.01,
+              "display": "+3.01%"
             },
             {
               "label": "Russell 2000",
-              "value": -2.76,
-              "display": "−2.76%"
+              "value": 3.4,
+              "display": "+3.40%"
             }
           ],
-          "note": "Verified US cash-market closes, not November 23 quotes"
+          "note": "Closing data, not live quotes."
         },
         {
-          "title": "US indexes — 2026 year to date",
+          "title": "Trailing 12-month return",
           "unit": "%",
-          "asof": "2026-11-20 close",
-          "source_url": "https://www.washingtonpost.com/business/2026/11/20/wall-street-stocks-dow-nasdaq/b0d74256-e529-11f1-a99e-b3e3805c6b8b_story.html",
+          "asof": "Nov 23, 2026 · close",
+          "source_url": "https://portfolio-terminal.com/markets/stock-market-close/november-23-2026",
           "items": [
             {
               "label": "S&P 500",
-              "value": 0.9,
-              "display": "+0.9%"
+              "value": 9.6,
+              "display": "+9.60%"
             },
             {
-              "label": "Nasdaq",
-              "value": -2.7,
-              "display": "−2.7%"
+              "label": "Nasdaq Composite",
+              "value": 8.16,
+              "display": "+8.16%"
             },
             {
-              "label": "Dow",
-              "value": 0.2,
-              "display": "+0.2%"
+              "label": "Dow Jones",
+              "value": 7.24,
+              "display": "+7.24%"
             },
             {
               "label": "Russell 2000",
-              "value": 4,
-              "display": "+4.0%"
+              "value": 12.66,
+              "display": "+12.66%"
             }
           ],
-          "note": "AP year-to-date changes at Friday close"
+          "note": "Closing data, not live quotes."
         }
       ]
     }
