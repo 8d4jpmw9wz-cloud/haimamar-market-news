@@ -1,5 +1,179 @@
 [
   {
+    "id": "2026-11-24",
+    "date": "2026-11-24",
+    "sources": [
+      {
+        "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
+        "title": "Nvidia — official release"
+      },
+      {
+        "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-11-22/",
+        "title": "Reuters — Nov 23"
+      },
+      {
+        "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-11-24/",
+        "title": "Reuters — Nov 24"
+      },
+      {
+        "url": "https://portfolio-terminal.com/markets/stock-market-close/november-23-2026",
+        "title": "Portfolio Terminal — Nov 23"
+      }
+    ],
+    "title": "Huang returns, but so do rate fears: a rally that trades one risk for another",
+    "summary": {
+      "changed": "Huang’s return sparked a sharp US and Asian rally.",
+      "missed": "Lower leadership risk does not resolve capital costs.",
+      "watch": "PCE, yields, inquiry and CAPEX guidance."
+    },
+    "sections": [
+      {
+        "heading": "Founder returns, investigation remains open",
+        "paragraphs": [
+          "Nvidia announced Huang’s unanimous reinstatement as CEO and director on November 23. Its independent inquiry continues and a chief compliance officer role is planned. This is not an exoneration or closure."
+        ]
+      },
+      {
+        "heading": "US indexes: recovery does not erase the drawdown",
+        "paragraphs": [
+          "November 23 closes: S&P 500 7,237.17 (+4.73%), Nasdaq Composite 24,089.56 (+6.51%), Dow 49,595.31 (+3.01%), Russell 2000 2,669.66 (+3.40%). Portfolio Terminal reports trailing-year returns of 9.60%, 8.16%, 7.24% and 12.66% respectively. The S&P remains 7.44% below its October peak."
+        ]
+      },
+      {
+        "heading": "Concentration: how broad was the rally?",
+        "paragraphs": [
+          "NVDA gained 31.48%, contributing 111.1 of the S&P’s 326.78-point rise, about 34%. MU rose 19.04% while CRWD fell 8.92%. Small-cap gains show broader participation, not proven net inflows. A 10% loss requires an 11.11% gain to break even."
+        ]
+      },
+      {
+        "heading": "Asia and ETFs",
+        "paragraphs": [
+          "Reuters reported intraday gains of 9.1% in Taiwan and 6.5% in Korea on November 24. US-listed EWT gained nearly 18% Monday. Different trading hours prevent direct comparisons; ETF prices are not creation/redemption data."
+        ]
+      },
+      {
+        "heading": "Rates: the rally itself may complicate Fed policy",
+        "paragraphs": [
+          "Reuters reported morning two- and ten-year yields of 4.668% and 4.92%, with December tightening priced as nearly certain versus 89% Friday. These are market probabilities, not a Fed decision. Higher discount rates may offset lower risk premiums; no verified TLT close."
+        ]
+      },
+      {
+        "heading": "Commodities and FX",
+        "paragraphs": [
+          "Reuters quoted Brent around $89.50 and gold at $3,657.97 on November 24 morning; Monday’s dollar index reached 104.31. Cheaper oil may ease input costs while a stronger dollar pressures translated foreign revenues. Copper and USD/ILS were not verified."
+        ]
+      },
+      {
+        "heading": "What the market misses",
+        "paragraphs": [
+          "Leadership continuity reduces execution risk but does not automatically change cash flows. Illustrative sensitivity: a perpetual annual cash flow of 100 is worth 1,000 at a 10% discount rate and 909 at 11%. Separate project success probabilities from capital costs. For MU, WDC and FPS, examine orders, margins and cash conversion independently."
+        ]
+      },
+      {
+        "heading": "Catalysts and contrarian case",
+        "paragraphs": [
+          "Reuters identifies Wednesday November 25 PCE as a catalyst; no numerical consensus was verified. Bull case: continuity supports deliveries and cash conversion. Bear case: inquiries, export controls and high rates remain, and the rally may mainly reflect short covering, a hypothesis not verified by positioning data."
+        ]
+      }
+    ],
+    "market_map": "US November 23 closes; Asia and commodities November 24 morning quotes.",
+    "catalysts": [
+      "Nov 25: expected PCE",
+      "Inquiry and compliance updates"
+    ],
+    "contrarian": "Bull: continuity and cash flow; bear: rates and open inquiry.",
+    "bottom_line": "Distinguish risk-premium changes from cash-flow changes.",
+    "disclaimer": "Cited data; net flows and consensus forecast not verified. No investment recommendation.",
+    "visuals": {
+      "cards": [
+        {
+          "label": "S&P 500",
+          "value": "7,237.17",
+          "change": "+4.73%",
+          "asof": "Nov 23, 2026 · close"
+        },
+        {
+          "label": "Nasdaq Composite",
+          "value": "24,089.56",
+          "change": "+6.51%",
+          "asof": "Nov 23, 2026 · close"
+        },
+        {
+          "label": "Dow Jones",
+          "value": "49,595.31",
+          "change": "+3.01%",
+          "asof": "Nov 23, 2026 · close"
+        },
+        {
+          "label": "Russell 2000",
+          "value": "2,669.66",
+          "change": "+3.40%",
+          "asof": "Nov 23, 2026 · close"
+        }
+      ],
+      "charts": [
+        {
+          "title": "Daily index moves",
+          "unit": "%",
+          "asof": "Nov 23, 2026 · close",
+          "source_url": "https://portfolio-terminal.com/markets/stock-market-close/november-23-2026",
+          "items": [
+            {
+              "label": "S&P 500",
+              "value": 4.73,
+              "display": "+4.73%"
+            },
+            {
+              "label": "Nasdaq Composite",
+              "value": 6.51,
+              "display": "+6.51%"
+            },
+            {
+              "label": "Dow Jones",
+              "value": 3.01,
+              "display": "+3.01%"
+            },
+            {
+              "label": "Russell 2000",
+              "value": 3.4,
+              "display": "+3.40%"
+            }
+          ],
+          "note": "Closing data, not live quotes."
+        },
+        {
+          "title": "Trailing 12-month return",
+          "unit": "%",
+          "asof": "Nov 23, 2026 · close",
+          "source_url": "https://portfolio-terminal.com/markets/stock-market-close/november-23-2026",
+          "items": [
+            {
+              "label": "S&P 500",
+              "value": 9.6,
+              "display": "+9.60%"
+            },
+            {
+              "label": "Nasdaq Composite",
+              "value": 8.16,
+              "display": "+8.16%"
+            },
+            {
+              "label": "Dow Jones",
+              "value": 7.24,
+              "display": "+7.24%"
+            },
+            {
+              "label": "Russell 2000",
+              "value": 12.66,
+              "display": "+12.66%"
+            }
+          ],
+          "note": "Closing data, not live quotes."
+        }
+      ]
+    }
+  },
+  {
     "id": "2026-11-23",
     "date": "2026-11-23",
     "sources": [

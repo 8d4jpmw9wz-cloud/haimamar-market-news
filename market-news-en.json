@@ -1,174 +1,164 @@
 [
   {
-    "id": "2026-11-24",
-    "date": "2026-11-24",
+    "id": "2026-11-28",
+    "date": "2026-11-28",
     "sources": [
       {
-        "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
-        "title": "Nvidia — official release"
+        "url": "https://portfolio-terminal.com/markets/stock-market-close/november-27-2026",
+        "title": "Portfolio Terminal"
       },
       {
-        "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-11-22/",
-        "title": "Reuters — Nov 23"
+        "url": "https://www.reuters.com/business/wall-st-futures-surge-investors-return-holiday-2026-11-27/",
+        "title": "Reuters — equities"
       },
       {
-        "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-11-24/",
-        "title": "Reuters — Nov 24"
+        "url": "https://www.bea.gov/news/2026/gdp-second-estimate-and-corporate-profits-3rd-quarter-2026",
+        "title": "BEA — GDP"
       },
       {
-        "url": "https://portfolio-terminal.com/markets/stock-market-close/november-23-2026",
-        "title": "Portfolio Terminal — Nov 23"
+        "url": "https://www.ici.org/research/stats/combined_flows",
+        "title": "ICI — fund flows"
+      },
+      {
+        "url": "https://www.ici.org/research/stats/mmf",
+        "title": "ICI — money market funds"
+      },
+      {
+        "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2026",
+        "title": "US Treasury"
+      },
+      {
+        "url": "https://www.reuters.com/business/energy/brent-trades-near-months-high-mideast-conflict-threatens-supply-2026-11-27/",
+        "title": "Reuters — oil"
       }
     ],
-    "title": "Huang returns, but so do rate fears: a rally that trades one risk for another",
+    "title": "The rally broadens, but capital is still expensive",
     "summary": {
-      "changed": "Huang’s return sparked a sharp US and Asian rally.",
-      "missed": "Lower leadership risk does not resolve capital costs.",
-      "watch": "PCE, yields, inquiry and CAPEX guidance."
+      "changed": "Broad Black Friday recovery, with chips outperforming Nvidia.",
+      "missed": "Fund issuance and price gains measure different things.",
+      "watch": "Oil supply, yields and normal-volume trading."
     },
     "sections": [
       {
-        "heading": "Founder returns, investigation remains open",
+        "heading": "Broad rebound, not a return to the peak",
         "paragraphs": [
-          "Nvidia announced Huang’s unanimous reinstatement as CEO and director on November 23. Its independent inquiry continues and a chief compliance officer role is planned. This is not an exoneration or closure."
+          "At the November 27 close, Portfolio Terminal and Reuters show a post-Thanksgiving rebound. S&P 500: 7,297.49 (+1.60% daily, +5.60% weekly, +7.12% trailing year); Nasdaq Composite: 24,129.50 (+2.31% daily, +6.68% weekly, +3.94% trailing year); Dow Jones: 50,774.94 (+1.18% daily, +5.46% weekly, +7.06% trailing year); Russell 2000: 2,750.30 (+1.71% daily, +6.53% weekly, +10.63% trailing year). The S&P remains 6.67% below its October 6 peak. Reuters calls this its strongest week since April 2025. The shortened session limits conclusions about persistence."
         ]
       },
       {
-        "heading": "US indexes: recovery does not erase the drawdown",
+        "heading": "Chips rise without Nvidia leadership",
         "paragraphs": [
-          "November 23 closes: S&P 500 7,237.17 (+4.73%), Nasdaq Composite 24,089.56 (+6.51%), Dow 49,595.31 (+3.01%), Russell 2000 2,669.66 (+3.40%). Portfolio Terminal reports trailing-year returns of 9.60%, 8.16%, 7.24% and 12.66% respectively. The S&P remains 7.44% below its October peak."
+          "Reuters reports Micron up 7.6%, Marvell 7.3% and Sandisk nearly 16%, against only 0.8% for Nvidia. Portfolio Terminal reports consumer discretionary up 1.99%, technology 1.86% and health care 0.17%. Interpretation: the rebound is not dependent on one stock, but does not establish improved orders or cash flow."
         ]
       },
       {
-        "heading": "Concentration: how broad was the rally?",
+        "heading": "Macro and bonds do not confirm the rally",
         "paragraphs": [
-          "NVDA gained 31.48%, contributing 111.1 of the S&P’s 326.78-point rise, about 34%. MU rose 19.04% while CRWD fell 8.92%. Small-cap gains show broader participation, not proven net inflows. A 10% loss requires an 11.11% gain to break even."
+          "BEA's November 25 second estimate puts Q3 annualized real GDP growth at 4.3%, versus 3.4% initially and 2.2% in Q2. This is a revision surprise, not a consensus comparison. The US Treasury reports a 4.94% ten-year yield on November 27. Reuters notes expectations of a December rate increase. Growth supports earnings, but a high discount rate can constrain multiples."
         ]
       },
       {
-        "heading": "Asia and ETFs",
+        "heading": "Flows: ETFs versus mutual funds",
         "paragraphs": [
-          "Reuters reported intraday gains of 9.1% in Taiwan and 6.5% in Korea on November 24. US-listed EWT gained nearly 18% Monday. Different trading hours prevent direct comparisons; ETF prices are not creation/redemption data."
+          "ICI's November 25 estimates for the week ended November 18 show $76.73 billion ETF net issuance against $29.01 billion long-term mutual fund outflows, a combined $47.72 billion inflow. Money market assets reached $7.98 trillion on November 24. These aggregates cover different periods and do not establish that this money funded Friday's rally."
         ]
       },
       {
-        "heading": "Rates: the rally itself may complicate Fed policy",
+        "heading": "Oil, dollar and commodity funds",
         "paragraphs": [
-          "Reuters reported morning two- and ten-year yields of 4.668% and 4.92%, with December tightening priced as nearly certain versus 89% Friday. These are market probabilities, not a Fed decision. Higher discount rates may offset lower risk premiums; no verified TLT close."
-        ]
-      },
-      {
-        "heading": "Commodities and FX",
-        "paragraphs": [
-          "Reuters quoted Brent around $89.50 and gold at $3,657.97 on November 24 morning; Monday’s dollar index reached 104.31. Cheaper oil may ease input costs while a stronger dollar pressures translated foreign revenues. Copper and USD/ILS were not verified."
-        ]
-      },
-      {
-        "heading": "What the market misses",
-        "paragraphs": [
-          "Leadership continuity reduces execution risk but does not automatically change cash flows. Illustrative sensitivity: a perpetual annual cash flow of 100 is worth 1,000 at a 10% discount rate and 909 at 11%. Separate project success probabilities from capital costs. For MU, WDC and FPS, examine orders, margins and cash conversion independently."
-        ]
-      },
-      {
-        "heading": "Catalysts and contrarian case",
-        "paragraphs": [
-          "Reuters identifies Wednesday November 25 PCE as a catalyst; no numerical consensus was verified. Bull case: continuity supports deliveries and cash conversion. Bear case: inquiries, export controls and high rates remain, and the rally may mainly reflect short covering, a hypothesis not verified by positioning data."
+          "Reuters: Brent settled at $95.44 a barrel (down 1.2% daily, up about 3% weekly); WTI at $83.08 (down 0.7% daily). Portfolio Terminal: DXY 104.02 (+0.34%), GLD $334.40 (+2.12%), USO $137.50 (−1.71%), IBIT $33.86 (−0.62%). Fund prices are not spot prices or flows. Oil supply risk could complicate disinflation."
         ]
       }
     ],
-    "market_map": "US November 23 closes; Asia and commodities November 24 morning quotes.",
+    "market_map": "Friday November 27 closes; no live Saturday US quotes.",
     "catalysts": [
-      "Nov 25: expected PCE",
-      "Inquiry and compliance updates"
+      "November 29: expected OPEC+ meeting (Reuters)",
+      "November 30: normal trading resumes",
+      "December 23: next GDP estimate (BEA)"
     ],
-    "contrarian": "Bull: continuity and cash flow; bear: rates and open inquiry.",
-    "bottom_line": "Distinguish risk-premium changes from cash-flow changes.",
-    "disclaimer": "Cited data; net flows and consensus forecast not verified. No investment recommendation.",
+    "contrarian": "Bull case: earnings and broad participation justify recovery. Bear case: holiday liquidity and short covering exaggerate gains while financing costs remain high. No verified positioning data establish short covering.",
+    "bottom_line": "Watch cash flow and capital costs rather than extrapolating a single session.",
+    "disclaimer": "No verified current consensus, individual fund flows or company-order changes; no investment recommendation.",
     "visuals": {
       "cards": [
         {
           "label": "S&P 500",
-          "value": "7,237.17",
-          "change": "+4.73%",
-          "asof": "Nov 23, 2026 · close"
+          "value": "7,297.49",
+          "change": "+1.60%",
+          "asof": "Nov 27, 2026 · close"
         },
         {
           "label": "Nasdaq Composite",
-          "value": "24,089.56",
-          "change": "+6.51%",
-          "asof": "Nov 23, 2026 · close"
+          "value": "24,129.50",
+          "change": "+2.31%",
+          "asof": "Nov 27, 2026 · close"
         },
         {
           "label": "Dow Jones",
-          "value": "49,595.31",
-          "change": "+3.01%",
-          "asof": "Nov 23, 2026 · close"
+          "value": "50,774.94",
+          "change": "+1.18%",
+          "asof": "Nov 27, 2026 · close"
         },
         {
           "label": "Russell 2000",
-          "value": "2,669.66",
-          "change": "+3.40%",
-          "asof": "Nov 23, 2026 · close"
+          "value": "2,750.30",
+          "change": "+1.71%",
+          "asof": "Nov 27, 2026 · close"
         }
       ],
       "charts": [
         {
-          "title": "Daily index moves",
+          "title": "Weekly index returns",
           "unit": "%",
-          "asof": "Nov 23, 2026 · close",
-          "source_url": "https://portfolio-terminal.com/markets/stock-market-close/november-23-2026",
+          "asof": "Nov 27, 2026 · close",
+          "source_url": "https://portfolio-terminal.com/markets/stock-market-close/november-27-2026",
           "items": [
             {
               "label": "S&P 500",
-              "value": 4.73,
-              "display": "+4.73%"
+              "value": 5.6,
+              "display": "+5.60%"
             },
             {
               "label": "Nasdaq Composite",
-              "value": 6.51,
-              "display": "+6.51%"
+              "value": 6.68,
+              "display": "+6.68%"
             },
             {
               "label": "Dow Jones",
-              "value": 3.01,
-              "display": "+3.01%"
+              "value": 5.46,
+              "display": "+5.46%"
             },
             {
               "label": "Russell 2000",
-              "value": 3.4,
-              "display": "+3.40%"
+              "value": 6.53,
+              "display": "+6.53%"
             }
           ],
-          "note": "Closing data, not live quotes."
+          "note": "Price returns, previous Friday to Friday."
         },
         {
-          "title": "Trailing 12-month return",
-          "unit": "%",
-          "asof": "Nov 23, 2026 · close",
-          "source_url": "https://portfolio-terminal.com/markets/stock-market-close/november-23-2026",
+          "title": "Estimated fund flows, week ended Nov 18",
+          "unit": "USD billions",
+          "asof": "Published Nov 25",
+          "source_url": "https://www.ici.org/research/stats/combined_flows",
           "items": [
             {
-              "label": "S&P 500",
-              "value": 9.6,
-              "display": "+9.60%"
+              "label": "ETF",
+              "value": 76.73,
+              "display": "+76.73"
             },
             {
-              "label": "Nasdaq Composite",
-              "value": 8.16,
-              "display": "+8.16%"
+              "label": "Mutual funds",
+              "value": -29.01,
+              "display": "−29.01"
             },
             {
-              "label": "Dow Jones",
-              "value": 7.24,
-              "display": "+7.24%"
-            },
-            {
-              "label": "Russell 2000",
-              "value": 12.66,
-              "display": "+12.66%"
+              "label": "Combined",
+              "value": 47.72,
+              "display": "+47.72"
             }
           ],
-          "note": "Closing data, not live quotes."
+          "note": "ICI estimates, not Friday flows."
         }
       ]
     }
